@@ -1,0 +1,2 @@
+etri#doc_8244.txt 3 따르다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8244.txt 11 강조하다 ----- 4:3-ARG0(AGT) 10:6-ARG1(THM) 11:0-rel

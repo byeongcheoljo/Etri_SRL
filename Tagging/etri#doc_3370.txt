@@ -1,0 +1,6 @@
+etri#doc_3370.txt 3 목격하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3370.txt 7 알려지다 ----- 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3370.txt 9 실리다 ----- 5:5-ARG1(THM) 8:3-ARGM-LOC(GOL) 9:0-rel
+etri#doc_3370.txt 12 다루다 ----- 12:0-rel
+etri#doc_3370.txt 15 판단하다 ----- 10:1-ARG0(MAG) 11:1-ARG1(THM) 14:3-ARGM-DIS() 15:0-rel
+etri#doc_3370.txt 16 생각하다 ----- 9:4-ARGM-DIS() 15:4-ARG1() 16:0-rel

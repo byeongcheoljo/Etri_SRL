@@ -1,0 +1,3 @@
+etri#doc_5108.txt 5 주도되다 ----- 2:2-ARG1(THM) 4:2-ARG0(EFF) 5:0-rel
+etri#doc_5108.txt 9 연결되다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5108.txt 11 되다 ----- 5:3-ARGM-DIS() 7:2-ARG1(THM) 9:2-ARGM-DIS() 10:1-ARGM-TMP() 11:0-rel

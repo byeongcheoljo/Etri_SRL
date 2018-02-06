@@ -1,0 +1,1 @@
+etri#doc_7994.txt 18 실현하다 ----- 6:4-ARGM-DIS() 7:1-ARG0(AGT) 12:5-ARGM-DIS() 15:2-ARGM-MNR(INS) 16:1-ARGM-MNR(INS) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7664.txt 6 측정하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7664.txt 8 측정하다 ----- 4:4-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7664.txt 11 하다 ----- 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_7664.txt 13 결정하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_7664.txt 16 결정하다 ----- 8:2-ARGM-DIS() 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

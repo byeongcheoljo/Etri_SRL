@@ -1,0 +1,4 @@
+etri#doc_3688.txt 6 기록하다 ----- 2:2-ARGM-TMP() 3:1-ARGM-CAU(EFF) 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3688.txt 8 확산되다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3688.txt 13 나서다 ----- 9:1-ARG0(AGT) 11:2-ARGM-ADV(CNT) 12:1-ARG1(LOC) 13:0-rel
+etri#doc_3688.txt 17 오르다 ----- 6:2-ARGM-DIS() 8:2-ARGM-CAU() 13:2-ARGM-CAU() 14:1-ARG1(THM) 16:2-ARGM-EXT(FNS) 17:0-rel

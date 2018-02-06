@@ -1,0 +1,4 @@
+etri#doc_5592.txt 7 모르다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_5592.txt 8 밝히다 ----- 7:3-ARG1(CNT) 8:0-rel
+etri#doc_5592.txt 13 과소평가하다 ----- 9:1-ARGM-TMP(LOC) 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5592.txt 14 지적하다 ----- 2:2-ARG0(AGT) 8:4-ARGM-DIS() 13:3-ARG1() 14:0-rel

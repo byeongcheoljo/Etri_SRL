@@ -1,0 +1,3 @@
+etri#doc_1905.txt 6 되다 ----- 2:1-ARG1(THM) 4:2-ARG2(GOL) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_1905.txt 12 받다 ----- 7:3-ARGM-DIS() 8:1-ARG0(GOL) 9:1-ARG2(AGT) 10:1-ARGM-MNR() 11:1-ARG1() 12:0-rel
+etri#doc_1905.txt 16 축소되다 ----- 1:1-ARGM-DIS() 12:2-ARGM-CND() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

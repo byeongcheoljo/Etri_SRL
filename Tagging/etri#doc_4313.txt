@@ -1,0 +1,4 @@
+etri#doc_4313.txt 4 일컫다 ----- 3:1-ARG2(CNT) 4:0-rel
+etri#doc_4313.txt 9 접근하다 ----- 7:3-ARG2(GOL) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_4313.txt 14 경험하다 ----- 12:2-ARG2(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4313.txt 16 빠지다 ----- 1:1-ARGM-DIS(FNS) 2:1-ARG1(THM) 9:2-ARGM-DIS() 15:3-ARG2(GOL) 16:0-rel

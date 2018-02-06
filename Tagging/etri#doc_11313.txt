@@ -1,0 +1,3 @@
+etri#doc_11313.txt 10 허용하다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP(SRC) 7:2-ARG2(GOL) 9:2-ARG1(THM) 10:0-rel
+etri#doc_11313.txt 14 개방하다 ----- 10:3-ARGM-DIS() 11:1-ARGM-TMP(LOC) 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11313.txt 16 알리다 ----- 14:2-ARG0() 15:1-ARGM-TMP() 16:0-rel

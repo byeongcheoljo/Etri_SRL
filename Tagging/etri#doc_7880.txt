@@ -1,0 +1,1 @@
+etri#doc_7880.txt 11 °®´Ù ----- 2:2-ARG0(AGT) 7:5-ARG2(COM) 9:2-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel

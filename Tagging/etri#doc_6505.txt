@@ -1,0 +1,5 @@
+etri#doc_6505.txt 8 대립하다 ----- 6:3-ARGM-LOC(LOC) 7:1-ARGM-MNR(COM) 8:0-rel
+etri#doc_6505.txt 13 자처하다 ----- 8:2-ARGM-DIS() 12:2-ARG2(INS) 13:0-rel
+etri#doc_6505.txt 15 포괄하다 ----- 14:1-ARG2(THM) 15:0-rel
+etri#doc_6505.txt 19 자처하다 ----- 18:3-ARG2(INS) 19:0-rel
+etri#doc_6505.txt 20 출현하다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 13:3-ARGM-DIS() 19:4-ARGM-DIS() 20:0-rel

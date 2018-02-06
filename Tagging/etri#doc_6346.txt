@@ -1,0 +1,3 @@
+etri#doc_6346.txt 8 타다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6346.txt 9 항해하다 ----- 6:3-ARGM-LOC(LOC) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_6346.txt 20 실감하다 ----- 2:2-ARG0(EXP) 12:6-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARGM-MNR() 20:0-rel

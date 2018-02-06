@@ -1,0 +1,5 @@
+etri#doc_7159.txt 5 되다 ----- 4:3-ARG2(FNS) 5:0-rel
+etri#doc_7159.txt 11 살다 ----- 11:0-rel
+etri#doc_7159.txt 17 놓치다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_7159.txt 18 않다 ----- 17:4-ARGM-DIS() 18:0-rel
+etri#doc_7159.txt 20 되다 ----- 5:4-ARGM-DIS() 10:3-ARGM-DIS() 19:6-ARG1(FNS) 20:0-rel

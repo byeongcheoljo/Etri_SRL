@@ -1,0 +1,5 @@
+etri#doc_6663.txt 5 버리다 ----- 3:2-ARG1() 4:1-ARGM-EXT() 5:0-rel
+etri#doc_6663.txt 7 숨다 ----- 5:2-ARGM-DIS() 6:1-ARG2(GOL) 7:0-rel
+etri#doc_6663.txt 13 떠오르다 ----- 11:1-ARGM-TMP() 12:1-ARG2(GOL) 13:0-rel
+etri#doc_6663.txt 15 부딪치다 ----- 14:3-ARGM-LOC(GOL) 15:0-rel
+etri#doc_6663.txt 18 반사되다 ----- 8:3-ARGM-EXT(CRT) 10:2-ARG1(THM) 15:4-ARGM-MNR() 17:2-ARGM-LOC(GOL) 18:0-rel

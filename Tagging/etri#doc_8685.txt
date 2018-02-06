@@ -1,0 +1,5 @@
+etri#doc_8685.txt 3 ¸ôµÎÇÏ´Ù ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_8685.txt 9 Å¿ÇÏ´Ù ----- 5:4-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_8685.txt 10 Å¿ÇÏ´Ù ----- 10:0-rel
+etri#doc_8685.txt 13 ¸ôµÎÇÏ´Ù ----- 11:2-ARG0(MAG) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_8685.txt 15 µÇ´Ù ----- 9:3-ARGM-CND() 14:3-ARG2(FNS) 15:0-rel

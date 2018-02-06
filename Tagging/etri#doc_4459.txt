@@ -1,0 +1,3 @@
+etri#doc_4459.txt 5 두리번거리다 ----- 1:1-ARG0(AGT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4459.txt 7 서성이다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4459.txt 17 말하다 ----- 5:3-ARGM-TMP() 14:2-ARG0(AGT) 15:1-ARGM-DIR(DIR) 16:1-ARGM-INS(INS) 17:0-rel

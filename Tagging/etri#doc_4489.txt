@@ -1,0 +1,4 @@
+etri#doc_4489.txt 5 느끼다 ----- 1:1-ARG0(EXP) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4489.txt 7 가리다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4489.txt 11 얻다 ----- 8:3-ARGM-DIS() 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_4489.txt 15 하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel

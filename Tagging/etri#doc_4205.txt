@@ -1,0 +1,4 @@
+etri#doc_4205.txt 8 안내하다 ----- 3:1-ARG1(THM) 4:1-ARG2(SRC) 6:2-ARGM-INS(INS) 7:1-ARG3(GOL) 8:0-rel
+etri#doc_4205.txt 13 넘기다 ----- 8:2-ARGM-DIS() 9:1-ARGM-TMP() 12:3-ARG1(THM) 13:0-rel
+etri#doc_4205.txt 16 내쉬다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_4205.txt 18 보이다 ----- 2:2-ARG0(AGT) 13:4-ARGM-TMP() 17:4-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8031.txt 6 하다 ----- 5:2-ARG1(CNT) 6:0-rel
+etri#doc_8031.txt 8 일치되다 ----- 1:1-ARGM-DIS() 7:4-ARGM-MNR(COM) 8:0-rel
+etri#doc_8031.txt 15 이해하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_8031.txt 17 않다 ----- 8:5-ARGM-DIS() 13:3-ARGM-CAU() 15:2-ARGM-DIS() 16:1-() 17:0-rel

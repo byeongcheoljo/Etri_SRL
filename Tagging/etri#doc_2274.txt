@@ -1,0 +1,5 @@
+etri#doc_2274.txt 2 잡다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2274.txt 4 가까워지다 ----- 3:3-() 4:0-rel
+etri#doc_2274.txt 8 버리다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_2274.txt 13 받아들이다 ----- 10:2-ARG1(THM) 12:2-ARG3(EFF) 13:0-rel
+etri#doc_2274.txt 14 채택하다 ----- 8:3-ARGM-DIS() 13:3-ARGM-DIS() 14:0-rel

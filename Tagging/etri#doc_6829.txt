@@ -1,0 +1,2 @@
+etri#doc_6829.txt 7 합치다 ----- 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_6829.txt 10 기억하다 ----- 2:2-ARGM-CAU(EFF) 4:2-ARGM-PRP() 7:2-ARGM-DIS() 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel

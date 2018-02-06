@@ -1,0 +1,4 @@
+etri#doc_5921.txt 3 야기되다 ----- 2:1-ARGM-CAU(EFF) 3:0-rel
+etri#doc_5921.txt 5 풀다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_5921.txt 9 다루다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5921.txt 13 맞다 ----- 1:1-ARGM-DIS() 6:5-ARGM-MNR(INS) 10:4-ARGM-LOC() 12:2-ARG1(THM) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1562.txt 2 보다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1562.txt 8 이루다 ----- 3:1-ARG0(AGT) 5:2-ARG2(FNS) 6:1-ARG0(THM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1562.txt 11 나타나다 ----- 8:2-ARGM-DIR() 9:1-ARG0(THM) 10:1-ARGM-ADV(EFF) 11:0-rel
+etri#doc_1562.txt 13 받다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_1562.txt 16 나타나다 ----- 2:2-ARGM-CND() 11:2-ARGM-DIS() 14:3-ARG0(AGT) 15:1-ARGM-ADV(EFF) 16:0-rel

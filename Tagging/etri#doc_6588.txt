@@ -1,0 +1,4 @@
+etri#doc_6588.txt 7 가지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6588.txt 9 개발되다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_6588.txt 11 도입되다 ----- 11:0-rel
+etri#doc_6588.txt 13 사용되다 ----- 9:5-ARGM-DIS() 10:1-ARGM-MNR() 12:2-ARGM-DIS() 13:0-rel

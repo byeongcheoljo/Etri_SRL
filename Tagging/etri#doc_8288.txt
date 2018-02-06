@@ -1,0 +1,4 @@
+etri#doc_8288.txt 3 나가다 ----- 1:1-ARG3(GOL) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8288.txt 8 즐기다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8288.txt 16 보내다 ----- 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_8288.txt 19 권하다 ----- 18:4-ARG1() 19:0-rel

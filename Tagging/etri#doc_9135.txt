@@ -1,0 +1,4 @@
+etri#doc_9135.txt 6 °¡´Ù ----- 5:4-ARGM-LOC(LOC) 6:0-rel
+etri#doc_9135.txt 9 µè´Ù ----- 6:5-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_9135.txt 12 ¿­ÁßÇÏ´Ù ----- 11:2-ARG2(THM) 12:0-rel
+etri#doc_9135.txt 16 µè´Ù ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 12:3-ARGM-CND() 15:3-ARG1(THM) 16:0-rel

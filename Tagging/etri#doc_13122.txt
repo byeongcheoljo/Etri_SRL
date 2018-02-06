@@ -1,0 +1,4 @@
+etri#doc_13122.txt 4 하다 ----- 2:1-ARG1(THM) 3:1-ARGM-INS(INS) 4:0-rel
+etri#doc_13122.txt 6 구축하다 ----- 1:1-ARG0(AGT) 5:3-ARG1(THM) 6:0-rel
+etri#doc_13122.txt 14 통합하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_13122.txt 16 도입하다 ----- 6:4-ARGM-DIS() 9:3-ARGM-CND(EFF) 15:4-ARG1(THM) 16:0-rel

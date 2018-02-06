@@ -1,0 +1,6 @@
+etri#doc_1565.txt 2 잇다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_1565.txt 4 만들다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_1565.txt 7 먹다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_1565.txt 10 열리다 ----- 2:2-ARGM-DIS() 9:4-ARG0(THM) 10:0-rel
+etri#doc_1565.txt 12 구경하다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_1565.txt 14 참여하다 ----- 10:5-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:0-rel

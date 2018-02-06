@@ -1,0 +1,4 @@
+etri#doc_3000.txt 6 되다 ----- 2:2-ARG1(THM) 5:3-ARG1(THM) 6:0-rel
+etri#doc_3000.txt 11 받아들이다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_3000.txt 14 선호하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_3000.txt 18 받다 ----- 12:3-ARG2(AGT) 14:2-ARGM-CAU() 15:1-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

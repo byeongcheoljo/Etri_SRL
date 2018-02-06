@@ -1,0 +1,2 @@
+etri#doc_2202.txt 4 연발하다 ----- 2:1-() 3:1-() 4:0-rel
+etri#doc_2202.txt 16 완화하다 ----- 1:1-ARG0(AGT) 11:2-ARGM-TMP() 12:1-ARGM-PRD(EFF) 15:2-ARG1(THM) 16:0-rel

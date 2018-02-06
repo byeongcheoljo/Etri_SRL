@@ -1,0 +1,4 @@
+etri#doc_6483.txt 6 인정하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6483.txt 9 원하다 ----- 7:1-ARG0(MAG) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_6483.txt 13 존재하다 ----- 11:1-ARG2(LOC) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_6483.txt 16 부정하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 6:3-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

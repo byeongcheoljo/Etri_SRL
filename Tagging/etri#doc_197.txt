@@ -1,0 +1,4 @@
+etri#doc_197.txt 5 제작되다 ----- 2:1-ARG1(THM) 4:2-ARGM-EXT() 5:0-rel
+etri#doc_197.txt 10 보다 ----- 9:2-ARGM-CAU() 10:0-rel
+etri#doc_197.txt 17 지니다 ----- 12:2-ARG0(LOC) 13:1-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:0-rel
+etri#doc_197.txt 18 예측하다 ----- 10:3-ARGM-MNR() 17:4-ARGM-CND() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11403.txt 8 ±ÔÁ¤ÇÏ´Ù ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_11403.txt 13 ²Þ²Ù´Ù ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_11403.txt 15 °¡Áö´Ù ----- 5:2-ARG0(LOC) 14:4-ARG1(THM) 15:0-rel
+etri#doc_11403.txt 16 ±ú´Ý´Ù ----- 15:5-ARG2() 16:0-rel

@@ -1,0 +1,1 @@
+etri#doc_1584.txt 14 의존하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARG0(THM) 13:2-ARG1(GOL) 14:0-rel

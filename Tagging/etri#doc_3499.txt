@@ -1,0 +1,2 @@
+etri#doc_3499.txt 7 보다 ----- 6:2-ARGM-LOC(LOC) 7:0-rel
+etri#doc_3499.txt 15 정체시키다 ----- 7:3-ARGM-DIS() 12:2-ARG0(EFF) 14:2-ARG1(THM) 15:0-rel

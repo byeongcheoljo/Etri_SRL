@@ -1,0 +1,2 @@
+etri#doc_1578.txt 5 처형되다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 4:2-ARG2(FNS) 5:0-rel
+etri#doc_1578.txt 5 처형되다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 4:2-ARG2(FNS) 5:0-rel

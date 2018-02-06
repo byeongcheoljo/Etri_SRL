@@ -1,0 +1,4 @@
+etri#doc_8462.txt 5 부과하다 ----- 3:1-ARGM-MNR(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_8462.txt 11 제외하다 ----- 10:1-ARG2(SRC) 11:0-rel
+etri#doc_8462.txt 13 납부하다 ----- 7:2-ARG0(AGT) 9:2-ARGM-CND() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8462.txt 14 명시하다 ----- 1:1-ARGM-DIS(CNT) 2:1-ARG0(AGT) 13:2-ARG1() 14:0-rel

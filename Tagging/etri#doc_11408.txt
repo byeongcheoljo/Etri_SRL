@@ -1,0 +1,4 @@
+etri#doc_11408.txt 3 구성되다 ----- 2:1-ARGM-ADV(EFF) 3:0-rel
+etri#doc_11408.txt 5 등한시하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_11408.txt 9 지적되다 ----- 6:5-ARG1(THM) 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_11408.txt 16 달리하다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 11:2-ARG1(AGT) 15:2-ARG2(COM) 16:0-rel

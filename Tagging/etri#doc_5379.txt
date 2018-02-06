@@ -1,0 +1,4 @@
+etri#doc_5379.txt 8 이끌다 ----- 3:2-ARGM-TMP() 4:1-ARG0(AGT) 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_5379.txt 10 밝히다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_5379.txt 13 통하다 ----- 12:2-ARG3(DIR) 13:0-rel
+etri#doc_5379.txt 17 받다 ----- 10:4-ARGM-DIS() 15:2-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_681.txt 4 발표하다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 4:0-rel
+etri#doc_681.txt 14 변환시키다 ----- 10:3-ARG1(THM) 12:2-ARGM-INS(INS) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_681.txt 18 하다 ----- 16:4-ARG1(THM) 17:1-ARG2(FNS) 18:0-rel
+etri#doc_681.txt 21 받다 ----- 6:2-ARG0(AGT) 18:2-ARGM-CAU() 20:2-ARG1(THM) 21:0-rel

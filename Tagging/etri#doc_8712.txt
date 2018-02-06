@@ -1,0 +1,5 @@
+etri#doc_8712.txt 2 나서다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_8712.txt 5 지니다 ----- 3:3-ARG0(AGT) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_8712.txt 8 떨어지다 ----- 7:1-ARG1() 8:0-rel
+etri#doc_8712.txt 11 얹히다 ----- 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8712.txt 17 기어들다 ----- 15:1-ARGM-TMP(LOC) 16:1-ARGM-LOC(GOL) 17:0-rel

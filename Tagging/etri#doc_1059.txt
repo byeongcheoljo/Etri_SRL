@@ -1,0 +1,3 @@
+etri#doc_1059.txt 6 일어나다 ----- 5:2-ARGM-TMP(LOC) 6:0-rel
+etri#doc_1059.txt 14 향하다 ----- 11:1-ARGM-LOC() 13:2-ARG2(DIR) 14:0-rel
+etri#doc_1059.txt 18 줄어들다 ----- 2:2-ARG2(FNS) 3:1-ARG1() 10:3-ARGM-MNR() 15:4-ARG1(THM) 17:2-ARGM-CAU(GOL) 18:0-rel

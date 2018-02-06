@@ -1,0 +1,2 @@
+etri#doc_476.txt 4 예속되다 ----- 2:1-ARGM-TMP() 3:1-ARG2(GOL) 4:0-rel
+etri#doc_476.txt 9 되돌리다 ----- 5:3-ARG1(THM) 8:2-ARG2(FNS) 9:0-rel

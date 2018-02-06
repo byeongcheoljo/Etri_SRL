@@ -1,0 +1,4 @@
+etri#doc_11694.txt 5 바라보다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11694.txt 7 생각하다 ----- 2:2-ARG0(MAG) 5:3-ARG1() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11694.txt 12 끼이다 ----- 11:2-ARGM-LOC(LOC) 12:0-rel
+etri#doc_11694.txt 16 생각하다 ----- 7:2-ARG1() 14:5-ARG1() 15:1-ARG0(MAG) 16:0-rel

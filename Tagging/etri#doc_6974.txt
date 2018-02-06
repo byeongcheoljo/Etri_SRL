@@ -1,0 +1,2 @@
+etri#doc_6974.txt 6 의존하다 ----- 2:2-ARG2(THM) 4:2-ARG1(GOL) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6974.txt 11 의존하다 ----- 6:2-ARGM-EXT() 8:2-ARG0(THM) 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel

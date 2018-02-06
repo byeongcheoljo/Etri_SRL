@@ -1,0 +1,4 @@
+etri#doc_11136.txt 3 체험하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11136.txt 9 끝나다 ----- 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11136.txt 15 후회하다 ----- 13:2-ARGM-LOC(LOC) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_11136.txt 19 하다 ----- 5:5-ARGM-CND() 11:2-ARGM-CAU() 15:2-ARGM-DIS() 16:1-ARG1(THM) 18:2-ARGM-MNR() 19:0-rel

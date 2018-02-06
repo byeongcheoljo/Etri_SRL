@@ -1,0 +1,4 @@
+etri#doc_8007.txt 13 사랑하다 ----- 13:0-rel
+etri#doc_8007.txt 15 안되다 ----- 13:1-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_8007.txt 19 되다 ----- 17:4-ARGM-DIS() 18:1-ARG2(FNS) 19:0-rel
+etri#doc_8007.txt 21 웃기다 ----- 12:3-ARGM-DIS() 19:2-ARGM-DIS() 20:1-ARGM-EXT() 21:0-rel

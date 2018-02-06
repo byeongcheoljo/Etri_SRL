@@ -1,0 +1,3 @@
+etri#doc_2824.txt 6 갖다 ----- 3:2-ARGM-TMP() 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_2824.txt 13 꾀하다 ----- 11:3-ARGM-INS(INS) 12:1-ARG1(THM) 13:0-rel
+etri#doc_2824.txt 15 모으다 ----- 1:1-ARG0(AGT) 6:2-ARGM-DIS() 13:2-ARG1() 14:1-ARG1(THM) 15:0-rel

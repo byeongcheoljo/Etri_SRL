@@ -1,0 +1,3 @@
+etri#doc_8311.txt 11 되다 ----- 5:5-ARG1(THM) 7:2-ARGM-DIS() 8:1-ARGM-MNR(INS) 10:2-ARG2(FNS) 11:0-rel
+etri#doc_8311.txt 13 대처하다 ----- 12:1-ARGM-MNR() 13:0-rel
+etri#doc_8311.txt 14 되다 ----- 11:3-ARGM-DIS() 13:2-ARGM-MNR() 14:0-rel

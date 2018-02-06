@@ -1,0 +1,1 @@
+etri#doc_7731.txt 16 ³²´Ù ----- 11:2-ARG0(AGT) 12:1-ARGM-TMP() 13:1-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel

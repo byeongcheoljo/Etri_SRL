@@ -1,0 +1,6 @@
+etri#doc_5021.txt 3 보다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5021.txt 5 걸다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5021.txt 8 걸다 ----- 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_5021.txt 10 갖다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5021.txt 13 주다 ----- 11:1-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5021.txt 16 걸다 ----- 5:2-ARGM-EXT() 8:2-ARGM-DIS() 10:2-ARGM-DIS() 14:3-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

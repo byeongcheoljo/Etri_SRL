@@ -1,0 +1,5 @@
+etri#doc_5818.txt 1 사라지다 ----- 1:0-rel
+etri#doc_5818.txt 4 이르다 ----- 3:1-ARG3(FNS) 4:0-rel
+etri#doc_5818.txt 7 엮다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR(COM) 7:0-rel
+etri#doc_5818.txt 10 시도하다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5818.txt 13 나오다 ----- 12:2-ARG0(THM) 13:0-rel

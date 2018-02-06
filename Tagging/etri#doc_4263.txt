@@ -1,0 +1,5 @@
+etri#doc_4263.txt 5 부인하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4263.txt 8 빠지다 ----- 5:3-ARGM-CND() 6:1-ARGM-MNR(INS) 7:1-ARG2(GOL) 8:0-rel
+etri#doc_4263.txt 13 지지되다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_4263.txt 15 제시하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_4263.txt 18 증명하다 ----- 15:4-ARGM-PRD(EFF) 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6453.txt 10 타다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6453.txt 11 날아다니다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_6453.txt 13 꾸다 ----- 8:2-ARGM-DIS() 12:4-ARG1(THM) 13:0-rel
+etri#doc_6453.txt 17 생각하다 ----- 13:5-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARG1(CNT) 17:0-rel
+etri#doc_6453.txt 20 이해하다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_6453.txt 22 믿다 ----- 5:2-ARG0(MAG) 17:2-ARGM-DIS() 20:3-ARG1() 21:1-ARGM-MNR() 22:0-rel

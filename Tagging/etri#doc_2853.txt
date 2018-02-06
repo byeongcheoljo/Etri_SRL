@@ -1,0 +1,1 @@
+etri#doc_2853.txt 11 °¡Áö´Ù ----- 1:1-ARG0(LOC) 6:2-ARGM-TMP(LOC) 7:1-ARG0() 10:2-ARG1(THM) 11:0-rel

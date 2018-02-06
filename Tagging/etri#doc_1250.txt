@@ -1,0 +1,2 @@
+etri#doc_1250.txt 6 이기다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARGM-DIS() 6:0-rel
+etri#doc_1250.txt 11 기대다 ----- 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

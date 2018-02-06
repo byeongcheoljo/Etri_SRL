@@ -1,0 +1,7 @@
+etri#doc_11758.txt 1 태어나다 ----- 1:0-rel
+etri#doc_11758.txt 5 맞서다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11758.txt 6 모순되다 ----- 6:0-rel
+etri#doc_11758.txt 8 직면하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(THM) 7:2-ARG1(LOC) 8:0-rel
+etri#doc_11758.txt 12 얻다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_11758.txt 15 극복하다 ----- 12:4-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_11758.txt 17 유지하다 ----- 8:3-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

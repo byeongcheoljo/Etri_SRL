@@ -1,0 +1,4 @@
+etri#doc_316.txt 3 예기하다 ----- 2:1-ARGM-EXT() 3:0-rel
+etri#doc_316.txt 5 예기하다 ----- 5:0-rel
+etri#doc_316.txt 7 생기다 ----- 6:2-ARG2(LOC) 7:0-rel
+etri#doc_316.txt 17 일깨우다 ----- 1:1-ARGM-DIS() 11:2-ARG0(EFF) 13:2-ARGM-EXT(EFF) 14:1-ARGM-EXT() 15:1-ARG1(GOL) 16:1-ARG2(THM) 17:0-rel

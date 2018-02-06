@@ -1,0 +1,3 @@
+etri#doc_6582.txt 5 이탈하다 ----- 4:2-ARG1(SRC) 5:0-rel
+etri#doc_6582.txt 8 생성되다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6582.txt 18 주어지다 ----- 9:4-ARG1(THM) 16:4-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

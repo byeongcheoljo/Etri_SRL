@@ -1,0 +1,3 @@
+etri#doc_7625.txt 5 꼬다 ----- 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_7625.txt 6 짜다 ----- 2:2-ARG1(THM) 5:3-ARGM-MNR() 6:0-rel
+etri#doc_7625.txt 21 좋아하다 ----- 10:2-ARG1(THM) 13:3-ARGM-DIS() 14:1-ARGM-TMP(LOC) 19:2-ARGM-MNR(INS) 20:1-ARGM-EXT() 21:0-rel

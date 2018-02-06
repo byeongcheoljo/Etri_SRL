@@ -1,0 +1,5 @@
+etri#doc_7588.txt 1 춤추다 ----- 1:0-rel
+etri#doc_7588.txt 2 노동하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_7588.txt 6 솟아나다 ----- 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_7588.txt 10 비추다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7588.txt 14 빛나다 ----- 7:4-ARG1(THM) 12:2-ARGM-EXT(CRT) 13:1-ARGM-MNR() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1646.txt 10 터지다 ----- 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_1646.txt 13 나아가다 ----- 12:1-ARGM-DIS(DIR) 13:0-rel

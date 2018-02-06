@@ -1,0 +1,4 @@
+etri#doc_2834.txt 3 ÆÈ´Ù ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1() 3:0-rel
+etri#doc_2834.txt 7 ÆÈ´Ù ----- 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_2834.txt 14 ²¨³»´Ù ----- 9:1-ARGM-DIS() 11:2-ARGM-CND() 13:2-ARG1(THM) 14:0-rel
+etri#doc_2834.txt 17 µ¡¼ÀÇÏ´Ù ----- 4:3-ARG0(AGT) 8:3-ARG0(COM) 14:3-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

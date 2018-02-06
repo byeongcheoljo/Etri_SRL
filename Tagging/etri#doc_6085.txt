@@ -1,0 +1,6 @@
+etri#doc_6085.txt 3 불타다 ----- 3:0-rel
+etri#doc_6085.txt 5 올려놓다 ----- 4:2-ARG2(LOC) 5:0-rel
+etri#doc_6085.txt 8 던지다 ----- 2:1-ARG1(THM) 5:3-ARGM-DIS() 7:2-ARG2(GOL) 8:0-rel
+etri#doc_6085.txt 12 하다 ----- 1:1-ARG0(AGT) 8:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_6085.txt 16 이겨내다 ----- 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_6085.txt 18 물리치다 ----- 12:3-ARGM-DIS() 13:1-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

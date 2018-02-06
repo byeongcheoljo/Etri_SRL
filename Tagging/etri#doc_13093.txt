@@ -1,0 +1,6 @@
+etri#doc_13093.txt 7 가지다 ----- 1:1-ARG0(LOC) 6:5-ARG1(THM) 7:0-rel
+etri#doc_13093.txt 8 따르다 ----- 7:6-ARG1() 8:0-rel
+etri#doc_13093.txt 13 끼치다 ----- 8:7-ARGM-CAU() 9:1-ARG0(AGT) 11:2-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_13093.txt 16 침묵하다 ----- 15:1-ARGM-DIS() 16:0-rel
+etri#doc_13093.txt 19 대하다 ----- 18:4-ARG2() 19:0-rel
+etri#doc_13093.txt 21 결정되다 ----- 13:2-ARGM-DIS() 14:1-ARGM-CND() 20:6-ARG1(THM) 21:0-rel

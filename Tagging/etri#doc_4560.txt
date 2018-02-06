@@ -1,0 +1,6 @@
+etri#doc_4560.txt 5 태어나다 ----- 3:2-ARG1(THM) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4560.txt 8 생겨나다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:1-ARG2(SRC) 8:0-rel
+etri#doc_4560.txt 12 자라다 ----- 11:1-ARG0(THM) 12:0-rel
+etri#doc_4560.txt 13 늙다 ----- 13:0-rel
+etri#doc_4560.txt 15 뒤엉키다 ----- 14:2-ARGM-MNR(COM) 15:0-rel
+etri#doc_4560.txt 18 낳다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG0(AGT) 15:3-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

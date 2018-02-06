@@ -1,0 +1,2 @@
+etri#doc_670.txt 7 제시되다 ----- 2:1-ARG1(THM) 3:1-ARGM-LOC(LOC) 6:2-ARGM-LOC(SRC) 7:0-rel
+etri#doc_670.txt 17 되다 ----- 1:1-ARGM-DIS() 7:3-ARGM-CND() 12:2-ARG1(THM) 15:3-ARGM-LOC(LOC) 16:1-ARGM-INS(INS) 17:0-rel

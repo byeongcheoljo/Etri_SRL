@@ -1,0 +1,5 @@
+etri#doc_4960.txt 3 덮치다 ----- 3:0-rel
+etri#doc_4960.txt 7 피하다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_4960.txt 10 양단하다 ----- 2:1-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4960.txt 13 어찌하다 ----- 13:0-rel
+etri#doc_4960.txt 15 모르다 ----- 1:1-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG0(EXP) 12:1-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel

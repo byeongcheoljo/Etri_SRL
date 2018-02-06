@@ -1,0 +1,6 @@
+etri#doc_5893.txt 6 축출하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5893.txt 8 소집하다 ----- 4:1-ARGM-CAU(EFF) 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_5893.txt 10 모면하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5893.txt 12 올리다 ----- 3:2-ARGM-TMP(LOC) 8:2-ARGM-DIS() 10:2-ARGM-PRP() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5893.txt 14 가까워지다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5893.txt 18 고치다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-TMP() 16:1-ARG1(THM) 17:1-ARGM-MNR(INS) 18:0-rel

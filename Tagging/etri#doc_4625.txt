@@ -1,0 +1,4 @@
+etri#doc_4625.txt 6 세분화되다 ----- 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_4625.txt 8 분류하다 ----- 2:1-ARGM-TMP() 3:1-ARG0(AGT) 4:1-ARG1(THM) 7:3-ARG2(FNS) 8:0-rel
+etri#doc_4625.txt 16 해석하다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_4625.txt 18 생기다 ----- 1:1-ARGM-DIS() 8:4-ARGM-DIS() 9:1-ARGM-TMP() 17:3-ARG1(THM) 18:0-rel

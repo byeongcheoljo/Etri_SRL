@@ -1,0 +1,4 @@
+etri#doc_9809.txt 6 다루다 ----- 2:2-ARG0(AGT) 3:1-ARGM-MNR(INS) 5:2-ARG1(THM) 6:0-rel
+etri#doc_9809.txt 11 건너다 ----- 9:3-ARGM-CND(CNT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_9809.txt 13 관련되다 ----- 12:1-ARG2(COM) 13:0-rel
+etri#doc_9809.txt 17 되다 ----- 6:3-ARGM-DIS() 11:2-ARGM-CND() 14:3-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

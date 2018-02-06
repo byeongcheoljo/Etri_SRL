@@ -1,0 +1,2 @@
+etri#doc_9537.txt 9 ±³À°ÇÏ´Ù ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9537.txt 11 ±Øº¹ÇÏ´Ù ----- 6:2-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

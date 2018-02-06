@@ -1,0 +1,2 @@
+etri#doc_9489.txt 15 가다 ----- 13:3-ARGM-CAU(EFF) 14:1-ARGM-LOC() 15:0-rel
+etri#doc_9489.txt 19 사다 ----- 8:5-ARGM-DIS() 9:1-ARG0(AGT) 16:3-ARGM-EXT(EFF) 17:1-ARGM-LOC(SRC) 18:1-ARG1(THM) 19:0-rel

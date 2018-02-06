@@ -1,0 +1,4 @@
+etri#doc_2862.txt 3 사로잡히다 ----- 2:2-ARG0(AGT) 3:0-rel
+etri#doc_2862.txt 7 명하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_2862.txt 9 기록되다 ----- 8:3-ARG1(CNT) 9:0-rel
+etri#doc_2862.txt 15 증명하다 ----- 10:5-ARGM-INS(INS) 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

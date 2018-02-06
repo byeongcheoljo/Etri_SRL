@@ -1,0 +1,4 @@
+etri#doc_8791.txt 6 처벌하다 ----- 1:1-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_8791.txt 9 감싸다 ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_8791.txt 10 내리다 ----- 6:4-ARGM-DIS() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_8791.txt 14 일으키다 ----- 13:2-ARG1(THM) 14:0-rel

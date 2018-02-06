@@ -1,0 +1,4 @@
+etri#doc_7116.txt 3 확보하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7116.txt 6 갖다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_7116.txt 12 다루다 ----- 6:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_7116.txt 15 극복되다 ----- 3:3-ARGM-DIS() 14:2-ARG0(THM) 15:0-rel

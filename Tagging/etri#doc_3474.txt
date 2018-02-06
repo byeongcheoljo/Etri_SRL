@@ -1,0 +1,4 @@
+etri#doc_3474.txt 6 기대되다 ----- 6:0-rel
+etri#doc_3474.txt 8 집중되다 ----- 3:2-ARG1(THM) 7:2-ARG2(GOL) 8:0-rel
+etri#doc_3474.txt 11 실패하다 ----- 8:3-ARGM-CAU() 10:2-ARG1(THM) 11:0-rel
+etri#doc_3474.txt 13 인정하다 ----- 1:1-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_2969.txt 9 털다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_2969.txt 14 내다 ----- 12:1-ARGM-EXT() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2969.txt 16 훈계하다 ----- 14:2-ARGM-TMP() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_2969.txt 19 살다 ----- 18:2-ARG1(THM) 19:0-rel
+etri#doc_2969.txt 20 타이르다 ----- 16:2-ARGM-DIS() 19:3-ARGM-DIS() 20:0-rel

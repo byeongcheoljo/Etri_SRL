@@ -1,0 +1,5 @@
+etri#doc_11183.txt 4 끝나다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11183.txt 8 이르다 ----- 7:5-ARGM-TMP(GOL) 8:0-rel
+etri#doc_11183.txt 12 늘어나다 ----- 8:6-ARGM-CND() 9:1-ARG3(GOL) 11:2-ARGM-EXT() 12:0-rel
+etri#doc_11183.txt 17 넘다 ----- 12:3-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:1-ARG1() 15:1-ARGM-DIS() 16:1-ARGM-EXT(CRT) 17:0-rel
+etri#doc_11183.txt 19 예상되다 ----- 2:2-ARG0(AGT) 18:3-ARG1(THM) 19:0-rel

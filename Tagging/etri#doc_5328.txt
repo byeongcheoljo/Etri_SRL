@@ -1,0 +1,5 @@
+etri#doc_5328.txt 4 쓰다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5328.txt 7 내다 ----- 4:2-ARGM-CND() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5328.txt 10 지나치다 ----- 8:1-ARG1(AGT) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5328.txt 13 잃다 ----- 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_5328.txt 15 되다 ----- 7:3-ARGM-DIS() 10:2-ARGM-CND() 14:3-ARG2(FNS) 15:0-rel

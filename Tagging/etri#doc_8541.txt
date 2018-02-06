@@ -1,0 +1,5 @@
+etri#doc_8541.txt 5 달래다 ----- 3:1-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_8541.txt 9 끓이다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_8541.txt 14 얘기하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-MNR(COM) 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_8541.txt 19 습격하다 ----- 17:1-ARG0(AGT) 18:1-ARG1(THM) 19:0-rel
+etri#doc_8541.txt 22 구성되다 ----- 2:2-ARG1(THM) 21:4-ARG2(INS) 22:0-rel

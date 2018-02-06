@@ -1,0 +1,1 @@
+etri#doc_3761.txt 18 감당하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 14:3-ARGM-INS(INS) 17:2-ARG1(THM) 18:0-rel

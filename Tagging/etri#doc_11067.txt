@@ -1,0 +1,6 @@
+etri#doc_11067.txt 4 풀어지다 ----- 4:0-rel
+etri#doc_11067.txt 11 사랑하다 ----- 11:0-rel
+etri#doc_11067.txt 14 앉다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_11067.txt 15 경직되다 ----- 15:0-rel
+etri#doc_11067.txt 17 유지하다 ----- 12:2-ARGM-ADV(EFF) 14:2-ARGM-MNR() 15:1-ARGM-EXT() 16:1-ARG1(THM) 17:0-rel
+etri#doc_11067.txt 19 지나치다 ----- 10:4-ARGM-DIS() 17:2-ARG1() 18:1-ARGM-DIS() 19:0-rel

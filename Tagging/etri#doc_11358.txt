@@ -1,0 +1,3 @@
+etri#doc_11358.txt 9 드나들다 ----- 9:0-rel
+etri#doc_11358.txt 14 알다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11358.txt 16 챙기다 ----- 14:3-ARGM-CAU() 15:1-ARGM-PRD(EFF) 16:0-rel

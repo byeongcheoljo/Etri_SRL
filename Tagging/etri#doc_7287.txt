@@ -1,0 +1,4 @@
+etri#doc_7287.txt 4 가지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7287.txt 6 끝나다 ----- 5:1-ARGM-TMP() 6:0-rel
+etri#doc_7287.txt 12 붙잡다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7287.txt 13 놓아주다 ----- 9:2-ARG0(EFF) 10:1-ARGM-TMP(GOL) 12:2-ARGM-DIS() 13:0-rel

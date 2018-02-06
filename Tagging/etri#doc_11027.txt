@@ -1,0 +1,3 @@
+etri#doc_11027.txt 9 ¼¯´Ù ----- 8:6-ARG1(THM) 9:0-rel
+etri#doc_11027.txt 11 ³ì´Ù ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11027.txt 14 ¼¯´Ù ----- 2:1-ARGM-CAU(EFF) 9:7-ARGM-DIS() 11:2-ARGM-PRP() 13:2-ARG1(THM) 14:0-rel

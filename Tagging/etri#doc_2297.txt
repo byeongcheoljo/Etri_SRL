@@ -1,0 +1,7 @@
+etri#doc_2297.txt 3 나오다 ----- 2:2-ARG0(AGT) 3:0-rel
+etri#doc_2297.txt 5 지나다 ----- 5:0-rel
+etri#doc_2297.txt 8 맞다 ----- 7:2-ARG2(GOL) 8:0-rel
+etri#doc_2297.txt 15 숨다 ----- 12:2-ARG0(AGT) 14:2-ARG2(LOC) 15:0-rel
+etri#doc_2297.txt 16 보다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_2297.txt 20 여미다 ----- 16:4-() 17:1-() 18:1-() 19:1-() 20:0-rel
+etri#doc_2297.txt 21 하다 ----- 4:4-ARG0(AGT) 20:2-ARGM-DIS() 21:0-rel

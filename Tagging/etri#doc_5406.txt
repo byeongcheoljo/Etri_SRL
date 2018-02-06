@@ -1,0 +1,5 @@
+etri#doc_5406.txt 4 나다 ----- 2:1-ARGM-EXT(EFF) 3:1-ARGM-LOC() 4:0-rel
+etri#doc_5406.txt 6 안다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5406.txt 8 안다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5406.txt 12 새우다 ----- 1:1-ARG0(AGT) 4:2-ARGM-CND() 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5406.txt 18 보다 ----- 12:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-NEG() 18:0-rel

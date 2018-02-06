@@ -1,0 +1,4 @@
+etri#doc_7749.txt 5 건설하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7749.txt 14 무장시키다 ----- 13:2-ARG2(INS) 14:0-rel
+etri#doc_7749.txt 19 높이다 ----- 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel
+etri#doc_7749.txt 20 복무하다 ----- 2:2-ARG0(AGT) 9:3-ARGM-TMP(LOC) 19:3-ARGM-DIS() 20:0-rel

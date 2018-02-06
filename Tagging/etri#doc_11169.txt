@@ -1,0 +1,2 @@
+etri#doc_11169.txt 6 만나다 ----- 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11169.txt 15 잊다 ----- 10:1-ARG0(EXP) 11:1-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

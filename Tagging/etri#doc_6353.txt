@@ -1,0 +1,2 @@
+etri#doc_6353.txt 6 ªÔ¥Ÿ ----- 4:2-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_6353.txt 17 ≥Ì«œ¥Ÿ ----- 1:1-ARGM-DIS() 6:2-ARGM-CND() 8:2-ARG0(AGT) 9:1-ARG1(THM) 10:1-ARGM-DIS() 16:2-ARGM-LOC(LOC) 17:0-rel

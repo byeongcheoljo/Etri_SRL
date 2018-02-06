@@ -1,0 +1,2 @@
+etri#doc_4991.txt 8 보이다 ----- 4:2-ARGM-DIS() 6:2-ARGM-LOC(LOC) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_4991.txt 12 돌아오다 ----- 11:2-ARG2(SRC) 12:0-rel

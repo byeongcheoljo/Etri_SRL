@@ -1,0 +1,4 @@
+etri#doc_2251.txt 6 시작되다 ----- 5:2-ARG1(AGT) 6:0-rel
+etri#doc_2251.txt 12 살다 ----- 6:3-ARGM-DIS() 7:1-ARGM-EXT(EFF) 8:1-() 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_2251.txt 15 말하다 ----- 14:1-ARGM-EXT() 15:0-rel
+etri#doc_2251.txt 20 쓰다 ----- 1:1-ARGM-DIS() 2:1-ARGM-EXT() 3:1-ARG0() 12:2-ARGM-DIS() 13:1-ARG0() 17:2-ARGM-LOC(LOC) 19:2-ARG1(THM) 20:0-rel

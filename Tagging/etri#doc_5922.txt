@@ -1,0 +1,5 @@
+etri#doc_5922.txt 4 확대시키다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5922.txt 6 키우다 ----- 4:4-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5922.txt 8 들어가다 ----- 7:1-ARG3(GOL) 8:0-rel
+etri#doc_5922.txt 10 차단되다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_5922.txt 11 보장하다 ----- 6:2-ARGM-DIS() 10:4-ARGM-PRP() 11:0-rel

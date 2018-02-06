@@ -1,0 +1,4 @@
+etri#doc_2405.txt 2 둘러싸다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2405.txt 7 계속되다 ----- 2:2-ARGM-DIS() 5:3-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_2405.txt 11 남기다 ----- 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2405.txt 14 확정되다 ----- 7:2-ARGM-CAU() 12:3-ARGM-TMP(GOL) 13:1-ARG1(THM) 14:0-rel

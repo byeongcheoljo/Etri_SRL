@@ -1,0 +1,6 @@
+etri#doc_1849.txt 3 떠나다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_1849.txt 5 향하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_1849.txt 7 타다 ----- 3:2-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_1849.txt 8 돌아가시다 ----- 8:0-rel
+etri#doc_1849.txt 12 공부하다 ----- 11:1-ARGM-TMP() 12:0-rel
+etri#doc_1849.txt 14 급제하다 ----- 10:1-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

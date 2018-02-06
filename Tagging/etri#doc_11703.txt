@@ -1,0 +1,5 @@
+etri#doc_11703.txt 7 밟다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_11703.txt 8 이용되다 ----- 7:2-ARGM-CND() 8:0-rel
+etri#doc_11703.txt 10 청구하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11703.txt 13 대하다 ----- 12:2-ARG2(THM) 13:0-rel
+etri#doc_11703.txt 16 시행되다 ----- 4:3-ARG1(THM) 5:1-ARGM-TMP() 8:3-ARGM-DIS() 10:2-ARGM-TMP() 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

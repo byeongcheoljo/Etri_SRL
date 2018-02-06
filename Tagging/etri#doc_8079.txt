@@ -1,0 +1,3 @@
+etri#doc_8079.txt 8 편입되다 ----- 4:1-ARG1(THM) 7:3-ARG2(GOL) 8:0-rel
+etri#doc_8079.txt 13 나타나다 ----- 12:1-ARG2(LOC) 13:0-rel
+etri#doc_8079.txt 19 알아보다 ----- 10:2-ARGM-DIS() 11:1-ARG0(MAG) 16:2-ARG1(THM) 18:2-ARGM-MNR(INS) 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4478.txt 5 달하다 ----- 4:1-ARG2(GOL) 5:0-rel
+etri#doc_4478.txt 7 참가하다 ----- 3:1-ARG1(LOC) 6:3-ARG0(AGT) 7:0-rel
+etri#doc_4478.txt 10 하다 ----- 8:1-ARGM-PRP(PUR) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4478.txt 14 확보하다 ----- 7:4-ARGM-DIS() 10:2-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_4478.txt 15 발표하다 ----- 14:4-ARG1() 15:0-rel
+etri#doc_4478.txt 20 체포하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 15:5-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARGM-MNR(INS) 20:0-rel

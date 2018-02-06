@@ -1,0 +1,3 @@
+etri#doc_11675.txt 7 중복되다 ----- 1:1-ARGM-CND(EFF) 3:2-ARG1(THM) 6:2-ARGM-MNR(COM) 7:0-rel
+etri#doc_11675.txt 10 장기화하다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11675.txt 14 되다 ----- 7:3-ARGM-CAU() 13:3-ARG2(FNS) 14:0-rel

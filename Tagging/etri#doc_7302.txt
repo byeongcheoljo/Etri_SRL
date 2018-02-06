@@ -1,0 +1,4 @@
+etri#doc_7302.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7302.txt 9 쓰다 ----- 5:3-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_7302.txt 18 가지다 ----- 13:2-ARG0(LOC) 17:4-ARG1(THM) 18:0-rel
+etri#doc_7302.txt 19 지적하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-DIS() 18:5-ARGM-MNR(INS) 19:0-rel

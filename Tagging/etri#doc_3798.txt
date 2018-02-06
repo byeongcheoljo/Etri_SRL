@@ -1,0 +1,1 @@
+etri#doc_3798.txt 9 유린하다 ----- 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel

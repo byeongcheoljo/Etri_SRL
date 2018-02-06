@@ -1,0 +1,2 @@
+etri#doc_196.txt 9 이용하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_196.txt 13 가지다 ----- 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel

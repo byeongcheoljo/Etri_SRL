@@ -1,0 +1,6 @@
+etri#doc_6128.txt 4 꺼내다 ----- 4:0-rel
+etri#doc_6128.txt 6 물다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:1-ARGM-DIS() 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_6128.txt 8 피우다 ----- 7:1-ARG1() 8:0-rel
+etri#doc_6128.txt 11 털다 ----- 9:1-ARG1(THM) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_6128.txt 15 담다 ----- 8:2-ARGM-TMP() 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARG2(GOL) 15:0-rel
+etri#doc_6128.txt 18 주다 ----- 6:2-ARGM-DIS() 15:2-ARG1(CNT) 16:1-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

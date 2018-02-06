@@ -1,0 +1,5 @@
+etri#doc_377.txt 5 ¾É´Ù ----- 4:2-ARGM-CND() 5:0-rel
+etri#doc_377.txt 9 µé´Ù ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_377.txt 10 ÇÏ´Ù ----- 5:3-ARGM-DIS() 6:1-ARGM-EXT() 7:1-ARGM-MNR() 9:2-ARG1() 10:0-rel
+etri#doc_377.txt 16 Áþ´Ù ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_377.txt 18 ºÎÅ¹ÇÏ´Ù ----- 10:3-ARGM-CND() 11:1-ARG0(AGT) 17:4-ARG1() 18:0-rel

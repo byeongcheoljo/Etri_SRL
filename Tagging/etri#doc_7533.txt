@@ -1,0 +1,8 @@
+etri#doc_7533.txt 4 가다 ----- 2:1-ARG0(AGT) 3:1-ARG3(Npr) 4:0-rel
+etri#doc_7533.txt 6 하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7533.txt 8 가다 ----- 6:2-ARGM-DIS() 7:1-ARGM-LOC(GOL) 8:0-rel
+etri#doc_7533.txt 11 부리다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7533.txt 13 즐기다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_7533.txt 17 일으키다 ----- 13:2-ARGM-DIS() 15:2-ARG2(COM) 16:1-ARG1(THM) 17:0-rel
+etri#doc_7533.txt 20 기록되다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_7533.txt 21 들다 ----- 1:1-ARG0(MAG) 20:3-ARGM-DIS() 21:0-rel

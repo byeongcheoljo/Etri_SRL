@@ -1,0 +1,3 @@
+etri#doc_11024.txt 4 입문하다 ----- 2:1-ARG1(GOL) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_11024.txt 10 갖추다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11024.txt 14 받다 ----- 8:3-ARGM-DIS() 10:2-ARGM-TMP() 13:3-ARG1(THM) 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9901.txt 15 관련되다 ----- 13:7-ARG2(COM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_9901.txt 16 따지다 ----- 15:2-ARG1() 16:0-rel

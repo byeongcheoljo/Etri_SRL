@@ -1,0 +1,4 @@
+etri#doc_5949.txt 3 보도하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_5949.txt 6 보다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5949.txt 15 전달하다 ----- 13:7-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_5949.txt 16 되다 ----- 1:1-ARGM-DIS() 6:3-ARGM-CND() 15:2-ARGM-DIS() 16:0-rel

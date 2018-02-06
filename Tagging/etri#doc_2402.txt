@@ -1,0 +1,4 @@
+etri#doc_2402.txt 6 °¨¿°µÇ´Ù ----- 4:2-ARG1(THM) 5:1-ARG2(EFF) 6:0-rel
+etri#doc_2402.txt 7 º¸´Ù ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_2402.txt 13 °¨¿°µÇ´Ù ----- 11:4-ARG1(THM) 12:1-ARG2(EFF) 13:0-rel
+etri#doc_2402.txt 14 ¹àÈ÷´Ù ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 13:2-ARG1() 14:0-rel

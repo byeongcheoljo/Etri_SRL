@@ -1,0 +1,2 @@
+etri#doc_6883.txt 12 지시하다 ----- 4:3-ARGM-TMP() 5:1-ARG2(GOL) 11:3-ARG1(THM) 12:0-rel
+etri#doc_6883.txt 20 떠나다 ----- 1:1-ARG0(AGT) 13:5-ARGM-TMP() 18:2-ARG3(DIR) 19:1-ARG1(THM) 20:0-rel

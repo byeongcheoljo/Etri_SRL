@@ -1,0 +1,2 @@
+etri#doc_9993.txt 6 승선하다 ----- 5:1-ARGM-LOC(GOL) 6:0-rel
+etri#doc_9993.txt 15 전가시키다 ----- 1:1-ARGM-TMP() 12:2-ARGM-DIS() 14:2-ARG2(GOL) 15:0-rel

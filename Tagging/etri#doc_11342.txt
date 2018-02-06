@@ -1,0 +1,4 @@
+etri#doc_11342.txt 4 발견하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11342.txt 6 갖다 ----- 2:1-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_11342.txt 10 찾아내다 ----- 8:1-ARGM-INS(INS) 9:1-ARG1() 10:0-rel
+etri#doc_11342.txt 12 갖다 ----- 1:1-ARGM-DIS() 6:2-ARGM-DIS() 7:1-ARG0(AGT) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

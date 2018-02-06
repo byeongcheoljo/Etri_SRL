@@ -1,0 +1,4 @@
+etri#doc_2551.txt 2 시작되다 ----- 1:1-() 2:0-rel
+etri#doc_2551.txt 9 소개하다 ----- 6:1-ARG0(AGT) 7:1-ARGM-ADV(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_2551.txt 11 발전하다 ----- 5:2-ARG1() 9:2-ARGM-DIS() 10:1-ARGM-MNR(EFF) 11:0-rel
+etri#doc_2551.txt 19 등장하다 ----- 11:2-ARGM-DIS() 14:3-ARGM-ADV(EFF) 15:1-ARG0() 17:2-ARGM-PRD(EFF) 18:1-ARGM-LOC(LOC) 19:0-rel

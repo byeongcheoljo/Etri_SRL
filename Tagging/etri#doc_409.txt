@@ -1,0 +1,4 @@
+etri#doc_409.txt 7 진행되다 ----- 1:1-ARG1(THM) 6:2-ARGM-INS(INS) 7:0-rel
+etri#doc_409.txt 12 하다 ----- 11:3-ARG1(Npr) 12:0-rel
+etri#doc_409.txt 15 되다 ----- 13:5-ARG1(THM) 14:1-ARG2(FNS) 15:0-rel
+etri#doc_409.txt 16 보이다 ----- 7:3-ARGM-DIS() 8:1-ARGM-DIS() 15:2-ARG1() 16:0-rel

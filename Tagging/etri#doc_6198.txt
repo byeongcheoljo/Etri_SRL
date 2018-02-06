@@ -1,0 +1,4 @@
+etri#doc_6198.txt 3 내다 ----- 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_6198.txt 5 취하하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_6198.txt 9 제한하다 ----- 7:1-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_6198.txt 10 시공하다 ----- 1:1-ARGM-DIS() 6:5-ARG0(AGT) 9:2-ARGM-CAU() 10:0-rel

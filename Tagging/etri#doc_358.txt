@@ -1,0 +1,3 @@
+etri#doc_358.txt 2 알다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_358.txt 4 즐기다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_358.txt 10 하다 ----- 2:2-ARGM-DIS() 8:4-ARG1(THM) 9:1-ARG1() 10:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1975.txt 3 명령받다 ----- 3:0-rel
+etri#doc_1975.txt 6 올리다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_1975.txt 10 살피다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_1975.txt 16 지적하다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_1975.txt 18 끄집어내다 ----- 6:4-ARGM-TMP() 7:1-ARG0(AGT) 10:2-ARGM-DIS() 16:5-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

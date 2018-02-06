@@ -1,0 +1,4 @@
+etri#doc_8090.txt 3 만족하다 ----- 2:2-ARGM-EXT(INS) 3:0-rel
+etri#doc_8090.txt 6 노리다 ----- 3:3-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_8090.txt 10 모르다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_8090.txt 14 가지다 ----- 10:3-ARGM-DIS() 11:1-ARG0(LOC) 13:2-ARG1(THM) 14:0-rel

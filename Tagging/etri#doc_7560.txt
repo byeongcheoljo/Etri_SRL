@@ -1,0 +1,3 @@
+etri#doc_7560.txt 12 변용되다 ----- 4:2-ARGM-TMP() 10:3-ARGM-MNR(INS) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_7560.txt 14 보다 ----- 13:1-ARGM-EXT() 14:0-rel
+etri#doc_7560.txt 18 이루다 ----- 2:2-ARG0(AGT) 12:2-ARGM-DIS() 14:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

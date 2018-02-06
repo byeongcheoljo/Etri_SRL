@@ -1,0 +1,3 @@
+etri#doc_4944.txt 11 이끌다 ----- 6:2-ARG1(THM) 10:2-ARG2(DIR) 11:0-rel
+etri#doc_4944.txt 15 받다 ----- 3:1-ARG0(GOL) 14:3-ARG1(THM) 15:0-rel
+etri#doc_4944.txt 16 주장하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 15:4-ARG1() 16:0-rel

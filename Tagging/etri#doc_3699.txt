@@ -1,0 +1,9 @@
+etri#doc_3699.txt 1 °¡´Ù ----- 1:0-rel
+etri#doc_3699.txt 3 ½Î´Ù ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_3699.txt 4 ¾÷´Ù ----- 4:0-rel
+etri#doc_3699.txt 5 ³î´Ù ----- 3:2-ARGM-CAU() 4:1-ARGM-DIS() 5:0-rel
+etri#doc_3699.txt 6 ¿ï´Ù ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_3699.txt 7 ¾÷´Ù ----- 7:0-rel
+etri#doc_3699.txt 9 ¸ÔÀÌ´Ù ----- 6:3-ARGM-CAU() 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_3699.txt 13 ÇÏ´Ù ----- 12:1-ARGM-MNR() 13:0-rel
+etri#doc_3699.txt 15 ½Î´Ù ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

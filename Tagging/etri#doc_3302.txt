@@ -1,0 +1,4 @@
+etri#doc_3302.txt 9 붙다 ----- 4:4-ARG1(GOL) 8:4-ARG1(THM) 9:0-rel
+etri#doc_3302.txt 14 제기되다 ----- 13:2-ARGM-PRD(INS) 14:0-rel
+etri#doc_3302.txt 17 계승하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_3302.txt 19 보완하다 ----- 10:6-ARG0(AGT) 11:1-ARG0(AGT) 17:3-ARGM-TMP() 18:1-ARG1(THM) 19:0-rel

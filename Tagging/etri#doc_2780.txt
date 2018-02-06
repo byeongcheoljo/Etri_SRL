@@ -1,0 +1,4 @@
+etri#doc_2780.txt 3 내걸다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_2780.txt 6 재선되다 ----- 5:1-ARG2(FNS) 6:0-rel
+etri#doc_2780.txt 10 막다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2780.txt 14 하다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:0-rel

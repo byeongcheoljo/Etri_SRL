@@ -1,0 +1,7 @@
+etri#doc_2907.txt 3 벌이다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_2907.txt 5 내다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_2907.txt 11 나다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2907.txt 13 나다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_2907.txt 14 하다 ----- 9:4-ARGM-DIS() 13:2-ARGM-DIS() 14:0-rel
+etri#doc_2907.txt 19 번쩍이다 ----- 18:1-ARGM-TMP(LOC) 19:0-rel
+etri#doc_2907.txt 21 감시하다 ----- 14:3-ARGM-CAU() 17:2-ARG0(AGT) 19:2-ARGM-MNR() 20:1-ARG1(THM) 21:0-rel

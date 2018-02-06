@@ -1,0 +1,5 @@
+etri#doc_7008.txt 3 운반하다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7008.txt 7 지적하다 ----- 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_7008.txt 10 하다 ----- 8:1-ARG1(THM) 9:1-ARGM-PRD(FNS) 10:0-rel
+etri#doc_7008.txt 16 속하다 ----- 13:1-ARGM-EXT() 15:2-ARG2(LOC) 16:0-rel
+etri#doc_7008.txt 21 보이다 ----- 5:4-ARGM-MNR(INS) 7:2-ARGM-DIS() 12:2-ARG0(AGT) 16:3-ARGM-DIS() 19:2-ARGM-MNR(COM) 20:1-ARG1(THM) 21:0-rel

@@ -1,0 +1,1 @@
+etri#doc_5247.txt 11 해결하다 ----- 3:2-ARG0(AGT) 9:4-ARG1(THM) 10:1-ARGM-TMP(LOC) 11:0-rel

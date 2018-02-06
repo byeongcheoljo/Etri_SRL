@@ -1,0 +1,4 @@
+etri#doc_8590.txt 2 말하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_8590.txt 11 전하다 ----- 9:1-ARGM-TMP(LOC) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_8590.txt 14 개선하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_8590.txt 19 재창조하다 ----- 7:3-ARGM-DIS() 8:1-ARG0(AGT) 14:3-ARGM-DIS() 18:3-ARG2(FNS) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4939.txt 5 잃어버리다 ----- 1:1-ARG0(EXP) 4:3-ARG1(THM) 5:0-rel
+etri#doc_4939.txt 7 발발하다 ----- 6:5-ARG1(THM) 7:0-rel
+etri#doc_4939.txt 9 출간되다 ----- 8:7-ARGM-TMP(LOC) 9:0-rel
+etri#doc_4939.txt 13 탄생하다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_4939.txt 15 그리다 ----- 11:2-ARG0(EFF) 14:3-ARG1(THM) 15:0-rel

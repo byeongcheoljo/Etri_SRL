@@ -1,0 +1,4 @@
+etri#doc_6670.txt 6 ³¢´Ù ----- 2:2-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_6670.txt 10 ¹­´Ù ----- 10:0-rel
+etri#doc_6670.txt 11 ¾ê±âÇÏ´Ù ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6670.txt 17 ³»´Ù ----- 6:3-ARGM-DIS() 11:2-ARGM-CND() 14:3-ARG0(AGT) 15:1-ARGM-EXT() 16:1-ARG1() 17:0-rel

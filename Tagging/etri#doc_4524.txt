@@ -1,0 +1,3 @@
+etri#doc_4524.txt 9 당하다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_4524.txt 13 방어하다 ----- 13:0-rel
+etri#doc_4524.txt 18 경고하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG0(AGT) 17:4-ARG1(CNT) 18:0-rel

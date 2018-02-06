@@ -1,0 +1,4 @@
+etri#doc_1038.txt 6 종식시키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1038.txt 9 성취하다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_1038.txt 11 나서다 ----- 10:4-ARGM-LOC(LOC) 11:0-rel
+etri#doc_1038.txt 13 강조하다 ----- 12:6-ARG1(THM) 13:0-rel

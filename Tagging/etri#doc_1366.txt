@@ -1,0 +1,2 @@
+etri#doc_1366.txt 5 ºô´Ù ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1366.txt 20 µÇ´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 7:5-ARGM-DIS() 15:3-ARG1(THM) 17:2-ARGM-DIS() 19:2-ARG2(FNS) 20:0-rel

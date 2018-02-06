@@ -1,0 +1,4 @@
+etri#doc_3425.txt 9 보완되다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_3425.txt 11 해당하다 ----- 7:2-ARGM-DIS() 10:3-ARG2(CRT) 11:0-rel
+etri#doc_3425.txt 13 국한되다 ----- 3:1-ARG1(THM) 12:5-ARG2(LOC) 13:0-rel
+etri#doc_3425.txt 14 설명하다 ----- 2:2-ARG0(AGT) 13:6-ARG1(CNT) 14:0-rel

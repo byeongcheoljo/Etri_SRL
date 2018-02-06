@@ -1,0 +1,4 @@
+etri#doc_2178.txt 4 받다 ----- 2:2-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_2178.txt 7 쓰다 ----- 6:1-ARG2() 7:0-rel
+etri#doc_2178.txt 10 다듬다 ----- 9:1-ARG2() 10:0-rel
+etri#doc_2178.txt 14 감상하다 ----- 5:3-ARG0(MAG) 11:3-ARG2() 13:2-ARG2() 14:0-rel

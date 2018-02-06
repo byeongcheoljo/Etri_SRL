@@ -1,0 +1,3 @@
+etri#doc_1118.txt 5 발견되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1118.txt 11 맞다 ----- 9:7-ARG1(THM) 10:1-ARG2(THM) 11:0-rel
+etri#doc_1118.txt 15 들어오다 ----- 2:1-ARGM-TMP(LOC) 14:3-ARG0(Npr) 15:0-rel

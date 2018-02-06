@@ -1,0 +1,4 @@
+etri#doc_5235.txt 6 보다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_5235.txt 13 추진하다 ----- 7:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5235.txt 15 미치다 ----- 6:3-ARGM-DIS() 14:4-ARG2(GOL) 15:0-rel
+etri#doc_5235.txt 18 제약되다 ----- 15:5-ARGM-CAU() 17:2-ARG1(THM) 18:0-rel

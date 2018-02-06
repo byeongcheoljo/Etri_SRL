@@ -1,0 +1,4 @@
+etri#doc_7737.txt 2 ½î´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7737.txt 5 ½î´Ù ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7737.txt 7 ½î´Ù ----- 2:2-ARGM-CND() 3:1-ARG1(THM) 5:2-ARGM-CND() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7737.txt 10 ½î´Ù ----- 8:1-ARGM-TMP(LOC) 9:1-ARG1(THM) 10:0-rel

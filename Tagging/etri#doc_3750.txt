@@ -1,0 +1,2 @@
+etri#doc_3750.txt 17 하다 ----- 13:2-ARG1(THM) 14:1-ARGM-TMP() 15:1-ARGM-DIS() 16:1-ARGM-DIS() 17:0-rel
+etri#doc_3750.txt 19 외면하다 ----- 18:3-ARG1(THM) 19:0-rel

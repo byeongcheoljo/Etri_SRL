@@ -1,0 +1,3 @@
+etri#doc_7099.txt 11 뻗다 ----- 1:1-ARG1(AGT) 10:5-ARG3(DIR) 11:0-rel
+etri#doc_7099.txt 17 빠지다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_7099.txt 20 이루다 ----- 11:6-ARGM-DIS() 15:3-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

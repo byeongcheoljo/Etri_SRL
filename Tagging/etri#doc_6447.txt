@@ -1,0 +1,4 @@
+etri#doc_6447.txt 6 일하다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6447.txt 7 알다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_6447.txt 14 얻다 ----- 10:1-ARGM-DIS() 11:1-ARG2(SRC) 12:1-ARGM-LOC(GOL) 13:1-ARG1(THM) 14:0-rel
+etri#doc_6447.txt 16 애쓰다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 9:5-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-MNR(INS) 16:0-rel

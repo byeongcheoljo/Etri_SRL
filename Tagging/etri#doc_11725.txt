@@ -1,0 +1,4 @@
+etri#doc_11725.txt 2 베다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11725.txt 9 드러나다 ----- 2:2-ARGM-CND() 7:3-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11725.txt 14 삼다 ----- 12:2-ARG1(THM) 13:1-ARG2(FNS) 14:0-rel
+etri#doc_11725.txt 17 알다 ----- 9:2-ARGM-DIS() 10:1-ARG0(MAG) 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

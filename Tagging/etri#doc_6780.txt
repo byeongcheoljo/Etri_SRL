@@ -1,0 +1,4 @@
+etri#doc_6780.txt 4 두다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6780.txt 5 전승되다 ----- 1:1-ARG1(THM) 4:3-ARGM-DIS() 5:0-rel
+etri#doc_6780.txt 17 받다 ----- 7:1-ARGM-CAU(EFF) 9:2-ARGM-MNR(INS) 12:2-ARG2(GOL) 16:3-ARG1(THM) 17:0-rel
+etri#doc_6780.txt 18 의미하다 ----- 6:5-ARG1(EFF) 17:4-ARG2(THM) 18:0-rel

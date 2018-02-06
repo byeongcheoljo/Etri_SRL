@@ -1,0 +1,3 @@
+etri#doc_786.txt 7 느끼다 ----- 4:1-ARG1(THM) 6:2-ARG1(CNT) 7:0-rel
+etri#doc_786.txt 11 받아들이다 ----- 2:1-ARG0(AGT) 3:1-ARG2(SRC) 7:3-ARGM-CAU() 9:2-ARG1(THM) 10:1-ARG3(FNS) 11:0-rel
+etri#doc_786.txt 17 발생하다 ----- 1:1-ARGM-CND(EFF) 11:2-ARGM-DIS() 13:2-ARGM-CAU(EFF) 14:1-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel

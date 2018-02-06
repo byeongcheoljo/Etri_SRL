@@ -1,0 +1,5 @@
+etri#doc_2970.txt 2 보다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2970.txt 3 보다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_2970.txt 7 되새김질하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_2970.txt 10 서다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_2970.txt 12 굴리다 ----- 8:4-ARGM-PRP(PUR) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

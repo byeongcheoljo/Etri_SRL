@@ -1,0 +1,4 @@
+etri#doc_6230.txt 5 부호화하다 ----- 2:1-ARGM-EXT(EFF) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_6230.txt 9 하다 ----- 6:4-ARG1(THM) 8:2-ARG1(CNT) 9:0-rel
+etri#doc_6230.txt 14 부호화하다 ----- 11:1-ARGM-EXT(EFF) 13:2-ARGM-MNR(INS) 14:0-rel
+etri#doc_6230.txt 17 하다 ----- 1:1-ARGM-LOC() 10:4-ARGM-DIS() 15:4-ARG1(THM) 16:1-ARG1(CNT) 17:0-rel

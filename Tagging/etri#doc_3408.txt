@@ -1,0 +1,5 @@
+etri#doc_3408.txt 3 계속되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3408.txt 5 채우다 ----- 3:2-ARGM-CAU() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3408.txt 12 구하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3408.txt 14 중단하다 ----- 9:3-ARGM-CAU() 12:3-ARGM-PRP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_3408.txt 15 밝히다 ----- 1:1-ARG0(AGT) 14:2-ARG1(CNT) 15:0-rel

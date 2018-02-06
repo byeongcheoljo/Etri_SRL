@@ -1,0 +1,2 @@
+etri#doc_9401.txt 13 태어나다 ----- 12:2-ARGM-TMP(LOC) 13:0-rel
+etri#doc_9401.txt 17 태어나다 ----- 9:4-ARGM-DIS() 10:1-ARGM-DIS() 14:4-ARG1(THM) 16:2-ARGM-LOC(LOC) 17:0-rel

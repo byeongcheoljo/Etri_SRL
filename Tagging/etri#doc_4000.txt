@@ -1,0 +1,3 @@
+etri#doc_4000.txt 3 계산하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_4000.txt 6 되다 ----- 4:1-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_4000.txt 9 절약하다 ----- 3:2-ARGM-CND() 6:2-ARGM-CAU() 7:1-ARGM-TMP(LOC) 8:1-ARG1(THM) 9:0-rel

@@ -1,0 +1,4 @@
+etri#doc_958.txt 3 올리다 ----- 1:1-ARGM-MNR() 2:1-ARG1(THM) 3:0-rel
+etri#doc_958.txt 8 지나다 ----- 5:2-ARGM-TMP() 6:1-ARGM-DIS() 7:1-ARGM-TMP(CRT) 8:0-rel
+etri#doc_958.txt 13 엉키다 ----- 11:3-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_958.txt 15 떨어지다 ----- 8:2-ARGM-TMP() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

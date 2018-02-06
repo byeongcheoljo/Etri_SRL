@@ -1,0 +1,3 @@
+etri#doc_5762.txt 10 공경하다 ----- 7:1-ARG1(THM) 9:2-ARGM-PRD(INS) 10:0-rel
+etri#doc_5762.txt 15 공경하다 ----- 10:3-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-EXT(EFF) 15:0-rel
+etri#doc_5762.txt 16 명하다 ----- 6:2-ARG0(AGT) 15:2-ARG1() 16:0-rel

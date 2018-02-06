@@ -1,0 +1,4 @@
+etri#doc_534.txt 2 만지다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_534.txt 6 감지하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_534.txt 15 인식하다 ----- 13:1-ARG1(THM) 14:1-ARG1(FNS) 15:0-rel
+etri#doc_534.txt 18 인식하다 ----- 10:4-ARGM-DIS() 12:2-ARG0(AGT) 16:3-ARGM-MNR(INS) 17:1-ARG1(THM) 18:0-rel

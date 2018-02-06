@@ -1,0 +1,4 @@
+etri#doc_5876.txt 3 점하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5876.txt 6 두다 ----- 4:4-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5876.txt 7 한정되다 ----- 7:0-rel
+etri#doc_5876.txt 12 충족시키다 ----- 6:2-ARGM-DIS() 8:2-ARGM-EXT(CRT) 11:2-ARG1(THM) 12:0-rel

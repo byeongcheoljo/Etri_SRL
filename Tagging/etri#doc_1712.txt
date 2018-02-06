@@ -1,0 +1,2 @@
+etri#doc_1712.txt 9 실현하다 ----- 3:3-ARG0(THM) 7:2-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1712.txt 13 서다 ----- 9:2-ARGM-DIS() 10:1-ARG0(THM) 12:2-ARG1(THM) 13:0-rel

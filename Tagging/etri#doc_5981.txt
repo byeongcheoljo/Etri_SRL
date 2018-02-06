@@ -1,0 +1,5 @@
+etri#doc_5981.txt 3 개편되다 ----- 3:0-rel
+etri#doc_5981.txt 8 하다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_5981.txt 13 주다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_5981.txt 17 불러오다 ----- 5:2-ARG0(EFF) 10:4-ARGM-LOC(GOL) 13:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_5981.txt 18 얘기하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 17:3-ARG1() 18:0-rel

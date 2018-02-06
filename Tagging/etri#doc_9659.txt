@@ -1,0 +1,2 @@
+etri#doc_9659.txt 9 »ï´Ù ----- 3:3-ARGM-DIS() 4:1-ARGM-MNR() 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:1-ARG2() 9:0-rel
+etri#doc_9659.txt 14 ³ª¿À´Ù ----- 11:2-ARGM-ADV(EFF) 13:2-ARG0(AGT) 14:0-rel

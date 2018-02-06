@@ -1,0 +1,8 @@
+etri#doc_3086.txt 2 내다보다 ----- 1:1-() 2:0-rel
+etri#doc_3086.txt 5 닫다 ----- 4:1-() 5:0-rel
+etri#doc_3086.txt 7 걷다 ----- 5:2-() 6:1-() 7:0-rel
+etri#doc_3086.txt 9 구기다 ----- 8:1-() 9:0-rel
+etri#doc_3086.txt 10 팽개치다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_3086.txt 13 보내다 ----- 12:2-ARG0(AGT) 13:0-rel
+etri#doc_3086.txt 15 집어들다 ----- 15:0-rel
+etri#doc_3086.txt 18 읽다 ----- 3:3-ARG0(AGT) 7:2-ARGM-DIS() 14:4-ARG1(THM) 15:1-ARGM-DIS() 16:1-ARGM-TMP() 17:1-ARGM-EXT() 18:0-rel

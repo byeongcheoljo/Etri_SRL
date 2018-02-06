@@ -1,0 +1,5 @@
+etri#doc_1345.txt 6 말하다 ----- 1:1-ARGM-DIS() 5:3-ARGM-ADV(EFF) 6:0-rel
+etri#doc_1345.txt 9 인격화하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1345.txt 10 반영하다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_1345.txt 13 반영하다 ----- 10:3-ARGM-DIS() 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1345.txt 17 하다 ----- 15:1-ARG1(THM) 16:1-ARGM-INS(INS) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9377.txt 9 일으키다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9377.txt 17 맞다 ----- 13:3-ARGM-DIS() 14:1-ARGM-DIS() 16:2-ARG2(CRT) 17:0-rel

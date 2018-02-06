@@ -1,0 +1,2 @@
+etri#doc_4851.txt 7 참가하다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_4851.txt 8 열리다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP(LOC) 3:1-ARGM-TMP(LOC) 5:2-ARGM-LOC(LOC) 7:2-ARGM-DIS() 8:0-rel

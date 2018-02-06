@@ -1,0 +1,2 @@
+etri#doc_7673.txt 16 지원하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_7673.txt 18 여행하다 ----- 9:3-ARGM-DIS() 12:3-ARG0() 13:1-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-DIR(DIR) 18:0-rel

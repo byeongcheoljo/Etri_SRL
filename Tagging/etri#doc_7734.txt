@@ -1,0 +1,2 @@
+etri#doc_7734.txt 10 잠기다 ----- 7:1-ARGM-TMP() 8:1-ARGM-TMP() 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_7734.txt 18 하다 ----- 2:2-ARG0(AGT) 12:4-ARGM-DIS() 13:1-ARGM-TMP() 15:2-ARGM-LOC(LOC) 17:2-ARG1() 18:0-rel

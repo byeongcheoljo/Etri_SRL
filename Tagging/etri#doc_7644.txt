@@ -1,0 +1,5 @@
+etri#doc_7644.txt 3 양산되다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_7644.txt 6 존재하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_7644.txt 10 만들다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7644.txt 15 활개치다 ----- 1:1-ARGM-TMP() 6:3-ARGM-DIS() 12:5-ARG0(AGT) 13:1-ARGM-MNR() 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_7644.txt 18 달성되다 ----- 16:3-ARGM-CND() 17:1-ARG1(THM) 18:0-rel

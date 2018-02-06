@@ -1,0 +1,5 @@
+etri#doc_4081.txt 2 그러다 ----- 2:0-rel
+etri#doc_4081.txt 3 바라다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4081.txt 5 고백하다 ----- 1:1-ARG0() 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_4081.txt 14 만나다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_4081.txt 16 들먹이다 ----- 5:2-ARGM-DIS() 7:2-ARG0(AGT) 9:2-ARG0() 14:5-ARGM-TMP() 15:1-ARGM-EXT() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2359.txt 2 확립하다 ----- 1:1-ARG2(THM) 2:0-rel
+etri#doc_2359.txt 17 말하다 ----- 3:3-ARG0(AGT) 4:1-ARGM-TMP() 16:2-ARGM-ADV(EFF) 17:0-rel

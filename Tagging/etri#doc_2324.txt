@@ -1,0 +1,4 @@
+etri#doc_2324.txt 2 ªÔ≈∞¥Ÿ ----- 1:1-() 2:0-rel
+etri#doc_2324.txt 5 º“»≠«œ¥Ÿ ----- 2:2-ARGM-DIS() 4:2-ARGM-DIS(EFF) 5:0-rel
+etri#doc_2324.txt 7 ∏‘¥Ÿ ----- 5:3-ARGM-DIS() 6:1-ARGM-ADV(EFF) 7:0-rel
+etri#doc_2324.txt 16 ≤˙¿Ã¥Ÿ ----- 12:2-() 13:1-() 14:1-() 15:1-() 16:0-rel

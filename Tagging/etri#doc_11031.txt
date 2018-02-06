@@ -1,0 +1,3 @@
+etri#doc_11031.txt 9 세우다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_11031.txt 12 관계되다 ----- 11:2-ARG2(COM) 12:0-rel
+etri#doc_11031.txt 15 다루다 ----- 13:4-ARGM-ADV(EFF) 14:1-ARGM-MNR() 15:0-rel

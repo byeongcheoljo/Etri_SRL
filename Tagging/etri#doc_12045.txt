@@ -1,0 +1,4 @@
+etri#doc_12045.txt 10 명시되다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_12045.txt 12 보완하다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_12045.txt 13 통일되다 ----- 13:0-rel
+etri#doc_12045.txt 15 정착시키다 ----- 1:1-ARG0(AGT) 7:2-ARGM-DIS() 12:5-ARGM-DIS() 14:2-ARGM-MNR(INS) 15:0-rel

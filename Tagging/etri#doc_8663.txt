@@ -1,0 +1,3 @@
+etri#doc_8663.txt 7 Æò°¡ÇÏ´Ù ----- 5:2-ARGM-CAU(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8663.txt 10 Èñ¸ÁÇÏ´Ù ----- 10:0-rel
+etri#doc_8663.txt 15 µÇ´Ù ----- 13:1-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel

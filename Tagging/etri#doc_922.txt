@@ -1,0 +1,3 @@
+etri#doc_922.txt 4 열리다 ----- 1:1-ARGM-TMP() 3:2-ARGM-PRP() 4:0-rel
+etri#doc_922.txt 11 도래하다 ----- 8:2-ARGM-ADV(EFF) 10:2-ARG1(THM) 11:0-rel
+etri#doc_922.txt 12 공감하다 ----- 5:4-ARGM-LOC(LOC) 6:1-ARG0(AGT) 11:3-ARG1(THM) 12:0-rel

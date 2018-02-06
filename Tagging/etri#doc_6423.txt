@@ -1,0 +1,4 @@
+etri#doc_6423.txt 6 제시되다 ----- 6:0-rel
+etri#doc_6423.txt 8 희망하다 ----- 8:0-rel
+etri#doc_6423.txt 10 분리하다 ----- 5:1-ARGM-TMP(LOC) 9:2-ARGM-MNR(COM) 10:0-rel
+etri#doc_6423.txt 19 감소시키다 ----- 1:1-ARGM-DIS() 4:2-ARG0(AGT) 12:5-ARGM-DIS() 13:1-ARGM-MNR(INS) 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11649.txt 3 들다 ----- 1:1-ARGM-EXT() 2:1-ARG2(THM) 3:0-rel
+etri#doc_11649.txt 9 집적거리다 ----- 4:3-ARG0(AGT) 7:3-ARG1(THM) 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_11649.txt 17 지르다 ----- 9:2-ARGM-DIS() 10:1-ARGM-TMP() 12:2-ARG0(AGT) 15:3-ARGM-INS(INS) 16:1-ARG1(THM) 17:0-rel

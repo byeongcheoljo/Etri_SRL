@@ -1,0 +1,5 @@
+etri#doc_4392.txt 2 넘다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_4392.txt 5 등단하다 ----- 2:2-ARGM-DIS() 3:1-ARGM-LOC(LOC) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4392.txt 10 받다 ----- 7:1-ARGM-EXT(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4392.txt 12 살아오다 ----- 10:3-ARGM-DIS() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4392.txt 17 부리다 ----- 14:4-ARGM-CAU(EFF) 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

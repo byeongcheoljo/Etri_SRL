@@ -1,0 +1,4 @@
+etri#doc_3340.txt 2 되돌아보다 ----- 2:0-rel
+etri#doc_3340.txt 10 내걸다 ----- 2:1-ARGM-DIS() 3:1-ARGM-DIS() 6:3-ARGM-CAU(CNT) 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_3340.txt 15 되다 ----- 11:3-ARG1(THM) 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_3340.txt 18 명심하다 ----- 16:4-ARG1(THM) 17:1-ARG0(MAG) 18:0-rel

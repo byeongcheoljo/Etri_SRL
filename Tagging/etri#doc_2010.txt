@@ -1,0 +1,4 @@
+etri#doc_2010.txt 3 소지하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2010.txt 6 인정하다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_2010.txt 7 생각하다 ----- 6:6-ARG1() 7:0-rel
+etri#doc_2010.txt 17 받아들이다 ----- 8:8-ARG0(AGT) 14:5-ARGM-CND() 16:2-ARG1(THM) 17:0-rel

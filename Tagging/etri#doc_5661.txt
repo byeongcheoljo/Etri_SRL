@@ -1,0 +1,3 @@
+etri#doc_5661.txt 6 이루어지다 ----- 3:2-ARGM-TMP() 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_5661.txt 15 양산하다 ----- 10:2-ARG0(AGT) 11:1-ARGM-TMP() 14:3-ARG1(THM) 15:0-rel
+etri#doc_5661.txt 16 예고하다 ----- 1:1-ARGM-DIS() 8:2-ARG1(AGT) 15:4-ARG2() 16:0-rel

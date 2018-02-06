@@ -1,0 +1,4 @@
+etri#doc_6155.txt 2 보다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6155.txt 10 받다 ----- 8:2-ARGM-CAU(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6155.txt 16 야기하다 ----- 4:2-ARG0(EFF) 5:1-ARGM-DIS() 15:5-ARG1(THM) 16:0-rel
+etri#doc_6155.txt 17 생각하다 ----- 16:6-ARG1() 17:0-rel

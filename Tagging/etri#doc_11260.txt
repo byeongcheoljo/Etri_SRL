@@ -1,0 +1,4 @@
+etri#doc_11260.txt 6 짊어지다 ----- 3:2-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_11260.txt 10 외치다 ----- 6:3-ARGM-DIS() 9:3-ARGM-INS(INS) 10:0-rel
+etri#doc_11260.txt 16 밝히다 ----- 13:2-ARGM-EXT(EFF) 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_11260.txt 19 나타나다 ----- 1:1-ARGM-DIS() 10:4-ARGM-DIS() 11:1-ARGM-LOC(SRC) 18:4-ARG2(LOC) 19:0-rel

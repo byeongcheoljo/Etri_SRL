@@ -1,0 +1,4 @@
+etri#doc_6854.txt 6 지키다 ----- 4:4-ARG1() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6854.txt 12 지키다 ----- 8:1-ARGM-MNR() 11:3-ARG1(THM) 12:0-rel
+etri#doc_6854.txt 16 관련되다 ----- 15:2-ARG2(COM) 16:0-rel
+etri#doc_6854.txt 18 지키다 ----- 7:3-ARG0(AGT) 12:4-ARGM-DIS() 13:1-ARGM-MNR() 17:4-ARG1(THM) 18:0-rel

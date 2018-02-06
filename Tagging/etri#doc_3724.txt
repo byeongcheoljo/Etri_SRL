@@ -1,0 +1,5 @@
+etri#doc_3724.txt 2 알다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_3724.txt 4 사로잡히다 ----- 3:3-ARG0(EFF) 4:0-rel
+etri#doc_3724.txt 9 매달리다 ----- 5:5-ARG0(AGT) 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_3724.txt 13 훑어보다 ----- 10:1-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_3724.txt 15 하다 ----- 14:1-ARG1(CNT) 15:0-rel

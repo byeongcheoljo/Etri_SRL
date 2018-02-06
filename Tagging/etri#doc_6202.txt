@@ -1,0 +1,4 @@
+etri#doc_6202.txt 7 발생하다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_6202.txt 9 대립되다 ----- 5:2-ARG0(THM) 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_6202.txt 15 시키다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_6202.txt 16 해결하다 ----- 15:2-ARGM-DIS() 16:0-rel

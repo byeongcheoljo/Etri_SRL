@@ -1,0 +1,3 @@
+etri#doc_11496.txt 9 남다 ----- 9:0-rel
+etri#doc_11496.txt 12 주다 ----- 10:2-ARG1(THM) 11:1-ARGM-ADV() 12:0-rel
+etri#doc_11496.txt 13 결합하다 ----- 1:1-ARGM-TMP() 7:2-ARGM-CND() 12:2-ARGM-PRP() 13:0-rel

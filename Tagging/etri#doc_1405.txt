@@ -1,0 +1,4 @@
+etri#doc_1405.txt 3 조성되다 ----- 2:1-ARGM-LOC() 3:0-rel
+etri#doc_1405.txt 5 비롯하다 ----- 4:3-ARGM-LOC(THM) 5:0-rel
+etri#doc_1405.txt 13 잡다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1405.txt 16 먹다 ----- 14:3-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel

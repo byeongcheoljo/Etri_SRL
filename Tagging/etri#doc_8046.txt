@@ -1,0 +1,4 @@
+etri#doc_8046.txt 7 보다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8046.txt 8 참다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_8046.txt 12 능가하다 ----- 11:1-ARG2(CRT) 12:0-rel
+etri#doc_8046.txt 15 되다 ----- 10:1-ARGM-TMP() 14:2-ARG2(FNS) 15:0-rel

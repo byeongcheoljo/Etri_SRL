@@ -1,0 +1,4 @@
+etri#doc_5823.txt 5 밀다 ----- 2:2-ARG1(THM) 4:2-ARGM-MNR() 5:0-rel
+etri#doc_5823.txt 10 치중하다 ----- 8:1-ARGM-MNR() 9:1-ARG2(GOL) 10:0-rel
+etri#doc_5823.txt 13 맞추다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_5823.txt 14 바꾸다 ----- 5:3-ARGM-DIS() 7:2-ARG1(THM) 10:2-ARGM-DIS() 13:3-ARGM-PRP() 14:0-rel

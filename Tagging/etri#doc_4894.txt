@@ -1,0 +1,4 @@
+etri#doc_4894.txt 7 생각하다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_4894.txt 10 가지다 ----- 10:0-rel
+etri#doc_4894.txt 11 가지다 ----- 1:1-ARG0(LOC) 4:3-ARGM-ADV(EFF) 8:4-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_4894.txt 15 얻어맞다 ----- 14:2-ARGM-DIS() 15:0-rel

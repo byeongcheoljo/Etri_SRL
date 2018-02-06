@@ -1,0 +1,4 @@
+etri#doc_7061.txt 8 남다 ----- 7:6-ARG2(LOC) 8:0-rel
+etri#doc_7061.txt 13 연구하다 ----- 11:2-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7061.txt 16 꿰뚫다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_7061.txt 20 보여주다 ----- 1:1-ARG0(EFF) 13:2-ARGM-MNR() 19:2-ARG1(THM) 20:0-rel

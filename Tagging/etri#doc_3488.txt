@@ -1,0 +1,1 @@
+etri#doc_3488.txt 16 나타내다 ----- 2:2-ARGM-DIS(EFF) 5:3-ARGM-TMP() 7:2-ARG0(EFF) 10:2-ARGM-CND() 11:1-ARGM-EXT(FNS) 15:4-ARG1(THM) 16:0-rel

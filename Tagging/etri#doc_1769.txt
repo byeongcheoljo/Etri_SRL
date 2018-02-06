@@ -1,0 +1,2 @@
+etri#doc_1769.txt 7 보다 ----- 5:2-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_1769.txt 13 생각하다 ----- 10:2-ARG1(THM) 12:2-ARGM-DIS() 13:0-rel

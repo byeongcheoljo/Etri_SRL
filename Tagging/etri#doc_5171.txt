@@ -1,0 +1,5 @@
+etri#doc_5171.txt 7 졸업하다 ----- 6:1-ARG1(SRC) 7:0-rel
+etri#doc_5171.txt 9 가다 ----- 8:1-ARG3(GOL) 9:0-rel
+etri#doc_5171.txt 11 되다 ----- 10:1-ARG2(FNS) 11:0-rel
+etri#doc_5171.txt 13 나오다 ----- 7:2-ARGM-TMP() 9:2-ARGM-DIS() 11:2-ARGM-CAU() 12:1-ARG2(SRC) 13:0-rel
+etri#doc_5171.txt 17 오다 ----- 2:2-ARG0(AGT) 5:3-ARGM-DIS() 13:2-ARGM-DIS() 16:3-ARGM-MNR(INS) 17:0-rel

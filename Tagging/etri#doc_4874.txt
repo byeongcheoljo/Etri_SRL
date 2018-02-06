@@ -1,0 +1,3 @@
+etri#doc_4874.txt 5 공유하다 ----- 3:1-ARG0(AGT) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4874.txt 11 두다 ----- 9:2-ARG2(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4874.txt 15 가다 ----- 2:2-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARG3(GOL) 15:0-rel

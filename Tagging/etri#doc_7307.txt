@@ -1,0 +1,3 @@
+etri#doc_7307.txt 4 늦어지다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_7307.txt 8 떨어지다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_7307.txt 16 찾아내다 ----- 4:2-ARGM-TMP() 5:1-ARG0(AGT) 11:6-ARG1(THM) 14:3-ARGM-LOC(LOC) 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6221.txt 5 움직이다 ----- 4:2-ARGM-ADV(CNT) 5:0-rel
+etri#doc_6221.txt 8 맞추다 ----- 7:5-ARG2(CRT) 8:0-rel
+etri#doc_6221.txt 10 빼다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_6221.txt 17 부르다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 8:6-ARGM-DIS() 10:2-ARGM-DIS() 15:5-ARG2(FNS) 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1996.txt 5 뿌리내리다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1996.txt 12 치닫다 ----- 10:2-ARG1(THM) 11:1-ARG2(DIR) 12:0-rel
+etri#doc_1996.txt 16 권장되다 ----- 1:1-ARGM-TMP() 2:1-ARG0(THM) 8:3-ARGM-DIS() 12:2-ARGM-DIS() 13:1-() 14:1-ARG1(THM) 15:1-ARG2(FNS) 16:0-rel

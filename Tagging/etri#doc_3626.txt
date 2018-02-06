@@ -1,0 +1,5 @@
+etri#doc_3626.txt 4 두다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_3626.txt 10 맞다 ----- 8:1-ARG2(COM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_3626.txt 11 가출하다 ----- 7:2-ARGM-TMP() 10:2-ARGM-CAU() 11:0-rel
+etri#doc_3626.txt 15 중단하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_3626.txt 18 보내다 ----- 5:5-ARG0(AGT) 11:3-ARGM-CAU() 15:4-ARGM-DIS() 16:1-ARGM-INS(INS) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11201.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11201.txt 5 하다 ----- 2:2-ARGM-TMP() 4:2-ARGM-TMP() 5:0-rel
+etri#doc_11201.txt 8 흡수하다 ----- 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_11201.txt 13 건조되다 ----- 8:2-ARGM-DIS() 10:2-ARGM-CAU(EFF) 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11201.txt 16 들다 ----- 5:3-ARGM-CND() 13:2-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

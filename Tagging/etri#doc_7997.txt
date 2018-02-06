@@ -1,0 +1,3 @@
+etri#doc_7997.txt 8 띠다 ----- 2:2-ARG0(AGT) 3:1-ARGM-DIS() 5:2-ARG0(AGT) 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_7997.txt 17 차지하다 ----- 10:2-ARGM-ADV(EFF) 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_7997.txt 20 밝혀지다 ----- 8:2-ARGM-DIS() 18:4-ARG1(THM) 19:1-ARGM-TMP() 20:0-rel

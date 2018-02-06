@@ -1,0 +1,1 @@
+etri#doc_8390.txt 14 강화하다 ----- 1:1-ARGM-EXT() 2:1-ARGM-CAU() 5:2-ARG1(THM) 8:3-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel

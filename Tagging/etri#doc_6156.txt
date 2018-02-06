@@ -1,0 +1,2 @@
+etri#doc_6156.txt 4 끌다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6156.txt 7 관련하다 ----- 6:2-ARG2(COM) 7:0-rel

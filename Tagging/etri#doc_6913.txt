@@ -1,0 +1,4 @@
+etri#doc_6913.txt 4 일어나다 ----- 1:1-ARGM-MNR() 3:2-ARG1(THM) 4:0-rel
+etri#doc_6913.txt 7 출판되다 ----- 5:1-ARGM-TMP() 6:1-ARGM-TMP() 7:0-rel
+etri#doc_6913.txt 11 언급되다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_6913.txt 17 되다 ----- 4:3-ARGM-CAU() 14:6-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

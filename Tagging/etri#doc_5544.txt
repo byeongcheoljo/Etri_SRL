@@ -1,0 +1,5 @@
+etri#doc_5544.txt 3 생기다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5544.txt 7 버리다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5544.txt 10 비다 ----- 8:1-ARGM-TMP() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_5544.txt 13 몰려들다 ----- 3:3-ARGM-DIS() 4:1-ARGM-LOC(SRC) 7:3-ARGM-DIS() 11:3-ARG2(GOL) 12:1-ARG1(AGT) 13:0-rel
+etri#doc_5544.txt 16 벌어지다 ----- 13:2-ARGM-CAU() 14:1-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel

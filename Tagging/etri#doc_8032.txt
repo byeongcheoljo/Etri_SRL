@@ -1,0 +1,3 @@
+etri#doc_8032.txt 3 내다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_8032.txt 13 나타내다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8032.txt 17 되다 ----- 3:2-ARGM-DIS() 4:1-ARGM-DIS() 15:5-ARGM-ADV() 16:1-ARGM-MNR() 17:0-rel

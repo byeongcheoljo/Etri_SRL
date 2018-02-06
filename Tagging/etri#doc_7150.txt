@@ -1,0 +1,7 @@
+etri#doc_7150.txt 5 나오다 ----- 2:2-ARGM-LOC(INS) 3:1-ARGM-MNR() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7150.txt 7 타락하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7150.txt 8 타락하다 ----- 7:2-ARGM-MNR() 8:0-rel
+etri#doc_7150.txt 9 막히다 ----- 9:0-rel
+etri#doc_7150.txt 14 태어나다 ----- 14:0-rel
+etri#doc_7150.txt 16 보내다 ----- 13:1-ARG0(AGT) 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_7150.txt 19 생각하다 ----- 5:2-ARGM-DIS() 12:2-ARG0(MAG) 17:3-ARG1(THM) 18:1-ARGM-TMP() 19:0-rel

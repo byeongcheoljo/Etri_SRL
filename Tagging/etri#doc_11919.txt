@@ -1,0 +1,2 @@
+etri#doc_11919.txt 11 ∏√±‚¥Ÿ ----- 2:2-ARGM-LOC() 6:3-ARGM-DIS() 7:1-ARG1(THM) 10:3-ARG0(GOL) 11:0-rel
+etri#doc_11919.txt 16 ¡¸¿€«œ¥Ÿ ----- 11:4-ARGM-CND() 15:4-ARG0(MAG) 16:0-rel

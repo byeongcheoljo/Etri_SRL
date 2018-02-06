@@ -1,0 +1,4 @@
+etri#doc_1958.txt 4 되다 ----- 1:1-ARG0(THM) 3:2-ARG1(THM) 4:0-rel
+etri#doc_1958.txt 9 되다 ----- 6:1-ARG0(THM) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1958.txt 17 헐떡거리다 ----- 17:0-rel
+etri#doc_1958.txt 18 생활하다 ----- 5:4-ARGM-EXT(FNS) 10:4-ARG1(THM) 11:1-ARG0(AGT) 13:2-ARGM-EXT(FNS) 16:3-ARGM-LOC(LOC) 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_5321.txt 19 기록하다 ----- 2:2-ARGM-TMP() 3:1-ARG0(THM) 12:6-ARGM-CAU(EFF) 13:1-ARG0(THM) 14:1-ARGM-TMP() 15:1-ARGM-TMP() 18:2-ARG1(THM) 19:0-rel

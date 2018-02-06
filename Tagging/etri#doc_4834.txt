@@ -1,0 +1,4 @@
+etri#doc_4834.txt 4 태어나다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4834.txt 13 재배하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_4834.txt 15 얻다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_4834.txt 17 파종하다 ----- 7:3-ARG0(AGT) 9:2-ARGM-TMP() 10:1-ARG0(AGT) 13:3-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2915.txt 2 버리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2915.txt 5 구하다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 5:0-rel
+etri#doc_2915.txt 8 미치다 ----- 8:0-rel
+etri#doc_2915.txt 17 떠나다 ----- 9:2-ARGM-DIS() 11:2-ARGM-MNR() 13:2-ARGM-INS(INS) 15:2-ARGM-DIR(COM) 16:1-ARG2(SRC) 17:0-rel

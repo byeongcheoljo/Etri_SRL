@@ -1,0 +1,3 @@
+etri#doc_8164.txt 2 들다 ----- 1:1-ARGM-LOC() 2:0-rel
+etri#doc_8164.txt 10 나누다 ----- 4:2-ARG1(THM) 9:5-ARG2(FNS) 10:0-rel
+etri#doc_8164.txt 19 알아보다 ----- 10:6-ARGM-DIS() 11:1-ARG0(MAG) 18:3-ARGM-DIS() 19:0-rel

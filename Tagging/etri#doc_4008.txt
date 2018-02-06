@@ -1,0 +1,6 @@
+etri#doc_4008.txt 4 가다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_4008.txt 6 보다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_4008.txt 9 망하다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_4008.txt 11 오다 ----- 9:2-ARGM-TMP() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4008.txt 13 세우다 ----- 7:1-ARGM-TMP() 12:3-ARG0(AGT) 13:0-rel
+etri#doc_4008.txt 16 가다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(LOC) 6:2-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

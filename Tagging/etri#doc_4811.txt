@@ -1,0 +1,8 @@
+etri#doc_4811.txt 2 치다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4811.txt 4 동하다 ----- 2:2-ARGM-CND() 3:1-ARG0(EXP) 4:0-rel
+etri#doc_4811.txt 6 동하다 ----- 5:1-ARG0(EXP) 6:0-rel
+etri#doc_4811.txt 8 생기다 ----- 4:2-ARGM-DIS() 6:2-ARGM-CND() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4811.txt 10 동하다 ----- 9:1-ARG0(EXP) 10:0-rel
+etri#doc_4811.txt 12 내다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_4811.txt 14 되다 ----- 12:2-ARGM-CND() 13:1-ARG2(FNS) 14:0-rel
+etri#doc_4811.txt 18 파고들다 ----- 17:2-ARG1(GOL) 18:0-rel

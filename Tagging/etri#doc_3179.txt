@@ -1,0 +1,3 @@
+etri#doc_3179.txt 16 나누다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_3179.txt 17 담소하다 ----- 16:2-ARGM-DIS() 17:0-rel
+etri#doc_3179.txt 22 느끼다 ----- 4:3-ARGM-DIS() 9:4-ARGM-DIS() 14:4-ARGM-CAU() 18:4-ARGM-TMP(LOC) 20:2-ARGM-MNR() 21:1-ARG1(THM) 22:0-rel

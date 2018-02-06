@@ -1,0 +1,4 @@
+etri#doc_11472.txt 5 모르다 ----- 3:1-ARG0(EXP) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11472.txt 16 정리하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_11472.txt 17 결정하다 ----- 14:3-ARG0(AGT) 16:2-ARGM-TMP() 17:0-rel
+etri#doc_11472.txt 19 따르다 ----- 2:2-ARG0(AGT) 10:3-ARGM-TMP(LOC) 18:4-ARGM-MNR(INS) 19:0-rel

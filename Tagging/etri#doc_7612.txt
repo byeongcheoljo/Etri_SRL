@@ -1,0 +1,4 @@
+etri#doc_7612.txt 6 사용되다 ----- 3:2-ARG1(THM) 5:2-ARG2(FNS) 6:0-rel
+etri#doc_7612.txt 11 의미하다 ----- 10:3-ARG2(THM) 11:0-rel
+etri#doc_7612.txt 17 보완하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_7612.txt 20 의미하다 ----- 1:1-ARG1(EFF) 13:6-ARGM-DIS() 14:1-ARGM-MNR(INS) 19:2-ARG2(THM) 20:0-rel

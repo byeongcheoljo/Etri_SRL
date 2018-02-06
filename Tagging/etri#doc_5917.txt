@@ -1,0 +1,2 @@
+etri#doc_5917.txt 4 함께하다 ----- 2:1-ARGM-MNR(COM) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5917.txt 10 동조하다 ----- 9:5-ARG0(MAG) 10:0-rel

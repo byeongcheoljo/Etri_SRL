@@ -1,0 +1,2 @@
+etri#doc_3722.txt 6 기록하다 ----- 4:1-ARG0(THM) 5:1-ARG1(FNS) 6:0-rel
+etri#doc_3722.txt 13 달하다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARGM-CAU(EFF) 3:1-ARGM-TMP() 7:3-ARG1(THM) 12:3-ARG2(GOL) 13:0-rel

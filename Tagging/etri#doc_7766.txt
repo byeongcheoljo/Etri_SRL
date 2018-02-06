@@ -1,0 +1,2 @@
+etri#doc_7766.txt 7 거치다 ----- 6:2-ARG2(THM) 7:0-rel
+etri#doc_7766.txt 14 불러일으키다 ----- 4:3-ARG0(EFF) 7:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

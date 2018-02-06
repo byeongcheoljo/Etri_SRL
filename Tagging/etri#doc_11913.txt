@@ -1,0 +1,4 @@
+etri#doc_11913.txt 2 열리다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_11913.txt 8 보다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_11913.txt 11 잡다 ----- 9:1-ARGM-DIS() 10:1-ARG1() 11:0-rel
+etri#doc_11913.txt 18 가늠하다 ----- 8:3-ARGM-CND() 11:2-ARGM-DIS() 17:2-ARG1() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4355.txt 2 시작되다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_4355.txt 8 인식하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4355.txt 13 나서다 ----- 5:1-ARG0(AGT) 9:4-ARGM-DIS() 11:2-ARG1(LOC) 12:1-ARG1(FNS) 13:0-rel
+etri#doc_4355.txt 16 되다 ----- 13:2-ARGM-DIS() 15:2-ARG2(FNS) 16:0-rel
+etri#doc_4355.txt 19 남다 ----- 3:3-ARG1(AGT) 4:1-ARGM-TMP(LOC) 18:2-ARG1(FNS) 19:0-rel

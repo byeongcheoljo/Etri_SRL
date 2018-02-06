@@ -1,0 +1,4 @@
+etri#doc_3119.txt 6 반영되다 ----- 1:1-ARGM-LOC(LOC) 5:4-ARG1(THM) 6:0-rel
+etri#doc_3119.txt 11 자리잡다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_3119.txt 15 합일되다 ----- 15:0-rel
+etri#doc_3119.txt 17 일으키다 ----- 6:5-ARGM-DIS() 12:4-ARGM-CAU() 13:1-ARG0(AGT) 14:1-ARGM-ADV() 16:2-ARG1(THM) 17:0-rel

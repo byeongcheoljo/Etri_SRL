@@ -1,0 +1,3 @@
+etri#doc_1302.txt 6 받다 ----- 3:1-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_1302.txt 13 따르다 ----- 8:5-ARGM-DIS() 9:1-ARGM-PRD(EFF) 10:1-ARGM-MNR() 12:2-ARG1(THM) 13:0-rel
+etri#doc_1302.txt 16 하다 ----- 1:1-ARGM-DIS() 14:4-ARG0(LOC) 15:1-ARG1(THM) 16:0-rel

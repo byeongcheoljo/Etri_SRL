@@ -1,0 +1,6 @@
+etri#doc_1008.txt 2 모이다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1008.txt 5 꼬부라지다 ----- 3:3-ARG1(THM) 4:1-ARG1(THM) 5:0-rel
+etri#doc_1008.txt 9 벗어나다 ----- 5:2-ARGM-DIS() 6:1-ARGM-CAU(COM) 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1008.txt 13 쓰러지다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_1008.txt 16 멈추다 ----- 14:3-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_1008.txt 18 돌아보다 ----- 9:2-ARGM-TMP() 11:2-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

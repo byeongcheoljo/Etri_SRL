@@ -1,0 +1,2 @@
+etri#doc_5824.txt 12 풀다 ----- 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5824.txt 15 다짐하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:4-ARGM-DIS(CNT) 14:2-ARG1(THM) 15:0-rel

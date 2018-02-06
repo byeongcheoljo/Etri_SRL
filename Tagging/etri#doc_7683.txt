@@ -1,0 +1,1 @@
+etri#doc_7683.txt 8 정립시키다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel

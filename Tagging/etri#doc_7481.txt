@@ -1,0 +1,5 @@
+etri#doc_7481.txt 8 쫓겨나다 ----- 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_7481.txt 10 숨다 ----- 10:0-rel
+etri#doc_7481.txt 11 지내다 ----- 6:1-ARGM-TMP() 8:2-ARGM-DIS() 9:1-ARGM-LOC(LOC) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_7481.txt 14 불리다 ----- 14:0-rel
+etri#doc_7481.txt 15 들어오다 ----- 5:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARGM-TMP() 14:1-ARGM-DIS() 15:0-rel

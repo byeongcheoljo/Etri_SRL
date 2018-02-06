@@ -1,0 +1,4 @@
+etri#doc_8116.txt 5 ½ò¸®´Ù ----- 3:3-ARG1(THM) 4:1-ARG2(GOL) 5:0-rel
+etri#doc_8116.txt 7 ´À³¢´Ù ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_8116.txt 14 ½ºÃÄ°¡´Ù ----- 10:3-ARG0(THM) 12:2-ARG1(LOC) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_8116.txt 15 ´À³¢´Ù ----- 5:2-ARGM-TMP() 14:2-ARG1() 15:0-rel

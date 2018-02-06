@@ -1,0 +1,5 @@
+etri#doc_664.txt 3 정해지다 ----- 3:0-rel
+etri#doc_664.txt 6 따라가다 ----- 4:2-ARG1(THM) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_664.txt 12 찾다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_664.txt 14 잡다 ----- 10:1-ARGM-MNR() 12:2-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_664.txt 16 걷다 ----- 2:2-ARGM-LOC(LOC) 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:1-ARGM-MNR() 9:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_917.txt 4 벗어나다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_917.txt 7 과장하다 ----- 7:0-rel
+etri#doc_917.txt 8 표현하다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_917.txt 12 표현하다 ----- 1:1-ARGM-DIS() 4:3-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARG1() 12:0-rel

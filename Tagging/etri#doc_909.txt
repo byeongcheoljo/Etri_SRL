@@ -1,0 +1,4 @@
+etri#doc_909.txt 5 발견하다 ----- 2:2-ARG0(AGT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_909.txt 9 넘다 ----- 8:1-ARG2(CRT) 9:0-rel
+etri#doc_909.txt 13 오다 ----- 5:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_909.txt 18 인정받다 ----- 13:4-ARGM-TMP() 14:1-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_570.txt 6 备己登促 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:1-ARGM-LOC(SRC) 5:2-ARGM-LOC(GOL) 6:0-rel
+etri#doc_570.txt 13 备己登促 ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:1-ARGM-LOC(SRC) 12:2-ARGM-LOC(GOL) 13:0-rel

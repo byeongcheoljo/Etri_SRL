@@ -1,0 +1,5 @@
+etri#doc_4877.txt 5 개최되다 ----- 1:1-ARG1(THM) 3:2-ARGM-LOC(LOC) 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_4877.txt 10 개최되다 ----- 7:1-ARG1(THM) 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4877.txt 12 고려하다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_4877.txt 16 맴돌다 ----- 13:1-ARG0(AGT) 14:1-ARGM-TMP() 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_4877.txt 17 의미하다 ----- 12:5-ARGM-TMP() 16:2-ARG2(THM) 17:0-rel

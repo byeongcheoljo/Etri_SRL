@@ -1,0 +1,5 @@
+etri#doc_11493.txt 4 돌다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR(INS) 3:1-ARGM-EXT(EFF) 4:0-rel
+etri#doc_11493.txt 7 돌다 ----- 6:2-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11493.txt 13 이루다 ----- 10:2-ARG0(AGT) 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_11493.txt 14 안정하다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_11493.txt 16 되다 ----- 15:1-ARG2(FNS) 16:0-rel

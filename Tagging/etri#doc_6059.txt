@@ -1,0 +1,7 @@
+etri#doc_6059.txt 3 하다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_6059.txt 5 지나다 ----- 4:1-ARG0(CRT) 5:0-rel
+etri#doc_6059.txt 7 출발하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:0-rel
+etri#doc_6059.txt 9 지나다 ----- 8:1-ARG0(CRT) 9:0-rel
+etri#doc_6059.txt 12 출발하다 ----- 3:2-ARGM-DIS() 7:2-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARG0(AGT) 12:0-rel
+etri#doc_6059.txt 15 쏟아지다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_6059.txt 16 나가다 ----- 15:2-ARGM-DIS() 16:0-rel

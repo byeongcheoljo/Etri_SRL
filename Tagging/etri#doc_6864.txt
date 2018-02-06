@@ -1,0 +1,5 @@
+etri#doc_6864.txt 4 피하다 ----- 3:1-ARGM-LOC(GOL) 4:0-rel
+etri#doc_6864.txt 5 치유되다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_6864.txt 8 주다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6864.txt 15 빠져들다 ----- 13:2-ARGM-LOC(GOL) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_6864.txt 16 만들다 ----- 2:2-ARG0(AGT) 8:3-ARGM-DIS() 9:1-ARGM-MNR(FNS) 10:1-ARG1(THM) 11:1-ARGM-EXT(EFF) 15:2-ARGM-PRP() 16:0-rel

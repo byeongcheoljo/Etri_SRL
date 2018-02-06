@@ -1,0 +1,5 @@
+etri#doc_7095.txt 3 피다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_7095.txt 13 핥다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7095.txt 16 살찌우다 ----- 8:2-ARGM-DIS() 10:2-ARG0(AGT) 13:3-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7095.txt 20 물어뜯다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_7095.txt 22 채우다 ----- 16:3-ARGM-DIS() 17:1-ARG0(AGT) 20:3-ARGM-DIS() 21:1-ARG1(THM) 22:0-rel

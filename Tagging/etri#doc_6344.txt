@@ -1,0 +1,4 @@
+etri#doc_6344.txt 4 반복되다 ----- 3:3-ARGM-EXT(CRT) 4:0-rel
+etri#doc_6344.txt 6 환기하다 ----- 5:5-ARG0(AGT) 6:0-rel
+etri#doc_6344.txt 10 상실하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6344.txt 15 던지다 ----- 8:2-ARG0(AGT) 11:3-ARG2(GOL) 14:3-ARG1(THM) 15:0-rel

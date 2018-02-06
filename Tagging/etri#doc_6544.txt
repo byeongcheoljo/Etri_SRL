@@ -1,0 +1,4 @@
+etri#doc_6544.txt 5 속하다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_6544.txt 7 폐지하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_6544.txt 11 금지하다 ----- 7:4-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_6544.txt 14 발표하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 13:6-ARG1(THM) 14:0-rel

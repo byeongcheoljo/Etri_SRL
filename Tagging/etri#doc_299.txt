@@ -1,0 +1,1 @@
+etri#doc_299.txt 20 길들이다 ----- 17:2-ARGM-MNR(INS) 19:2-ARGM-MNR() 20:0-rel

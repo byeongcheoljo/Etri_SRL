@@ -1,0 +1,5 @@
+etri#doc_5664.txt 2 참관하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5664.txt 11 가다 ----- 10:2-ARG3(GOL) 11:0-rel
+etri#doc_5664.txt 14 확인하다 ----- 8:1-ARGM-MNR() 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_5664.txt 16 받다 ----- 7:3-ARGM-INS(INS) 15:4-ARG1(THM) 16:0-rel
+etri#doc_5664.txt 17 밝히다 ----- 4:2-ARG0(AGT) 16:5-ARG1(CNT) 17:0-rel

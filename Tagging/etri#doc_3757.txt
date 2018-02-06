@@ -1,0 +1,4 @@
+etri#doc_3757.txt 5 시도하다 ----- 1:1-ARGM-TMP() 3:2-ARGM-MNR(COM) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3757.txt 7 주춤하다 ----- 7:0-rel
+etri#doc_3757.txt 12 제휴하다 ----- 10:2-ARG1(COM) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_3757.txt 15 생산하다 ----- 6:3-ARG0(AGT) 7:1-ARGM-DIS() 8:1-ARGM-TMP() 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8349.txt 6 하다 ----- 4:3-ARG1(THM) 5:1-ARGM-DIR(DIR) 6:0-rel
+etri#doc_8349.txt 15 하다 ----- 13:1-ARG1(THM) 14:1-ARGM-DIR(DIR) 15:0-rel

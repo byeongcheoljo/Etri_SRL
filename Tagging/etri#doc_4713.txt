@@ -1,0 +1,5 @@
+etri#doc_4713.txt 2 찾다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4713.txt 5 하다 ----- 2:2-ARGM-DIS() 3:1-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_4713.txt 7 물리치다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4713.txt 11 갖추다 ----- 5:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_4713.txt 15 찾다 ----- 11:3-ARGM-DIS() 12:1-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8487.txt 10 쌓다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_8487.txt 15 이해하다 ----- 5:2-ARG1(THM) 13:6-ARG0(MAG) 14:1-ARGM-MNR() 15:0-rel

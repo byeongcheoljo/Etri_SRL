@@ -1,0 +1,6 @@
+etri#doc_2424.txt 2 연기하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2424.txt 4 하다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_2424.txt 6 늘리다 ----- 4:2-() 5:1-() 6:0-rel
+etri#doc_2424.txt 8 지급하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_2424.txt 13 막다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_2424.txt 16 증가시키다 ----- 13:3-() 14:1-() 15:1-() 16:0-rel

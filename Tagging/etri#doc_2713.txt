@@ -1,0 +1,2 @@
+etri#doc_2713.txt 13 집착하다 ----- 11:2-ARG3(GOL) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2713.txt 15 동감하다 ----- 8:3-ARGM-CAU() 14:3-ARG1(THM) 15:0-rel

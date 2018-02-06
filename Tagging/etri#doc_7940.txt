@@ -1,0 +1,5 @@
+etri#doc_7940.txt 3 철폐되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7940.txt 6 증가하다 ----- 3:3-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_7940.txt 7 여행하다 ----- 7:0-rel
+etri#doc_7940.txt 17 알다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_7940.txt 18 어려워지다 ----- 6:3-ARGM-MNR() 13:2-ARG0(EXP) 14:1-ARGM-EXT() 17:3-ARGM-MNR(INS) 18:0-rel

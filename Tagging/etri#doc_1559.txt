@@ -1,0 +1,4 @@
+etri#doc_1559.txt 8 돌다 ----- 7:2-ARG0() 8:0-rel
+etri#doc_1559.txt 15 겹치다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_1559.txt 16 입다 ----- 13:3-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel
+etri#doc_1559.txt 20 찾다 ----- 19:2-ARG1(THM) 20:0-rel

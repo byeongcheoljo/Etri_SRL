@@ -1,0 +1,6 @@
+etri#doc_5145.txt 5 비틀거리다 ----- 4:4-ARGM-LOC(LOC) 5:0-rel
+etri#doc_5145.txt 7 두다 ----- 6:6-ARG1(THM) 7:0-rel
+etri#doc_5145.txt 14 터뜨리다 ----- 11:2-ARG1(THM) 13:2-ARGM-MNR() 14:0-rel
+etri#doc_5145.txt 15 밤새우다 ----- 15:0-rel
+etri#doc_5145.txt 17 즐기다 ----- 9:2-ARG0(AGT) 14:3-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_5145.txt 20 터지다 ----- 7:7-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARGM-EXT(EFF) 20:0-rel

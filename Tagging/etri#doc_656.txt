@@ -1,0 +1,4 @@
+etri#doc_656.txt 7 나누다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_656.txt 8 토의하다 ----- 8:0-rel
+etri#doc_656.txt 10 설정하다 ----- 7:2-ARGM-CAU(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_656.txt 16 하다 ----- 1:1-ARGM-TMP() 4:3-ARGM-CAU() 5:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-INS(INS) 14:3-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

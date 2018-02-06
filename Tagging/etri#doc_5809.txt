@@ -1,0 +1,2 @@
+etri#doc_5809.txt 6 갖추다 ----- 4:3-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_5809.txt 9 도태하다 ----- 7:3-ARG1(THM) 8:1-ARGM-TMP(LOC) 9:0-rel

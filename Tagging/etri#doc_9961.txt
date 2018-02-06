@@ -1,0 +1,2 @@
+etri#doc_9961.txt 11 운운하다 ----- 10:2-ARGM-ADV(EFF) 11:0-rel
+etri#doc_9961.txt 16 말하다 ----- 3:2-ARGM-ADV(EFF) 13:5-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARGM-EXT() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11146.txt 10 갖다 ----- 2:2-ARG0(AGT) 5:2-ARGM-EXT(CRT) 7:2-ARGM-LOC(THM) 8:1-ARGM-EXT() 9:1-ARG1(Npr) 10:0-rel
+etri#doc_11146.txt 15 적용되다 ----- 11:3-ARG1(THM) 12:1-ARGM-DIS() 14:2-ARGM-CAU(EFF) 15:0-rel

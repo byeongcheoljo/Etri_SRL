@@ -1,0 +1,4 @@
+etri#doc_11247.txt 3 뻗다 ----- 2:2-ARG2(SRC) 3:0-rel
+etri#doc_11247.txt 7 가로지르다 ----- 5:2-ARG0(AGT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_11247.txt 12 맞대다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11247.txt 14 노닐다 ----- 7:2-ARGM-DIS() 8:1-ARGM-LOC(LOC) 10:2-ARG0(AGT) 12:2-ARGM-MNR() 13:1-ARGM-MNR() 14:0-rel

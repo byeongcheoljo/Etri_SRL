@@ -1,0 +1,2 @@
+etri#doc_1674.txt 10 느끼다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1674.txt 17 넘치다 ----- 12:2-ARG0(THM) 14:2-ARGM-EXT(EFF) 15:1-ARGM-DIS() 16:1-ARG0(THM) 17:0-rel

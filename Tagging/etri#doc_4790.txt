@@ -1,0 +1,1 @@
+etri#doc_4790.txt 18 µÇ´Ù ----- 1:1-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-CND(CRT) 15:5-ARGM-LOC(LOC) 17:2-ARG2(FNS) 18:0-rel

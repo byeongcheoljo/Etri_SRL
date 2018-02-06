@@ -1,0 +1,3 @@
+etri#doc_773.txt 4 참다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_773.txt 8 주장하다 ----- 7:2-ARG2() 8:0-rel
+etri#doc_773.txt 17 당하다 ----- 10:5-ARGM-CAU() 11:1-ARG1(GOL) 12:1-ARGM-TMP() 15:3-ARG3(AGT) 16:1-ARG2(Npr) 17:0-rel

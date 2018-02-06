@@ -1,0 +1,7 @@
+etri#doc_9769.txt 3 ¿À´Ù ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_9769.txt 5 Áþ´Ù ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_9769.txt 7 º£´Ù ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_9769.txt 10 ¾ô´Ù ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_9769.txt 12 ¹þ±â´Ù ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_9769.txt 14 µ¤´Ù ----- 5:2-ARGM-DIS() 10:3-ARGM-DIS() 12:2-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_9769.txt 17 ½×´Ù ----- 1:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-LOC(LOC) 16:1-ARG1(THM) 17:0-rel

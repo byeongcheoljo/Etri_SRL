@@ -1,0 +1,5 @@
+etri#doc_6347.txt 5 뚫리다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_6347.txt 6 비유하다 ----- 3:3-ARG1(THM) 5:2-ARG2() 6:0-rel
+etri#doc_6347.txt 13 내다보다 ----- 11:3-ARG0(MAG) 12:1-ARG1(THM) 13:0-rel
+etri#doc_6347.txt 17 엿보다 ----- 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel
+etri#doc_6347.txt 18 표현하다 ----- 13:2-ARG1() 14:1-ARGM-MNR() 17:2-ARG1() 18:0-rel

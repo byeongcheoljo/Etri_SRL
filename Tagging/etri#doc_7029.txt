@@ -1,0 +1,4 @@
+etri#doc_7029.txt 6 주관하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_7029.txt 10 평하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7029.txt 12 대신하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7029.txt 15 사용하다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 7:4-ARG0(AGT) 10:3-ARGM-DIS() 13:3-ARGM-INS(INS) 14:1-ARGM-TMP() 15:0-rel

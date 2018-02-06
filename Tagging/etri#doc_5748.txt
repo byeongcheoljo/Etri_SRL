@@ -1,0 +1,5 @@
+etri#doc_5748.txt 4 개발하다 ----- 2:1-ARG1(LOC) 3:1-ARGM-PRD(FNS) 4:0-rel
+etri#doc_5748.txt 8 제출하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_5748.txt 11 넘다 ----- 10:1-ARG1(CRT) 11:0-rel
+etri#doc_5748.txt 12 심의하다 ----- 12:0-rel
+etri#doc_5748.txt 13 방치하다 ----- 6:2-ARG0(AGT) 9:3-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:0-rel

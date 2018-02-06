@@ -1,0 +1,7 @@
+etri#doc_11706.txt 3 꺼내다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11706.txt 5 꺼내다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11706.txt 7 거절하다 ----- 3:2-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_11706.txt 12 바라다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11706.txt 14 하다 ----- 14:0-rel
+etri#doc_11706.txt 15 않다 ----- 8:5-ARGM-DIS() 10:2-ARGM-ADV(EFF) 13:3-ARG1(THM) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_11706.txt 16 선택하다 ----- 1:1-ARGM-CND() 15:2-ARG1() 16:0-rel

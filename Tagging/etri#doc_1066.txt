@@ -1,0 +1,4 @@
+etri#doc_1066.txt 5 보관하다 ----- 4:2-ARGM-MNR() 5:0-rel
+etri#doc_1066.txt 10 시사하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1066.txt 14 섭취하다 ----- 13:6-ARG1(THM) 14:0-rel
+etri#doc_1066.txt 16 줄어들다 ----- 2:2-ARGM-CAU(SRC) 15:8-ARG2(COM) 16:0-rel

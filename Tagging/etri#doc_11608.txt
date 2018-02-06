@@ -1,0 +1,5 @@
+etri#doc_11608.txt 5 하다 ----- 4:3-ARG1(CNT) 5:0-rel
+etri#doc_11608.txt 9 받다 ----- 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11608.txt 14 개선되다 ----- 12:2-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_11608.txt 16 나아지다 ----- 9:2-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_11608.txt 17 전하다 ----- 1:1-ARG0(AGT) 5:4-ARGM-DIS() 16:2-ARG1(CNT) 17:0-rel

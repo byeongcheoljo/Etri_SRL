@@ -1,0 +1,4 @@
+etri#doc_2817.txt 13 가하다 ----- 10:2-ARG2(GOL) 12:2-ARG1(THM) 13:0-rel
+etri#doc_2817.txt 15 추구하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_2817.txt 18 찾아내다 ----- 13:3-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel
+etri#doc_2817.txt 19 만들다 ----- 3:3-ARG1(THM) 8:4-ARGM-DIS() 18:5-ARGM-PRP(PUR) 19:0-rel

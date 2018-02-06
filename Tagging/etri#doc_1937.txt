@@ -1,0 +1,4 @@
+etri#doc_1937.txt 8 몰리다 ----- 6:3-ARG0(THM) 7:1-ARGM-LOC(GOL) 8:0-rel
+etri#doc_1937.txt 14 하다 ----- 3:2-ARGM-CND() 8:2-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_1937.txt 18 연장하다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_1937.txt 19 생각하다 ----- 15:5-ARG1(THM) 18:3-ARGM-DIS() 19:0-rel

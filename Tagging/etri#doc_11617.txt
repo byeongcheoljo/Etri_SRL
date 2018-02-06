@@ -1,0 +1,5 @@
+etri#doc_11617.txt 6 발발하다 ----- 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11617.txt 12 철회하다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_11617.txt 14 가담하다 ----- 6:2-ARGM-CND() 7:1-ARG0(AGT) 12:4-ARGM-DIS() 13:1-ARG1(LOC) 14:0-rel
+etri#doc_11617.txt 15 시사하다 ----- 2:2-ARG0(AGT) 14:2-ARG1() 15:0-rel
+etri#doc_11617.txt 18 보도하다 ----- 15:3-ARG1() 17:2-ARG0(AGT) 18:0-rel

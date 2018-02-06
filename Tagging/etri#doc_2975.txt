@@ -1,0 +1,2 @@
+etri#doc_2975.txt 3 귀국하다 ----- 1:1-ARGM-DIR(DIR) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_2975.txt 16 걸다 ----- 12:2-ARGM-DIS() 13:1-ARGM-TMP() 14:1-ARGM-DIR() 15:1-ARG1(THM) 16:0-rel

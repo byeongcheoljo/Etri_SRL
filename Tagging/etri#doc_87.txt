@@ -1,0 +1,1 @@
+etri#doc_87.txt 11 Áö´Ï´Ù ----- 6:1-ARG0(AGT) 7:1-ARGM-EXT(CRT) 10:3-ARG1(THM) 11:0-rel

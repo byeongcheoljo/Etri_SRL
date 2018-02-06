@@ -1,0 +1,3 @@
+etri#doc_91.txt 5 지속되다 ----- 2:1-ARGM-DIR(DIR) 4:2-ARG0(THM) 5:0-rel
+etri#doc_91.txt 9 되다 ----- 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_91.txt 16 분석하다 ----- 1:1-ARGM-LOC(SRC) 15:4-ARGM-NEG() 16:0-rel

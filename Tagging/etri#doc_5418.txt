@@ -1,0 +1,3 @@
+etri#doc_5418.txt 2 끝나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5418.txt 8 설계하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_5418.txt 15 골몰하다 ----- 2:2-ARGM-TMP() 6:2-ARG0(MAG) 14:4-ARG1(THM) 15:0-rel

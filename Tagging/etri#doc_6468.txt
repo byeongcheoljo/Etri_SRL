@@ -1,0 +1,7 @@
+etri#doc_6468.txt 4 하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6468.txt 8 나오다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6468.txt 10 타다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6468.txt 11 지나가다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_6468.txt 16 멈추다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_6468.txt 17 쉬다 ----- 16:2-ARGM-DIS() 17:0-rel
+etri#doc_6468.txt 19 하다 ----- 6:4-ARGM-CAU() 12:4-ARG0(AGT) 13:1-ARGM-TMP() 14:1-ARGM-LOC(LOC) 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

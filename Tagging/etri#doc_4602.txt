@@ -1,0 +1,4 @@
+etri#doc_4602.txt 2 형성하다 ----- 1:1-ARG1(FNS) 2:0-rel
+etri#doc_4602.txt 4 맡다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4602.txt 8 기하다 ----- 6:1-ARG2(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_4602.txt 11 서다 ----- 8:2-ARGM-DIS() 9:1-ARG1(LOC) 10:1-ARG1() 11:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4816.txt 3 순환하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4816.txt 13 내다 ----- 12:1-ARGM-INS(INS) 13:0-rel
+etri#doc_4816.txt 17 연상하다 ----- 14:3-ARGM-MNR(INS) 16:2-ARG1(THM) 17:0-rel

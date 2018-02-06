@@ -1,0 +1,4 @@
+etri#doc_8093.txt 10 ÇÏ´Ù ----- 6:3-ARGM-DIS() 9:3-ARG1() 10:0-rel
+etri#doc_8093.txt 13 ¹ú¾îÁö´Ù ----- 10:4-ARGM-PRP() 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8093.txt 18 ³»Á£´Ù ----- 15:1-ARGM-DIR(DIR) 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_8093.txt 20 ÀÕ´Ù ----- 13:2-ARGM-TMP() 14:1-ARG0(AGT) 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8001.txt 5 ¹­´Ù ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_8001.txt 8 ±ú¶ß¸®´Ù ----- 3:1-ARGM-ADV(COM) 7:2-ARG1(THM) 8:0-rel
+etri#doc_8001.txt 15 ¹Ù²Ù´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 8:3-ARGM-PRP() 14:2-ARG1(THM) 15:0-rel

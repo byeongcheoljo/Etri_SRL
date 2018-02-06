@@ -1,0 +1,4 @@
+etri#doc_7157.txt 8 ¾ó½Î¾È´Ù ----- 8:0-rel
+etri#doc_7157.txt 9 ÃãÃß´Ù ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7157.txt 10 Áñ±â´Ù ----- 5:1-ARGM-TMP(LOC) 6:1-ARGM-EXT() 7:1-ARGM-MNR() 9:2-ARGM-MNR() 10:0-rel
+etri#doc_7157.txt 16 °¡Áö´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP(LOC) 3:1-ARG0(LOC) 15:4-ARG1(THM) 16:0-rel

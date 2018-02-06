@@ -1,0 +1,4 @@
+etri#doc_8467.txt 4 말하다 ----- 3:2-ARG1(CNT) 4:0-rel
+etri#doc_8467.txt 9 숨쉬다 ----- 8:2-ARG0(AGT) 9:0-rel
+etri#doc_8467.txt 13 하다 ----- 10:4-ARG2(FNS) 12:2-ARG1(CNT) 13:0-rel
+etri#doc_8467.txt 17 박다 ----- 15:2-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel

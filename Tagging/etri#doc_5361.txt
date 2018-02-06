@@ -1,0 +1,5 @@
+etri#doc_5361.txt 4 어기다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_5361.txt 7 전하다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARG2(LOC) 7:0-rel
+etri#doc_5361.txt 13 가져다주다 ----- 7:2-ARGM-DIS() 9:2-ARG2(GOL) 12:3-ARG1(THM) 13:0-rel
+etri#doc_5361.txt 17 서다 ----- 16:2-ARG1(LOC) 17:0-rel
+etri#doc_5361.txt 20 여기다 ----- 1:1-ARG0(MAG) 14:5-ARG1(THM) 19:2-ARG1(FNS) 20:0-rel

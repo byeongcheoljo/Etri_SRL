@@ -1,0 +1,3 @@
+etri#doc_7740.txt 6 지니다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_7740.txt 8 가다 ----- 7:1-ARG3(GOL) 8:0-rel
+etri#doc_7740.txt 15 내다 ----- 8:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1023.txt 6 말하다 ----- 5:1-ARGM-DIS() 6:0-rel
+etri#doc_1023.txt 11 되다 ----- 4:2-ARGM-DIS() 6:2-ARGM-DIS() 10:2-ARG2(FNS) 11:0-rel
+etri#doc_1023.txt 15 변형되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 11:3-ARGM-PRP() 14:2-ARG2(FNS) 15:0-rel

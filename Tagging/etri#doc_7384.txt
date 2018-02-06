@@ -1,0 +1,3 @@
+etri#doc_7384.txt 5 µ—∑ØΩŒ¿Ã¥Ÿ ----- 4:3-ARG2(INS) 5:0-rel
+etri#doc_7384.txt 10 ¿’¥Ÿ ----- 9:2-ARG2(THM) 10:0-rel
+etri#doc_7384.txt 20 µŒ¥Ÿ ----- 13:6-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARGM-LOC(LOC) 20:0-rel

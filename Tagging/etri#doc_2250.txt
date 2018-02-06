@@ -1,0 +1,3 @@
+etri#doc_2250.txt 8 생기다 ----- 7:2-ARGM-INS() 8:0-rel
+etri#doc_2250.txt 13 확인하다 ----- 10:2-ARG1(THM) 11:1-ARGM-EXT() 12:1-ARGM-MNR(DIR) 13:0-rel
+etri#doc_2250.txt 17 쓰다 ----- 5:3-ARG0() 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-MNR(FNS) 17:0-rel

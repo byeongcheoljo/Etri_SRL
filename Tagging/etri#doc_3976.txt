@@ -1,0 +1,6 @@
+etri#doc_3976.txt 4 ½î´Ù ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_3976.txt 7 °¡´Ù ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_3976.txt 9 ¾þµå¸®´Ù ----- 7:2-ARGM-DIS() 8:1-ARG0(AGT) 9:0-rel
+etri#doc_3976.txt 13 ½ñ´Ù ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_3976.txt 16 ¾²´Ù ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel
+etri#doc_3976.txt 19 ½î´Ù ----- 5:3-ARG0(AGT) 9:2-ARGM-CAU() 16:2-ARGM-MNR() 18:2-ARG1(THM) 19:0-rel

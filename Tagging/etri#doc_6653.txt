@@ -1,0 +1,5 @@
+etri#doc_6653.txt 3 그려지다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6653.txt 7 서다 ----- 6:3-ARGM-LOC(LOC) 7:0-rel
+etri#doc_6653.txt 11 쌓이다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_6653.txt 12 노출되다 ----- 9:1-ARG1(THM) 11:2-ARGM-MNR() 12:0-rel
+etri#doc_6653.txt 16 토하다 ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 14:5-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

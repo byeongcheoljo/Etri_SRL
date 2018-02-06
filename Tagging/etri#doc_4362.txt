@@ -1,0 +1,3 @@
+etri#doc_4362.txt 9 실현하다 ----- 5:2-ARG1(THM) 8:3-ARGM-INS(INS) 9:0-rel
+etri#doc_4362.txt 12 한정되다 ----- 10:5-ARG1(THM) 11:1-ARGM-CND() 12:0-rel
+etri#doc_4362.txt 16 이해되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 3:1-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

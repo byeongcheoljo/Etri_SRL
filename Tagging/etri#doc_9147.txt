@@ -1,0 +1,5 @@
+etri#doc_9147.txt 4 이야기하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9147.txt 9 뽑다 ----- 6:2-ARG2(SRC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_9147.txt 10 전하다 ----- 2:2-ARG0(AGT) 9:3-ARGM-MNR() 10:0-rel
+etri#doc_9147.txt 14 걸치다 ----- 13:1-ARG2(LOC) 14:0-rel
+etri#doc_9147.txt 18 보다 ----- 10:4-ARGM-CAU() 11:1-ARGM-LOC() 12:1-ARG0(AGT) 16:4-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

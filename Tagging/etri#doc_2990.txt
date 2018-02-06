@@ -1,0 +1,5 @@
+etri#doc_2990.txt 4 살아가다 ----- 2:1-ARGM-TMP() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_2990.txt 8 거듭하다 ----- 5:3-ARG0(AGT) 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_2990.txt 13 사다 ----- 10:2-ARG0(AGT) 12:2-ARGM-MNR() 13:0-rel
+etri#doc_2990.txt 15 되다 ----- 8:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel
+etri#doc_2990.txt 17 믿다 ----- 16:6-ARG1(THM) 17:0-rel

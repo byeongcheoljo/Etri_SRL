@@ -1,0 +1,4 @@
+etri#doc_6729.txt 11 전가하다 ----- 9:2-ARG1(THM) 10:1-ARG2(GOL) 11:0-rel
+etri#doc_6729.txt 13 가져오다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_6729.txt 14 받아들이다 ----- 6:2-ARG1(THM) 7:1-ARGM-DIS() 13:4-ARGM-DIS() 14:0-rel
+etri#doc_6729.txt 15 버티다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 14:5-ARGM-CAU() 15:0-rel

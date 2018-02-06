@@ -1,0 +1,2 @@
+etri#doc_9569.txt 8 ÃÑÄªÇÏ´Ù ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_9569.txt 17 °£ÁÖµÇ´Ù ----- 9:4-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARG1(FNS) 17:0-rel

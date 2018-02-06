@@ -1,0 +1,2 @@
+etri#doc_3641.txt 5 »ï´Ù ----- 2:2-ARG1(THM) 4:2-ARGM-PRD(FNS) 5:0-rel
+etri#doc_3641.txt 15 ½ñ´Ù ----- 6:4-ARG0(AGT) 9:2-ARG0(AGT) 10:1-ARGM-TMP(SRC) 12:2-ARG2(GOL) 14:2-ARG1(THM) 15:0-rel

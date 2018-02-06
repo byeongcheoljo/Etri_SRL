@@ -1,0 +1,4 @@
+etri#doc_9236.txt 6 붙다 ----- 5:1-ARG1(GOL) 6:0-rel
+etri#doc_9236.txt 8 떨어지다 ----- 3:2-ARGM-CND() 4:1-ARG1(THM) 6:2-ARGM-DIS() 7:1-ARGM-DIR(DIR) 8:0-rel
+etri#doc_9236.txt 13 지나가다 ----- 13:0-rel
+etri#doc_9236.txt 17 입다 ----- 15:2-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

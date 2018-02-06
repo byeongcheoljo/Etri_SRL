@@ -1,0 +1,2 @@
+etri#doc_2814.txt 5 토의되다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2814.txt 10 이기다 ----- 7:1-ARGM-DIS() 8:1-ARG0(AGT) 9:1-ARGM-TMP(THM) 10:0-rel

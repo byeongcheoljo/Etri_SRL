@@ -1,0 +1,6 @@
+etri#doc_6132.txt 4 나다 ----- 3:1-ARG1(Npr) 4:0-rel
+etri#doc_6132.txt 6 잡다 ----- 5:1-ARG1() 6:0-rel
+etri#doc_6132.txt 9 찍다 ----- 8:1-ARGM-LOC() 9:0-rel
+etri#doc_6132.txt 11 찍다 ----- 7:1-ARG1(THM) 9:2-ARGM-DIS() 10:1-ARGM-LOC() 11:0-rel
+etri#doc_6132.txt 14 불리다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6132.txt 16 되다 ----- 2:2-ARG1(THM) 4:2-ARGM-CND() 6:2-ARGM-EXT() 11:2-ARGM-DIS() 14:3-ARGM-PRP() 15:1-ARG2(FNS) 16:0-rel

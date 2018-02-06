@@ -1,0 +1,2 @@
+etri#doc_1208.txt 8 추진하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-DIS(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_1208.txt 17 활용되다 ----- 8:4-ARGM-DIS() 13:2-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:1-ARG2(PUR) 17:0-rel

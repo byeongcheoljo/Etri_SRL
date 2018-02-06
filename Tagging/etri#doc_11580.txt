@@ -1,0 +1,4 @@
+etri#doc_11580.txt 4 열다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11580.txt 12 남다 ----- 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_11580.txt 15 주다 ----- 13:1-ARGM-LOC(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_11580.txt 17 찢다 ----- 1:1-ARG0(AGT) 9:3-ARGM-DIS() 12:2-ARGM-MNR() 15:2-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2192.txt 14 ¸ð¸£´Ù ----- 13:1-ARG1() 14:0-rel
+etri#doc_2192.txt 15 ¼û´Ù ----- 1:1-ARGM-DIS() 4:2-ARGM-TMP() 8:3-ARGM-LOC(LOC) 12:2-ARG0(AGT) 14:2-ARGM-MNR() 15:0-rel

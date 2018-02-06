@@ -1,0 +1,4 @@
+etri#doc_742.txt 3 보다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_742.txt 6 도입하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_742.txt 7 생기다 ----- 6:3-ARGM-CAU() 7:0-rel
+etri#doc_742.txt 13 할당되다 ----- 12:1-ARG2(GOL) 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2203.txt 10 쉬다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:0-rel
+etri#doc_2203.txt 12 마르다 ----- 10:2-ARGM-DIS() 11:1-ARG1(AGT) 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7447.txt 6 부과하다 ----- 2:2-ARG1(THM) 3:1-ARGM-ADV(EFF) 5:2-ARGM-MNR() 6:0-rel
+etri#doc_7447.txt 9 버티다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7447.txt 17 떼어먹다 ----- 14:1-ARG0(AGT) 15:1-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_7447.txt 19 기생하다 ----- 13:3-ARGM-DIS() 18:3-ARG0(AGT) 19:0-rel

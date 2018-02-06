@@ -1,0 +1,4 @@
+etri#doc_9995.txt 3 짓다 ----- 1:1-ARGM-DIR(DIR) 2:1-ARG1(Npr) 3:0-rel
+etri#doc_9995.txt 7 알다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_9995.txt 9 우거지다 ----- 8:3-ARGM-INS(INS) 9:0-rel
+etri#doc_9995.txt 15 보이다 ----- 10:5-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:1-ARGM-EXT() 15:0-rel

@@ -1,0 +1,1 @@
+etri#doc_797.txt 18 포함되다 ----- 1:1-ARGM-LOC(LOC) 17:5-ARG1(THM) 18:0-rel

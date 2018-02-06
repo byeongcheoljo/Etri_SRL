@@ -1,0 +1,4 @@
+etri#doc_723.txt 4 하다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_723.txt 7 나타나다 ----- 6:1-ARGM-TMP(CRT) 7:0-rel
+etri#doc_723.txt 13 살다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_723.txt 15 평가되다 ----- 4:2-ARGM-DIS() 5:1-ARGM-EXT() 9:4-ARG1(THM) 13:4-ARG2() 14:1-ARGM-MNR() 15:0-rel

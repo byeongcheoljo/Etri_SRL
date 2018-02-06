@@ -1,0 +1,2 @@
+etri#doc_2687.txt 6 µè´Ù ----- 2:2-ARGM-EXT() 4:2-ARGM-ADV(EFF) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_2687.txt 18 ³ª´Ù ----- 15:1-ARGM-LOC(LOC) 17:2-ARG1(AGT) 18:0-rel

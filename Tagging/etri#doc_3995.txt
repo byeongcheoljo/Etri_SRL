@@ -1,0 +1,6 @@
+etri#doc_3995.txt 4 떠나다 ----- 3:1-ARG1(LOC) 4:0-rel
+etri#doc_3995.txt 7 가다 ----- 4:2-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_3995.txt 16 돕다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_3995.txt 18 가지다 ----- 17:4-ARG1(THM) 18:0-rel
+etri#doc_3995.txt 19 얻다 ----- 2:2-ARG0(AGT) 18:5-ARGM-CAU() 19:0-rel
+etri#doc_3995.txt 22 보다 ----- 20:7-ARG1(THM) 21:1-ARG0(AGT) 22:0-rel

@@ -1,0 +1,1 @@
+etri#doc_598.txt 19 지적하다 ----- 6:3-ARG0(AGT) 8:2-ARGM-LOC(LOC) 18:3-ARG1() 19:0-rel

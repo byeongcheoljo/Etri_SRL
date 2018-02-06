@@ -1,0 +1,4 @@
+etri#doc_8777.txt 6 어지럽히다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8777.txt 12 수양하다 ----- 12:0-rel
+etri#doc_8777.txt 15 기르다 ----- 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_8777.txt 17 대비하다 ----- 11:2-ARGM-TMP() 15:3-ARGM-CAU() 16:1-ARG1(GOL) 17:0-rel

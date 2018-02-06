@@ -1,0 +1,5 @@
+etri#doc_2386.txt 4 자라다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2386.txt 6 다다르다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP(EFF) 6:0-rel
+etri#doc_2386.txt 10 되다 ----- 7:1-ARGM-EXT() 9:2-ARG0(AGT) 10:0-rel
+etri#doc_2386.txt 13 순례하다 ----- 12:2-() 13:0-rel
+etri#doc_2386.txt 15 단련하다 ----- 1:1-() 6:2-() 10:3-() 13:3-() 14:1-() 15:0-rel

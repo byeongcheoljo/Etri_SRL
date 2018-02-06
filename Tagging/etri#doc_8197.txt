@@ -1,0 +1,5 @@
+etri#doc_8197.txt 2 이끌어내다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8197.txt 6 발본색원하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8197.txt 17 되다 ----- 16:2-ARG2(FNS) 17:0-rel
+etri#doc_8197.txt 19 말살하다 ----- 18:4-ARG1(THM) 19:0-rel
+etri#doc_8197.txt 21 꾸미다 ----- 3:3-ARG0(AGT) 7:4-ARGM-INS(INS) 20:6-ARG1(THM) 21:0-rel

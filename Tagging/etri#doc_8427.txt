@@ -1,0 +1,4 @@
+etri#doc_8427.txt 4 신청하다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8427.txt 9 해약하다 ----- 4:2-ARGM-DIS() 6:2-ARG0(AGT) 7:1-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_8427.txt 12 둘러싸다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8427.txt 14 벌어지다 ----- 13:4-ARG1(THM) 14:0-rel

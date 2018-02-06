@@ -1,0 +1,6 @@
+etri#doc_8668.txt 6 안정되다 ----- 6:0-rel
+etri#doc_8668.txt 8 갖다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8668.txt 10 하다 ----- 3:3-ARG0(AGT) 5:2-ARGM-LOC(LOC) 8:3-ARGM-DIS() 9:1-ARG1(Npr) 10:0-rel
+etri#doc_8668.txt 13 하다 ----- 12:1-ARG1(Npr) 13:0-rel
+etri#doc_8668.txt 16 독립하다 ----- 16:0-rel
+etri#doc_8668.txt 19 가지다 ----- 16:1-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

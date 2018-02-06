@@ -1,0 +1,4 @@
+etri#doc_5585.txt 6 접견하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_5585.txt 9 말하다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5585.txt 16 이바지하다 ----- 13:2-ARG1(AGT) 15:2-ARG2(LOC) 16:0-rel
+etri#doc_5585.txt 17 말하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 7:5-ARGM-LOC(LOC) 9:2-ARGM-DIS() 16:3-ARG1(CNT) 17:0-rel

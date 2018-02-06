@@ -1,0 +1,2 @@
+etri#doc_7388.txt 5 이루다 ----- 2:2-ARGM-MNR(INS) 3:1-ARG0(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7388.txt 13 입다 ----- 6:3-ARGM-LOC(LOC) 9:3-ARGM-LOC(LOC) 10:1-ARGM-EXT(CRT) 11:1-ARGM-MNR(INS) 12:1-ARG1(Npr) 13:0-rel

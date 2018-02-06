@@ -1,0 +1,4 @@
+etri#doc_1393.txt 9 겪다 ----- 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1393.txt 11 떠돌다 ----- 2:2-ARGM-TMP(LOC) 4:2-ARGM-NEG(LOC) 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_1393.txt 15 쓰다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_1393.txt 19 되다 ----- 11:2-ARGM-DIS() 13:2-ARG1(THM) 18:3-ARG2(FNS) 19:0-rel

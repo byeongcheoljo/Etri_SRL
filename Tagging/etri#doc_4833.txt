@@ -1,0 +1,4 @@
+etri#doc_4833.txt 4 가지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4833.txt 7 하다 ----- 4:3-ARGM-DIS() 5:1-ARG2(FNS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4833.txt 11 살다 ----- 10:2-ARG2(LOC) 11:0-rel
+etri#doc_4833.txt 13 살다 ----- 12:4-ARGM-MNR(COM) 13:0-rel

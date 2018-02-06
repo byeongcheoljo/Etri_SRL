@@ -1,0 +1,3 @@
+etri#doc_217.txt 4 발표하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_217.txt 6 탑재하다 ----- 5:1-ARG2(GOL) 6:0-rel
+etri#doc_217.txt 10 위하다 ----- 9:2-ARG1(THM) 10:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5602.txt 3 확인하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5602.txt 5 남다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_5602.txt 8 열람하다 ----- 6:3-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_5602.txt 16 확산시키다 ----- 13:2-ARGM-DIS(EFF) 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

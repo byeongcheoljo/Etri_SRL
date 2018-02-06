@@ -1,0 +1,4 @@
+etri#doc_5323.txt 8 하다 ----- 6:2-ARGM-CAU() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5323.txt 9 살다 ----- 9:0-rel
+etri#doc_5323.txt 13 하다 ----- 12:3-ARGM-DIS() 13:0-rel
+etri#doc_5323.txt 18 이르다 ----- 8:2-ARGM-DIS() 15:6-ARGM-CAU(EFF) 16:1-ARGM-TMP() 17:1-ARG3(FNS) 18:0-rel

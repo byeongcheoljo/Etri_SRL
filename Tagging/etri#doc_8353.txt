@@ -1,0 +1,4 @@
+etri#doc_8353.txt 6 떠나다 ----- 5:2-ARG1(SRC) 6:0-rel
+etri#doc_8353.txt 7 생각하다 ----- 2:2-ARG0(MAG) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_8353.txt 12 떠나다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8353.txt 13 생각하다 ----- 7:4-ARGM-CND() 9:2-ARG1(THM) 12:3-ARGM-DIS() 13:0-rel

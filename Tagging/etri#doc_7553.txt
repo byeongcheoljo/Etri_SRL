@@ -1,0 +1,6 @@
+etri#doc_7553.txt 7 인도되다 ----- 6:2-ARGM-ADV(EFF) 7:0-rel
+etri#doc_7553.txt 10 목도하다 ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_7553.txt 14 지배하다 ----- 12:1-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_7553.txt 16 구체화되다 ----- 11:1-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel
+etri#doc_7553.txt 17 기뻐하다 ----- 10:6-ARGM-MNR() 16:4-ARGM-DIS() 17:0-rel
+etri#doc_7553.txt 22 표현되다 ----- 4:3-ARG0(THM) 18:6-ARGM-ADV(INS) 21:3-ARGM-MNR(INS) 22:0-rel

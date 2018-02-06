@@ -1,0 +1,4 @@
+etri#doc_8565.txt 2 전문화되다 ----- 2:0-rel
+etri#doc_8565.txt 8 수용되다 ----- 4:1-ARGM-TMP() 6:2-ARGM-LOC(LOC) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_8565.txt 15 독립되다 ----- 15:0-rel
+etri#doc_8565.txt 17 전달되다 ----- 3:2-ARG1(THM) 10:2-ARG1(THM) 16:2-ARGM-MNR(INS) 17:0-rel

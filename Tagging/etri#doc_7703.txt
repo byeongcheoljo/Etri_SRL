@@ -1,0 +1,2 @@
+etri#doc_7703.txt 5 거부당하다 ----- 3:3-ARG0(GOL) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_7703.txt 20 받아들이다 ----- 13:1-ARGM-MNR(INS) 14:1-ARG0(AGT) 18:3-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2592.txt 7 거치다 ----- 6:2-ARG2(THM) 7:0-rel
+etri#doc_2592.txt 10 약하다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_2592.txt 15 숨다 ----- 14:3-ARG2(EFF) 15:0-rel

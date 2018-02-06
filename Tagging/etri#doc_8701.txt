@@ -1,0 +1,7 @@
+etri#doc_8701.txt 3 보다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_8701.txt 6 먹다 ----- 4:1-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_8701.txt 8 어두워지다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8701.txt 10 막히다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8701.txt 12 빠지다 ----- 6:2-ARGM-CND() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_8701.txt 15 먹다 ----- 13:1-ARG0(AGT) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_8701.txt 19 걷다 ----- 3:3-ARGM-CND() 12:2-ARGM-DIS() 17:2-ARGM-CAU() 18:1-ARGM-MNR() 19:0-rel

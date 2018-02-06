@@ -1,0 +1,1 @@
+etri#doc_2153.txt 10 의존하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 8:1-ARGM-TMP() 9:1-ARG1(GOL) 10:0-rel

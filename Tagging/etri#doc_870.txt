@@ -1,0 +1,3 @@
+etri#doc_870.txt 8 찍다 ----- 3:2-ARG0(AGT) 5:2-ARGM-INS(INS) 7:2-ARG1(THM) 8:0-rel
+etri#doc_870.txt 14 일다 ----- 8:3-ARGM-TMP() 10:2-ARG1(THM) 13:2-ARGM-LOC(LOC) 14:0-rel
+etri#doc_870.txt 16 달아나다 ----- 1:1-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG0(AGT) 16:0-rel

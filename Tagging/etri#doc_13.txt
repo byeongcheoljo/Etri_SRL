@@ -1,0 +1,2 @@
+etri#doc_13.txt 7 쓰다 ----- 1:1-ARG0(AGT) 3:2-ARGM-MNR(INS) 4:1-ARGM-ADV() 5:1-ARGM-ADV() 6:1-ARG1(THM) 7:0-rel
+etri#doc_13.txt 12 지도하다 ----- 8:1-ARG0(AGT) 10:2-ARGM-ADV() 11:1-ARG1(THM) 12:0-rel

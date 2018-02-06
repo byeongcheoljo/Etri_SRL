@@ -1,0 +1,8 @@
+etri#doc_5095.txt 2 벌다 ----- 1:1-ARGM-MNR(INS) 2:0-rel
+etri#doc_5095.txt 5 물려받다 ----- 5:0-rel
+etri#doc_5095.txt 8 도박하다 ----- 8:0-rel
+etri#doc_5095.txt 9 벌다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5095.txt 13 모으다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5095.txt 16 알다 ----- 15:4-ARGM-DIS() 16:0-rel
+etri#doc_5095.txt 21 지키다 ----- 20:2-ARG1(THM) 21:0-rel
+etri#doc_5095.txt 22 애쓰다 ----- 16:5-ARGM-CND() 18:2-ARG0(MAG) 21:3-ARG1() 22:0-rel

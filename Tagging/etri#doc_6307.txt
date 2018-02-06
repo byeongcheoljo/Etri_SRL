@@ -1,0 +1,4 @@
+etri#doc_6307.txt 7 만들다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 4:1-ARGM-TMP() 5:1-ARGM-MNR(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_6307.txt 11 늘리다 ----- 8:1-ARGM-LOC(LOC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_6307.txt 14 발달하다 ----- 7:2-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARG2(FNS) 14:0-rel
+etri#doc_6307.txt 16 알다 ----- 15:4-ARG1(THM) 16:0-rel

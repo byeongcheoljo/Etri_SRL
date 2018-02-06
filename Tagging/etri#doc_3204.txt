@@ -1,0 +1,5 @@
+etri#doc_3204.txt 4 유지하다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_3204.txt 7 받다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3204.txt 8 죽다 ----- 4:2-ARGM-DIS() 7:3-ARGM-DIS() 8:0-rel
+etri#doc_3204.txt 10 제공하다 ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_3204.txt 16 대두되다 ----- 1:1-ARG1(THM) 15:4-ARGM-MNR(INS) 16:0-rel

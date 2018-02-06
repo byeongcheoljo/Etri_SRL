@@ -1,0 +1,2 @@
+etri#doc_11387.txt 8 알려지다 ----- 1:1-ARGM-LOC(LOC) 7:6-ARG1(THM) 8:0-rel
+etri#doc_11387.txt 22 나타내다 ----- 8:7-ARGM-DIS() 18:7-ARGM-MNR() 21:3-ARG1(GOL) 22:0-rel

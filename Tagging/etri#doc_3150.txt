@@ -1,0 +1,4 @@
+etri#doc_3150.txt 7 말하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_3150.txt 13 반영하다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_3150.txt 15 구별되다 ----- 14:3-ARG2(COM) 15:0-rel
+etri#doc_3150.txt 17 적용되다 ----- 16:5-ARGM-ADV(LOC) 17:0-rel

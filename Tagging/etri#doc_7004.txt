@@ -1,0 +1,4 @@
+etri#doc_7004.txt 6 읽다 ----- 3:1-ARGM-MNR() 5:2-ARG1(THM) 6:0-rel
+etri#doc_7004.txt 9 편집하다 ----- 9:0-rel
+etri#doc_7004.txt 10 출판하다 ----- 8:2-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_7004.txt 13 담당하다 ----- 2:2-ARG0(AGT) 6:3-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARGM-TMP() 13:0-rel

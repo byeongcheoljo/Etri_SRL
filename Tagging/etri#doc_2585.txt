@@ -1,0 +1,5 @@
+etri#doc_2585.txt 3 가다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_2585.txt 7 올리다 ----- 5:2-() 6:1-() 7:0-rel
+etri#doc_2585.txt 9 들어서다 ----- 7:2-ARGM-ADV() 8:1-ARGM-ADV(EFF) 9:0-rel
+etri#doc_2585.txt 12 찾다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_2585.txt 14 뒤지다 ----- 9:2-ARGM-DIS() 12:3-ARGM-PRP() 13:1-ARG1(THM) 14:0-rel

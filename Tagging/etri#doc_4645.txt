@@ -1,0 +1,3 @@
+etri#doc_4645.txt 3 만족시키다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4645.txt 17 조절하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_4645.txt 21 분포하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 20:5-ARG2(LOC) 21:0-rel

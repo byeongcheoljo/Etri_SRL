@@ -1,0 +1,5 @@
+etri#doc_8167.txt 4 제공하다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_8167.txt 8 느끼다 ----- 5:3-ARGM-ADV(EFF) 7:2-ARG1(THM) 8:0-rel
+etri#doc_8167.txt 10 요구하다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_8167.txt 14 갖추다 ----- 8:3-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_8167.txt 17 해당하다 ----- 2:2-ARG1(THM) 16:4-ARG2(CRT) 17:0-rel

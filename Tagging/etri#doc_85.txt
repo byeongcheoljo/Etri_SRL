@@ -1,0 +1,5 @@
+etri#doc_85.txt 5 세우다 ----- 3:1-ARGM-DIR(DIR) 4:1-ARG1(THM) 5:0-rel
+etri#doc_85.txt 8 둘러치다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_85.txt 11 꾸미다 ----- 8:3-() 9:1-ARGM-ADV() 10:1-ARGM-CND(COM) 11:0-rel
+etri#doc_85.txt 14 거처하다 ----- 12:1-ARG0(AGT) 13:1-ARGM-LOC() 14:0-rel
+etri#doc_85.txt 16 지키다 ----- 11:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,7 @@
+etri#doc_294.txt 2 되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_294.txt 3 추수하다 ----- 3:0-rel
+etri#doc_294.txt 6 되다 ----- 2:2-ARGM-CAU() 4:2-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_294.txt 8 기울다 ----- 6:2-ARGM-CAU() 7:1-ARG1(THM) 8:0-rel
+etri#doc_294.txt 11 줄이다 ----- 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_294.txt 13 나가다 ----- 8:2-ARGM-CAU() 11:2-ARGM-CND() 12:1-ARG3(GOL) 13:0-rel
+etri#doc_294.txt 16 모르다 ----- 13:2-ARGM-CND() 14:1-ARGM-TMP(SRC) 15:1-ARG1(THM) 16:0-rel

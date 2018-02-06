@@ -1,0 +1,5 @@
+etri#doc_3174.txt 3 무너지다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_3174.txt 4 쓰러지다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_3174.txt 9 날아오르다 ----- 1:1-ARG0(AGT) 6:2-ARGM-LOC(LOC) 8:2-ARG2(FNS) 9:0-rel
+etri#doc_3174.txt 12 밟다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3174.txt 18 나서다 ----- 12:3-ARGM-DIS() 13:1-ARG0(AGT) 16:3-ARGM-PRP() 17:1-ARG1(SRC) 18:0-rel

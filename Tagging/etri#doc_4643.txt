@@ -1,0 +1,3 @@
+etri#doc_4643.txt 5 묘사하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4643.txt 7 빠뜨리다 ----- 5:3-ARGM-DIS() 6:1-ARG0(AGT) 7:0-rel
+etri#doc_4643.txt 16 소개하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

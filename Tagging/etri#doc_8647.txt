@@ -1,0 +1,2 @@
+etri#doc_8647.txt 4 안정되다 ----- 4:0-rel
+etri#doc_8647.txt 16 이루다 ----- 3:1-ARGM-MNR() 15:4-ARG1(THM) 16:0-rel

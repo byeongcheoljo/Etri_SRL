@@ -1,0 +1,1 @@
+etri#doc_8025.txt 11 부인하다 ----- 7:5-ARG0(AGT) 8:1-ARG1(THM) 10:2-ARGM-DIS() 11:0-rel

@@ -1,0 +1,5 @@
+etri#doc_9612.txt 5 모르다 ----- 4:4-ARG1() 5:0-rel
+etri#doc_9612.txt 10 설치하다 ----- 8:3-ARGM-TMP(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_9612.txt 13 떠나가다 ----- 10:2-ARGM-MNR() 12:2-ARG0(LOC) 13:0-rel
+etri#doc_9612.txt 15 퍼지다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_9612.txt 17 두들기다 ----- 13:3-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

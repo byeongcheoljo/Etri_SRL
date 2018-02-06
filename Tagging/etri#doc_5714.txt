@@ -1,0 +1,4 @@
+etri#doc_5714.txt 2 낳다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5714.txt 3 번성하다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_5714.txt 6 퍼지다 ----- 3:3-ARGM-DIS() 5:2-ARG2(LOC) 6:0-rel
+etri#doc_5714.txt 8 정복하다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel

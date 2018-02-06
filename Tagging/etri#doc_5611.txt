@@ -1,0 +1,3 @@
+etri#doc_5611.txt 7 검증하다 ----- 3:1-ARGM-MNR(INS) 6:3-ARG1(THM) 7:0-rel
+etri#doc_5611.txt 14 묻히다 ----- 13:1-ARGM-TMP() 14:0-rel
+etri#doc_5611.txt 15 들리다 ----- 1:1-ARGM-LOC(LOC) 12:2-ARG1(THM) 14:2-ARGM-DIS() 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5326.txt 2 사랑하다 ----- 2:0-rel
+etri#doc_5326.txt 6 좋아하다 ----- 3:2-ARG0(MAG) 5:2-ARG1(THM) 6:0-rel
+etri#doc_5326.txt 10 주다 ----- 8:2-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5326.txt 13 유혹하다 ----- 6:3-ARGM-DIS() 10:2-ARGM-PRP() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5326.txt 18 멋모르다 ----- 18:0-rel
+etri#doc_5326.txt 20 농락당하다 ----- 17:4-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

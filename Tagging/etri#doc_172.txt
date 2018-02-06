@@ -1,0 +1,2 @@
+etri#doc_172.txt 8 보다 ----- 5:1-ARG1(THM) 7:2-ARG1(CNT) 8:0-rel
+etri#doc_172.txt 11 일으키다 ----- 9:4-ARGM-CAU(CNT) 10:1-ARG1(THM) 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7667.txt 13 이룩하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7667.txt 18 이르다 ----- 14:4-ARGM-TMP() 17:3-ARG3(FNS) 18:0-rel

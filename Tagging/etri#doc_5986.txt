@@ -1,0 +1,1 @@
+etri#doc_5986.txt 7 °¡ÇÏ´Ù ----- 2:2-ARG0(AGT) 3:1-ARG2(GOL) 6:3-ARG1(THM) 7:0-rel

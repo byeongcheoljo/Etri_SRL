@@ -1,0 +1,4 @@
+etri#doc_7759.txt 4 기여하다 ----- 3:3-ARG1(GOL) 4:0-rel
+etri#doc_7759.txt 7 저해하다 ----- 4:4-ARGM-DIS() 5:1-ARGM-MNR() 6:1-ARG2(THM) 7:0-rel
+etri#doc_7759.txt 10 흘러가다 ----- 8:3-ARGM-DIR(DIR) 9:1-ARG1(THM) 10:0-rel
+etri#doc_7759.txt 17 사라지다 ----- 10:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

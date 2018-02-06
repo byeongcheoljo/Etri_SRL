@@ -1,0 +1,3 @@
+etri#doc_7793.txt 4 오다 ----- 4:0-rel
+etri#doc_7793.txt 10 내놓다 ----- 6:3-ARGM-TMP(LOC) 8:2-ARG0(AGT) 9:1-ARG2(GOL) 10:0-rel
+etri#doc_7793.txt 14 마련하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel

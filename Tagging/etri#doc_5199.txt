@@ -1,0 +1,4 @@
+etri#doc_5199.txt 7 쓰다 ----- 3:3-ARG1(THM) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_5199.txt 12 내다 ----- 8:1-ARG0(AGT) 9:1-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5199.txt 16 고르다 ----- 15:5-ARG1() 16:0-rel
+etri#doc_5199.txt 17 쓰다 ----- 7:3-ARGM-CND() 16:6-ARGM-MNR() 17:0-rel

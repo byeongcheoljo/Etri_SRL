@@ -1,0 +1,2 @@
+etri#doc_8409.txt 4 발표하다 ----- 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_8409.txt 14 적다 ----- 1:1-ARGM-ADV() 2:1-ARG0() 12:3-ARG2(LOC) 13:1-ARGM-EXT(EFF) 14:0-rel

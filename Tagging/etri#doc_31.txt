@@ -1,0 +1,3 @@
+etri#doc_31.txt 14 동화되다 ----- 6:3-ARGM-DIS(CRT) 12:2-ARG2(GOL) 13:1-ARGM-ADV() 14:0-rel
+etri#doc_31.txt 19 나타내다 ----- 14:2-ARGM-DIS() 17:2-ARG1(GOL) 18:1-ARGM-MNR(MAG) 19:0-rel
+etri#doc_31.txt 21 말하다 ----- 1:1-ARG0(EFF) 2:1-ARGM-ADV() 20:3-ARG1(THM) 21:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8552.txt 4 다지다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_8552.txt 7 넣다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_8552.txt 10 치다 ----- 7:5-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_8552.txt 13 간하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-INS(INS) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_8552.txt 14 먹다 ----- 13:2-ARGM-MNR() 14:0-rel
+etri#doc_8552.txt 17 먹다 ----- 15:1-ARG0(AGT) 16:1-ARGM-MNR() 17:0-rel

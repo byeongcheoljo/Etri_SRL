@@ -1,0 +1,7 @@
+etri#doc_6226.txt 5 구성되다 ----- 4:2-ARG2(INS) 5:0-rel
+etri#doc_6226.txt 8 하다 ----- 6:1-ARGM-MNR(COM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_6226.txt 11 지니다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_6226.txt 12 완성되다 ----- 12:0-rel
+etri#doc_6226.txt 14 수용되다 ----- 8:2-ARGM-DIS() 13:2-ARGM-MNR(INS) 14:0-rel
+etri#doc_6226.txt 16 지니다 ----- 15:1-ARG0(AGT) 16:0-rel
+etri#doc_6226.txt 19 수용되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 5:3-ARGM-DIS() 14:3-ARGM-CAU() 18:2-ARGM-MNR(INS) 19:0-rel

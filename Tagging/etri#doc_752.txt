@@ -1,0 +1,1 @@
+etri#doc_752.txt 8 이용하다 ----- 2:1-ARGM-DIS() 4:2-ARG1(THM) 7:3-ARG1(LOC) 8:0-rel

@@ -1,0 +1,7 @@
+etri#doc_9176.txt 3 풀다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_9176.txt 5 태어나다 ----- 3:2-ARGM-DIS() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_9176.txt 7 갖다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_9176.txt 9 매달리다 ----- 7:4-ARGM-DIS() 8:1-ARG2(GOL) 9:0-rel
+etri#doc_9176.txt 13 끌어들이다 ----- 10:1-ARGM-MNR() 12:2-ARG1(THM) 13:0-rel
+etri#doc_9176.txt 16 대처하다 ----- 13:3-ARGM-MNR() 14:1-ARGM-MNR(INS) 15:1-ARG1(LOC) 16:0-rel
+etri#doc_9176.txt 18 되다 ----- 9:2-ARGM-DIS() 17:3-ARG2(FNS) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11908.txt 5 사용되다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:1-ARGM-PRP(PUR) 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_11908.txt 9 도입되다 ----- 5:2-ARGM-DIS() 6:1-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11908.txt 14 부응하다 ----- 13:2-ARG1(GOL) 14:0-rel
+etri#doc_11908.txt 16 왜곡되다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 14:3-ARGM-PRP() 15:1-ARGM-EXT() 16:0-rel

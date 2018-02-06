@@ -1,0 +1,2 @@
+etri#doc_11038.txt 11 공양하다 ----- 10:1-ARG2(GOL) 11:0-rel
+etri#doc_11038.txt 15 간수하다 ----- 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

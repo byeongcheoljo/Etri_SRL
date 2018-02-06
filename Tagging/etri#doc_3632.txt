@@ -1,0 +1,4 @@
+etri#doc_3632.txt 4 잇따르다 ----- 4:0-rel
+etri#doc_3632.txt 12 옮기다 ----- 7:2-ARG2(SRC) 10:3-ARG3(GOL) 11:1-ARG1(AGT) 12:0-rel
+etri#doc_3632.txt 15 반영하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_3632.txt 17 받아들이다 ----- 5:2-ARG1(THM) 16:4-ARG3(FNS) 17:0-rel

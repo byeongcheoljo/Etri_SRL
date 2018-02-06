@@ -1,0 +1,5 @@
+etri#doc_13055.txt 5 지체되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_13055.txt 9 주다 ----- 5:3-ARGM-DIS() 6:1-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_13055.txt 10 지적하다 ----- 9:3-ARG1() 10:0-rel
+etri#doc_13055.txt 18 검토하다 ----- 16:5-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_13055.txt 19 요청하다 ----- 1:1-ARGM-ADV(EFF) 2:1-ARG0(AGT) 11:5-ARGM-TMP() 18:2-ARG1() 19:0-rel

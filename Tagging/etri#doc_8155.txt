@@ -1,0 +1,4 @@
+etri#doc_8155.txt 7 이르다 ----- 6:4-ARG3(FNS) 7:0-rel
+etri#doc_8155.txt 10 놓아주다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_8155.txt 11 말하다 ----- 2:2-ARG0(AGT) 10:3-ARG1(CNT) 11:0-rel
+etri#doc_8155.txt 18 놓다 ----- 16:3-ARG2(GOL) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11922.txt 2 변화하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11922.txt 7 살리다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11922.txt 9 가지다 ----- 8:1-ARG0(LOC) 9:0-rel
+etri#doc_11922.txt 12 중시하다 ----- 10:3-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_11922.txt 14 강화하다 ----- 7:3-ARGM-EXT(CRT) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_11922.txt 16 들어가다 ----- 3:3-ARGM-TMP(LOC) 4:1-ARG0(AGT) 15:3-ARGM-TMP(LOC) 16:0-rel

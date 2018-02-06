@@ -1,0 +1,4 @@
+etri#doc_6847.txt 11 받다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_6847.txt 13 살다 ----- 9:3-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6847.txt 15 되다 ----- 14:3-ARG2(FNS) 15:0-rel
+etri#doc_6847.txt 16 만들다 ----- 4:4-ARGM-DIS() 6:2-ARGM-ADV() 15:4-ARGM-PRP() 16:0-rel

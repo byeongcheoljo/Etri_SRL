@@ -1,0 +1,2 @@
+etri#doc_930.txt 8 요구하다 ----- 2:2-ARGM-CAU(EFF) 4:2-ARG0(AGT) 6:2-ARG1(THM) 7:1-ARG2(GOL) 8:0-rel
+etri#doc_930.txt 10 보다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel

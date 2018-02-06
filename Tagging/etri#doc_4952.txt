@@ -1,0 +1,2 @@
+etri#doc_4952.txt 9 두르다 ----- 8:2-ARG2(LOC) 9:0-rel
+etri#doc_4952.txt 11 마시다 ----- 3:2-ARGM-DIS() 5:2-ARGM-LOC(LOC) 6:1-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

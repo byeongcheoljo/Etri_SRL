@@ -1,0 +1,5 @@
+etri#doc_6964.txt 4 개설되다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-PRD(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6964.txt 10 구체화되다 ----- 6:1-ARG1(THM) 7:1-ARGM-CAU(EFF) 9:2-ARGM-EXT(CRT) 10:0-rel
+etri#doc_6964.txt 12 증가되다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6964.txt 13 정리되다 ----- 13:0-rel
+etri#doc_6964.txt 15 구성하다 ----- 4:2-ARGM-TMP() 5:1-ARGM-TMP(LOC) 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

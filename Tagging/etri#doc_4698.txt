@@ -1,0 +1,4 @@
+etri#doc_4698.txt 5 설명하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4698.txt 8 양육하다 ----- 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4698.txt 10 제외하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_4698.txt 12 하다 ----- 12:0-rel

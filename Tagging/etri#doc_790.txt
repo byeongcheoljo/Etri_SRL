@@ -1,0 +1,4 @@
+etri#doc_790.txt 4 두다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_790.txt 8 받다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_790.txt 13 풀다 ----- 10:4-ARGM-CND() 11:1-ARG0(AGT) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_790.txt 16 추측하다 ----- 4:3-ARGM-TMP() 15:4-ARG1() 16:0-rel

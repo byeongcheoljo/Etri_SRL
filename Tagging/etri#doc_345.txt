@@ -1,0 +1,4 @@
+etri#doc_345.txt 2 챙기다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_345.txt 4 들어가다 ----- 2:2-ARGM-DIS() 3:1-ARG3(GOL) 4:0-rel
+etri#doc_345.txt 8 이루다 ----- 6:4-ARG0(EFF) 7:1-ARG1(THM) 8:0-rel
+etri#doc_345.txt 17 멎다 ----- 9:3-ARGM-DIS() 14:5-ARGM-MNR(COM) 16:2-ARG0(THM) 17:0-rel

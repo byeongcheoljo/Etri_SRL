@@ -1,0 +1,4 @@
+etri#doc_6984.txt 1 덧붙이다 ----- 1:0-rel
+etri#doc_6984.txt 6 투기하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6984.txt 15 이루어지다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_6984.txt 17 성립되다 ----- 15:5-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3393.txt 5 설치하다 ----- 3:2-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3393.txt 10 원하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_3393.txt 17 내다 ----- 12:1-ARGM-MNR(INS) 13:1-ARG1(THM) 14:1-ARGM-TMP() 15:1-ARGM-EXT() 16:1-ARGM-EXT() 17:0-rel
+etri#doc_3393.txt 18 요구하다 ----- 1:1-ARGM-DIS() 8:3-ARG0(AGT) 11:3-ARG2(GOL) 17:2-ARGM-PRP() 18:0-rel

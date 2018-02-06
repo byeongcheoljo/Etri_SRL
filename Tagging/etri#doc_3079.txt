@@ -1,0 +1,2 @@
+etri#doc_3079.txt 5 한정되다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_3079.txt 13 산재하다 ----- 12:2-ARG0(AGT) 13:0-rel

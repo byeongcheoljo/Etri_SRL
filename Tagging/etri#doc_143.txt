@@ -1,0 +1,4 @@
+etri#doc_143.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_143.txt 6 꿈꾸다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_143.txt 13 부정하다 ----- 10:3-ARG0(AGT) 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_143.txt 15 하다 ----- 3:3-ARGM-CND() 4:1-ARG1(THM) 14:3-ARGM-DIS(CNT) 15:0-rel

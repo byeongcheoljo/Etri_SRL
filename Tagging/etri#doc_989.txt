@@ -1,0 +1,4 @@
+etri#doc_989.txt 4 구성하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_989.txt 8 파악하다 ----- 5:5-ARG1(THM) 7:2-ARG1(FNS) 8:0-rel
+etri#doc_989.txt 19 보다 ----- 16:1-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel
+etri#doc_989.txt 22 생각하다 ----- 12:3-ARGM-DIS() 21:5-ARG1() 22:0-rel

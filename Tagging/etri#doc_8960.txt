@@ -1,0 +1,3 @@
+etri#doc_8960.txt 10 변하다 ----- 9:1-ARGM-DIS(EFF) 10:0-rel
+etri#doc_8960.txt 15 존중하다 ----- 15:0-rel
+etri#doc_8960.txt 18 이해하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 17:3-ARG1() 18:0-rel

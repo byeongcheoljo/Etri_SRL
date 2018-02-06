@@ -1,0 +1,4 @@
+etri#doc_9404.txt 4 ÇÏ´Ù ----- 1:1-ARGM-DIS() 3:2-ARGM-TMP(LOC) 4:0-rel
+etri#doc_9404.txt 6 ¸Ô´Ù ----- 6:0-rel
+etri#doc_9404.txt 10 ¸Ô´Ù ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_9404.txt 15 ¸Ô´Ù ----- 8:3-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

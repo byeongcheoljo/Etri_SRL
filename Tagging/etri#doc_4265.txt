@@ -1,0 +1,2 @@
+etri#doc_4265.txt 13 품다 ----- 6:3-ARGM-ADV(CNT) 11:4-ARGM-ADV(CNT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4265.txt 14 생각하다 ----- 13:2-ARGM-PRP() 14:0-rel

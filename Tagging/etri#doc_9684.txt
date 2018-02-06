@@ -1,0 +1,2 @@
+etri#doc_9684.txt 9 오락가락하다 ----- 5:4-ARGM-DIS() 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_9684.txt 17 되다 ----- 14:2-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

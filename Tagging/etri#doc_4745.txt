@@ -1,0 +1,5 @@
+etri#doc_4745.txt 6 지르다 ----- 3:1-ARGM-MNR() 5:2-ARG1(THM) 6:0-rel
+etri#doc_4745.txt 7 시작되다 ----- 2:2-ARG1(THM) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_4745.txt 9 지르다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4745.txt 16 기다리다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_4745.txt 17 침묵하다 ----- 7:4-ARGM-DIS() 12:2-ARGM-EXT(CRT) 16:3-ARGM-DIS() 17:0-rel

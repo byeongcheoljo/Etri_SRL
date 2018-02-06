@@ -1,0 +1,5 @@
+etri#doc_4673.txt 3 성장하다 ----- 2:2-ARG0(THM) 3:0-rel
+etri#doc_4673.txt 8 만들다 ----- 3:3-ARGM-PRP() 4:1-ARGM-MNR() 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4673.txt 15 하다 ----- 8:2-ARGM-DIS() 9:1-ARGM-PRP() 10:1-ARGM-DIS() 11:1-ARG1(THM) 13:2-ARGM-EXT() 14:1-ARG1(THM) 15:0-rel
+etri#doc_4673.txt 18 증가시키다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_4673.txt 19 합성되다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 18:2-ARGM-DIS() 19:0-rel

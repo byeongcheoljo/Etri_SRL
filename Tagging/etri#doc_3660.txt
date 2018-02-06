@@ -1,0 +1,3 @@
+etri#doc_3660.txt 2 지정되다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_3660.txt 9 건립되다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARGM-TMP(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_3660.txt 12 수용하다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel

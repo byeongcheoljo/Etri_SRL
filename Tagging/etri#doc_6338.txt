@@ -1,0 +1,3 @@
+etri#doc_6338.txt 6 보다 ----- 5:3-ARGM-LOC(LOC) 6:0-rel
+etri#doc_6338.txt 15 형성하다 ----- 15:0-rel
+etri#doc_6338.txt 17 포함시키다 ----- 16:2-ARG1(THM) 17:0-rel

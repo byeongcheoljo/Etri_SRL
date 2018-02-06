@@ -1,0 +1,3 @@
+etri#doc_5795.txt 5 활용하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5795.txt 7 생각하다 ----- 2:2-ARGM-DIS() 6:4-ARG1(THM) 7:0-rel
+etri#doc_5795.txt 13 정당화하다 ----- 7:5-ARGM-EXT() 9:2-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel

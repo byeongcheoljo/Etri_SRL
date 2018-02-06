@@ -1,0 +1,4 @@
+etri#doc_3780.txt 3 성숙하다 ----- 3:0-rel
+etri#doc_3780.txt 5 감안하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3780.txt 15 요망되다 ----- 5:3-ARGM-CND() 6:1-ARGM-TMP(LOC) 9:3-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:0-rel
+etri#doc_3780.txt 16 말하다 ----- 1:1-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

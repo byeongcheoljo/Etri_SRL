@@ -1,0 +1,6 @@
+etri#doc_2648.txt 2 풀다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2648.txt 4 들다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_2648.txt 6 하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_2648.txt 8 뛰다 ----- 4:2-ARGM-DIS() 6:2-ARGM-DIS() 7:1-ARGM-ADV(EFF) 8:0-rel
+etri#doc_2648.txt 12 빠지다 ----- 10:1-ARG1(EFF) 11:1-ARG1(EFF) 12:0-rel
+etri#doc_2648.txt 16 되다 ----- 9:3-ARG1() 14:4-ARGM-ADV() 15:1-ARG1(AGT) 16:0-rel

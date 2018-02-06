@@ -1,0 +1,4 @@
+etri#doc_4690.txt 2 이루다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4690.txt 6 살다 ----- 4:1-ARG2(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_4690.txt 8 이르다 ----- 3:3-ARG2(SRC) 7:3-ARG3(GOL) 8:0-rel
+etri#doc_4690.txt 14 이루어지다 ----- 8:4-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARGM-EXT() 13:1-ARGM-TMP() 14:0-rel

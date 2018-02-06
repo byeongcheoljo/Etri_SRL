@@ -1,0 +1,4 @@
+etri#doc_9122.txt 5 진보하다 ----- 4:1-ARGM-DIS() 5:0-rel
+etri#doc_9122.txt 7 진보하다 ----- 3:2-ARG1(THM) 5:2-ARGM-DIS() 6:1-ARGM-TMP() 7:0-rel
+etri#doc_9122.txt 12 직면하다 ----- 1:1-ARGM-DIS() 11:3-ARG1(LOC) 12:0-rel
+etri#doc_9122.txt 16 달라지다 ----- 12:4-ARGM-TMP() 14:2-ARG0(THM) 15:1-ARGM-MNR(INS) 16:0-rel

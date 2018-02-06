@@ -1,0 +1,8 @@
+etri#doc_2200.txt 1 살다 ----- 1:0-rel
+etri#doc_2200.txt 4 빠지다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_2200.txt 7 잡아매다 ----- 4:2-() 5:1-() 6:1-() 7:0-rel
+etri#doc_2200.txt 10 넣다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR(EFF) 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_2200.txt 11 넘어가다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_2200.txt 14 움직이다 ----- 13:1-ARGM-TMP() 14:0-rel
+etri#doc_2200.txt 16 두다 ----- 12:4-ARGM-DIS() 15:3-ARGM-DIS(DIR) 16:0-rel
+etri#doc_2200.txt 17 끌어내다 ----- 2:2-ARG1(THM) 16:4-ARGM-DIS() 17:0-rel

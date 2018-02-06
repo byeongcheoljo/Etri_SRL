@@ -1,0 +1,2 @@
+etri#doc_2244.txt 13 갖다 ----- 4:1-ARG1(LOC) 5:1-ARGM-EXT() 6:1-ARG0() 10:4-ARGM-MNR(FNS) 12:2-ARG1(THM) 13:0-rel
+etri#doc_2244.txt 15 알다 ----- 1:1-ARGM-TMP() 3:2-ARGM-EXT() 14:4-ARG1(THM) 15:0-rel

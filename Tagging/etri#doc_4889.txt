@@ -1,0 +1,2 @@
+etri#doc_4889.txt 8 대치하다 ----- 3:2-ARG1(THM) 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_4889.txt 24 이동하다 ----- 17:3-ARG2(SRC) 23:3-ARG3(DIR) 24:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7809.txt 5 차지하다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7809.txt 9 속하다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_7809.txt 15 비교하다 ----- 13:4-ARG1(THM) 14:1-ARG2(COM) 15:0-rel
+etri#doc_7809.txt 17 평가하다 ----- 2:2-ARGM-LOC(LOC) 15:2-ARGM-PRD() 16:1-ARG1(THM) 17:0-rel

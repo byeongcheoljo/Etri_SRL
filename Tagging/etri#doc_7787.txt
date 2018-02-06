@@ -1,0 +1,3 @@
+etri#doc_7787.txt 4 시작하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_7787.txt 9 생기다 ----- 8:2-ARGM-CAU(EFF) 9:0-rel
+etri#doc_7787.txt 13 메우다 ----- 12:2-ARG1(THM) 13:0-rel

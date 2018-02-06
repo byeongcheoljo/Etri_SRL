@@ -1,0 +1,4 @@
+etri#doc_8480.txt 2 옹호하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8480.txt 8 무르익다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8480.txt 13 강화되다 ----- 10:1-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_8480.txt 16 사라지다 ----- 4:2-ARG1(THM) 9:4-ARGM-DIS() 13:3-ARGM-CAU() 15:2-ARGM-LOC(SRC) 16:0-rel

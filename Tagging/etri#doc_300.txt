@@ -1,0 +1,6 @@
+etri#doc_300.txt 4 포장되다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_300.txt 7 마주치다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_300.txt 10 보다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_300.txt 14 나오다 ----- 12:1-ARG2(SRC) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_300.txt 16 보다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_300.txt 18 느끼다 ----- 10:3-ARGM-CAU() 11:1-ARG0(EXP) 17:5-ARG1(THM) 18:0-rel

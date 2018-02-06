@@ -1,0 +1,4 @@
+etri#doc_8794.txt 4 ÂÑ°Ü³ª´Ù ----- 3:2-ARGM-LOC(SRC) 4:0-rel
+etri#doc_8794.txt 7 ³ª¾É´Ù ----- 4:3-ARGM-CND() 5:1-ARGM-MNR() 6:1-ARG2(GOL) 7:0-rel
+etri#doc_8794.txt 11 Á¹¾÷ÇÏ´Ù ----- 9:1-ARG0(THM) 10:1-ARG1(SRC) 11:0-rel
+etri#doc_8794.txt 15 ¶°³ª´Ù ----- 1:1-ARGM-DIS() 8:3-ARG0(AGT) 11:2-ARGM-TMP() 12:1-ARGM-TMP() 14:2-ARG1(LOC) 15:0-rel

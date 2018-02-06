@@ -1,0 +1,1 @@
+etri#doc_6939.txt 8 생산하다 ----- 7:1-ARG1(THM) 8:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9973.txt 5 지다 ----- 3:1-ARGM-TMP(SRC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_9973.txt 13 하다 ----- 2:2-ARGM-CND() 5:2-ARGM-TMP() 6:1-ARGM-MNR() 10:4-ARGM-LOC(LOC) 11:1-ARGM-MNR(COM) 12:1-ARG1(THM) 13:0-rel

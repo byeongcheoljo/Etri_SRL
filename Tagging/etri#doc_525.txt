@@ -1,0 +1,4 @@
+etri#doc_525.txt 1 폭주하다 ----- 1:0-rel
+etri#doc_525.txt 4 생각하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_525.txt 9 가다 ----- 4:3-ARGM-DIS() 6:2-ARGM-EXT(EFF) 8:2-ARG1(THM) 9:0-rel
+etri#doc_525.txt 14 되다 ----- 10:1-ARG1(THM) 13:3-ARG2(FNS) 14:0-rel

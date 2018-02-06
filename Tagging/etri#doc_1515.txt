@@ -1,0 +1,4 @@
+etri#doc_1515.txt 3 생기다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1515.txt 9 찾다 ----- 4:4-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1515.txt 12 구하다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_1515.txt 15 하다 ----- 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

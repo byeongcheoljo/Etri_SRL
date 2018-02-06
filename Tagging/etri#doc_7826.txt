@@ -1,0 +1,2 @@
+etri#doc_7826.txt 7 주저하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-MNR(COM) 6:2-ARG1(THM) 7:0-rel
+etri#doc_7826.txt 11 서다 ----- 8:1-ARGM-TMP() 10:2-ARG0(EXP) 11:0-rel

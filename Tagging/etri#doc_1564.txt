@@ -1,0 +1,2 @@
+etri#doc_1564.txt 5 소개되다 ----- 2:2-ARGM-DIS() 3:1-ARGM-LOC(LOC) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_1564.txt 16 모이다 ----- 14:9-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

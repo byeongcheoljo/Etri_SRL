@@ -1,0 +1,2 @@
+etri#doc_8234.txt 12 형성하다 ----- 7:1-ARG0(THM) 9:2-ARG1(FNS) 11:2-ARGM-MNR(INS) 12:0-rel
+etri#doc_8234.txt 16 제공하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 6:3-ARGM-CND() 15:6-ARG1(THM) 16:0-rel

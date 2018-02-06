@@ -1,0 +1,5 @@
+etri#doc_8625.txt 3 세우다 ----- 1:1-ARGM-LOC() 2:1-ARG1(THM) 3:0-rel
+etri#doc_8625.txt 4 날아다니다 ----- 4:0-rel
+etri#doc_8625.txt 6 걸리다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_8625.txt 10 피하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-MNR() 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8625.txt 14 들어가다 ----- 10:2-ARGM-MNR() 13:3-ARG3(GOL) 14:0-rel

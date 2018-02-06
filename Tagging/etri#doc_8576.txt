@@ -1,0 +1,4 @@
+etri#doc_8576.txt 4 나타나다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_8576.txt 7 지적되다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_8576.txt 14 작용하다 ----- 12:4-ARG1(THM) 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_8576.txt 16 간과하다 ----- 15:3-ARG1(THM) 16:0-rel

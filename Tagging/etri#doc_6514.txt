@@ -1,0 +1,4 @@
+etri#doc_6514.txt 7 보이다 ----- 3:3-ARG0(AGT) 6:2-ARGM-LOC(LOC) 7:0-rel
+etri#doc_6514.txt 10 보다 ----- 9:2-ARGM-MNR() 10:0-rel
+etri#doc_6514.txt 13 앉다 ----- 11:1-ARG1(GOL) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6514.txt 16 보이다 ----- 7:3-ARGM-DIS() 10:3-ARGM-CND() 15:4-ARG1(THM) 16:0-rel

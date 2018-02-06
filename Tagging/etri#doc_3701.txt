@@ -1,0 +1,9 @@
+etri#doc_3701.txt 2 가다 ----- 1:1-ARG3(GOL) 2:0-rel
+etri#doc_3701.txt 4 하다 ----- 2:2-ARGM-DIS() 3:1-ARG1() 4:0-rel
+etri#doc_3701.txt 5 하다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_3701.txt 6 묻다 ----- 5:3-ARGM-DIS() 6:0-rel
+etri#doc_3701.txt 8 가다 ----- 7:1-ARGM-LOC() 8:0-rel
+etri#doc_3701.txt 10 먹다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_3701.txt 14 먹다 ----- 8:2-ARGM-CND() 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3701.txt 16 하다 ----- 6:4-ARGM-DIS() 15:3-ARG1() 16:0-rel
+etri#doc_3701.txt 19 남다 ----- 16:4-ARGM-DIS() 17:1-ARG1(THM) 18:1-ARGM-TMP() 19:0-rel

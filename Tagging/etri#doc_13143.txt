@@ -1,0 +1,3 @@
+etri#doc_13143.txt 7 ±Øº¹ÇÏ´Ù ----- 1:1-ARGM-TMP() 5:2-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_13143.txt 11 µÇ»ì¸®´Ù ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_13143.txt 18 »ï´Ù ----- 11:4-ARGM-DIS() 13:2-ARG1(THM) 17:2-ARG2(FNS) 18:0-rel

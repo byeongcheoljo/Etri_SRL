@@ -1,0 +1,4 @@
+etri#doc_9596.txt 5 되다 ----- 4:2-ARG2(FNS) 5:0-rel
+etri#doc_9596.txt 7 되다 ----- 5:3-ARGM-DIS() 6:1-ARG2(FNS) 7:0-rel
+etri#doc_9596.txt 9 되다 ----- 2:1-ARG1(THM) 7:2-ARGM-DIS() 8:1-ARG2(FNS) 9:0-rel
+etri#doc_9596.txt 15 위하다 ----- 11:1-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel

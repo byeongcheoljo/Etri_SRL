@@ -1,0 +1,4 @@
+etri#doc_6058.txt 6 맡다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_6058.txt 8 가다 ----- 7:3-ARG3(GOL) 8:0-rel
+etri#doc_6058.txt 10 보다 ----- 9:5-ARGM-LOC(LOC) 10:0-rel
+etri#doc_6058.txt 17 되다 ----- 1:1-ARGM-TMP(LOC) 11:7-ARG1(THM) 12:1-ARGM-EXT() 15:3-ARGM-PRD(EFF) 16:1-ARG2(FNS) 17:0-rel

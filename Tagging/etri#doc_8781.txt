@@ -1,0 +1,7 @@
+etri#doc_8781.txt 1 죽다 ----- 1:0-rel
+etri#doc_8781.txt 3 당하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8781.txt 6 흔들리다 ----- 4:1-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_8781.txt 7 안심하다 ----- 7:0-rel
+etri#doc_8781.txt 8 죽다 ----- 3:3-ARGM-DIS() 6:2-ARGM-DIS() 7:1-ARGM-DIS() 8:0-rel
+etri#doc_8781.txt 9 원하다 ----- 8:2-ARG1() 9:0-rel
+etri#doc_8781.txt 14 간파하다 ----- 9:3-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel

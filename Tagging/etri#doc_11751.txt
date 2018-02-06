@@ -1,0 +1,5 @@
+etri#doc_11751.txt 3 세우다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11751.txt 9 가지다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_11751.txt 13 받아들이다 ----- 13:0-rel
+etri#doc_11751.txt 14 거부하다 ----- 12:1-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_11751.txt 18 밝히다 ----- 6:2-ARGM-DIS() 11:5-ARGM-CND() 14:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

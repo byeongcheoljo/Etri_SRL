@@ -1,0 +1,2 @@
+etri#doc_5008.txt 3 내다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_5008.txt 10 말하다 ----- 8:1-ARG0() 9:1-ARG1(THM) 10:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3419.txt 4 떼짓다 ----- 3:1-ARGM-ADV() 4:0-rel
+etri#doc_3419.txt 6 모여들다 ----- 1:1-ARGM-TMP() 2:1-ARGM-TMP() 4:2-ARGM-MNR() 5:1-ARG2(GOL) 6:0-rel
+etri#doc_3419.txt 11 곤두박질치다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_3419.txt 18 지켜보다 ----- 13:2-ARGM-MNR(INS) 15:2-ARG1(THM) 17:2-ARGM-MNR() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1445.txt 4 분류되다 ----- 1:1-ARGM-DIS() 3:2-ARG2(FNS) 4:0-rel
+etri#doc_1445.txt 7 전하다 ----- 7:0-rel
+etri#doc_1445.txt 14 다루다 ----- 9:2-ARG2(LOC) 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_1445.txt 15 읽다 ----- 15:0-rel
+etri#doc_1445.txt 20 더하다 ----- 5:4-ARGM-DIS() 6:1-ARG0(EFF) 14:2-ARGM-CAU() 16:2-ARGM-DIR(DIR) 19:2-ARG1(THM) 20:0-rel

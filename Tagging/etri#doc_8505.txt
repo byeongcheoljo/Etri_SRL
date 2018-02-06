@@ -1,0 +1,1 @@
+etri#doc_8505.txt 10 침투하다 ----- 3:2-ARG0(AGT) 4:1-ARGM-MNR() 5:1-ARGM-MNR(INS) 9:2-ARG1(GOL) 10:0-rel

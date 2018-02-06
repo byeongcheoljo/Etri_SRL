@@ -1,0 +1,8 @@
+etri#doc_5535.txt 4 사다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_5535.txt 5 남다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_5535.txt 8 주다 ----- 7:5-ARG1(THM) 8:0-rel
+etri#doc_5535.txt 10 타다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_5535.txt 12 가다 ----- 10:2-ARGM-DIS() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5535.txt 14 꾸리다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_5535.txt 16 만나다 ----- 15:1-ARGM-TMP() 16:0-rel
+etri#doc_5535.txt 19 나오다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(GOL) 8:6-ARGM-DIS() 14:2-ARGM-DIS() 17:3-ARG3(GOL) 18:1-ARGM-TMP() 19:0-rel

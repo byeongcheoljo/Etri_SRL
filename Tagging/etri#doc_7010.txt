@@ -1,0 +1,2 @@
+etri#doc_7010.txt 7 공표되다 ----- 3:3-ARGM-ADV(CNT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_7010.txt 15 받다 ----- 7:3-ARGM-CND() 8:1-ARGM-DIS() 11:2-ARGM-CAU() 12:1-ARG0(GOL) 13:1-ARGM-EXT() 14:1-ARG1(Npr) 15:0-rel

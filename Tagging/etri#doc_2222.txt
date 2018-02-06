@@ -1,0 +1,3 @@
+etri#doc_2222.txt 6 앓다 ----- 4:1-ARGM-ADV(EFF) 5:1-ARG1(THM) 6:0-rel
+etri#doc_2222.txt 10 하다 ----- 7:3-ARG1(THM) 8:1-ARG2(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2222.txt 15 담다 ----- 1:1-() 3:2-ARG2(AGT) 10:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

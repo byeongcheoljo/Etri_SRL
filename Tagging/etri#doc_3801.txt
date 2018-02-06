@@ -1,0 +1,2 @@
+etri#doc_3801.txt 4 규정하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_3801.txt 13 맞다 ----- 4:3-ARGM-DIS() 5:1-ARG1(EXP) 10:5-ARGM-CAU(EFF) 12:2-ARG2(THM) 13:0-rel

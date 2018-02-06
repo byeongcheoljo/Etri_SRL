@@ -1,0 +1,2 @@
+etri#doc_11836.txt 7 몰리다 ----- 6:2-ARG2(GOL) 7:0-rel
+etri#doc_11836.txt 16 실감하다 ----- 10:3-ARG0(EXP) 15:2-ARG1(THM) 16:0-rel

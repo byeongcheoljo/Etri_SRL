@@ -1,0 +1,4 @@
+etri#doc_8243.txt 7 강조하다 ----- 6:3-ARG1() 7:0-rel
+etri#doc_8243.txt 13 양분되다 ----- 12:4-ARGM-MNR(INS) 13:0-rel
+etri#doc_8243.txt 18 논하다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_8243.txt 20 이루다 ----- 13:5-ARGM-DIS() 15:2-ARGM-MNR(COM) 19:4-ARG1(THM) 20:0-rel

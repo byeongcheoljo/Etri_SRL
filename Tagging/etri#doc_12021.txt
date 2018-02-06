@@ -1,0 +1,5 @@
+etri#doc_12021.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_12021.txt 5 결혼하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(COM) 5:0-rel
+etri#doc_12021.txt 7 얻다 ----- 1:1-ARGM-TMP() 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_12021.txt 12 마치다 ----- 10:2-ARGM-CND() 11:1-ARGM-ADV() 12:0-rel
+etri#doc_12021.txt 15 이행하다 ----- 8:3-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

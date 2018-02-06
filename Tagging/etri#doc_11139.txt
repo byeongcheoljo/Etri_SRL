@@ -1,0 +1,2 @@
+etri#doc_11139.txt 10 슬퍼하다 ----- 6:3-ARGM-DIS() 8:2-ARGM-ADV(EFF) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_11139.txt 13 돕다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

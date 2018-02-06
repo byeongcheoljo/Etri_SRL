@@ -1,0 +1,2 @@
+etri#doc_9082.txt 10 국한되다 ----- 4:3-ARGM-DIS() 5:1-ARGM-INS() 9:2-ARG2(LOC) 10:0-rel
+etri#doc_9082.txt 16 되다 ----- 11:4-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:1-ARG2(FNS) 16:0-rel

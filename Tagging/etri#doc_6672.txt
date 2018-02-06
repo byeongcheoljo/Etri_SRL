@@ -1,0 +1,2 @@
+etri#doc_6672.txt 10 자리잡다 ----- 2:2-ARG1(LOC) 9:3-ARG0(AGT) 10:0-rel
+etri#doc_6672.txt 17 살다 ----- 16:2-ARG0(AGT) 17:0-rel

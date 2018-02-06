@@ -1,0 +1,3 @@
+etri#doc_478.txt 11 이루어지다 ----- 5:2-ARG1(THM) 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_478.txt 18 인도하다 ----- 11:3-ARGM-DIS() 15:3-ARG0(AGT) 16:1-ARGM-INS(INS) 17:1-ARG3(GOL) 18:0-rel
+etri#doc_478.txt 19 믿다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 18:2-ARG1() 19:0-rel

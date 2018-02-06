@@ -1,0 +1,2 @@
+etri#doc_11068.txt 4 떠나다 ----- 1:1-() 2:1-ARG3(DIR) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11068.txt 15 대비시키다 ----- 6:4-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

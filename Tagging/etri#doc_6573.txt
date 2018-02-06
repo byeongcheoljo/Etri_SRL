@@ -1,0 +1,4 @@
+etri#doc_6573.txt 10 이어지다 ----- 7:5-ARG3(GOL) 9:2-ARG1(THM) 10:0-rel
+etri#doc_6573.txt 15 시작되다 ----- 14:4-ARGM-LOC(LOC) 15:0-rel
+etri#doc_6573.txt 18 확대되다 ----- 10:3-ARGM-DIS() 16:6-ARG1(THM) 17:1-ARG3(GOL) 18:0-rel
+etri#doc_6573.txt 19 보도하다 ----- 2:2-ARG0(AGT) 18:2-ARG1() 19:0-rel

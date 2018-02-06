@@ -1,0 +1,3 @@
+etri#doc_7130.txt 14 확립시키다 ----- 11:1-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_7130.txt 15 노력하다 ----- 10:2-ARGM-PRD(INS) 14:2-ARGM-DIS() 15:0-rel
+etri#doc_7130.txt 17 생각하다 ----- 2:2-ARGM-TMP(LOC) 5:3-ARGM-DIS() 6:1-ARG0(MAG) 16:4-ARG1(CNT) 17:0-rel

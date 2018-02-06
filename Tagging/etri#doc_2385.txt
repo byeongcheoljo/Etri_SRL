@@ -1,0 +1,4 @@
+etri#doc_2385.txt 7 »ÌÈ÷´Ù ----- 6:1-() 7:0-rel
+etri#doc_2385.txt 12 ´Û´Ù ----- 10:1-ARGM-ADV(EFF) 11:1-ARG1(THM) 12:0-rel
+etri#doc_2385.txt 14 ÇÏ´Ù ----- 14:0-rel
+etri#doc_2385.txt 15 Á¶¸£´Ù ----- 1:1-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-DIS() 15:0-rel

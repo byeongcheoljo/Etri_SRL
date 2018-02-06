@@ -1,0 +1,4 @@
+etri#doc_5593.txt 2 조사되다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_5593.txt 10 밝히다 ----- 7:3-ARG1(THM) 9:2-ARG1() 10:0-rel
+etri#doc_5593.txt 14 시달리다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:1-ARG0(EFF) 14:0-rel
+etri#doc_5593.txt 15 드러나다 ----- 10:3-ARGM-CAU() 14:2-ARG1(THM) 15:0-rel

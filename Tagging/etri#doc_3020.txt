@@ -1,0 +1,2 @@
+etri#doc_3020.txt 9 표현하다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 8:5-ARGM-MNR() 9:0-rel
+etri#doc_3020.txt 14 추구하다 ----- 13:2-ARG1(THM) 14:0-rel

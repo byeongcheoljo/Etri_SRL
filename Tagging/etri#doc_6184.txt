@@ -1,0 +1,4 @@
+etri#doc_6184.txt 6 이르다 ----- 4:2-ARG1(THM) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_6184.txt 8 알다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6184.txt 16 돌리다 ----- 9:3-ARG0(AGT) 12:3-ARG1(THM) 15:3-ARG2(GOL) 16:0-rel
+etri#doc_6184.txt 17 나타나다 ----- 2:2-ARGM-TMP(LOC) 16:4-ARG1() 17:0-rel

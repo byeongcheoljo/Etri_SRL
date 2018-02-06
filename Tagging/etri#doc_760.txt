@@ -1,0 +1,4 @@
+etri#doc_760.txt 5 재직하다 ----- 1:1-ARGM-TMP() 3:2-ARGM-DIS() 4:1-ARGM-PRD(EFF) 5:0-rel
+etri#doc_760.txt 9 하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_760.txt 12 못하다 ----- 6:3-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_760.txt 20 신고하다 ----- 12:2-ARGM-DIS() 15:3-ARG0(AGT) 16:1-ARGM-LOC(LOC) 18:2-ARG1(THM) 19:1-ARGM-INS(INS) 20:0-rel

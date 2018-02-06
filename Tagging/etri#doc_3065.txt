@@ -1,0 +1,3 @@
+etri#doc_3065.txt 2 가득차다 ----- 1:1-ARG2(INS) 2:0-rel
+etri#doc_3065.txt 6 주리다 ----- 6:0-rel
+etri#doc_3065.txt 16 하다 ----- 5:3-ARGM-LOC(LOC) 9:4-ARG0(AGT) 11:2-ARGM-LOC(LOC) 13:2-ARGM-PRP() 14:1-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

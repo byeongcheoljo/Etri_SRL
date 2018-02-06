@@ -1,0 +1,3 @@
+etri#doc_5252.txt 12 처하다 ----- 9:1-ARG1(THM) 11:2-ARG2(LOC) 12:0-rel
+etri#doc_5252.txt 14 막다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5252.txt 21 분배되다 ----- 18:1-ARGM-LOC(SRC) 19:1-ARG2(GOL) 20:1-ARG1(THM) 21:0-rel

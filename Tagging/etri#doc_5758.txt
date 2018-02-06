@@ -1,0 +1,4 @@
+etri#doc_5758.txt 5 차리다 ----- 2:2-ARGM-CND(CNT) 3:1-ARGM-PRP(PUR) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5758.txt 7 대하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_5758.txt 10 밀려오다 ----- 7:4-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5758.txt 17 먹다 ----- 10:3-ARGM-DIS() 14:4-ARGM-DIS() 16:2-ARGM-MNR() 17:0-rel

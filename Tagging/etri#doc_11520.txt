@@ -1,0 +1,4 @@
+etri#doc_11520.txt 2 증명하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_11520.txt 9 의존하다 ----- 5:1-ARG1(THM) 7:2-ARG2(THM) 8:1-ARG2(GOL) 9:0-rel
+etri#doc_11520.txt 10 입증하다 ----- 9:2-ARG2(THM) 10:0-rel
+etri#doc_11520.txt 15 뜻하다 ----- 4:2-ARG1(THM) 10:3-ARGM-DIS() 14:2-ARG2(FNS) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9078.txt 6 의식되다 ----- 4:1-ARGM-LOC() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_9078.txt 11 대두되다 ----- 10:2-ARGM-TMP(LOC) 11:0-rel

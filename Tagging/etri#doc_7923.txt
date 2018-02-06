@@ -1,0 +1,4 @@
+etri#doc_7923.txt 3 일어나다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_7923.txt 8 되다 ----- 6:1-ARG0(AGT) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_7923.txt 11 하다 ----- 4:1-ARGM-TMP(LOC) 5:1-ARGM-LOC(LOC) 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_7923.txt 16 조직하다 ----- 14:3-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

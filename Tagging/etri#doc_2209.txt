@@ -1,0 +1,3 @@
+etri#doc_2209.txt 3 이르다 ----- 3:0-rel
+etri#doc_2209.txt 14 걸리다 ----- 12:1-ARGM-EXT(EFF) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_2209.txt 19 감염되다 ----- 17:1-() 18:1-() 19:0-rel

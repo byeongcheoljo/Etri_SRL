@@ -1,0 +1,2 @@
+etri#doc_8555.txt 4 ÆÈ´Ù ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8555.txt 10 ¸ð¸£´Ù ----- 9:2-ARG1() 10:0-rel

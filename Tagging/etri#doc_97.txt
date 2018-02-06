@@ -1,0 +1,4 @@
+etri#doc_97.txt 4 확보하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_97.txt 6 되다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_97.txt 10 사라지다 ----- 8:2-ARG1(THM) 9:1-ARGM-ADV() 10:0-rel
+etri#doc_97.txt 15 유지하다 ----- 10:2-ARGM-CAU() 11:1-ARGM-TMP() 12:1-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

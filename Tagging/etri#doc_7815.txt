@@ -1,0 +1,4 @@
+etri#doc_7815.txt 4 원하다 ----- 3:1-ARG0(MAG) 4:0-rel
+etri#doc_7815.txt 9 행사하다 ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_7815.txt 13 내다 ----- 11:2-ARGM-MNR(INS) 12:1-ARG1(Npr) 13:0-rel
+etri#doc_7815.txt 17 반복하다 ----- 5:3-ARGM-TMP() 6:1-ARG0(AGT) 9:2-ARGM-DIS() 13:2-ARGM-MNR() 14:1-ARGM-EXT() 16:2-ARG1(THM) 17:0-rel

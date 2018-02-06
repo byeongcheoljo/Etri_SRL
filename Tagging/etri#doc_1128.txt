@@ -1,0 +1,7 @@
+etri#doc_1128.txt 4 구르다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_1128.txt 6 싸다 ----- 1:1-ARGM-TMP() 4:2-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1128.txt 9 떠밀다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1128.txt 10 보내다 ----- 6:2-ARGM-MNR() 7:1-ARGM-LOC(LOC) 9:2-ARGM-MNR() 10:0-rel
+etri#doc_1128.txt 12 닳다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1128.txt 15 되다 ----- 13:1-ARG1(AGT) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_1128.txt 16 빌다 ----- 10:3-ARGM-DIS() 12:2-ARGM-MNR() 15:2-ARGM-DIS() 16:0-rel

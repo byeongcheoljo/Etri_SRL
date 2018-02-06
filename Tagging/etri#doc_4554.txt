@@ -1,0 +1,6 @@
+etri#doc_4554.txt 4 받다 ----- 2:1-ARG2(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4554.txt 7 받다 ----- 4:2-ARGM-DIS() 5:1-ARG2(GOL) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4554.txt 10 경영하다 ----- 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4554.txt 12 책임지다 ----- 12:0-rel
+etri#doc_4554.txt 13 팔다 ----- 7:2-ARGM-DIS() 11:3-ARG0(AGT) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4554.txt 17 나오다 ----- 13:2-ARGM-CND() 14:1-ARGM-TMP() 16:2-ARG0(AGT) 17:0-rel

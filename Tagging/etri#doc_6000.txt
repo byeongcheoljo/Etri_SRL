@@ -1,0 +1,2 @@
+etri#doc_6000.txt 10 구분되다 ----- 5:1-ARG1(THM) 7:2-ARGM-DIS(EFF) 9:2-ARG2(FNS) 10:0-rel
+etri#doc_6000.txt 16 이루어지다 ----- 4:4-ARG1(THM) 10:3-ARGM-TMP() 14:2-ARG1(THM) 15:1-ARGM-CAU(EFF) 16:0-rel

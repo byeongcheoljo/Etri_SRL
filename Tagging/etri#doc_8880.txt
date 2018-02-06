@@ -1,0 +1,5 @@
+etri#doc_8880.txt 3 웃다 ----- 2:1-ARGM-CAU() 3:0-rel
+etri#doc_8880.txt 7 받다 ----- 3:2-ARGM-DIS() 5:2-ARG2(LOC) 6:1-ARG1() 7:0-rel
+etri#doc_8880.txt 8 하다 ----- 1:1-ARG0(AGT) 7:2-ARGM-EXT() 8:0-rel
+etri#doc_8880.txt 12 오르다 ----- 9:1-ARGM-TMP() 11:2-ARG2(LOC) 12:0-rel
+etri#doc_8880.txt 13 하다 ----- 8:3-ARGM-DIS() 12:3-ARGM-EXT() 13:0-rel

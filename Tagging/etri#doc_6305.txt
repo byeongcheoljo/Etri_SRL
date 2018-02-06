@@ -1,0 +1,4 @@
+etri#doc_6305.txt 4 주다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_6305.txt 8 기르다 ----- 6:4-ARGM-EXT() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6305.txt 9 생각하다 ----- 8:2-ARG1() 9:0-rel
+etri#doc_6305.txt 13 쏟다 ----- 2:2-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel

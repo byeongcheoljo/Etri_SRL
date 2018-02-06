@@ -1,0 +1,9 @@
+etri#doc_388.txt 3 보다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_388.txt 6 살펴보다 ----- 5:2-ARGM-CND() 6:0-rel
+etri#doc_388.txt 8 잡다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_388.txt 9 잡다 ----- 9:0-rel
+etri#doc_388.txt 10 밀다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_388.txt 11 돌리다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_388.txt 13 다하다 ----- 1:1-ARG0(AGT) 6:3-ARGM-CND() 11:3-ARGM-DIS() 12:1-ARG1() 13:0-rel
+etri#doc_388.txt 16 움직이다 ----- 16:0-rel
+etri#doc_388.txt 18 하다 ----- 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARGM-EXT() 17:2-ARG1(THM) 18:0-rel

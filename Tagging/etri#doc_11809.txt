@@ -1,0 +1,4 @@
+etri#doc_11809.txt 5 밀집하다 ----- 3:2-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_11809.txt 10 바라보다 ----- 6:3-ARG1(THM) 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_11809.txt 15 오다 ----- 14:2-ARG2(SRC) 15:0-rel
+etri#doc_11809.txt 18 착각하다 ----- 10:4-ARGM-CND() 17:5-ARGM-DIS() 18:0-rel

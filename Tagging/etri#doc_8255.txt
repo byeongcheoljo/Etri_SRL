@@ -1,0 +1,5 @@
+etri#doc_8255.txt 6 득세하다 ----- 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_8255.txt 8 주도하다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8255.txt 13 협력하다 ----- 11:1-ARG1(COM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_8255.txt 14 조종하다 ----- 10:1-ARGM-LOC(LOC) 13:2-ARGM-DIS() 14:0-rel
+etri#doc_8255.txt 16 담당하다 ----- 8:2-ARGM-TMP() 9:1-ARG0(AGT) 15:4-ARG1(THM) 16:0-rel

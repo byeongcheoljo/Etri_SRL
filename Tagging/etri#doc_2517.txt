@@ -1,0 +1,2 @@
+etri#doc_2517.txt 7 이르다 ----- 2:2-ARG0() 3:1-ARGM-INS(INS) 4:1-ARGM-LOC(LOC) 5:1-ARGM-LOC(LOC) 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_2517.txt 13 지키다 ----- 12:1-ARG1(THM) 13:0-rel

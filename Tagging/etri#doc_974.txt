@@ -1,0 +1,4 @@
+etri#doc_974.txt 3 나다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_974.txt 10 벗기다 ----- 4:3-ARG1(THM) 6:2-ARGM-CAU() 8:2-ARGM-ADV() 9:1-ARG1() 10:0-rel
+etri#doc_974.txt 13 들다 ----- 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_974.txt 16 자르다 ----- 10:2-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

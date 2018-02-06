@@ -1,0 +1,2 @@
+etri#doc_2130.txt 5 보장되다 ----- 4:2-() 5:0-rel
+etri#doc_2130.txt 13 주장하다 ----- 1:1-ARG0() 2:1-ARGM-ADV(EFF) 12:3-ARGM-DIS(EFF) 13:0-rel

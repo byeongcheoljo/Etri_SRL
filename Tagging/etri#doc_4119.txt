@@ -1,0 +1,3 @@
+etri#doc_4119.txt 9 ¾Ë´Ù ----- 7:1-ARG0(MAG) 8:1-ARG1(THM) 9:0-rel
+etri#doc_4119.txt 10 ¸Ã´Ù ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_4119.txt 11 ºÎÅ¹ÇÏ´Ù ----- 2:2-ARGM-TMP() 6:3-ARG0(AGT) 10:3-ARG1(CNT) 11:0-rel

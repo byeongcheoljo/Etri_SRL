@@ -1,0 +1,2 @@
+etri#doc_7677.txt 3 선택하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7677.txt 5 보다 ----- 1:1-ARGM-LOC(LOC) 4:3-ARG1(THM) 5:0-rel

@@ -1,0 +1,6 @@
+etri#doc_547.txt 7 풀다 ----- 5:3-ARGM-LOC(SRC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_547.txt 9 놓이다 ----- 8:1-ARGM-LOC() 9:0-rel
+etri#doc_547.txt 11 모으다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_547.txt 15 잡다 ----- 7:2-ARGM-DIS() 11:4-ARGM-CAU() 12:1-ARGM-MNR() 13:1-ARGM-LOC(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_547.txt 17 넘치다 ----- 16:1-ARG1() 17:0-rel
+etri#doc_547.txt 20 따라가다 ----- 2:2-ARG0(AGT) 19:4-ARG1(THM) 20:0-rel

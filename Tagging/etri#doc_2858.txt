@@ -1,0 +1,4 @@
+etri#doc_2858.txt 4 구원받다 ----- 3:3-ARGM-TMP(LOC) 4:0-rel
+etri#doc_2858.txt 9 임하다 ----- 8:2-ARG1(LOC) 9:0-rel
+etri#doc_2858.txt 12 여기다 ----- 6:1-ARG0(MAG) 9:3-ARGM-TMP() 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_2858.txt 13 기도하다 ----- 5:5-ARG0(AGT) 12:2-ARG1(CNT) 13:0-rel

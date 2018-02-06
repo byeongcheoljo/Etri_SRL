@@ -1,0 +1,4 @@
+etri#doc_7885.txt 5 ¹Þ´Ù ----- 3:2-ARGM-MNR(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7885.txt 8 ¹­ÀÌ´Ù ----- 8:0-rel
+etri#doc_7885.txt 10 ²ø·Á°¡´Ù ----- 5:2-ARGM-DIS() 7:2-ARG2(COM) 8:1-ARGM-DIS() 9:1-ARGM-LOC(GOL) 10:0-rel
+etri#doc_7885.txt 15 µ¤ÀÌ´Ù ----- 1:1-ARGM-TMP() 11:3-ARGM-TMP(LOC) 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:1-ARG2(INS) 15:0-rel

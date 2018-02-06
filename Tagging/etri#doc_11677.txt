@@ -1,0 +1,4 @@
+etri#doc_11677.txt 4 몰락하다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_11677.txt 9 빼돌리다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_11677.txt 12 지출하다 ----- 7:2-ARG1(THM) 9:2-ARGM-DIS() 10:1-ARG2(GOL) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_11677.txt 17 키우다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 5:3-ARG0(AGT) 12:2-ARGM-CAU() 16:4-ARG1(THM) 17:0-rel

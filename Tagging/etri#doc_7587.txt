@@ -1,0 +1,2 @@
+etri#doc_7587.txt 5 °Þ´Ù ----- 1:1-ARGM-LOC() 2:1-ARGM-EXT() 4:2-ARG0(EXP) 5:0-rel
+etri#doc_7587.txt 19 µÇ´Ù ----- 8:3-ARG1(THM) 18:10-ARGM-MNR(INS) 19:0-rel

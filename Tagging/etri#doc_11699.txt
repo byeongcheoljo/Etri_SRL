@@ -1,0 +1,3 @@
+etri#doc_11699.txt 5 인용하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_11699.txt 7 하다 ----- 1:1-ARG0(AGT) 6:5-ARG1(THM) 7:0-rel
+etri#doc_11699.txt 16 하다 ----- 8:7-ARGM-TMP(LOC) 11:3-ARG0(AGT) 13:2-ARGM-CAU(EFF) 15:2-ARG1(THM) 16:0-rel

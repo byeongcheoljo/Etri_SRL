@@ -1,0 +1,2 @@
+etri#doc_2081.txt 5 하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2081.txt 6 가지다 ----- 2:1-ARG0(AGT) 5:3-ARGM-DIS() 6:0-rel

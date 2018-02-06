@@ -1,0 +1,4 @@
+etri#doc_1811.txt 5 규명하다 ----- 2:2-ARGM-INS(INS) 4:2-ARG1(THM) 5:0-rel
+etri#doc_1811.txt 10 규정하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1811.txt 14 발현되다 ----- 13:2-ARG2(LOC) 14:0-rel
+etri#doc_1811.txt 19 밝히다 ----- 6:4-ARG0(THM) 18:2-ARGM-DIS() 19:0-rel

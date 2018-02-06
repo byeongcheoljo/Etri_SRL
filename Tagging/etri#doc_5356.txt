@@ -1,0 +1,8 @@
+etri#doc_5356.txt 4 각성하다 ----- 4:0-rel
+etri#doc_5356.txt 7 자라나다 ----- 7:0-rel
+etri#doc_5356.txt 10 읽다 ----- 3:3-ARG1(THM) 9:3-ARG0(AGT) 10:0-rel
+etri#doc_5356.txt 11 성숙되다 ----- 11:0-rel
+etri#doc_5356.txt 13 나아가다 ----- 12:2-ARG3(GOL) 13:0-rel
+etri#doc_5356.txt 16 보다 ----- 14:4-ARGM-PRD(EFF) 15:1-ARG1(THM) 16:0-rel
+etri#doc_5356.txt 18 전환하다 ----- 10:4-ARGM-DIS() 17:3-ARG3(FNS) 18:0-rel
+etri#doc_5356.txt 19 바라다 ----- 18:4-ARG1(THM) 19:0-rel

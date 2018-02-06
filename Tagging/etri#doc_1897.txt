@@ -1,0 +1,6 @@
+etri#doc_1897.txt 4 빠지다 ----- 2:1-ARG1(THM) 3:1-ARGM-LOC(GOL) 4:0-rel
+etri#doc_1897.txt 7 늙다 ----- 7:0-rel
+etri#doc_1897.txt 9 벼슬하다 ----- 9:0-rel
+etri#doc_1897.txt 11 지내다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1897.txt 17 끊어지다 ----- 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_1897.txt 19 말하다 ----- 1:1-ARG0(AGT) 18:4-ARG1(THM) 19:0-rel

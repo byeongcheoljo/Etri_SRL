@@ -1,0 +1,3 @@
+etri#doc_2103.txt 4 계산하다 ----- 2:1-ARG0(MAG) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_2103.txt 14 들다 ----- 12:2-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_2103.txt 19 말하다 ----- 18:3-ARG1(THM) 19:0-rel

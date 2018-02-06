@@ -1,0 +1,4 @@
+etri#doc_7005.txt 7 피어나다 ----- 7:0-rel
+etri#doc_7005.txt 8 피다 ----- 8:0-rel
+etri#doc_7005.txt 10 시들다 ----- 6:2-ARG1(THM) 7:1-ARGM-DIS() 8:1-ARGM-DIS() 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_7005.txt 16 유지되다 ----- 15:3-ARG1(THM) 16:0-rel

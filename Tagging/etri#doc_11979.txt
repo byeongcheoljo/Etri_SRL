@@ -1,0 +1,4 @@
+etri#doc_11979.txt 3 확보되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11979.txt 5 살다 ----- 3:2-ARGM-CND() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_11979.txt 9 취하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11979.txt 11 높이다 ----- 1:1-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

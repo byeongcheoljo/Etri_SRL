@@ -1,0 +1,4 @@
+etri#doc_8733.txt 2 먹이다 ----- 1:1-ARGM-LOC() 2:0-rel
+etri#doc_8733.txt 4 마련하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8733.txt 8 기다리다 ----- 4:4-ARGM-DIS() 5:1-ARGM-EXT() 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8733.txt 14 빨리다 ----- 12:3-ARG0(AGT) 13:1-ARGM-MNR(INS) 14:0-rel

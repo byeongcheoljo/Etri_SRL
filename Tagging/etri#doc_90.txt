@@ -1,0 +1,5 @@
+etri#doc_90.txt 2 되다 ----- 1:1-ARGM-ADV() 2:0-rel
+etri#doc_90.txt 6 담당하다 ----- 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_90.txt 13 부상하다 ----- 12:1-ARGM-ADV() 13:0-rel
+etri#doc_90.txt 17 커지다 ----- 16:3-ARG0(EFF) 17:0-rel
+etri#doc_90.txt 18 예상되다 ----- 2:2-ARGM-DIS() 11:2-ARGM-DIS() 17:4-ARGM-MOD() 18:0-rel

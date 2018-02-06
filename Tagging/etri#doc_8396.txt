@@ -1,0 +1,2 @@
+etri#doc_8396.txt 7 특징짓다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_8396.txt 11 등장하다 ----- 8:4-ARG3(FNS) 10:2-ARGM-MNR() 11:0-rel

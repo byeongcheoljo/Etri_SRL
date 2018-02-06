@@ -1,0 +1,4 @@
+etri#doc_2815.txt 5 주장하다 ----- 1:1-ARGM-TMP() 4:3-ARG1(THM) 5:0-rel
+etri#doc_2815.txt 10 한정되다 ----- 6:5-ARG1(THM) 9:2-ARG2(LOC) 10:0-rel
+etri#doc_2815.txt 12 제기하다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_2815.txt 19 경험하다 ----- 10:3-ARGM-DIS() 15:2-ARG2(THM) 18:2-ARG1(EXP) 19:0-rel

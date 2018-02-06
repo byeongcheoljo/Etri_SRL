@@ -1,0 +1,4 @@
+etri#doc_11190.txt 6 되다 ----- 3:2-ARGM-LOC() 4:1-ARGM-EXT() 5:1-ARG2(FNS) 6:0-rel
+etri#doc_11190.txt 11 의지하다 ----- 6:2-ARGM-DIS() 8:2-ARG0(AGT) 10:2-ARG1(GOL) 11:0-rel
+etri#doc_11190.txt 14 만들다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11190.txt 15 사용하다 ----- 11:3-ARGM-DIS() 12:1-ARG0(AGT) 14:2-ARGM-DIS() 15:0-rel

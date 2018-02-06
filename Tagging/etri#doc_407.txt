@@ -1,0 +1,1 @@
+etri#doc_407.txt 18 ³»¸®´Ù ----- 8:4-ARGM-DIS() 13:5-ARGM-ADV(COM) 16:2-ARGM-ADV(THM) 17:1-ARG1(Npr) 18:0-rel

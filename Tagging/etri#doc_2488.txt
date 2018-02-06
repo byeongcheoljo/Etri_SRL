@@ -1,0 +1,1 @@
+etri#doc_2488.txt 6 ³ª¿À´Ù ----- 2:1-ARG2(EFF) 4:2-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel

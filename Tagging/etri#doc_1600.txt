@@ -1,0 +1,4 @@
+etri#doc_1600.txt 10 따르다 ----- 6:3-ARGM-TMP() 7:1-ARG0(AGT) 9:2-ARG2(THM) 10:0-rel
+etri#doc_1600.txt 13 부응하다 ----- 12:1-() 13:0-rel
+etri#doc_1600.txt 14 생각하다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1600.txt 15 행동하다 ----- 10:3-ARGM-DIS() 11:1-ARGM-DIS() 14:3-ARGM-DIS() 15:0-rel

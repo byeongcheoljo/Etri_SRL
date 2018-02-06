@@ -1,0 +1,4 @@
+etri#doc_948.txt 4 되다 ----- 3:2-ARG2(INS) 4:0-rel
+etri#doc_948.txt 11 맡기다 ----- 5:4-ARG1(THM) 7:2-ARGM-TMP(CRT) 10:3-ARG0(GOL) 11:0-rel
+etri#doc_948.txt 16 출판하다 ----- 15:2-ARGM-CAU() 16:0-rel
+etri#doc_948.txt 18 받다 ----- 11:4-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG0(AGT) 17:4-ARG1(THM) 18:0-rel

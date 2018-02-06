@@ -1,0 +1,3 @@
+etri#doc_2939.txt 3 두다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2939.txt 4 일어나다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_2939.txt 12 계속되다 ----- 8:1-ARGM-TMP() 11:2-ARG1(THM) 12:0-rel

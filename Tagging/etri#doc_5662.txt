@@ -1,0 +1,3 @@
+etri#doc_5662.txt 2 예상되다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_5662.txt 9 적응하다 ----- 7:1-ARG1(AGT) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5662.txt 12 만들다 ----- 6:4-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel

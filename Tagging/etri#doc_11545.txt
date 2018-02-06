@@ -1,0 +1,2 @@
+etri#doc_11545.txt 12 ¸Ô´Ù ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_11545.txt 17 ¹àÈ÷´Ù ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 16:2-ARGM-DIS() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3624.txt 9 기증하다 ----- 3:2-ARG0(AGT) 4:1-ARG2(GOL) 8:3-ARG1(THM) 9:0-rel
+etri#doc_3624.txt 10 출발하다 ----- 1:1-ARGM-TMP() 9:4-ARGM-CAU(EFF) 10:0-rel
+etri#doc_3624.txt 14 임대하다 ----- 13:1-ARGM-LOC(SRC) 14:0-rel
+etri#doc_3624.txt 17 준공하다 ----- 11:6-ARG0(AGT) 12:1-ARGM-TMP(GOL) 15:3-ARGM-LOC(LOC) 16:1-ARG1(THM) 17:0-rel

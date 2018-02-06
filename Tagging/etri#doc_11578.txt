@@ -1,0 +1,2 @@
+etri#doc_11578.txt 9 탄생하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_11578.txt 18 모색하다 ----- 14:3-ARG0(MAG) 16:2-ARGM-DIR(DIR) 17:1-ARG1(THM) 18:0-rel

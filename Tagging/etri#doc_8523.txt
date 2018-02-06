@@ -1,0 +1,5 @@
+etri#doc_8523.txt 4 알다 ----- 2:1-ARGM-ADV(CNT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8523.txt 7 보다 ----- 4:2-ARGM-PRP() 6:2-ARG1(THM) 7:0-rel
+etri#doc_8523.txt 10 하다 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8523.txt 13 보다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 10:2-ARGM-CND() 12:2-ARGM-MNR() 13:0-rel
+etri#doc_8523.txt 16 보다 ----- 1:1-ARG0(AGT) 13:3-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel

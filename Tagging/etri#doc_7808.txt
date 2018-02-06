@@ -1,0 +1,2 @@
+etri#doc_7808.txt 8 이어지다 ----- 3:3-ARGM-TMP() 7:2-ARG3(GOL) 8:0-rel
+etri#doc_7808.txt 15 재편하다 ----- 11:3-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

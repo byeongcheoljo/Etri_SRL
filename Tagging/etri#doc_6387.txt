@@ -1,0 +1,3 @@
+etri#doc_6387.txt 10 포함되다 ----- 9:3-ARG2(GOL) 10:0-rel
+etri#doc_6387.txt 16 존재하다 ----- 13:3-ARG2(LOC) 15:2-ARG1(THM) 16:0-rel
+etri#doc_6387.txt 18 확립하다 ----- 17:4-ARG1(THM) 18:0-rel

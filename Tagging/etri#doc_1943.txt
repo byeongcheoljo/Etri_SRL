@@ -1,0 +1,3 @@
+etri#doc_1943.txt 5 추산하다 ----- 3:3-ARG1(THM) 4:1-ARG1(FNS) 5:0-rel
+etri#doc_1943.txt 11 예견되다 ----- 9:2-ARG1(THM) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_1943.txt 13 증설하다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-TMP() 13:0-rel

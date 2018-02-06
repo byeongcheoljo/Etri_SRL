@@ -1,0 +1,4 @@
+etri#doc_6472.txt 3 잡다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6472.txt 9 솟구치다 ----- 1:1-ARGM-TMP(LOC) 3:2-ARGM-MNR() 4:1-ARG1(AGT) 7:2-ARG2(SRC) 8:1-ARG3(DIR) 9:0-rel
+etri#doc_6472.txt 13 보다 ----- 11:1-ARGM-TMP() 12:1-ARG0(AGT) 13:0-rel
+etri#doc_6472.txt 16 생각나다 ----- 10:3-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

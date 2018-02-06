@@ -1,0 +1,6 @@
+etri#doc_7829.txt 4 공통되다 ----- 4:0-rel
+etri#doc_7829.txt 6 생각되다 ----- 5:2-ARG1(CNT) 6:0-rel
+etri#doc_7829.txt 7 선택하다 ----- 3:3-ARGM-LOC(LOC) 6:3-ARG1() 7:0-rel
+etri#doc_7829.txt 10 가지다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7829.txt 13 취급하다 ----- 11:4-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_7829.txt 17 정하다 ----- 7:4-ARGM-MNR() 13:2-ARG1() 14:1-ARGM-MNR() 16:2-ARG1(FNS) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5885.txt 7 마중나가다 ----- 5:2-ARG0(AGT) 6:1-ARGM-LOC(GOL) 7:0-rel
+etri#doc_5885.txt 9 전해지다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5885.txt 12 하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_5885.txt 16 들려오다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 3:1-ARGM-TMP(SRC) 9:4-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

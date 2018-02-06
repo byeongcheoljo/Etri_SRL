@@ -1,0 +1,2 @@
+etri#doc_4870.txt 9 증가되다 ----- 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4870.txt 13 미치다 ----- 9:3-ARGM-DIS() 10:1-ARG0(AGT) 12:2-ARGM-EXT(CRT) 13:0-rel

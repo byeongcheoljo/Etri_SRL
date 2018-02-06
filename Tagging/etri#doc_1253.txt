@@ -1,0 +1,2 @@
+etri#doc_1253.txt 4 ø≥∫∏¥Ÿ ----- 2:1-ARGM-INS(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1253.txt 7 ¡÷¥Ÿ ----- 6:2-ARG1(THM) 7:0-rel

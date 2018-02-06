@@ -1,0 +1,3 @@
+etri#doc_1580.txt 10 타파하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_1580.txt 12 내세우다 ----- 11:5-ARG1(THM) 12:0-rel
+etri#doc_1580.txt 20 추구하다 ----- 15:3-ARGM-PRD(COM) 19:3-ARG1(THM) 20:0-rel

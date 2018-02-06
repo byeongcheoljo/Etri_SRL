@@ -1,0 +1,5 @@
+etri#doc_4025.txt 4 ¿ï´Ù ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_4025.txt 7 ¹à´Ù ----- 2:2-ARG0(AGT) 5:3-ARGM-EXT(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4025.txt 10 ¼­´Ù ----- 9:1-ARG1() 10:0-rel
+etri#doc_4025.txt 13 ³ª´Ù ----- 10:2-ARGM-DIS() 12:2-ARG1() 13:0-rel
+etri#doc_4025.txt 15 ¸Ô´Ù ----- 7:2-ARGM-DIS() 8:1-ARG0(AGT) 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

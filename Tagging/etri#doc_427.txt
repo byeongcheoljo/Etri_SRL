@@ -1,0 +1,2 @@
+etri#doc_427.txt 8 상정하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_427.txt 21 포함되다 ----- 1:1-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARGM-EXT(LOC) 20:3-ARG1(THM) 21:0-rel

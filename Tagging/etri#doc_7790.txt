@@ -1,0 +1,2 @@
+etri#doc_7790.txt 22 «œ¥Ÿ ----- 21:2-ARG1() 22:0-rel
+etri#doc_7790.txt 27 π≠¿Ã¥Ÿ ----- 2:2-ARGM-TMP() 4:2-ARG1(THM) 5:1-ARGM-TMP() 26:3-ARGM-INS(INS) 27:0-rel

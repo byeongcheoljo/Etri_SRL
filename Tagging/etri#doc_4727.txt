@@ -1,0 +1,1 @@
+etri#doc_4727.txt 8 ÀÚ¶ó´Ù ----- 5:1-ARG0(THM) 6:1-ARGM-EXT(CRT) 7:1-ARGM-EXT() 8:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5317.txt 6 상승하다 ----- 3:2-ARGM-TMP() 5:2-ARGM-EXT(CRT) 6:0-rel
+etri#doc_5317.txt 10 안정되다 ----- 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5317.txt 12 맞추다 ----- 11:1-ARG2(CRT) 12:0-rel
+etri#doc_5317.txt 16 인하하다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_5317.txt 18 지속하다 ----- 1:1-ARGM-DIS() 7:4-ARG0(EXP) 16:2-ARGM-DIS(EFF) 17:1-ARG1(THM) 18:0-rel

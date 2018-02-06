@@ -1,0 +1,4 @@
+etri#doc_4245.txt 5 하다 ----- 3:2-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_4245.txt 10 빌리다 ----- 5:2-ARGM-DIS() 8:3-ARG2(SRC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4245.txt 12 가로채다 ----- 10:2-ARGM-TMP() 11:1-ARG1(THM) 12:0-rel
+etri#doc_4245.txt 13 달아나다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 13:0-rel

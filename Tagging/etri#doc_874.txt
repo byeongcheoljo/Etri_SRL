@@ -1,0 +1,4 @@
+etri#doc_874.txt 5 나다 ----- 4:3-ARG1(Npr) 5:0-rel
+etri#doc_874.txt 11 빠져나가다 ----- 6:1-ARGM-MNR() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_874.txt 13 하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_874.txt 17 끌다 ----- 5:4-ARGM-CND() 14:6-ARGM-DIS() 15:1-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

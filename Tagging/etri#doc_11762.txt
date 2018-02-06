@@ -1,0 +1,4 @@
+etri#doc_11762.txt 5 실시하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_11762.txt 9 이루어지다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11762.txt 11 이루어지다 ----- 9:2-ARGM-TMP() 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_11762.txt 15 치다 ----- 1:1-ARGM-DIS() 3:2-ARGM-PRD(EFF) 13:4-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

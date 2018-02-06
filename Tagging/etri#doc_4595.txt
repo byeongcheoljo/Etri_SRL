@@ -1,0 +1,4 @@
+etri#doc_4595.txt 4 걸치다 ----- 2:1-ARGM-TMP() 3:1-ARG2(LOC) 4:0-rel
+etri#doc_4595.txt 15 늘어나다 ----- 1:1-ARGM-DIS() 5:3-ARGM-CAU(EFF) 12:4-ARG1(THM) 13:1-ARGM-TMP() 14:1-ARG3(FNS) 15:0-rel
+etri#doc_4595.txt 19 느끼다 ----- 17:2-ARGM-TMP() 18:1-ARG0(EXP) 19:0-rel
+etri#doc_4595.txt 23 줄어들다 ----- 15:2-ARGM-DIS() 21:4-ARG1(THM) 22:1-ARGM-EXT() 23:0-rel

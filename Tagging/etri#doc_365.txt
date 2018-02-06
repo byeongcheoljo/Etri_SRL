@@ -1,0 +1,4 @@
+etri#doc_365.txt 7 과시하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_365.txt 8 다가가다 ----- 3:1-ARG2(GOL) 7:3-ARGM-DIS() 8:0-rel
+etri#doc_365.txt 16 말하다 ----- 15:3-ARG1() 16:0-rel
+etri#doc_365.txt 17 변명하다 ----- 17:0-rel

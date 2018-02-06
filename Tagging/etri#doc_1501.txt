@@ -1,0 +1,4 @@
+etri#doc_1501.txt 4 얻다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_1501.txt 6 감읍하다 ----- 6:0-rel
+etri#doc_1501.txt 11 딸리다 ----- 6:1-ARGM-DIS() 7:1-ARGM-INS(INS) 9:2-ARG1(THM) 10:1-ARGM-DIR(GOL) 11:0-rel
+etri#doc_1501.txt 12 보내다 ----- 5:5-ARG0(AGT) 11:2-ARGM-MNR() 12:0-rel

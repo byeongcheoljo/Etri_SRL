@@ -1,0 +1,4 @@
+etri#doc_11006.txt 2 결부되다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_11006.txt 7 상실하다 ----- 3:3-ARG0(AGT) 6:3-ARG1(THM) 7:0-rel
+etri#doc_11006.txt 18 하다 ----- 16:2-ARG1(THM) 17:1-ARGM-MNR(INS) 18:0-rel
+etri#doc_11006.txt 20 용인하다 ----- 7:4-ARGM-DIS() 9:2-ARG0(AGT) 10:1-ARGM-DIS() 14:4-ARGM-MNR(INS) 19:3-ARGM-CAU(CRT) 20:0-rel

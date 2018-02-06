@@ -1,0 +1,7 @@
+etri#doc_6889.txt 4 틈타다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6889.txt 6 죽이다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6889.txt 8 구제하다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6889.txt 11 소탕하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_6889.txt 13 지탱하다 ----- 8:2-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6889.txt 16 포고하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_6889.txt 18 호응하다 ----- 17:1-ARG1(GOL) 18:0-rel

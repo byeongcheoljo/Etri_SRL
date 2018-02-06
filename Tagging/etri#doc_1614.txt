@@ -1,0 +1,4 @@
+etri#doc_1614.txt 5 가지다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1614.txt 11 거치다 ----- 10:3-ARG2(THM) 11:0-rel
+etri#doc_1614.txt 14 화합하다 ----- 11:4-ARGM-DIS() 13:2-ARG0(THM) 14:0-rel
+etri#doc_1614.txt 17 되다 ----- 6:4-ARG1(THM) 14:3-ARGM-DIS() 16:2-ARG2(FNS) 17:0-rel

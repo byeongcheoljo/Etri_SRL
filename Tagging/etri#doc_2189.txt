@@ -1,0 +1,3 @@
+etri#doc_2189.txt 6 시달리다 ----- 4:2-ARGM-TMP() 5:1-ARG0(EFF) 6:0-rel
+etri#doc_2189.txt 8 퇴색하다 ----- 8:0-rel
+etri#doc_2189.txt 13 분간하다 ----- 12:3-() 13:0-rel

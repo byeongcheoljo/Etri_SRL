@@ -1,0 +1,2 @@
+etri#doc_9835.txt 7 살다 ----- 3:3-ARG2(COM) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_9835.txt 15 하다 ----- 9:2-ARG0(AGT) 11:2-ARGM-CAU(EFF) 13:2-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

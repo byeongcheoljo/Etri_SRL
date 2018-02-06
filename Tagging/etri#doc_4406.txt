@@ -1,0 +1,7 @@
+etri#doc_4406.txt 4 취급하다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_4406.txt 5 접하다 ----- 5:0-rel
+etri#doc_4406.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_4406.txt 13 들다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4406.txt 15 던지다 ----- 9:2-ARGM-TMP() 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_4406.txt 16 날아들다 ----- 16:0-rel
+etri#doc_4406.txt 18 받다 ----- 4:2-ARGM-DIS() 15:2-ARGM-CND() 17:2-ARG1(THM) 18:0-rel

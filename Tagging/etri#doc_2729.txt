@@ -1,0 +1,1 @@
+etri#doc_2729.txt 17 제기하다 ----- 8:5-ARGM-DIS() 10:2-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

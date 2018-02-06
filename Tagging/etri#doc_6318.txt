@@ -1,0 +1,2 @@
+etri#doc_6318.txt 9 삼다 ----- 4:1-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_6318.txt 16 여겨지다 ----- 14:2-ARGM-LOC(LOC) 15:1-ARG2(FNS) 16:0-rel

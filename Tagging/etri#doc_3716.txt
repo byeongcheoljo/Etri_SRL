@@ -1,0 +1,4 @@
+etri#doc_3716.txt 3 팔다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3716.txt 9 되다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3716.txt 13 회복하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3716.txt 16 되다 ----- 10:4-ARG1(THM) 15:2-ARG2(SRC) 16:0-rel

@@ -1,0 +1,10 @@
+etri#doc_708.txt 2 나누다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_708.txt 4 마시다 ----- 2:2-ARGM-PRP() 3:1-ARG1() 4:0-rel
+etri#doc_708.txt 5 돌아가다 ----- 5:0-rel
+etri#doc_708.txt 7 사다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_708.txt 9 마시다 ----- 4:2-ARGM-DIS() 5:1-ARGM-CND() 7:2-ARGM-CAU() 8:1-ARG1() 9:0-rel
+etri#doc_708.txt 12 마시다 ----- 9:2-ARGM-DIS() 10:1-ARGM-CAU() 11:1-ARG1() 12:0-rel
+etri#doc_708.txt 14 하다 ----- 13:1-ARG1() 14:0-rel
+etri#doc_708.txt 16 마시다 ----- 12:2-ARGM-DIS() 14:2-ARGM-PRP() 15:1-ARG1() 16:0-rel
+etri#doc_708.txt 22 마시다 ----- 16:2-ARGM-DIS() 20:3-ARGM-DIS() 21:1-ARG1() 22:0-rel
+etri#doc_708.txt 25 먹다 ----- 24:1-ARG1() 25:0-rel

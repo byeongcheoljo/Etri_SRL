@@ -1,0 +1,4 @@
+etri#doc_11711.txt 9 행사하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_11711.txt 13 훼손하다 ----- 3:2-ARG0(EFF) 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_11711.txt 17 침해하다 ----- 16:3-ARG2(THM) 17:0-rel
+etri#doc_11711.txt 18 허용되다 ----- 1:1-ARGM-DIS() 13:4-ARG1() 17:4-ARGM-DIS() 18:0-rel

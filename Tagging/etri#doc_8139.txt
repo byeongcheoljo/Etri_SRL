@@ -1,0 +1,4 @@
+etri#doc_8139.txt 5 사용하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_8139.txt 7 서다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8139.txt 11 걷다 ----- 11:0-rel
+etri#doc_8139.txt 17 분화하다 ----- 13:3-ARGM-CAU() 16:3-ARG1(THM) 17:0-rel

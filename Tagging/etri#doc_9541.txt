@@ -1,0 +1,4 @@
+etri#doc_9541.txt 6 일하다 ----- 6:0-rel
+etri#doc_9541.txt 8 불러일으키다 ----- 3:2-ARG0(EFF) 4:1-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_9541.txt 11 논평하다 ----- 1:1-ARG0(AGT) 10:5-ARGM-DIS() 11:0-rel
+etri#doc_9541.txt 15 보이다 ----- 11:6-ARGM-DIS() 12:1-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel

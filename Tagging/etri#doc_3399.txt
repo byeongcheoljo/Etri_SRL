@@ -1,0 +1,6 @@
+etri#doc_3399.txt 3 접수하다 ----- 2:2-ARGM-TMP() 3:0-rel
+etri#doc_3399.txt 9 기입하다 ----- 5:1-ARGM-EXT() 6:1-ARG1(THM) 8:2-ARGM-MNR() 9:0-rel
+etri#doc_3399.txt 12 마치다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3399.txt 14 떠나다 ----- 12:2-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_3399.txt 16 나누다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_3399.txt 19 부풀다 ----- 17:1-ARGM-EXT() 18:1-ARG1(LOC) 19:0-rel

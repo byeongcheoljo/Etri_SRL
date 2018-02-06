@@ -1,0 +1,4 @@
+etri#doc_8722.txt 3 열리다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8722.txt 5 복용하다 ----- 3:3-ARGM-DIS() 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_8722.txt 10 짓다 ----- 7:2-ARGM-DIS() 8:1-ARG1() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8722.txt 18 올라서다 ----- 5:2-ARGM-DIS() 11:3-ARG1(AGT) 15:4-ARGM-LOC(DIR) 17:2-ARG3(GOL) 18:0-rel

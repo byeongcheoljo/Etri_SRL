@@ -1,0 +1,4 @@
+etri#doc_1064.txt 4 되다 ----- 1:1-ARGM-TMP() 3:2-ARG0(THM) 4:0-rel
+etri#doc_1064.txt 8 내세우다 ----- 6:2-ARGM-CAU(THM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1064.txt 15 내다 ----- 12:2-ARGM-CAU() 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_1064.txt 18 일으키다 ----- 17:1-ARG1(THM) 18:0-rel

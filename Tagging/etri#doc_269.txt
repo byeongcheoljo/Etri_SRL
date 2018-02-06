@@ -1,0 +1,2 @@
+etri#doc_269.txt 13 보다 ----- 9:2-ARG0(AGT) 10:1-ARG1(THM) 12:2-ARG1(FNS) 13:0-rel
+etri#doc_269.txt 22 생각하다 ----- 7:3-ARGM-DIS() 14:4-ARGM-DIS() 16:2-ARG0(MAG) 17:1-ARG1(THM) 21:2-ARG1() 22:0-rel

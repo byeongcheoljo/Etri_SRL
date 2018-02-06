@@ -1,0 +1,2 @@
+etri#doc_2487.txt 3 벗어나다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_2487.txt 14 살피다 ----- 4:4-ARGM-MNR(EFF) 5:1-ARGM-LOC(LOC) 11:2-ARGM-ADV(EFF) 13:2-ARG1(THM) 14:0-rel

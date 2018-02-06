@@ -1,0 +1,4 @@
+etri#doc_1201.txt 10 만들다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1201.txt 13 제공하다 ----- 5:3-ARGM-INS(INS) 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_1201.txt 16 선도하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_1201.txt 19 생각하다 ----- 14:4-ARGM-CAU() 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,7 @@
+etri#doc_4398.txt 2 낳다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4398.txt 4 때다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_4398.txt 8 자르다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4398.txt 10 나오다 ----- 8:2-ARGM-DIS() 9:1-ARG3(GOL) 10:0-rel
+etri#doc_4398.txt 13 하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4398.txt 16 하다 ----- 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4398.txt 18 삼키다 ----- 2:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

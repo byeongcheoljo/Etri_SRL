@@ -1,0 +1,4 @@
+etri#doc_4695.txt 3 설명하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4695.txt 10 진화하다 ----- 7:2-ARG1(THM) 8:1-ARGM-LOC(LOC) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_4695.txt 13 진화되다 ----- 11:3-ARGM-DIS() 12:1-ARGM-EXT() 13:0-rel
+etri#doc_4695.txt 15 열거하다 ----- 14:3-ARG1(THM) 15:0-rel

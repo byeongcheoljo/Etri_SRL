@@ -1,0 +1,2 @@
+etri#doc_9269.txt 4 실시하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9269.txt 7 종합하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel

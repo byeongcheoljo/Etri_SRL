@@ -1,0 +1,4 @@
+etri#doc_5170.txt 6 알다 ----- 1:1-ARGM-MNR() 4:2-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5170.txt 9 생각되다 ----- 6:2-ARGM-DIS() 8:2-ARG1() 9:0-rel
+etri#doc_5170.txt 13 생각하다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_5170.txt 18 감사하다 ----- 9:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(GOL) 15:1-ARG0(MAG) 16:1-ARGM-DIS() 17:1-ARGM-EXT() 18:0-rel

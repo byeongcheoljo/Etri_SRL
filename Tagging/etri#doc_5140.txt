@@ -1,0 +1,2 @@
+etri#doc_5140.txt 8 만들다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 5:3-ARG1(THM) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_5140.txt 16 해내다 ----- 12:3-ARG0(AGT) 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

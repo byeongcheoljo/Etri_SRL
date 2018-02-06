@@ -1,0 +1,2 @@
+etri#doc_5256.txt 5 시행되다 ----- 3:2-ARGM-TMP(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5256.txt 10 결성되다 ----- 5:2-ARGM-DIS(EFF) 6:1-ARGM-INS(INS) 9:2-ARGM-PRP(PUR) 10:0-rel

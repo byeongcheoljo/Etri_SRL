@@ -1,0 +1,3 @@
+etri#doc_868.txt 2 떨어지다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_868.txt 7 내다보이다 ----- 4:2-ARGM-CAU() 6:2-ARG1(THM) 7:0-rel
+etri#doc_868.txt 16 대신하다 ----- 13:1-ARGM-ADV() 14:1-ARG2(EFF) 15:1-ARG1(THM) 16:0-rel

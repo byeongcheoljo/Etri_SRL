@@ -1,0 +1,3 @@
+etri#doc_2047.txt 7 살아오다 ----- 3:2-() 6:3-() 7:0-rel
+etri#doc_2047.txt 14 보내다 ----- 12:2-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_2047.txt 17 태어나다 ----- 14:2-ARGM-DIS() 16:2-ARGM-TMP(LOC) 17:0-rel

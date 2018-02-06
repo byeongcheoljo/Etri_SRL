@@ -1,0 +1,2 @@
+etri#doc_5471.txt 3 받다 ----- 1:1-ARGM-ADV() 2:1-ARG1(THM) 3:0-rel
+etri#doc_5471.txt 9 담다 ----- 8:1-ARG1(THM) 9:0-rel

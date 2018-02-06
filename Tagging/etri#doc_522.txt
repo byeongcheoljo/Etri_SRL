@@ -1,0 +1,4 @@
+etri#doc_522.txt 5 말하다 ----- 1:1-ARG0(AGT) 4:2-ARG1(CNT) 5:0-rel
+etri#doc_522.txt 10 가다 ----- 8:1-ARGM-TMP() 9:1-ARG1() 10:0-rel
+etri#doc_522.txt 11 말하다 ----- 5:3-ARGM-DIS() 7:2-ARG0(AGT) 10:2-ARG1(CNT) 11:0-rel
+etri#doc_522.txt 16 어긋나다 ----- 15:1-ARG1(THM) 16:0-rel

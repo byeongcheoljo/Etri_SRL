@@ -1,0 +1,5 @@
+etri#doc_2368.txt 3 차지하다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_2368.txt 5 사랑하다 ----- 5:0-rel
+etri#doc_2368.txt 11 찾다 ----- 11:0-rel
+etri#doc_2368.txt 12 누리다 ----- 8:1-ARG0(AGT) 10:2-ARG1(THM) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_2368.txt 16 지나다 ----- 4:3-ARGM-DIS() 6:2-ARG0() 7:1-ARGM-EXT() 15:2-ARGM-LOC(LOC) 16:0-rel

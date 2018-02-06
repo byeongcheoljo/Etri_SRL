@@ -1,0 +1,5 @@
+etri#doc_1019.txt 4 묻다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 4:0-rel
+etri#doc_1019.txt 7 틀리다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1019.txt 11 틀리다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_1019.txt 19 틀리다 ----- 17:3-ARGM-CND() 18:1-ARG1(THM) 19:0-rel
+etri#doc_1019.txt 20 믿다 ----- 19:2-ARG1() 20:0-rel

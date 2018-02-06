@@ -1,0 +1,6 @@
+etri#doc_1513.txt 4 빼다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1513.txt 7 던지다 ----- 7:0-rel
+etri#doc_1513.txt 8 넣다 ----- 1:1-ARG0(AGT) 4:2-ARGM-MNR() 5:1-ARGM-DIS() 6:1-ARGM-LOC(LOC) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1513.txt 13 실망하다 ----- 12:1-ARGM-DIS() 13:0-rel
+etri#doc_1513.txt 15 하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_1513.txt 18 바라보다 ----- 11:2-ARGM-MNR() 15:4-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6785.txt 5 택하다 ----- 3:2-ARG1(THM) 4:1-ARG1(FNS) 5:0-rel
+etri#doc_6785.txt 14 살다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_6785.txt 18 들어오다 ----- 17:1-ARG0(THM) 18:0-rel
+etri#doc_6785.txt 20 사절하다 ----- 1:1-ARGM-EXT() 5:2-ARGM-DIS() 12:3-ARG0(AGT) 16:2-ARGM-CAU() 18:2-ARGM-DIS() 19:1-ARGM-TMP() 20:0-rel

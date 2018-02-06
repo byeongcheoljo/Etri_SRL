@@ -1,0 +1,4 @@
+etri#doc_4438.txt 6 오다 ----- 3:2-ARGM-DIS() 5:2-ARG3(GOL) 6:0-rel
+etri#doc_4438.txt 8 말하다 ----- 8:0-rel
+etri#doc_4438.txt 10 주재하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4438.txt 14 알아내다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 8:1-ARGM-DIS() 11:3-ARGM-MNR(INS) 13:2-ARG1(THM) 14:0-rel

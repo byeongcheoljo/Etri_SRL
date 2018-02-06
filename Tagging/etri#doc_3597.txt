@@ -1,0 +1,4 @@
+etri#doc_3597.txt 5 구경하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3597.txt 6 걷다 ----- 2:1-ARGM-TMP() 5:3-ARGM-MNR() 6:0-rel
+etri#doc_3597.txt 8 오르다 ----- 6:4-ARGM-TMP() 7:1-ARGM-LOC(GOL) 8:0-rel
+etri#doc_3597.txt 11 싸다 ----- 11:0-rel

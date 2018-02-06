@@ -1,0 +1,3 @@
+etri#doc_5319.txt 9 확대되다 ----- 6:2-ARGM-DIS(EFF) 7:1-ARGM-PRD(CNT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5319.txt 13 감소하다 ----- 9:2-ARGM-DIS() 11:2-ARGM-CAU(EFF) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5319.txt 16 나타내다 ----- 2:2-ARG1(THM) 4:2-ARGM-TMP() 13:2-ARGM-CAU() 14:1-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

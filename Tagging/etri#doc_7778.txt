@@ -1,0 +1,3 @@
+etri#doc_7778.txt 4 ¾ñÈ÷´Ù ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7778.txt 12 ¸Â´Ù ----- 11:1-ARG2(THM) 12:0-rel
+etri#doc_7778.txt 16 »ï´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 15:3-ARGM-MNR(INS) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1079.txt 3 뽑다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1079.txt 5 검사하다 ----- 3:2-ARGM-CAU() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_1079.txt 9 경과하다 ----- 7:1-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1079.txt 10 검사하다 ----- 9:2-ARGM-TMP() 10:0-rel
+etri#doc_1079.txt 17 나오다 ----- 11:4-ARGM-EXT(CNT) 13:2-ARGM-LOC(LOC) 15:2-ARG0(THM) 16:1-ARGM-EXT() 17:0-rel

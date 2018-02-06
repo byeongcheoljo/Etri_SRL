@@ -1,0 +1,9 @@
+etri#doc_9764.txt 1 부러지다 ----- 1:0-rel
+etri#doc_9764.txt 2 눕다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_9764.txt 5 타다 ----- 4:1-ARG2(EFF) 5:0-rel
+etri#doc_9764.txt 6 넘어지다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_9764.txt 10 흩어지다 ----- 7:4-ARG1(THM) 8:1-ARGM-LOC(LOC) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_9764.txt 11 드러나다 ----- 11:0-rel
+etri#doc_9764.txt 13 엉기다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_9764.txt 16 두르다 ----- 10:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_9764.txt 18 서리다 ----- 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_13141.txt 6 존속하다 ----- 1:1-ARGM-CAU(EFF) 2:1-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:1-ARGM-DIS() 6:0-rel
+etri#doc_13141.txt 12 분배되다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 10:2-ARGM-EXT(CRT) 11:1-ARGM-CAU(EFF) 12:0-rel
+etri#doc_13141.txt 16 저하되다 ----- 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

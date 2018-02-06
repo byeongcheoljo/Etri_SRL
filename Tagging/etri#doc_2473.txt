@@ -1,0 +1,7 @@
+etri#doc_2473.txt 5 날다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2473.txt 7 위치하다 ----- 6:1-ARG2(EFF) 7:0-rel
+etri#doc_2473.txt 9 떨어지다 ----- 8:3-ARG3(EFF) 9:0-rel
+etri#doc_2473.txt 11 만들다 ----- 10:1-ARG2(EFF) 11:0-rel
+etri#doc_2473.txt 13 부수다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_2473.txt 15 조각내다 ----- 13:4-() 14:1-() 15:0-rel
+etri#doc_2473.txt 17 죽이다 ----- 1:1-() 2:1-() 5:3-() 9:4-() 15:2-() 16:1-() 17:0-rel

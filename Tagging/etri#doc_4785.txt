@@ -1,0 +1,6 @@
+etri#doc_4785.txt 4 º×´Ù ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4785.txt 5 ¹ÐºÀÇÏ´Ù ----- 4:4-ARGM-DIS() 5:0-rel
+etri#doc_4785.txt 8 º¸°üÇÏ´Ù ----- 5:5-ARGM-DIS() 7:2-ARG2(LOC) 8:0-rel
+etri#doc_4785.txt 11 ¸Ô´Ù ----- 10:2-ARGM-CND() 11:0-rel
+etri#doc_4785.txt 13 Áö³ª´Ù ----- 12:1-ARGM-TMP() 13:0-rel
+etri#doc_4785.txt 15 ¿Ï¼÷µÇ´Ù ----- 8:3-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

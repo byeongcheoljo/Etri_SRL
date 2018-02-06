@@ -1,0 +1,5 @@
+etri#doc_30.txt 3 조직하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_30.txt 6 잡아가다 ----- 4:1-ARG1(THM) 5:1-ARGM-ADV() 6:0-rel
+etri#doc_30.txt 9 합당하다 ----- 9:0-rel
+etri#doc_30.txt 12 되다 ----- 8:4-ARG0(THM) 10:2-ARG0() 11:1-ARGM-NEG() 12:0-rel
+etri#doc_30.txt 15 마비시키다 ----- 14:2-ARG1(THM) 15:0-rel

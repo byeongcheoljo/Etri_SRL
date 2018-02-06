@@ -1,0 +1,3 @@
+etri#doc_7804.txt 2 시작되다 ----- 1:1-ARGM-TMP(SRC) 2:0-rel
+etri#doc_7804.txt 14 하다 ----- 10:6-ARGM-LOC(LOC) 11:1-ARG0(AGT) 13:2-ARG1(THM) 14:0-rel
+etri#doc_7804.txt 15 만들다 ----- 4:2-ARG0(AGT) 14:3-ARGM-MNR() 15:0-rel

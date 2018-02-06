@@ -1,0 +1,4 @@
+etri#doc_2396.txt 5 하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2396.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_2396.txt 8 채혈하다 ----- 5:4-() 7:2-() 8:0-rel
+etri#doc_2396.txt 17 나타나다 ----- 1:1-ARGM-EXT() 16:5-ARGM-TMP() 17:0-rel

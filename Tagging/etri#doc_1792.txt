@@ -1,0 +1,2 @@
+etri#doc_1792.txt 2 떠받들다 ----- 1:1-ARGM-EXT(EFF) 2:0-rel
+etri#doc_1792.txt 18 모르다 ----- 10:5-ARGM-DIS() 14:4-ARG0() 17:2-ARGM-DIS(THM) 18:0-rel

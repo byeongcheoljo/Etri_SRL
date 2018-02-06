@@ -1,0 +1,4 @@
+etri#doc_804.txt 2 되다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_804.txt 5 모르다 ----- 3:3-ARG1(THM) 4:1-ARG0(MAG) 5:0-rel
+etri#doc_804.txt 11 감염되다 ----- 9:2-ARG2(EFF) 10:1-ARG2(EFF) 11:0-rel
+etri#doc_804.txt 15 생각하다 ----- 5:2-ARGM-DIS() 7:2-ARG0(MAG) 12:3-ARG1(THM) 14:2-ARG2(FNS) 15:0-rel

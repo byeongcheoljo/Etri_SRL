@@ -1,0 +1,3 @@
+etri#doc_13108.txt 11 잘되다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_13108.txt 12 위하다 ----- 11:2-ARG1() 12:0-rel
+etri#doc_13108.txt 19 하다 ----- 1:1-ARGM-DIS() 9:2-ARGM-DIS() 12:3-ARGM-PRP() 13:1-ARG0(AGT) 14:1-ARGM-MNR(INS) 18:4-ARG1(THM) 19:0-rel

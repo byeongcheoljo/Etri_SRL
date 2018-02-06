@@ -1,0 +1,1 @@
+etri#doc_6302.txt 8 ºÎ¸£´Ù ----- 6:2-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel

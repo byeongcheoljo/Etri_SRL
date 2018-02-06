@@ -1,0 +1,3 @@
+etri#doc_7521.txt 9 잡다 ----- 5:1-ARGM-INS(INS) 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7521.txt 16 풀다 ----- 11:2-ARG1(THM) 15:4-ARGM-LOC(LOC) 16:0-rel
+etri#doc_7521.txt 18 내리다 ----- 2:2-ARG0(AGT) 4:2-ARGM-MNR() 9:2-ARGM-MNR() 16:5-ARGM-DIS() 17:1-ARGM-LOC(LOC) 18:0-rel

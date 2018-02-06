@@ -1,0 +1,4 @@
+etri#doc_6388.txt 6 구별되다 ----- 5:2-ARG2(COM) 6:0-rel
+etri#doc_6388.txt 10 지속하다 ----- 3:2-ARG1(EXP) 8:5-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6388.txt 14 존재하다 ----- 13:2-ARGM-PRD(EFF) 14:0-rel
+etri#doc_6388.txt 22 가리키다 ----- 1:1-ARGM-DIS() 11:3-ARGM-DIS() 15:4-ARG0(AGT) 21:3-ARG1(THM) 22:0-rel

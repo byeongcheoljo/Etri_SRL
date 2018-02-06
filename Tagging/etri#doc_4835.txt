@@ -1,0 +1,4 @@
+etri#doc_4835.txt 2 나타나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4835.txt 11 발사하다 ----- 7:1-ARGM-CAU() 8:1-ARGM-DIR(DIR) 9:1-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4835.txt 14 닫다 ----- 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_4835.txt 19 치다 ----- 6:4-ARG0(AGT) 14:3-ARGM-DIS() 16:2-ARGM-DIR(DIR) 17:1-ARGM-MNR() 18:1-ARG1(THM) 19:0-rel

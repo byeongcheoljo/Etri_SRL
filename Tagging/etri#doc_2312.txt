@@ -1,0 +1,4 @@
+etri#doc_2312.txt 4 들다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2312.txt 7 돌아오다 ----- 4:3-ARGM-INS() 6:2-ARGM-TMP() 7:0-rel
+etri#doc_2312.txt 13 건네다 ----- 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2312.txt 17 되다 ----- 15:1-ARGM-TMP() 16:1-ARG0(AGT) 17:0-rel

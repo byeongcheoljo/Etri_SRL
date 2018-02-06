@@ -1,0 +1,5 @@
+etri#doc_3973.txt 2 마치다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_3973.txt 4 살다 ----- 2:2-ARGM-DIS() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_3973.txt 11 보다 ----- 9:3-ARG1(THM) 10:1-ARGM-TMP(LOC) 11:0-rel
+etri#doc_3973.txt 14 쥐다 ----- 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_3973.txt 17 솟구치다 ----- 11:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

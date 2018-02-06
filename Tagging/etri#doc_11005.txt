@@ -1,0 +1,2 @@
+etri#doc_11005.txt 13 배치되다 ----- 11:1-ARGM-DIS() 12:1-ARGM-CAU(EFF) 13:0-rel
+etri#doc_11005.txt 14 보이다 ----- 5:4-ARG0(AGT) 10:2-ARG1(THM) 13:2-ARGM-EXT() 14:0-rel

@@ -1,0 +1,8 @@
+etri#doc_13063.txt 7 가지다 ----- 4:1-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_13063.txt 9 발견하다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_13063.txt 11 듣다 ----- 3:2-ARGM-LOC(LOC) 10:6-ARG1(THM) 11:0-rel
+etri#doc_13063.txt 12 감동하다 ----- 11:7-ARGM-DIS() 12:0-rel
+etri#doc_13063.txt 15 받다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_13063.txt 17 오다 ----- 13:1-ARG0(AGT) 16:3-ARG3(GOL) 17:0-rel
+etri#doc_13063.txt 18 희망하다 ----- 12:8-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel
+etri#doc_13063.txt 19 말하다 ----- 1:1-ARG0(AGT) 18:5-ARG1() 19:0-rel

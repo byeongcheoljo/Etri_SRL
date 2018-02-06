@@ -1,0 +1,4 @@
+etri#doc_423.txt 7 이르다 ----- 6:2-ARG3(GOL) 7:0-rel
+etri#doc_423.txt 13 옮기다 ----- 11:1-ARG1(THM) 12:1-ARG3(DIR) 13:0-rel
+etri#doc_423.txt 15 항전하다 ----- 10:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-TMP() 15:0-rel
+etri#doc_423.txt 19 되다 ----- 9:5-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-DIS() 18:1-ARG2(FNS) 19:0-rel

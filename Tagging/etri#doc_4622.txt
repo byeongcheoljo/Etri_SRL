@@ -1,0 +1,3 @@
+etri#doc_4622.txt 8 일어나다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4622.txt 9 보장하다 ----- 3:2-ARG1(THM) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_4622.txt 15 갖다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

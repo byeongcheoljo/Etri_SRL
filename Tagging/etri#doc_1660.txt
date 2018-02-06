@@ -1,0 +1,5 @@
+etri#doc_1660.txt 4 팽배하다 ----- 2:2-ARG0(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_1660.txt 7 가지다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_1660.txt 9 가지다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_1660.txt 13 되다 ----- 5:1-ARG0(THM) 12:3-ARG2(EFF) 13:0-rel
+etri#doc_1660.txt 14 보다 ----- 4:2-ARGM-DIS() 13:4-ARG1(THM) 14:0-rel

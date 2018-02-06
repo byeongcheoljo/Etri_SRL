@@ -1,0 +1,5 @@
+etri#doc_4587.txt 5 유지하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4587.txt 8 완화하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4587.txt 9 밝히다 ----- 2:1-ARGM-TMP() 8:2-ARG1() 9:0-rel
+etri#doc_4587.txt 13 소유하다 ----- 11:2-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4587.txt 16 설레다 ----- 1:1-ARG0(EXP) 9:3-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

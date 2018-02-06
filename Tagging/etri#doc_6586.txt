@@ -1,0 +1,10 @@
+etri#doc_6586.txt 2 찍다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_6586.txt 4 찍히다 ----- 4:0-rel
+etri#doc_6586.txt 6 현상되다 ----- 6:0-rel
+etri#doc_6586.txt 7 인화되다 ----- 5:2-ARGM-MNR(INS) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_6586.txt 8 보이다 ----- 8:0-rel
+etri#doc_6586.txt 9 이해되다 ----- 7:2-ARGM-DIS() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_6586.txt 12 뒹굴다 ----- 10:1-ARGM-DIS() 11:1-ARGM-LOC() 12:0-rel
+etri#doc_6586.txt 13 현상되다 ----- 13:0-rel
+etri#doc_6586.txt 14 인화되다 ----- 13:1-ARGM-DIS() 14:0-rel
+etri#doc_6586.txt 19 되살아나다 ----- 3:3-ARG1(THM) 9:2-ARGM-DIS() 12:2-ARGM-DIS() 15:3-ARGM-TMP(LOC) 16:1-ARGM-DIS() 18:2-ARGM-INS(INS) 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6870.txt 2 가다 ----- 1:1-ARGM-LOC() 2:0-rel
+etri#doc_6870.txt 15 결부시키다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6870.txt 16 하다 ----- 11:1-ARGM-EXT() 15:3-ARGM-DIS() 16:0-rel

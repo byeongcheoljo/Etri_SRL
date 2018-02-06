@@ -1,0 +1,4 @@
+etri#doc_5894.txt 3 피하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5894.txt 11 잡다 ----- 9:3-ARG1(THM) 10:1-ARGM-NEG() 11:0-rel
+etri#doc_5894.txt 15 자폭하다 ----- 6:2-ARGM-DIS() 13:2-ARG0(AGT) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_5894.txt 20 나오다 ----- 16:3-ARG1(THM) 17:1-ARGM-ADV() 19:2-ARG2(SRC) 20:0-rel

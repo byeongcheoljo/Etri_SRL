@@ -1,0 +1,4 @@
+etri#doc_2294.txt 2 놓다 ----- 1:1-ARG0() 2:0-rel
+etri#doc_2294.txt 7 되다 ----- 6:1-ARGM-EXT() 7:0-rel
+etri#doc_2294.txt 20 느끼다 ----- 19:4-ARG1(THM) 20:0-rel
+etri#doc_2294.txt 21 하다 ----- 20:5-ARGM-DIS() 21:0-rel

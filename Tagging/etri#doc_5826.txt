@@ -1,0 +1,5 @@
+etri#doc_5826.txt 2 유발하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5826.txt 4 남기다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5826.txt 7 불식하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_5826.txt 9 정립하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_5826.txt 12 마련하다 ----- 5:5-ARGM-DIS() 11:4-ARG1(THM) 12:0-rel

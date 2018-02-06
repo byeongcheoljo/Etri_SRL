@@ -1,0 +1,2 @@
+etri#doc_3672.txt 8 머무르다 ----- 7:2-ARG2(LOC) 8:0-rel
+etri#doc_3672.txt 15 과시하다 ----- 2:2-ARGM-DIS(CNT) 4:2-ARG0(AGT) 8:3-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

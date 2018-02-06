@@ -1,0 +1,2 @@
+etri#doc_8453.txt 4 시작되다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_8453.txt 15 가지다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 13:8-ARG0(LOC) 14:1-ARG1(THM) 15:0-rel

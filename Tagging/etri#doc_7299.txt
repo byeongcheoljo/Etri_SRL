@@ -1,0 +1,1 @@
+etri#doc_7299.txt 10 지향하다 ----- 8:1-ARG0(AGT) 9:1-ARGM-EXT(LOC) 10:0-rel

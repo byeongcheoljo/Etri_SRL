@@ -1,0 +1,6 @@
+etri#doc_6744.txt 4 반대하다 ----- 1:1-ARGM-ADV(COM) 3:2-ARG1(THM) 4:0-rel
+etri#doc_6744.txt 8 떨어뜨리다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6744.txt 10 약화시키다 ----- 8:3-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_6744.txt 13 저해하다 ----- 10:2-ARGM-DIS() 11:1-ARG2(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_6744.txt 16 철폐하다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_6744.txt 17 촉구하다 ----- 5:4-ARGM-LOC(LOC) 16:2-ARG1() 17:0-rel

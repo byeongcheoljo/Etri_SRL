@@ -1,0 +1,5 @@
+etri#doc_3102.txt 3 쓰다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3102.txt 6 보다 ----- 4:4-ARG0(AGT) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_3102.txt 9 하다 ----- 7:1-ARGM-CAU(PUR) 8:1-ARG1(THM) 9:0-rel
+etri#doc_3102.txt 13 하다 ----- 9:2-ARGM-DIS() 11:2-ARGM-CAU(PUR) 12:1-ARG1(THM) 13:0-rel
+etri#doc_3102.txt 14 분간하다 ----- 13:2-ARGM-DIS() 14:0-rel

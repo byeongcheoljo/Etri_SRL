@@ -1,0 +1,1 @@
+etri#doc_4249.txt 21 นเว๔ม๖ดู ----- 1:1-ARGM-ADV(LOC) 20:2-ARG1() 21:0-rel

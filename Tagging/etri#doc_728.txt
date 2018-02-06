@@ -1,0 +1,3 @@
+etri#doc_728.txt 6 미치다 ----- 2:2-ARG1(THM) 4:2-ARGM-LOC() 5:1-ARGM-NEG() 6:0-rel
+etri#doc_728.txt 14 내다 ----- 10:2-ARGM-DIS() 12:2-ARGM-INS(INS) 13:1-ARG1(THM) 14:0-rel
+etri#doc_728.txt 18 반복하다 ----- 6:2-ARGM-TMP() 7:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-EXT() 17:2-ARG1(THM) 18:0-rel

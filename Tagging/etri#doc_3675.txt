@@ -1,0 +1,3 @@
+etri#doc_3675.txt 7 관련되다 ----- 6:1-ARG2(COM) 7:0-rel
+etri#doc_3675.txt 11 되다 ----- 5:1-ARGM-TMP() 10:3-ARG2(CRT) 11:0-rel
+etri#doc_3675.txt 18 참여하다 ----- 17:1-ARGM-MNR(INS) 18:0-rel

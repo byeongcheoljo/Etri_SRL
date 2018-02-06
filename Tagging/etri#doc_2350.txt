@@ -1,0 +1,6 @@
+etri#doc_2350.txt 4 두다 ----- 2:2-ARGM-EXT() 3:1-ARG1(THM) 4:0-rel
+etri#doc_2350.txt 8 대다 ----- 4:2-ARGM-DIS() 6:2-ARGM-CAU() 7:1-ARG1() 8:0-rel
+etri#doc_2350.txt 10 돌다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_2350.txt 12 하다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_2350.txt 14 찢어지다 ----- 13:1-() 14:0-rel
+etri#doc_2350.txt 17 가리다 ----- 12:2-ARGM-DIS() 15:3-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

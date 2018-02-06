@@ -1,0 +1,3 @@
+etri#doc_3491.txt 9 반영하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_3491.txt 15 둔화되다 ----- 11:2-ARGM-EXT(SRC) 12:1-ARGM-EXT(GOL) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_3491.txt 16 나타나다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 9:4-ARGM-MNR() 15:2-ARGM-MNR() 16:0-rel

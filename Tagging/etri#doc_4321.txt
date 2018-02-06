@@ -1,0 +1,3 @@
+etri#doc_4321.txt 4 하다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_4321.txt 9 감당하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(LOC) 5:3-ARG1(THM) 7:2-ARGM-INS(INS) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_4321.txt 16 발달되다 ----- 9:2-ARGM-CAU() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8979.txt 9 계속하다 ----- 4:4-ARG0(AGT) 6:2-ARGM-EXT() 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_8979.txt 16 되다 ----- 11:1-ARGM-MNR() 14:2-ARG1(THM) 15:1-ARG2(FNS) 16:0-rel
+etri#doc_8979.txt 17 명기하다 ----- 10:3-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

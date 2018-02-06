@@ -1,0 +1,2 @@
+etri#doc_11377.txt 8 분포하다 ----- 2:2-ARG2(LOC) 3:1-ARGM-DIR(DIR) 6:3-ARG2(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_11377.txt 15 넘다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARGM-DIS(EFF) 13:1-ARG1(THM) 14:1-ARG2(CRT) 15:0-rel

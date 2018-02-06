@@ -1,0 +1,2 @@
+etri#doc_11381.txt 7 제시되다 ----- 4:2-ARGM-ADV(EFF) 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11381.txt 16 소개되다 ----- 7:2-ARGM-DIS() 9:2-ARGM-TMP() 14:2-ARGM-LOC(GOL) 15:1-ARGM-EXT() 16:0-rel

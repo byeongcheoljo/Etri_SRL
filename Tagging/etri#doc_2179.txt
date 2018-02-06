@@ -1,0 +1,4 @@
+etri#doc_2179.txt 2 나아가다 ----- 1:1-ARG2() 2:0-rel
+etri#doc_2179.txt 5 말하다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_2179.txt 12 쓰다 ----- 10:1-ARG0() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_2179.txt 16 떨다 ----- 9:6-ARGM-DIS() 14:2-ARGM-ADV(LOC) 15:1-ARG1(THM) 16:0-rel

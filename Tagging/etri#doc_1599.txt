@@ -1,0 +1,3 @@
+etri#doc_1599.txt 6 유린되다 ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_1599.txt 13 부응하다 ----- 12:2-ARG3(GOL) 13:0-rel
+etri#doc_1599.txt 15 하다 ----- 10:2-ARG0(AGT) 14:4-ARG1(THM) 15:0-rel

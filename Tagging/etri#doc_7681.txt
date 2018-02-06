@@ -1,0 +1,4 @@
+etri#doc_7681.txt 5 믿다 ----- 5:0-rel
+etri#doc_7681.txt 9 포함시키다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7681.txt 15 뽑다 ----- 11:2-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_7681.txt 18 수정하다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 9:2-ARGM-DIS() 15:2-ARGM-MNR() 16:1-ARGM-EXT() 17:1-ARGM-EXT() 18:0-rel

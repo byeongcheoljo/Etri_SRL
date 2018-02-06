@@ -1,0 +1,2 @@
+etri#doc_3778.txt 13 제의하다 ----- 3:3-ARGM-CND(CNT) 4:1-ARG0(AGT) 6:2-ARGM-TMP() 10:3-ARG1(THM) 12:2-ARG2(GOL) 13:0-rel
+etri#doc_3778.txt 17 응하다 ----- 13:3-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARGM-EXT(CRT) 16:1-ARG1(GOL) 17:0-rel

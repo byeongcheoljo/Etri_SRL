@@ -1,0 +1,4 @@
+etri#doc_6364.txt 3 채택하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6364.txt 7 채택하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6364.txt 13 탈피하다 ----- 11:2-ARG1(SRC) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_6364.txt 15 보이다 ----- 1:1-ARGM-MNR() 5:4-ARGM-EXT(CRT) 9:4-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

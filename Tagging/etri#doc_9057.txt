@@ -1,0 +1,9 @@
+etri#doc_9057.txt 2 지나가다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_9057.txt 4 가다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_9057.txt 7 나오다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_9057.txt 9 걸다 ----- 9:0-rel
+etri#doc_9057.txt 10 타다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_9057.txt 11 따라오다 ----- 8:3-ARG0(AGT) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_9057.txt 15 거느리다 ----- 11:3-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel
+etri#doc_9057.txt 17 되다 ----- 15:2-ARGM-DIS() 16:1-ARG2(FNS) 17:0-rel
+etri#doc_9057.txt 20 쫓아오다 ----- 2:2-ARGM-TMP() 17:2-ARGM-DIS() 19:2-ARGM-LOC(LOC) 20:0-rel

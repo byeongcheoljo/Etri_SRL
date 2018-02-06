@@ -1,0 +1,6 @@
+etri#doc_4395.txt 2 ±ú´Ù ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_4395.txt 4 »Ñ¸®´Ù ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4395.txt 6 ¸¶¸£´Ù ----- 4:2-ARGM-CND() 5:1-ARG1(THM) 6:0-rel
+etri#doc_4395.txt 9 µè´Ù ----- 9:0-rel
+etri#doc_4395.txt 10 ¾Ë´Ù ----- 7:3-ARG1(THM) 8:1-ARGM-TMP() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_4395.txt 15 ¾²´Ù ----- 13:2-ARG1(THM) 14:1-ARG1() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8994.txt 10 나타나다 ----- 8:2-ARG1(THM) 9:1-ARG2(LOC) 10:0-rel
+etri#doc_8994.txt 14 알다 ----- 1:1-ARG0(MAG) 11:3-ARG1(THM) 13:2-ARGM-INS(INS) 14:0-rel

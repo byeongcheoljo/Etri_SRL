@@ -1,0 +1,4 @@
+etri#doc_13017.txt 13 늘어나다 ----- 8:2-ARGM-TMP(GOL) 11:2-ARGM-EXT(CRT) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_13017.txt 16 거두다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_13017.txt 17 들이다 ----- 4:2-ARGM-TMP(SRC) 6:2-ARGM-DIS() 16:3-ARGM-DIS() 17:0-rel
+etri#doc_13017.txt 18 밝히다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 17:4-ARG1() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11167.txt 6 자극하다 ----- 6:0-rel
+etri#doc_11167.txt 7 채우다 ----- 5:2-ARG1(THM) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_11167.txt 10 놀다 ----- 9:2-ARGM-MNR(COM) 10:0-rel
+etri#doc_11167.txt 12 발달시키다 ----- 7:2-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_11167.txt 15 이해하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 3:1-ARGM-MNR(INS) 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

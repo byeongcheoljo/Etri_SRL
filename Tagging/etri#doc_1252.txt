@@ -1,0 +1,3 @@
+etri#doc_1252.txt 3 견인하다 ----- 1:1-ARG1(THM) 2:1-ARGM-DIS() 3:0-rel
+etri#doc_1252.txt 6 앉다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_1252.txt 8 보다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel

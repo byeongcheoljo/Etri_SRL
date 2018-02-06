@@ -1,0 +1,5 @@
+etri#doc_7891.txt 3 바라다 ----- 1:1-ARG0(MAG) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7891.txt 8 하다 ----- 4:3-ARGM-MNR(INS) 5:1-ARGM-MNR() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7891.txt 13 잡다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_7891.txt 16 선택하다 ----- 15:1-ARG0(AGT) 16:0-rel
+etri#doc_7891.txt 19 내주다 ----- 17:3-ARG2(GOL) 18:1-ARG1(THM) 19:0-rel

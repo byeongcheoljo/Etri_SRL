@@ -1,0 +1,5 @@
+etri#doc_8098.txt 3 쪼그리다 ----- 3:0-rel
+etri#doc_8098.txt 6 말리다 ----- 1:1-ARGM-TMP() 2:1-ARGM-DIS() 3:1-ARGM-MNR() 4:1-ARGM-INS(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_8098.txt 10 하다 ----- 8:4-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_8098.txt 14 달래다 ----- 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_8098.txt 16 앉히다 ----- 11:3-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(GOL) 16:0-rel

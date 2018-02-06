@@ -1,0 +1,2 @@
+etri#doc_3310.txt 13 설명하다 ----- 10:2-ARG1(THM) 12:2-ARGM-INS(INS) 13:0-rel
+etri#doc_3310.txt 20 주장하다 ----- 4:4-ARG0(AGT) 13:3-ARGM-DIS() 19:3-ARG1() 20:0-rel

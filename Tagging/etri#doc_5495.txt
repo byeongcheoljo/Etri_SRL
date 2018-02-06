@@ -1,0 +1,6 @@
+etri#doc_5495.txt 2 앉다 ----- 1:1-ARGM-LOC() 2:0-rel
+etri#doc_5495.txt 4 위시하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5495.txt 9 남기다 ----- 6:1-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_5495.txt 13 기록되다 ----- 12:6-ARG1(THM) 13:0-rel
+etri#doc_5495.txt 15 바라다 ----- 13:7-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_5495.txt 19 빌다 ----- 15:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

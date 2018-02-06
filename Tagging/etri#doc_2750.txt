@@ -1,0 +1,1 @@
+etri#doc_2750.txt 6 투시되다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5829.txt 5 대표되다 ----- 4:3-ARG0(FNS) 5:0-rel
+etri#doc_5829.txt 10 논하다 ----- 1:1-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5829.txt 15 진단되다 ----- 12:2-ARGM-LOC(LOC) 14:2-ARG2(FNS) 15:0-rel
+etri#doc_5829.txt 18 유의하다 ----- 10:3-ARGM-TMP() 16:4-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3368.txt 5 밝히다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3368.txt 10 지니다 ----- 9:1-ARG0(LOC) 10:0-rel
+etri#doc_3368.txt 13 의하다 ----- 12:2-ARG2(GOL) 13:0-rel
+etri#doc_3368.txt 18 의거하다 ----- 1:1-ARG1(THM) 7:5-ARGM-DIS() 8:1-ARG0(THM) 13:3-ARGM-DIS() 17:3-ARGM-LOC(CRT) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5838.txt 5 치르다 ----- 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5838.txt 7 말다 ----- 6:3-ARGM-DIS() 7:0-rel
+etri#doc_5838.txt 15 하다 ----- 10:3-ARG0(AGT) 13:3-ARGM-MNR(INS) 14:1-ARG1(THM) 15:0-rel
+etri#doc_5838.txt 16 알려지다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 15:2-ARG1() 16:0-rel

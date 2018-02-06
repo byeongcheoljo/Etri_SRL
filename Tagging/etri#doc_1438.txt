@@ -1,0 +1,4 @@
+etri#doc_1438.txt 7 이루어지다 ----- 2:1-ARG1(THM) 5:2-ARGM-DIS(LOC) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_1438.txt 11 닥치다 ----- 9:2-ARGM-TMP(LOC) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1438.txt 15 떨어지다 ----- 7:2-ARGM-DIS() 13:4-ARGM-LOC(LOC) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_1438.txt 19 받다 ----- 1:1-ARGM-DIS() 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

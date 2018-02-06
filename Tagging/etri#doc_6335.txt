@@ -1,0 +1,3 @@
+etri#doc_6335.txt 4 되다 ----- 3:3-ARG2(FNS) 4:0-rel
+etri#doc_6335.txt 11 강조하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_6335.txt 16 구상하다 ----- 15:4-ARG0(MAG) 16:0-rel

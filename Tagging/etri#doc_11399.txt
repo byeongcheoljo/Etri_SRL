@@ -1,0 +1,3 @@
+etri#doc_11399.txt 10 기록하다 ----- 9:8-ARG1(THM) 10:0-rel
+etri#doc_11399.txt 15 하다 ----- 12:2-ARGM-CAU() 13:1-ARGM-DIR(DIR) 14:1-ARG1(THM) 15:0-rel
+etri#doc_11399.txt 16 알다 ----- 10:9-ARGM-DIS() 15:2-ARG1() 16:0-rel

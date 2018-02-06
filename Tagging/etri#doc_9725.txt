@@ -1,0 +1,7 @@
+etri#doc_9725.txt 5 세우다 ----- 3:1-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_9725.txt 7 가리다 ----- 5:2-ARGM-CND() 6:1-ARG1(THM) 7:0-rel
+etri#doc_9725.txt 8 추진하다 ----- 2:2-ARGM-DIS() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_9725.txt 11 피우다 ----- 9:1-ARGM-EXT() 10:1-ARG1(Npr) 11:0-rel
+etri#doc_9725.txt 14 중단되다 ----- 8:3-ARGM-DIS() 11:2-ARGM-CND() 13:2-ARG1(THM) 14:0-rel
+etri#doc_9725.txt 18 결정짓다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_9725.txt 20 되다 ----- 14:3-ARGM-DIS() 15:1-ARG1(THM) 19:4-ARG2(FNS) 20:0-rel

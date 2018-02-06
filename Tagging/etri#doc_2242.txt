@@ -1,0 +1,4 @@
+etri#doc_2242.txt 2 지나가다 ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_2242.txt 8 움직이다 ----- 7:1-ARGM-EXT() 8:0-rel
+etri#doc_2242.txt 9 미끄러지다 ----- 8:2-() 9:0-rel
+etri#doc_2242.txt 12 사라지다 ----- 2:2-ARGM-DIS() 4:2-ARGM-EXT() 6:2-ARG0() 9:3-ARGM-MNR() 11:2-ARGM-LOC(LOC) 12:0-rel

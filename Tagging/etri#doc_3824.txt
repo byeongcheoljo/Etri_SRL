@@ -1,0 +1,5 @@
+etri#doc_3824.txt 1 그러다 ----- 1:0-rel
+etri#doc_3824.txt 6 추궁하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3824.txt 9 물러나다 ----- 7:1-() 8:1-ARGM-EXT() 9:0-rel
+etri#doc_3824.txt 10 하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-MNR() 6:3-ARGM-DIS() 9:2-ARG1(CNT) 10:0-rel
+etri#doc_3824.txt 14 면하다 ----- 10:3-ARGM-CND() 11:1-ARG0(THM) 13:2-ARG1(THM) 14:0-rel

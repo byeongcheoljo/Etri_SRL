@@ -1,0 +1,4 @@
+etri#doc_4588.txt 10 이루다 ----- 8:2-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4588.txt 12 개편하다 ----- 6:4-ARG1(THM) 11:3-ARGM-DIR(DIR) 12:0-rel
+etri#doc_4588.txt 17 전환하다 ----- 12:4-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARG2(SRC) 16:1-ARG3(FNS) 17:0-rel
+etri#doc_4588.txt 20 확대하다 ----- 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:1-ARGM-EXT() 20:0-rel

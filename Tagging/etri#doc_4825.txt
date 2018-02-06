@@ -1,0 +1,5 @@
+etri#doc_4825.txt 7 ÇÏ´Ù ----- 3:1-ARGM-DIS() 5:2-ARGM-MNR(COM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4825.txt 10 ¹ÝÂ¦°Å¸®´Ù ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4825.txt 13 ÅÍ¶ß¸®´Ù ----- 8:3-ARGM-EXT(EFF) 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4825.txt 16 °¡´Ù ----- 13:3-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARG3(GOL) 16:0-rel
+etri#doc_4825.txt 20 ¾É´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARGM-MNR(COM) 19:1-ARGM-MNR() 20:0-rel

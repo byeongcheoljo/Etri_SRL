@@ -1,0 +1,3 @@
+etri#doc_11997.txt 2 쓰다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_11997.txt 9 전재되다 ----- 8:4-ARGM-LOC(LOC) 9:0-rel
+etri#doc_11997.txt 11 인정하다 ----- 10:1-ARG0(MAG) 11:0-rel

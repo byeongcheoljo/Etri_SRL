@@ -1,0 +1,4 @@
+etri#doc_6268.txt 4 되다 ----- 2:1-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_6268.txt 9 비판하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_6268.txt 15 덮다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_6268.txt 20 발표하다 ----- 10:5-ARGM-DIS() 15:5-ARGM-DIS() 17:2-ARG1(THM) 18:1-ARGM-MNR() 19:1-ARGM-MNR() 20:0-rel

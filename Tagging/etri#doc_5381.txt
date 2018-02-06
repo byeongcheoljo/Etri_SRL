@@ -1,0 +1,6 @@
+etri#doc_5381.txt 3 소유하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_5381.txt 6 이어받다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5381.txt 8 상속되다 ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 7:4-ARG2(GOL) 8:0-rel
+etri#doc_5381.txt 11 뒤엎다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_5381.txt 16 고집하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_5381.txt 19 받아들이다 ----- 13:2-ARG1(THM) 18:2-ARG0(AGT) 19:0-rel

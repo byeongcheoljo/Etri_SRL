@@ -1,0 +1,5 @@
+etri#doc_470.txt 5 나가다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_470.txt 6 말하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 3:1-ARGM-LOC(SRC) 5:2-ARG1() 6:0-rel
+etri#doc_470.txt 11 걷다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_470.txt 16 쉬다 ----- 14:1-ARGM-EXT() 15:1-ARG1(THM) 16:0-rel
+etri#doc_470.txt 18 앉다 ----- 18:0-rel

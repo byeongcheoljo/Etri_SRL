@@ -1,0 +1,5 @@
+etri#doc_2050.txt 4 파악하다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_2050.txt 7 이해하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_2050.txt 11 극복하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_2050.txt 13 구상하다 ----- 8:1-ARGM-EXT() 12:4-ARG2(THM) 13:0-rel
+etri#doc_2050.txt 17 간파하다 ----- 4:2-() 7:3-() 13:5-() 15:2-() 16:1-() 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6211.txt 2 끝나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6211.txt 7 통제하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6211.txt 9 생기다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6211.txt 11 자다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_6211.txt 13 모르다 ----- 12:1-ARG0(EXP) 13:0-rel
+etri#doc_6211.txt 16 지리다 ----- 4:4-ARG0(AGT) 7:3-ARGM-ADV() 9:2-ARGM-TMP() 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG2(LOC) 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_937.txt 8 다루다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_937.txt 11 진행하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-TMP(CRT) 4:1-ARGM-TMP(CRT) 10:2-ARG1(THM) 11:0-rel

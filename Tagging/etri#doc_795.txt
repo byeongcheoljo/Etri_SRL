@@ -1,0 +1,6 @@
+etri#doc_795.txt 3 알아내다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_795.txt 6 분석하다 ----- 3:3-ARGM-PRP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_795.txt 8 떠돌다 ----- 7:4-ARG1(LOC) 8:0-rel
+etri#doc_795.txt 13 있다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_795.txt 16 흘리다 ----- 14:3-ARG0(AGT) 15:1-ARG1(THM) 16:0-rel
+etri#doc_795.txt 17 만들다 ----- 11:2-ARGM-CAU() 16:2-ARG2(FNS) 17:0-rel

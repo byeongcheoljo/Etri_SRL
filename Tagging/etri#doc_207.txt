@@ -1,0 +1,2 @@
+etri#doc_207.txt 3 발전하다 ----- 2:2-ARG2(FNS) 3:0-rel
+etri#doc_207.txt 17 보다 ----- 4:4-ARG1(THM) 16:2-ARG1(FNS) 17:0-rel

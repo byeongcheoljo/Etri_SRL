@@ -1,0 +1,4 @@
+etri#doc_4940.txt 9 정당화하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4940.txt 13 들먹이다 ----- 6:2-ARG0(AGT) 9:3-ARGM-PRP() 10:1-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4940.txt 15 생각하다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_4940.txt 20 들리다 ----- 15:5-ARGM-CND() 17:2-ARG1(THM) 19:2-ARGM-MNR() 20:0-rel

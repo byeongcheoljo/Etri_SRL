@@ -1,0 +1,2 @@
+etri#doc_334.txt 5 ¿Œ«œ¥Ÿ ----- 4:2-ARG1(EFF) 5:0-rel
+etri#doc_334.txt 15 ªÔ¥Ÿ ----- 13:4-ARG1(THM) 14:1-ARG2(FNS) 15:0-rel

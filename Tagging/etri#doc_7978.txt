@@ -1,0 +1,4 @@
+etri#doc_7978.txt 6 박해하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_7978.txt 8 침범하다 ----- 6:4-ARGM-PRP() 7:1-ARG1(LOC) 8:0-rel
+etri#doc_7978.txt 12 대항하다 ----- 11:3-ARG1(GOL) 12:0-rel
+etri#doc_7978.txt 14 투쟁하다 ----- 12:4-ARGM-MNR() 13:1-ARGM-EXT() 14:0-rel

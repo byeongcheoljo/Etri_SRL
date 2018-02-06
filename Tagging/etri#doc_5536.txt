@@ -1,0 +1,4 @@
+etri#doc_5536.txt 2 들어서다 ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_5536.txt 13 살리다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5536.txt 15 입다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_5536.txt 18 기다리다 ----- 5:3-ARGM-DIS() 9:4-ARGM-LOC(LOC) 11:2-ARGM-LOC(LOC) 16:5-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

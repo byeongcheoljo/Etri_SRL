@@ -1,0 +1,2 @@
+etri#doc_2756.txt 2 포기하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2756.txt 20 채우다 ----- 16:3-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

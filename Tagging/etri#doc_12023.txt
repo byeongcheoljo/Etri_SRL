@@ -1,0 +1,2 @@
+etri#doc_12023.txt 8 이용되다 ----- 5:1-ARGM-TMP() 7:2-ARGM-INS(INS) 8:0-rel
+etri#doc_12023.txt 11 사용되다 ----- 8:3-ARGM-DIS() 9:1-ARGM-DIS(INS) 10:1-ARGM-INS(INS) 11:0-rel

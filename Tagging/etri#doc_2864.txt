@@ -1,0 +1,5 @@
+etri#doc_2864.txt 3 오염되다 ----- 1:1-ARG1(THM) 2:1-ARG0(EFF) 3:0-rel
+etri#doc_2864.txt 5 제거되다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_2864.txt 19 용납되다 ----- 17:2-ARGM-DIS() 18:1-ARG0(AGT) 19:0-rel
+etri#doc_2864.txt 20 잊다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_2864.txt 21 바라다 ----- 20:3-ARG1() 21:0-rel

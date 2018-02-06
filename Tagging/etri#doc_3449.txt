@@ -1,0 +1,3 @@
+etri#doc_3449.txt 4 들다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_3449.txt 13 증가하다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:1-ARG3(FNS) 11:3-ARGM-EXT(CRT) 12:1-ARG1() 13:0-rel
+etri#doc_3449.txt 14 밝히다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 13:2-ARG1() 14:0-rel

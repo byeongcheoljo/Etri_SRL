@@ -1,0 +1,6 @@
+etri#doc_5866.txt 5 기여하다 ----- 3:2-ARG1(GOL) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_5866.txt 9 꿈꾸다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5866.txt 11 고집하다 ----- 7:1-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5866.txt 13 개방시키다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_5866.txt 16 주다 ----- 14:5-ARG2() 15:1-ARG1(THM) 16:0-rel
+etri#doc_5866.txt 17 기대하다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARGM-DIS(FNS) 16:2-ARG1() 17:0-rel

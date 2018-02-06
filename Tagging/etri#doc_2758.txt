@@ -1,0 +1,6 @@
+etri#doc_2758.txt 4 훔치다 ----- 2:2-ARGM-LOC(SRC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_2758.txt 6 주다 ----- 4:2-ARGM-DIS() 5:1-ARG2(GOL) 6:0-rel
+etri#doc_2758.txt 14 건설하다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_2758.txt 16 만들다 ----- 14:5-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_2758.txt 18 경작하다 ----- 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_2758.txt 20 만들다 ----- 6:2-ARGM-DIS() 8:2-ARGM-INS(INS) 9:1-ARG0(AGT) 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

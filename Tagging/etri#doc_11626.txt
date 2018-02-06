@@ -1,0 +1,6 @@
+etri#doc_11626.txt 1 예측하다 ----- 1:0-rel
+etri#doc_11626.txt 5 방지하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11626.txt 6 예방하다 ----- 6:0-rel
+etri#doc_11626.txt 8 최소화하다 ----- 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_11626.txt 14 증진시키다 ----- 8:3-ARGM-DIS() 13:4-ARG1(THM) 14:0-rel
+etri#doc_11626.txt 16 요구되다 ----- 15:6-ARG1(THM) 16:0-rel

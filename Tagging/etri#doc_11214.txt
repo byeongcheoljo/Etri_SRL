@@ -1,0 +1,4 @@
+etri#doc_11214.txt 3 시험하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11214.txt 5 조사하다 ----- 1:1-ARGM-TMP() 4:3-ARGM-ADV(EFF) 5:0-rel
+etri#doc_11214.txt 7 갖다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_11214.txt 10 갖다 ----- 9:1-ARG1(THM) 10:0-rel

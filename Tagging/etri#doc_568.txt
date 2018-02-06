@@ -1,0 +1,1 @@
+etri#doc_568.txt 21 나타나다 ----- 8:2-ARG1(THM) 13:3-ARGM-CAU() 18:4-ARG2(LOC) 20:2-ARGM-TMP() 21:0-rel

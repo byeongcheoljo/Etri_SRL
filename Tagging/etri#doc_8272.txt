@@ -1,0 +1,5 @@
+etri#doc_8272.txt 1 비틀거리다 ----- 1:0-rel
+etri#doc_8272.txt 5 내보이다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_8272.txt 9 묶다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8272.txt 12 연결하다 ----- 9:3-ARGM-PRP() 11:2-ARG1(THM) 12:0-rel
+etri#doc_8272.txt 16 무너지다 ----- 5:2-ARGM-TMP() 6:1-ARG1(THM) 14:5-ARGM-LOC(LOC) 15:1-ARGM-MNR() 16:0-rel

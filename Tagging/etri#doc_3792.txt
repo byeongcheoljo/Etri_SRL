@@ -1,0 +1,1 @@
+etri#doc_3792.txt 16 평가하다 ----- 3:2-ARGM-MNR(INS) 15:4-ARG1() 16:0-rel

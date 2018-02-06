@@ -1,0 +1,1 @@
+etri#doc_8566.txt 12 이용하다 ----- 8:3-ARG1(THM) 11:3-ARGM-INS(INS) 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_80.txt 5 분리되다 ----- 1:1-ARGM-TMP() 3:2-ARG0(THM) 4:1-ARG2(SRC) 5:0-rel
+etri#doc_80.txt 9 통제하다 ----- 9:0-rel
+etri#doc_80.txt 10 관장하다 ----- 8:1-ARG1(THM) 9:1-ARGM-DIR() 10:0-rel
+etri#doc_80.txt 21 반영하다 ----- 20:3-ARG1(THM) 21:0-rel

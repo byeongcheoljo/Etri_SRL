@@ -1,0 +1,5 @@
+etri#doc_884.txt 3 모르다 ----- 2:2-ARG1() 3:0-rel
+etri#doc_884.txt 4 잠들다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_884.txt 8 훔쳐보다 ----- 6:6-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_884.txt 15 저지르다 ----- 9:1-ARGM-DIS() 11:2-ARGM-DIR(DIR) 14:2-ARG1(THM) 15:0-rel
+etri#doc_884.txt 19 이루다 ----- 8:2-ARGM-DIS() 16:4-ARGM-CAU(EFF) 17:1-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

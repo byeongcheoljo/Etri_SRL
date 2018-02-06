@@ -1,0 +1,4 @@
+etri#doc_9864.txt 4 타다 ----- 1:1-ARG1(AGT) 3:2-ARG2(THM) 4:0-rel
+etri#doc_9864.txt 11 요구하다 ----- 9:2-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_9864.txt 13 현존하다 ----- 4:3-ARGM-DIS() 5:1-ARGM-DIS() 7:2-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel
+etri#doc_9864.txt 18 꼬집다 ----- 17:3-ARGM-MNR(INS) 18:0-rel

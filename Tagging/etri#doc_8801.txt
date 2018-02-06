@@ -1,0 +1,4 @@
+etri#doc_8801.txt 10 되다 ----- 8:1-ARG1(THM) 9:1-ARG2(FNS) 10:0-rel
+etri#doc_8801.txt 11 죽다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_8801.txt 18 남다 ----- 11:3-ARGM-DIS() 12:1-ARGM-CAU(EFF) 13:1-ARG0(AGT) 15:2-ARG1(THM) 17:2-ARG2(LOC) 18:0-rel
+etri#doc_8801.txt 19 보이다 ----- 7:2-ARG0(AGT) 18:3-ARG1() 19:0-rel

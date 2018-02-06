@@ -1,0 +1,4 @@
+etri#doc_11622.txt 2 이루어지다 ----- 1:1-ARGM-MNR(INS) 2:0-rel
+etri#doc_11622.txt 7 규정되다 ----- 2:2-ARGM-DIS() 4:2-ARG0(AGT) 6:2-ARG1() 7:0-rel
+etri#doc_11622.txt 13 미치다 ----- 11:2-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_11622.txt 16 갖다 ----- 9:2-ARG0(AGT) 13:2-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel

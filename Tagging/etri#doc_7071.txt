@@ -1,0 +1,2 @@
+etri#doc_7071.txt 9 싣다 ----- 2:1-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_7071.txt 12 회수되다 ----- 1:1-ARG0(THM) 9:3-ARGM-DIS() 10:1-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel

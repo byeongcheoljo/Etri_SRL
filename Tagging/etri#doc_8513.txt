@@ -1,0 +1,5 @@
+etri#doc_8513.txt 6 µé´Ù ----- 4:1-ARGM-EXT() 5:1-ARG1() 6:0-rel
+etri#doc_8513.txt 7 Âï´Ù ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_8513.txt 8 ÃÔ¿µµÇ´Ù ----- 3:3-ARG0(THM) 7:3-ARGM-DIS() 8:0-rel
+etri#doc_8513.txt 9 Èçµé¸®´Ù ----- 9:0-rel
+etri#doc_8513.txt 15 ´À³¢´Ù ----- 13:1-ARG1(THM) 14:1-ARG1(CNT) 15:0-rel

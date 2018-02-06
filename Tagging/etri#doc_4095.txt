@@ -1,0 +1,5 @@
+etri#doc_4095.txt 2 나가다 ----- 1:1-ARG3(GOL) 2:0-rel
+etri#doc_4095.txt 5 지키다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4095.txt 9 사다 ----- 9:0-rel
+etri#doc_4095.txt 10 보내다 ----- 3:3-ARG0(AGT) 6:3-ARG2(GOL) 8:2-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_4095.txt 15 되다 ----- 10:2-ARGM-DIS() 12:2-ARGM-TMP() 13:1-ARG0(AGT) 14:1-ARGM-MNR() 15:0-rel

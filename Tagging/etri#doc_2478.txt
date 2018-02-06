@@ -1,0 +1,3 @@
+etri#doc_2478.txt 5 ∫∏≥ª¥Ÿ ----- 3:2-ARG1(THM) 4:1-ARG2(LOC) 5:0-rel
+etri#doc_2478.txt 12 µË¥Ÿ ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_2478.txt 15 »Í∏Æ¥Ÿ ----- 1:1-ARG0(AGT) 5:2-ARGM-CAU() 7:2-ARG0(AGT) 13:5-ARGM-ADV(EFF) 14:1-ARGM-EXT() 15:0-rel

@@ -1,0 +1,1 @@
+etri#doc_109.txt 15 실현시키다 ----- 10:2-ARGM-MNR(INS) 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

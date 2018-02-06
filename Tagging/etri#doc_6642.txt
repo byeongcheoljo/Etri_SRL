@@ -1,0 +1,6 @@
+etri#doc_6642.txt 5 동반하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_6642.txt 9 지다 ----- 7:1-ARGM-TMP() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6642.txt 12 치다 ----- 10:1-ARG1(THM) 11:1-ARGM-INS(INS) 12:0-rel
+etri#doc_6642.txt 14 부르다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6642.txt 16 짓다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_6642.txt 18 돌다 ----- 5:3-ARGM-DIS() 6:1-ARG0(AGT) 9:2-ARGM-TMP() 12:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(LOC) 18:0-rel

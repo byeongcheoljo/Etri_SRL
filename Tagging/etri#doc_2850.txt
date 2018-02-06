@@ -1,0 +1,4 @@
+etri#doc_2850.txt 8 이기다 ----- 1:1-ARGM-DIS() 4:2-ARG0(AGT) 7:3-ARG1(THM) 8:0-rel
+etri#doc_2850.txt 12 이기다 ----- 9:5-ARGM-TMP() 11:2-ARG1(THM) 12:0-rel
+etri#doc_2850.txt 15 지다 ----- 15:0-rel
+etri#doc_2850.txt 20 지다 ----- 13:4-ARGM-DIS() 14:1-ARGM-DIS() 16:2-ARGM-TMP(LOC) 18:2-ARG1(THM) 19:1-ARGM-TMP() 20:0-rel

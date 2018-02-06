@@ -1,0 +1,7 @@
+etri#doc_4796.txt 3 세우다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4796.txt 6 보다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_4796.txt 12 연모하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4796.txt 14 초대하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4796.txt 16 대접하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_4796.txt 17 만취하다 ----- 9:3-ARG1(THM) 12:3-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel
+etri#doc_4796.txt 19 나오다 ----- 1:1-ARGM-DIS() 6:5-ARGM-DIS() 18:4-ARG0(AGT) 19:0-rel

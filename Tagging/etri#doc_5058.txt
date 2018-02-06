@@ -1,0 +1,6 @@
+etri#doc_5058.txt 2 정하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_5058.txt 6 벗어나다 ----- 4:2-ARG1(SRC) 5:1-ARGM-EXT(CRT) 6:0-rel
+etri#doc_5058.txt 8 먹다 ----- 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5058.txt 10 이탈하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(SRC) 10:0-rel
+etri#doc_5058.txt 15 생기다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_5058.txt 18 생기다 ----- 13:3-ARGM-CAU() 15:2-ARGM-DIS() 16:1-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel

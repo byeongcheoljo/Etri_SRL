@@ -1,0 +1,5 @@
+etri#doc_710.txt 3 뚫다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_710.txt 6 택하다 ----- 3:3-ARGM-DIS() 5:2-ARGM-CAU() 6:0-rel
+etri#doc_710.txt 15 결정하다 ----- 15:0-rel
+etri#doc_710.txt 16 제출하다 ----- 14:1-ARG0(AGT) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_710.txt 19 쓰다 ----- 9:3-ARGM-ADV(COM) 13:3-ARGM-CAU(EFF) 16:2-ARGM-MNR() 17:1-ARGM-INS(INS) 18:1-ARG1(THM) 19:0-rel

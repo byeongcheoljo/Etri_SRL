@@ -1,0 +1,4 @@
+etri#doc_8963.txt 5 하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_8963.txt 8 털다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_8963.txt 11 흘리다 ----- 5:3-ARGM-DIS() 6:1-ARG0(AGT) 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8963.txt 14 일으키다 ----- 11:2-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel

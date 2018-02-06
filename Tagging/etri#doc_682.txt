@@ -1,0 +1,3 @@
+etri#doc_682.txt 9 ±³À°ÇÏ´Ù ----- 8:3-ARGM-MNR() 9:0-rel
+etri#doc_682.txt 13 ¹ßÇ¥ÇÏ´Ù ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_682.txt 15 ²ø´Ù ----- 2:2-ARG0(AGT) 13:4-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

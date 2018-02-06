@@ -1,0 +1,8 @@
+etri#doc_4770.txt 2 설명하다 ----- 1:1-ARGM-MNR(INS) 2:0-rel
+etri#doc_4770.txt 5 채집하다 ----- 3:1-ARG1(THM) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4770.txt 8 씻다 ----- 5:2-ARGM-DIS() 6:1-ARGM-LOC(LOC) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4770.txt 10 제거되다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_4770.txt 12 썰다 ----- 10:2-ARGM-CND() 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_4770.txt 17 붓다 ----- 12:2-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel
+etri#doc_4770.txt 18 밀봉하다 ----- 17:5-ARGM-DIS() 18:0-rel
+etri#doc_4770.txt 20 마시다 ----- 2:2-ARGM-CND() 18:6-ARGM-DIS() 19:1-ARGM-TMP(LOC) 20:0-rel

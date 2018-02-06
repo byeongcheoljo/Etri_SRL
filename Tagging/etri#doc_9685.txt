@@ -1,0 +1,5 @@
+etri#doc_9685.txt 7 남기다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_9685.txt 9 놀라다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_9685.txt 11 나가다 ----- 2:2-ARGM-LOC(LOC) 7:4-ARGM-PRP() 10:3-ARGM-INS(INS) 11:0-rel
+etri#doc_9685.txt 16 돌리다 ----- 14:2-ARG1(THM) 15:1-ARG2(GOL) 16:0-rel
+etri#doc_9685.txt 18 지양하다 ----- 17:3-ARG1(THM) 18:0-rel

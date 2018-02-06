@@ -1,0 +1,2 @@
+etri#doc_1754.txt 14 열리다 ----- 12:1-ARGM-TMP() 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_1754.txt 23 받아들이다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 7:4-ARGM-DIS() 8:1-ARGM-DIS() 11:3-ARGM-LOC(LOC) 22:6-ARG1(THM) 23:0-rel

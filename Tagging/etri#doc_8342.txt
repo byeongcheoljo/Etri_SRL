@@ -1,0 +1,2 @@
+etri#doc_8342.txt 3 들어가다 ----- 2:2-ARG3(GOL) 3:0-rel
+etri#doc_8342.txt 10 되다 ----- 9:1-ARGM-DIS() 10:0-rel

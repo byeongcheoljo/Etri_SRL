@@ -1,0 +1,4 @@
+etri#doc_8268.txt 4 해결되다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8268.txt 7 구조화되다 ----- 7:0-rel
+etri#doc_8268.txt 8 심화되다 ----- 4:4-ARGM-DIS() 6:2-ARGM-EXT() 7:1-ARGM-DIS() 8:0-rel
+etri#doc_8268.txt 19 기인하다 ----- 9:3-ARG1(THM) 15:3-ARGM-DIS() 16:1-ARGM-MNR() 18:2-ARG2(SRC) 19:0-rel

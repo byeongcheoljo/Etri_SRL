@@ -1,0 +1,5 @@
+etri#doc_3920.txt 7 남다 ----- 6:1-ARGM-PRD(FNS) 7:0-rel
+etri#doc_3920.txt 9 전념하다 ----- 7:2-ARGM-MNR() 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_3920.txt 13 돕다 ----- 9:2-ARGM-DIS() 11:2-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_3920.txt 14 말하다 ----- 1:1-ARG0(AGT) 5:4-ARGM-LOC(LOC) 13:2-ARG1(CNT) 14:0-rel
+etri#doc_3920.txt 15 전해지다 ----- 14:3-ARGM-DIS() 15:0-rel

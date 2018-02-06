@@ -1,0 +1,4 @@
+etri#doc_2916.txt 5 ºø±â´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:1-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_2916.txt 15 ¾È´Ù ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_2916.txt 17 °¡´Ù ----- 16:1-() 17:0-rel
+etri#doc_2916.txt 19 ´õµë´Ù ----- 9:3-ARGM-TMP() 10:1-ARG0(AGT) 15:3-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

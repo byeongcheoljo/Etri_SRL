@@ -1,0 +1,2 @@
+etri#doc_7257.txt 5 ´Ã¾î³ª´Ù ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_7257.txt 15 ´Ã¾î³ª´Ù ----- 5:2-ARGM-DIS() 13:6-ARGM-MNR(INS) 14:1-ARG1(THM) 15:0-rel

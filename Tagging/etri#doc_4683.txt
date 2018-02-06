@@ -1,0 +1,2 @@
+etri#doc_4683.txt 4 변화시키다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4683.txt 13 변화시키다 ----- 12:5-ARG1(THM) 13:0-rel

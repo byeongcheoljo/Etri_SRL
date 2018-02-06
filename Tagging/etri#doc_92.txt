@@ -1,0 +1,5 @@
+etri#doc_92.txt 5 감소하다 ----- 1:1-ARGM-TMP(GOL) 3:2-ARG0(THM) 4:1-ARGM-ADV() 5:0-rel
+etri#doc_92.txt 8 유지하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP() 7:1-ARGM-EXT(THM) 8:0-rel
+etri#doc_92.txt 12 유지하다 ----- 9:1-ARGM-TMP() 11:2-ARG1(THM) 12:0-rel
+etri#doc_92.txt 15 되다 ----- 13:1-ARGM-TMP(GOL) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_92.txt 18 되다 ----- 8:2-ARGM-DIS() 12:3-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARGM-TMP(GOL) 17:1-ARGM-EXT() 18:0-rel

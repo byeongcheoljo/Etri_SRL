@@ -1,0 +1,4 @@
+etri#doc_11157.txt 2 살다 ----- 1:1-ARG2(LOC) 2:0-rel
+etri#doc_11157.txt 13 받다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_11157.txt 17 제작하다 ----- 7:2-ARG0(AGT) 13:4-ARGM-DIS() 15:2-ARGM-INS(INS) 16:1-ARG1(THM) 17:0-rel
+etri#doc_11157.txt 19 생각나다 ----- 18:3-ARG1(THM) 19:0-rel

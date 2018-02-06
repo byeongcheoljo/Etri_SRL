@@ -1,0 +1,2 @@
+etri#doc_5250.txt 10 발생하다 ----- 3:2-ARGM-CAU(EFF) 9:4-ARG1(THM) 10:0-rel
+etri#doc_5250.txt 17 발생하다 ----- 14:2-ARG1(THM) 16:2-ARGM-CAU() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1045.txt 6 사다 ----- 4:2-ARG1(THM) 5:1-ARGM-LOC() 6:0-rel
+etri#doc_1045.txt 9 사다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_1045.txt 11 받다 ----- 2:1-ARGM-EXT(EFF) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1045.txt 16 풀리다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 13:2-ARGM-INS(INS) 15:2-ARG1(THM) 16:0-rel

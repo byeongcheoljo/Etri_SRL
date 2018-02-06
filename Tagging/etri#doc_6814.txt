@@ -1,0 +1,4 @@
+etri#doc_6814.txt 8 만지다 ----- 4:1-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_6814.txt 12 신임하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-EXT() 12:0-rel
+etri#doc_6814.txt 17 듣다 ----- 16:3-ARGM-CND() 17:0-rel
+etri#doc_6814.txt 19 되다 ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 12:2-ARGM-DIS() 13:1-ARGM-DIS() 18:5-ARG2(FNS) 19:0-rel

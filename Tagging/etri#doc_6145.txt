@@ -1,0 +1,3 @@
+etri#doc_6145.txt 7 이해하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6145.txt 13 공헌하다 ----- 10:1-ARG0(AGT) 11:1-ARGM-LOC(LOC) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6145.txt 14 연구하다 ----- 1:1-ARGM-DIS() 7:3-ARGM-PRP() 8:1-ARG0(AGT) 9:1-ARGM-MNR(INS) 13:2-ARG1(THM) 14:0-rel

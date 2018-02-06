@@ -1,0 +1,5 @@
+etri#doc_3565.txt 3 전역하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-PRD(GOL) 3:0-rel
+etri#doc_3565.txt 6 투신하다 ----- 5:1-ARGM-LOC(GOL) 6:0-rel
+etri#doc_3565.txt 8 맡다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3565.txt 11 확립하다 ----- 6:2-ARGM-DIS() 8:2-ARGM-MNR() 9:1-ARGM-DIS(COM) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3565.txt 14 남기다 ----- 4:3-ARG0(AGT) 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

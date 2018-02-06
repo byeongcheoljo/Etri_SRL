@@ -1,0 +1,4 @@
+etri#doc_5236.txt 3 평가하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5236.txt 7 해당하다 ----- 6:1-ARG2(CRT) 7:0-rel
+etri#doc_5236.txt 12 조치되다 ----- 8:3-ARG1(THM) 11:3-ARG2() 12:0-rel
+etri#doc_5236.txt 17 조치되다 ----- 3:3-ARGM-CND() 5:2-ARGM-ADV() 12:4-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-PRD(FNS) 17:0-rel

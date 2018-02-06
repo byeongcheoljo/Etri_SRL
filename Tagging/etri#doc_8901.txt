@@ -1,0 +1,5 @@
+etri#doc_8901.txt 7 부르다 ----- 3:1-ARG1(THM) 6:3-ARGM-MNR(INS) 7:0-rel
+etri#doc_8901.txt 10 보다 ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_8901.txt 11 묘사하다 ----- 10:2-ARGM-EXT() 11:0-rel
+etri#doc_8901.txt 14 일어나다 ----- 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_8901.txt 15 묘사하다 ----- 2:2-ARG0(EFF) 11:3-ARGM-DIS() 12:1-ARG1(THM) 14:2-ARGM-EXT() 15:0-rel

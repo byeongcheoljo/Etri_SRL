@@ -1,0 +1,5 @@
+etri#doc_2009.txt 6 하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_2009.txt 9 생각하다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_2009.txt 13 옮기다 ----- 9:2-ARGM-DIS() 11:2-ARGM-PRD(INS) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_2009.txt 14 예기하다 ----- 14:0-rel
+etri#doc_2009.txt 16 낳다 ----- 15:2-ARG1(THM) 16:0-rel

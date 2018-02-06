@@ -1,0 +1,2 @@
+etri#doc_3171.txt 15 넘다 ----- 9:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_3171.txt 21 드리우다 ----- 7:3-ARG0(EFF) 8:1-ARGM-TMP() 15:3-ARGM-DIS() 17:2-ARGM-LOC(LOC) 20:3-ARG1(THM) 21:0-rel

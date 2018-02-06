@@ -1,0 +1,5 @@
+etri#doc_3235.txt 5 시작하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3235.txt 10 베풀다 ----- 7:1-ARG0(AGT) 8:1-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_3235.txt 13 말하다 ----- 5:2-ARGM-TMP() 6:1-ARG0(AGT) 12:4-ARG1(CNT) 13:0-rel
+etri#doc_3235.txt 15 기억하다 ----- 14:6-ARG1(THM) 15:0-rel
+etri#doc_3235.txt 18 베풀다 ----- 15:7-ARGM-DIS() 16:1-ARGM-MNR() 17:1-ARG1(THM) 18:0-rel

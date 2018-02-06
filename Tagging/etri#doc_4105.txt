@@ -1,0 +1,5 @@
+etri#doc_4105.txt 3 계시다 ----- 1:1-ARGM-TMP() 2:1-ARGM-PRD(FNS) 3:0-rel
+etri#doc_4105.txt 9 졸업하다 ----- 7:1-ARGM-TMP() 8:1-ARG1(SRC) 9:0-rel
+etri#doc_4105.txt 11 부임하다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(GOL) 11:0-rel
+etri#doc_4105.txt 13 달리다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4105.txt 14 묻다 ----- 4:3-ARG0(AGT) 6:2-ARGM-TMP() 11:2-ARGM-TMP() 13:2-ARG1(CNT) 14:0-rel

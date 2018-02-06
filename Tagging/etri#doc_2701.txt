@@ -1,0 +1,3 @@
+etri#doc_2701.txt 5 이기다 ----- 2:2-ARGM-CAU(INS) 3:1-ARG0(AGT) 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_2701.txt 8 가지다 ----- 6:3-ARG1() 7:1-ARG0() 8:0-rel
+etri#doc_2701.txt 13 제기하다 ----- 8:2-ARGM-NEG() 9:1-ARG0() 10:1-ARGM-LOC(LOC) 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel

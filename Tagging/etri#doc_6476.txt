@@ -1,0 +1,4 @@
+etri#doc_6476.txt 3 졸업하다 ----- 1:1-ARGM-TMP() 2:1-ARG1(SRC) 3:0-rel
+etri#doc_6476.txt 10 되다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 7:3-ARGM-DIS() 8:1-ARGM-DIS() 9:1-ARG2(FNS) 10:0-rel
+etri#doc_6476.txt 13 피우다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_6476.txt 19 취하다 ----- 18:3-ARG1(THM) 19:0-rel

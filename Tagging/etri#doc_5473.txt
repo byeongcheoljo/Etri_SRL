@@ -1,0 +1,5 @@
+etri#doc_5473.txt 3 먹다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5473.txt 7 발생하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5473.txt 10 주장되다 ----- 9:5-ARGM-EXT() 10:0-rel
+etri#doc_5473.txt 14 믿다 ----- 14:0-rel
+etri#doc_5473.txt 15 받아들이다 ----- 13:1-ARGM-MNR() 14:1-ARGM-DIS() 15:0-rel

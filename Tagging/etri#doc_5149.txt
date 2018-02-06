@@ -1,0 +1,4 @@
+etri#doc_5149.txt 5 출발하다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_5149.txt 9 갖다 ----- 1:1-ARG0(AGT) 3:2-ARGM-TMP(LOC) 6:3-ARG3(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_5149.txt 14 겨냥하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5149.txt 16 전문화하다 ----- 12:1-ARGM-TMP() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

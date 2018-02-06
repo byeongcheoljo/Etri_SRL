@@ -1,0 +1,2 @@
+etri#doc_4341.txt 8 걸다 ----- 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4341.txt 15 접근하다 ----- 10:4-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-DIS() 15:0-rel

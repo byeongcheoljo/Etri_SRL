@@ -1,0 +1,1 @@
+etri#doc_11887.txt 16 го╢ы ----- 2:2-ARGM-DIS(COM) 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-MNR(INS) 12:3-ARGM-ADV(CNT) 15:3-ARG1(THM) 16:0-rel

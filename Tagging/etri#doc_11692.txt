@@ -1,0 +1,3 @@
+etri#doc_11692.txt 6 비집다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11692.txt 8 치다 ----- 2:2-ARGM-DIS() 4:2-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_11692.txt 17 보이다 ----- 8:2-ARGM-CND() 9:1-ARG0(AGT) 13:2-ARG0(AGT) 14:1-ARGM-TMP() 16:2-ARGM-MNR() 17:0-rel

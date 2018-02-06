@@ -1,0 +1,1 @@
+etri#doc_13006.txt 12 ¸ô¾Æ°¡´Ù ----- 1:1-ARG0(AGT) 10:2-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel

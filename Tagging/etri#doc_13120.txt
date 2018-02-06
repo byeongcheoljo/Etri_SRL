@@ -1,0 +1,2 @@
+etri#doc_13120.txt 9 분리하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_13120.txt 12 도입하다 ----- 1:1-ARGM-DIS() 10:4-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

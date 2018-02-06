@@ -1,0 +1,6 @@
+etri#doc_4798.txt 4 굳어지다 ----- 4:0-rel
+etri#doc_4798.txt 7 풀다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4798.txt 8 숨기다 ----- 8:0-rel
+etri#doc_4798.txt 10 폭발시키다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_4798.txt 13 갖다 ----- 2:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_4798.txt 14 부인하다 ----- 1:1-ARGM-DIS() 13:3-ARG1() 14:0-rel

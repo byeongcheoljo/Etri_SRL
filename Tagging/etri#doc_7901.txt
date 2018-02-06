@@ -1,0 +1,3 @@
+etri#doc_7901.txt 7 누르다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7901.txt 13 겁먹다 ----- 7:2-ARGM-DIS() 9:2-ARG0(EXP) 11:2-ARGM-CAU(EFF) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_7901.txt 18 준비하다 ----- 14:1-ARG0(AGT) 15:1-ARGM-TMP() 17:2-ARG1(THM) 18:0-rel

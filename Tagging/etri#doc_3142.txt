@@ -1,0 +1,6 @@
+etri#doc_3142.txt 4 당하다 ----- 3:3-ARG2(THM) 4:0-rel
+etri#doc_3142.txt 8 돌아가다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_3142.txt 10 있다 ----- 9:1-ARGM-CND() 10:0-rel
+etri#doc_3142.txt 11 모르다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_3142.txt 16 보내다 ----- 6:2-ARG0(AGT) 8:2-ARGM-TMP() 13:5-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel
+etri#doc_3142.txt 22 꼬집다 ----- 21:2-ARG1() 22:0-rel

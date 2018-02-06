@@ -1,0 +1,5 @@
+etri#doc_8945.txt 1 잡다 ----- 1:0-rel
+etri#doc_8945.txt 3 놓다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8945.txt 8 닫히다 ----- 3:3-ARGM-DIS() 5:2-ARGM-DIR(DIR) 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8945.txt 13 통과하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8945.txt 18 벌리다 ----- 8:2-ARGM-DIS() 9:1-ARGM-LOC(LOC) 16:3-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

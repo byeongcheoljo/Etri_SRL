@@ -1,0 +1,2 @@
+etri#doc_2548.txt 11 전개하다 ----- 3:2-ARG0(AGT) 6:3-ARGM-DIS() 9:3-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2548.txt 15 이루다 ----- 11:2-ARGM-DIS() 13:2-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel

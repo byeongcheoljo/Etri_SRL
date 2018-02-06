@@ -1,0 +1,5 @@
+etri#doc_4486.txt 6 흘리다 ----- 2:2-ARGM-MNR(INS) 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_4486.txt 10 울다 ----- 10:0-rel
+etri#doc_4486.txt 11 쓰러지다 ----- 9:3-ARG2(GOL) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_4486.txt 17 찍다 ----- 16:1-ARG1() 17:0-rel
+etri#doc_4486.txt 19 보이다 ----- 6:3-ARGM-DIS() 15:4-ARG1(THM) 17:2-ARGM-DIS() 18:1-ARGM-INS(INS) 19:0-rel

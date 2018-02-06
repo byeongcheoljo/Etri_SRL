@@ -1,0 +1,4 @@
+etri#doc_11859.txt 9 Èå¸£´Ù ----- 6:5-ARG2(SRC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11859.txt 11 ½â´Ù ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11859.txt 14 ±«´Ù ----- 9:3-ARGM-DIS() 12:3-ARGM-LOC(LOC) 13:1-ARG0(AGT) 14:0-rel
+etri#doc_11859.txt 18 º¸´Ù ----- 14:2-ARG1() 15:1-ARG0() 16:1-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6416.txt 3 빗나가다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6416.txt 6 내걸리다 ----- 5:2-ARG2(LOC) 6:0-rel
+etri#doc_6416.txt 9 읽다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_6416.txt 11 생존하다 ----- 10:1-ARG1(LOC) 11:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8013.txt 4 비판하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8013.txt 9 잃다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8013.txt 13 비추다 ----- 12:3-ARG2(INS) 13:0-rel
+etri#doc_8013.txt 15 생각하다 ----- 13:4-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_8013.txt 16 비판하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 9:3-ARGM-PRP() 15:2-ARGM-DIS() 16:0-rel

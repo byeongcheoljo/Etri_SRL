@@ -1,0 +1,6 @@
+etri#doc_8091.txt 8 »Ñ¸®´Ù ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8091.txt 10 »Ñ¸®´Ù ----- 8:3-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8091.txt 11 ¸Ô´Ù ----- 11:0-rel
+etri#doc_8091.txt 13 Á×´Ù ----- 13:0-rel
+etri#doc_8091.txt 15 ÇÏ´Ù ----- 12:2-ARGM-TMP(LOC) 14:2-ARG1(THM) 15:0-rel
+etri#doc_8091.txt 17 ÇÏ´Ù ----- 1:1-ARGM-DIS() 5:2-ARGM-CAU() 10:2-ARGM-CND() 16:4-ARG1(THM) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_9121.txt 7 µÇ´Ù ----- 3:2-ARG2(LOC) 6:3-ARG1(THM) 7:0-rel

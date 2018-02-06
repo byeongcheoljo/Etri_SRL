@@ -1,0 +1,4 @@
+etri#doc_8850.txt 5 추진되다 ----- 4:2-ARGM-CAU(EFF) 5:0-rel
+etri#doc_8850.txt 12 이르다 ----- 5:3-ARGM-DIS() 11:4-ARG3(FNS) 12:0-rel
+etri#doc_8850.txt 15 모르다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_8850.txt 17 관철하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 12:5-ARGM-TMP() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

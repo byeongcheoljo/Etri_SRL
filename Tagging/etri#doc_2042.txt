@@ -1,0 +1,4 @@
+etri#doc_2042.txt 3 추진되다 ----- 1:1-() 2:1-() 3:0-rel
+etri#doc_2042.txt 8 초래하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_2042.txt 13 통합하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_2042.txt 18 나타나다 ----- 4:3-ARG0(AGT) 5:1-ARGM-DIS() 8:3-ARGM-DIS() 17:2-ARG0(THM) 18:0-rel

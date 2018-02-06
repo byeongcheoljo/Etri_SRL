@@ -1,0 +1,4 @@
+etri#doc_9229.txt 5 넘다 ----- 4:1-ARGM-EXT(CRT) 5:0-rel
+etri#doc_9229.txt 9 오다 ----- 7:4-ARGM-LOC(LOC) 8:1-ARG1(Npr0) 9:0-rel
+etri#doc_9229.txt 14 내리다 ----- 9:2-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:1-ARG1(Npr0) 14:0-rel
+etri#doc_9229.txt 17 벌어지다 ----- 3:3-ARGM-CAU(EFF) 15:3-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

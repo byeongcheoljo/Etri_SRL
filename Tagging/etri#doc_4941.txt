@@ -1,0 +1,4 @@
+etri#doc_4941.txt 3 쉬다 ----- 2:1-ARG0(THM) 3:0-rel
+etri#doc_4941.txt 11 원하다 ----- 10:1-ARG0(MAG) 11:0-rel
+etri#doc_4941.txt 17 진열되다 ----- 9:1-ARGM-CAU() 12:3-ARG1(THM) 16:4-ARG2(LOC) 17:0-rel
+etri#doc_4941.txt 19 품다 ----- 7:6-ARGM-DIS() 8:1-ARG0(AGT) 17:5-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

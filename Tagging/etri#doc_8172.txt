@@ -1,0 +1,1 @@
+etri#doc_8172.txt 15 수용하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

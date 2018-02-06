@@ -1,0 +1,1 @@
+etri#doc_5683.txt 13 ¸¸µé´Ù ----- 4:4-ARG0(AGT) 6:2-ARG1(THM) 11:2-ARGM-PRP() 12:1-ARGM-MNR() 13:0-rel

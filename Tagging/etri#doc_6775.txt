@@ -1,0 +1,1 @@
+etri#doc_6775.txt 16 마련하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-EXT() 13:1-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel

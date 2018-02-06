@@ -1,0 +1,1 @@
+etri#doc_3874.txt 10 결여되다 ----- 6:2-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel

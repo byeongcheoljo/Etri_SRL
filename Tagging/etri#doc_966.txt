@@ -1,0 +1,4 @@
+etri#doc_966.txt 9 떨어지다 ----- 6:2-ARGM-DIS() 8:2-ARG3(CRT) 9:0-rel
+etri#doc_966.txt 11 일다 ----- 9:3-ARGM-CND() 10:1-ARG1(THM) 11:0-rel
+etri#doc_966.txt 14 끊어지다 ----- 11:2-ARGM-CAU() 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_966.txt 17 가져오다 ----- 1:1-ARGM-DIS() 14:2-ARGM-CAU() 16:2-ARG1(THM) 17:0-rel

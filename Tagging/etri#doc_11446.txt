@@ -1,0 +1,2 @@
+etri#doc_11446.txt 14 조치하다 ----- 2:1-ARGM-TMP(LOC) 12:3-ARGM-LOC(GOL) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_11446.txt 17 준비하다 ----- 1:1-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

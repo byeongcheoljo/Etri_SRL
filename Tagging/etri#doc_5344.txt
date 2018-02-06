@@ -1,0 +1,5 @@
+etri#doc_5344.txt 7 유혹받다 ----- 4:1-ARG1(THM) 5:1-ARG0(AGT) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_5344.txt 9 들다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5344.txt 13 지배하다 ----- 10:1-ARG1(THM) 12:2-ARG0(EFF) 13:0-rel
+etri#doc_5344.txt 20 복종하다 ----- 18:2-ARGM-DIS() 19:1-ARGM-LOC(GOL) 20:0-rel
+etri#doc_5344.txt 21 주장하다 ----- 3:3-ARG0(AGT) 9:4-ARGM-DIS() 20:2-ARG1() 21:0-rel

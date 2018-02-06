@@ -1,0 +1,5 @@
+etri#doc_11401.txt 3 의하다 ----- 2:2-ARG2(GOL) 3:0-rel
+etri#doc_11401.txt 9 접하다 ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_11401.txt 10 하다 ----- 9:3-ARGM-DIS() 10:0-rel
+etri#doc_11401.txt 17 홍보하다 ----- 15:3-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel
+etri#doc_11401.txt 20 되다 ----- 11:5-ARG1(CNT) 12:1-ARGM-TMP(LOC) 17:2-ARGM-DIS() 19:2-ARG2(FNS) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3090.txt 9 쇠퇴하다 ----- 4:2-ARGM-TMP() 6:2-ARGM-TMP(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_3090.txt 14 하강하다 ----- 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_3090.txt 20 확대되다 ----- 10:4-ARGM-DIS() 19:2-ARGM-MNR(INS) 20:0-rel
+etri#doc_3090.txt 21 설명하다 ----- 2:2-ARG0(AGT) 20:3-ARGM-DIS() 21:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8203.txt 6 되다 ----- 5:2-ARG2(FNS) 6:0-rel
+etri#doc_8203.txt 8 하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8203.txt 13 먹다 ----- 11:1-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_8203.txt 14 살아가다 ----- 9:3-ARGM-TMP(GOL) 10:1-ARGM-EXT() 13:2-ARGM-DIS() 14:0-rel
+etri#doc_8203.txt 15 하다 ----- 14:3-ARGM-DIS() 15:0-rel
+etri#doc_8203.txt 17 지내다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARGM-TMP() 6:3-ARGM-CND() 16:5-ARGM-MNR(INS) 17:0-rel

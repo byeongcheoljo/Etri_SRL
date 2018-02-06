@@ -1,0 +1,2 @@
+etri#doc_6630.txt 7 알다 ----- 5:3-ARGM-ADV(EFF) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_6630.txt 12 산업화되다 ----- 12:0-rel

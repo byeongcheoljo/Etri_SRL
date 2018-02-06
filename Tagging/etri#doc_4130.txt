@@ -1,0 +1,4 @@
+etri#doc_4130.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4130.txt 5 피우다 ----- 3:2-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_4130.txt 11 쓰다 ----- 5:2-ARGM-CND() 6:1-ARG0(AGT) 9:3-ARGM-CAU(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4130.txt 14 알다 ----- 1:1-ARGM-LOC(LOC) 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-INS(FNS) 14:0-rel

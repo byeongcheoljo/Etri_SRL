@@ -1,0 +1,4 @@
+etri#doc_8153.txt 9 이루어지다 ----- 8:6-ARGM-CAU(EFF) 9:0-rel
+etri#doc_8153.txt 10 유치하다 ----- 10:0-rel
+etri#doc_8153.txt 14 개간하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8153.txt 17 놓다 ----- 14:2-ARGM-PRP() 15:1-ARG2(GOL) 16:1-ARG1(THM) 17:0-rel

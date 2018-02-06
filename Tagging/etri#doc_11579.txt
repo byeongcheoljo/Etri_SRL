@@ -1,0 +1,5 @@
+etri#doc_11579.txt 1 받아들이다 ----- 1:0-rel
+etri#doc_11579.txt 2 받아들이다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_11579.txt 3 받아들이다 ----- 3:0-rel
+etri#doc_11579.txt 4 받아들이다 ----- 2:2-ARGM-DIS() 3:1-ARG1() 4:0-rel
+etri#doc_11579.txt 11 갖추다 ----- 10:3-ARGM-CND() 11:0-rel

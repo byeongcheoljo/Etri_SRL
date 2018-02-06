@@ -1,0 +1,2 @@
+etri#doc_5990.txt 11 고학하다 ----- 11:0-rel
+etri#doc_5990.txt 16 내걸다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARGM-LOC(LOC) 13:3-ARG0(AGT) 14:1-ARG1(THM) 15:1-ARG2(LOC) 16:0-rel

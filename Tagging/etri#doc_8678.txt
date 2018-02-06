@@ -1,0 +1,4 @@
+etri#doc_8678.txt 7 꿈틀대다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARG1() 7:0-rel
+etri#doc_8678.txt 9 들다 ----- 1:1-ARGM-TMP() 8:3-ARG1(THM) 9:0-rel
+etri#doc_8678.txt 13 받다 ----- 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8678.txt 15 떠올리다 ----- 9:4-ARGM-DIS() 10:1-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

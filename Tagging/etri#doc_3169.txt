@@ -1,0 +1,5 @@
+etri#doc_3169.txt 3 사랑하다 ----- 2:1-ARGM-ADV() 3:0-rel
+etri#doc_3169.txt 5 존중하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3169.txt 7 이해하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_3169.txt 11 되다 ----- 8:3-ARG1(THM) 10:2-ARG2(FNS) 11:0-rel
+etri#doc_3169.txt 15 기대하다 ----- 1:1-ARG0(AGT) 11:3-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel

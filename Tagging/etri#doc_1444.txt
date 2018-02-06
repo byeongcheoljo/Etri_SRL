@@ -1,0 +1,5 @@
+etri#doc_1444.txt 2 짜다 ----- 1:1-ARGM-INS(INS) 2:0-rel
+etri#doc_1444.txt 8 거스르다 ----- 7:1-ARGM-TMP(LOC) 8:0-rel
+etri#doc_1444.txt 9 올라가다 ----- 4:2-ARG0(THM) 6:2-ARG0(AGT) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_1444.txt 14 짜다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_1444.txt 16 되다 ----- 9:3-ARGM-DIS() 14:4-ARGM-DIS() 15:1-ARGM-EXT() 16:0-rel

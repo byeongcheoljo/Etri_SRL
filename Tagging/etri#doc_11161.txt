@@ -1,0 +1,5 @@
+etri#doc_11161.txt 3 마치다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11161.txt 9 앉다 ----- 3:3-ARGM-DIS() 6:3-ARGM-DIS() 7:1-ARGM-TMP() 8:1-ARG1(GOL) 9:0-rel
+etri#doc_11161.txt 13 되다 ----- 11:1-ARG2(CRT) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11161.txt 15 먹다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11161.txt 18 떠오르다 ----- 9:2-ARGM-DIS() 10:1-ARGM-DIS() 16:3-ARG1(THM) 17:1-ARG2(GOL) 18:0-rel

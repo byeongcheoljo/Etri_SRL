@@ -1,0 +1,4 @@
+etri#doc_1237.txt 4 하다 ----- 2:2-ARGM-ADV(EFF) 3:1-ARG0(AGT) 4:0-rel
+etri#doc_1237.txt 8 받아들이다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:1-ARG3(FNS) 8:0-rel
+etri#doc_1237.txt 14 지니다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1237.txt 16 요약하다 ----- 8:2-ARGM-CND() 9:1-ARG0(AGT) 15:4-ARGM-MNR(INS) 16:0-rel

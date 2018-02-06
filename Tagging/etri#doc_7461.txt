@@ -1,0 +1,5 @@
+etri#doc_7461.txt 4 확정하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_7461.txt 10 갖다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7461.txt 11 채택되다 ----- 7:2-ARG1(THM) 10:3-ARGM-MNR() 11:0-rel
+etri#doc_7461.txt 13 결정하다 ----- 12:5-ARG1(THM) 13:0-rel
+etri#doc_7461.txt 14 선택되다 ----- 14:0-rel

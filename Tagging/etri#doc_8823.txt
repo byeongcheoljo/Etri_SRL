@@ -1,0 +1,5 @@
+etri#doc_8823.txt 2 지정되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8823.txt 4 하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8823.txt 8 되다 ----- 6:1-ARGM-DIS() 7:1-ARG2(FNS) 8:0-rel
+etri#doc_8823.txt 13 예측하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8823.txt 17 먹다 ----- 5:5-ARGM-CND(CNT) 8:2-ARGM-CND() 10:2-ARGM-DIS() 13:3-ARGM-DIS() 15:2-ARGM-EXT(CRT) 16:1-ARG1(THM) 17:0-rel

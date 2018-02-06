@@ -1,0 +1,6 @@
+etri#doc_2406.txt 5 들이다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2406.txt 6 발사하다 ----- 5:3-ARGM-MNR() 6:0-rel
+etri#doc_2406.txt 11 하다 ----- 10:2-ARG1(CNT) 11:0-rel
+etri#doc_2406.txt 13 회수하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_2406.txt 16 사용하다 ----- 13:2-ARGM-PRP() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel
+etri#doc_2406.txt 18 보이다 ----- 1:1-ARG0(AGT) 11:3-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

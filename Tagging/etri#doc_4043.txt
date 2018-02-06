@@ -1,0 +1,5 @@
+etri#doc_4043.txt 5 º×´Ù ----- 3:1-ARG1(THM) 4:1-ARGM-LOC(GOL) 5:0-rel
+etri#doc_4043.txt 6 ²úÀÌ´Ù ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_4043.txt 8 ¸Ô´Ù ----- 2:2-ARGM-TMP() 6:3-ARGM-MNR() 7:1-ARGM-EXT(EFF) 8:0-rel
+etri#doc_4043.txt 11 ¾Ë´Ù ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_4043.txt 16 ¿©±â´Ù ----- 12:6-ARG0(AGT) 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

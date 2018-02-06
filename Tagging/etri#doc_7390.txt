@@ -1,0 +1,3 @@
+etri#doc_7390.txt 4 비치하다 ----- 2:1-ARGM-MNR(COM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_7390.txt 14 떨어지다 ----- 7:3-ARGM-DIS() 8:1-ARGM-DIS() 13:5-ARG1(THM) 14:0-rel
+etri#doc_7390.txt 17 확인되다 ----- 1:1-ARGM-DIS() 16:8-ARGM-DIS() 17:0-rel

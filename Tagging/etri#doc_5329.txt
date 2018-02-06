@@ -1,0 +1,2 @@
+etri#doc_5329.txt 8 이루다 ----- 7:1-ARGM-DIS() 8:0-rel
+etri#doc_5329.txt 13 사랑하다 ----- 12:2-ARG1(THM) 13:0-rel

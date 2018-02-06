@@ -1,0 +1,6 @@
+etri#doc_11525.txt 2 쓰다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11525.txt 6 읽다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_11525.txt 8 알다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_11525.txt 10 쓰다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11525.txt 11 조언하다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_11525.txt 18 합당하다 ----- 16:1-ARGM-LOC(GOL) 17:1-ARGM-EXT() 18:0-rel

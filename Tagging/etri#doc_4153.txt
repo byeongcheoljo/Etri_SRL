@@ -1,0 +1,5 @@
+etri#doc_4153.txt 4 침입하다 ----- 2:1-ARG0(AGT) 3:1-ARG1(GOL) 4:0-rel
+etri#doc_4153.txt 7 작동되다 ----- 4:2-ARGM-TMP() 6:2-ARG1(THM) 7:0-rel
+etri#doc_4153.txt 11 잡히다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_4153.txt 13 알다 ----- 7:3-ARGM-DIS() 9:2-ARG0(MAG) 11:2-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_4153.txt 14 밝혀지다 ----- 1:1-ARGM-ADV() 13:2-ARGM-DIS() 14:0-rel

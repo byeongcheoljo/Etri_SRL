@@ -1,0 +1,2 @@
+etri#doc_9167.txt 7 되다 ----- 4:1-ARG1(THM) 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_9167.txt 16 요약하다 ----- 2:2-ARGM-DIS(CNT) 3:1-ARG0(AGT) 10:5-ARG0(AGT) 13:2-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel

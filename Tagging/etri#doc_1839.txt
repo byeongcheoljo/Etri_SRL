@@ -1,0 +1,3 @@
+etri#doc_1839.txt 5 내려오다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_1839.txt 8 되다 ----- 5:2-ARGM-DIS() 7:2-ARG0(AGT) 8:0-rel
+etri#doc_1839.txt 16 내려오다 ----- 13:1-ARG0(AGT) 14:1-ARGM-EXT() 15:1-ARGM-LOC(LOC) 16:0-rel

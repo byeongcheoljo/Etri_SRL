@@ -1,0 +1,4 @@
+etri#doc_11232.txt 2 이륙하다 ----- 1:1-ARG1(SRC) 2:0-rel
+etri#doc_11232.txt 7 타다 ----- 6:6-ARG1(LOC) 7:0-rel
+etri#doc_11232.txt 12 맡기다 ----- 10:2-ARGM-EXT(CRT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_11232.txt 14 건너다 ----- 8:8-ARG0(AGT) 12:2-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel

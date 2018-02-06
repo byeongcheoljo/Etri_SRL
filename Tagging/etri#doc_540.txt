@@ -1,0 +1,3 @@
+etri#doc_540.txt 9 이루다 ----- 7:3-ARGM-CAU() 8:1-ARG1(THM) 9:0-rel
+etri#doc_540.txt 12 인식하다 ----- 3:1-ARG0(MAG) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARG1(FNS) 12:0-rel
+etri#doc_540.txt 16 지적하다 ----- 14:2-ARGM-ADV(THM) 15:1-ARGM-TMP() 16:0-rel

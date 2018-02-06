@@ -1,0 +1,2 @@
+etri#doc_6526.txt 9 돌리다 ----- 7:2-ARG1(THM) 8:1-ARGM-LOC(GOL) 9:0-rel
+etri#doc_6526.txt 13 고찰하다 ----- 12:1-ARG1(THM) 13:0-rel

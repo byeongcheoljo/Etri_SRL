@@ -1,0 +1,4 @@
+etri#doc_2890.txt 6 웃다 ----- 1:1-ARGM-TMP(LOC) 5:3-ARGM-DIS() 6:0-rel
+etri#doc_2890.txt 10 빠지다 ----- 8:2-ARGM-CAU() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2890.txt 12 되다 ----- 10:2-ARGM-DIS() 11:1-ARG2(FNS) 12:0-rel
+etri#doc_2890.txt 14 하다 ----- 12:2-ARGM-CND() 13:1-ARG1(THM) 14:0-rel

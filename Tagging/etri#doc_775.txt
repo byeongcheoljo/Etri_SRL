@@ -1,0 +1,2 @@
+etri#doc_775.txt 7 읽다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_775.txt 13 안되다 ----- 12:1-ARGM-EXT() 13:0-rel

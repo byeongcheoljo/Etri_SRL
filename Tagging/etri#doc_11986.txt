@@ -1,0 +1,4 @@
+etri#doc_11986.txt 6 하다 ----- 4:3-ARG1(THM) 5:1-ARGM-INS(INS) 6:0-rel
+etri#doc_11986.txt 12 개봉되다 ----- 10:2-ARGM-TMP() 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_11986.txt 15 들끓다 ----- 15:0-rel
+etri#doc_11986.txt 17 되다 ----- 8:2-ARG1(THM) 12:2-ARGM-DIS() 14:2-ARGM-LOC(LOC) 16:2-ARG2(FNS) 17:0-rel

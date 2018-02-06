@@ -1,0 +1,4 @@
+etri#doc_7720.txt 10 °ÅºÎÇÏ´Ù ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_7720.txt 12 Æó¼âµÇ´Ù ----- 6:4-ARG0(AGT) 10:4-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_7720.txt 14 È®Á¤µÇ´Ù ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_7720.txt 15 ¹àÈ÷´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 14:2-ARGM-DIS() 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8101.txt 6 지니다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8101.txt 13 일신하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_8101.txt 16 되다 ----- 8:5-ARG1(THM) 13:5-ARGM-DIS() 15:2-ARG2(FNS) 16:0-rel
+etri#doc_8101.txt 18 믿다 ----- 2:2-ARGM-LOC(LOC) 17:4-ARG1(THM) 18:0-rel

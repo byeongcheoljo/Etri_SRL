@@ -1,0 +1,10 @@
+etri#doc_6954.txt 3 도착하다 ----- 1:1-ARG1(THM) 2:1-ARG3(LOC) 3:0-rel
+etri#doc_6954.txt 5 열리다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6954.txt 6 내리다 ----- 6:0-rel
+etri#doc_6954.txt 9 내리다 ----- 7:2-ARG0(AGT) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6954.txt 10 타다 ----- 9:2-ARGM-TMP() 10:0-rel
+etri#doc_6954.txt 11 하다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_6954.txt 14 타다 ----- 13:2-ARGM-TMP() 14:0-rel
+etri#doc_6954.txt 16 앉다 ----- 14:3-ARGM-DIS() 15:1-ARG1(GOL) 16:0-rel
+etri#doc_6954.txt 17 타다 ----- 17:0-rel
+etri#doc_6954.txt 20 오르다 ----- 5:2-ARGM-DIS() 11:4-ARGM-DIS() 16:2-ARGM-PRP() 18:2-ARG1(THM) 19:1-ARGM-TMP() 20:0-rel

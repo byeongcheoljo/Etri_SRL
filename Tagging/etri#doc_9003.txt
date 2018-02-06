@@ -1,0 +1,3 @@
+etri#doc_9003.txt 3 치우치다 ----- 2:2-ARG2(DIR) 3:0-rel
+etri#doc_9003.txt 9 조성하다 ----- 4:4-ARGM-LOC(LOC) 8:3-ARG1(THM) 9:0-rel
+etri#doc_9003.txt 12 발족하다 ----- 10:5-ARG1(THM) 11:1-ARGM-TMP() 12:0-rel

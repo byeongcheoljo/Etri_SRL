@@ -1,0 +1,1 @@
+etri#doc_5315.txt 20 기록하다 ----- 3:3-ARG0(THM) 17:2-ARGM-MNR(INS) 19:2-ARG1(THM) 20:0-rel

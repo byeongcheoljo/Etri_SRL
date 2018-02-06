@@ -1,0 +1,6 @@
+etri#doc_4505.txt 2 잡다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4505.txt 4 털다 ----- 2:2-ARGM-DIS() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4505.txt 8 뵈다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4505.txt 11 삭다 ----- 11:0-rel
+etri#doc_4505.txt 14 부서지다 ----- 4:2-ARGM-CND() 9:4-ARG1(THM) 12:2-ARGM-EXT(EFF) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4505.txt 20 알다 ----- 14:2-ARGM-DIS() 15:1-ARG0(MAG) 18:2-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

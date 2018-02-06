@@ -1,0 +1,6 @@
+etri#doc_5295.txt 5 뭉치다 ----- 4:1-ARGM-MNR(FNS) 5:0-rel
+etri#doc_5295.txt 7 움직이다 ----- 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_5295.txt 9 잘하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_5295.txt 13 갖추다 ----- 5:2-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_5295.txt 16 물리치다 ----- 3:1-ARG0(AGT) 13:2-ARGM-CND() 15:2-ARG1(THM) 16:0-rel
+etri#doc_5295.txt 17 생각하다 ----- 1:1-ARG0(MAG) 2:1-ARGM-DIS() 16:3-ARG1() 17:0-rel

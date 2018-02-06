@@ -1,0 +1,2 @@
+etri#doc_7735.txt 10 거치다 ----- 3:1-ARGM-EXT() 9:3-ARG2(THM) 10:0-rel
+etri#doc_7735.txt 18 결정되다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 11:5-ARGM-MNR(INS) 13:2-ARGM-MNR() 15:2-ARGM-ADV(EFF) 17:2-ARG1(THM) 18:0-rel

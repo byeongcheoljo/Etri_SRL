@@ -1,0 +1,5 @@
+etri#doc_4886.txt 11 빠지다 ----- 10:1-ARG2(GOL) 11:0-rel
+etri#doc_4886.txt 12 간주하다 ----- 6:1-ARGM-DIS() 7:1-ARG0(MAG) 9:2-ARG1(THM) 11:2-ARG1() 12:0-rel
+etri#doc_4886.txt 17 돌아가다 ----- 16:2-ARG3(FNS) 17:0-rel
+etri#doc_4886.txt 20 생각하다 ----- 13:4-ARGM-DIS() 19:5-ARG1() 20:0-rel
+etri#doc_4886.txt 21 보여주다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARG0(EFF) 20:6-ARG1() 21:0-rel

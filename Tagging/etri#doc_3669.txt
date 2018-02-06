@@ -1,0 +1,3 @@
+etri#doc_3669.txt 3 추가되다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:0-rel
+etri#doc_3669.txt 6 지정되다 ----- 5:1-ARG2(FNS) 6:0-rel
+etri#doc_3669.txt 10 늘어나다 ----- 3:2-ARGM-CAU(EFF) 4:1-ARGM-ADV(CNT) 7:3-ARG1(THM) 8:1-ARGM-EXT() 9:1-ARG3(FNS) 10:0-rel

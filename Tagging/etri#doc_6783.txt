@@ -1,0 +1,4 @@
+etri#doc_6783.txt 6 태우다 ----- 2:2-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_6783.txt 8 하다 ----- 6:4-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6783.txt 16 가지다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_6783.txt 19 거론하다 ----- 16:3-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

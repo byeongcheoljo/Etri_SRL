@@ -1,0 +1,6 @@
+etri#doc_7343.txt 2 ¥›¥Ÿ ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7343.txt 6 ¥›¥Ÿ ----- 2:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_7343.txt 9 ∫Ÿ¿Ã¥Ÿ ----- 7:1-ARG2(GOL) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7343.txt 11 æ…¥Ÿ ----- 6:3-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG1(GOL) 11:0-rel
+etri#doc_7343.txt 14 ∫∏¿Ã¥Ÿ ----- 13:1-ARG1(EXP) 14:0-rel
+etri#doc_7343.txt 18 ≥ı¥Ÿ ----- 11:2-ARGM-TMP() 12:1-ARGM-MNR() 16:4-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

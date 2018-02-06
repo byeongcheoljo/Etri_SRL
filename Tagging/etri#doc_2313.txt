@@ -1,0 +1,9 @@
+etri#doc_2313.txt 3 쉬다 ----- 3:0-rel
+etri#doc_2313.txt 8 보다 ----- 6:1-() 7:1-() 8:0-rel
+etri#doc_2313.txt 9 식사하다 ----- 9:0-rel
+etri#doc_2313.txt 10 구상하다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_2313.txt 12 정리하다 ----- 8:2-ARGM-DIS() 11:3-ARG0() 12:0-rel
+etri#doc_2313.txt 13 밀리다 ----- 13:0-rel
+etri#doc_2313.txt 15 자다 ----- 12:4-() 14:2-() 15:0-rel
+etri#doc_2313.txt 18 쫓기다 ----- 2:1-() 5:3-() 15:3-() 16:1-() 17:1-() 18:0-rel
+etri#doc_2313.txt 20 알다 ----- 1:1-ARGM-EXT() 19:3-ARG0() 20:0-rel

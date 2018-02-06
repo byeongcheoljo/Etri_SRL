@@ -1,0 +1,6 @@
+etri#doc_11149.txt 1 주지하다 ----- 1:0-rel
+etri#doc_11149.txt 4 심화시키다 ----- 4:0-rel
+etri#doc_11149.txt 5 확장시키다 ----- 3:2-ARG1(THM) 4:1-ARGM-DIS() 5:0-rel
+etri#doc_11149.txt 7 경주되다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11149.txt 13 이루다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 12:2-ARGM-MNR() 13:0-rel
+etri#doc_11149.txt 14 쏟다 ----- 13:3-ARGM-PRP() 14:0-rel

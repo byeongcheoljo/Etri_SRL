@@ -1,0 +1,6 @@
+etri#doc_4957.txt 3 널리다 ----- 2:2-ARGM-DIR(DIR) 3:0-rel
+etri#doc_4957.txt 10 뽑히다 ----- 10:0-rel
+etri#doc_4957.txt 11 흐트러지다 ----- 9:1-ARGM-MNR() 10:1-ARGM-DIS() 11:0-rel
+etri#doc_4957.txt 13 보다 ----- 7:2-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_4957.txt 17 벌어지다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_4957.txt 18 짐작하다 ----- 13:4-ARGM-DIS() 17:4-ARG1() 18:0-rel

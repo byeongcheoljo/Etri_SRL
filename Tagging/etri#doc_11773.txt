@@ -1,0 +1,5 @@
+etri#doc_11773.txt 4 읽다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11773.txt 5 토론하다 ----- 1:1-ARGM-TMP() 4:3-ARGM-DIS() 5:0-rel
+etri#doc_11773.txt 7 제시되다 ----- 6:1-ARG2(GOL) 7:0-rel
+etri#doc_11773.txt 10 잇다 ----- 8:3-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_11773.txt 15 제시하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel

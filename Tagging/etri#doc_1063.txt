@@ -1,0 +1,2 @@
+etri#doc_1063.txt 6 자각하다 ----- 4:3-ARGM-EXT(CNT) 5:1-ARG1(MAG) 6:0-rel
+etri#doc_1063.txt 9 없어지다 ----- 7:3-ARG1(CNT) 8:1-ARG1(EFF) 9:0-rel

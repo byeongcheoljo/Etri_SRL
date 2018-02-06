@@ -1,0 +1,1 @@
+etri#doc_1489.txt 18 이루어지다 ----- 17:1-ARGM-INS(INS) 18:0-rel

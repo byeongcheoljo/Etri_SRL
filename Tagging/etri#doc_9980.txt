@@ -1,0 +1,2 @@
+etri#doc_9980.txt 15 들락거리다 ----- 14:1-ARGM-EXT() 15:0-rel
+etri#doc_9980.txt 18 부딪치다 ----- 16:1-ARG1(THM) 17:1-ARGM-LOC(GOL) 18:0-rel

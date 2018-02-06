@@ -1,0 +1,3 @@
+etri#doc_4845.txt 5 연결되다 ----- 3:1-ARG1(THM) 4:1-ARG2(COM) 5:0-rel
+etri#doc_4845.txt 7 파괴되다 ----- 2:1-ARGM-ADV(EFF) 6:3-ARG1(THM) 7:0-rel
+etri#doc_4845.txt 14 초래하다 ----- 1:1-ARGM-DIS() 7:4-ARGM-DIS() 12:3-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel

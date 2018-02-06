@@ -1,0 +1,2 @@
+etri#doc_1040.txt 6 받아들이다 ----- 4:3-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_1040.txt 11 진행되다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 10:2-ARGM-INS() 11:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1499.txt 3 성공하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_1499.txt 4 대하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_1499.txt 7 생각하다 ----- 1:1-ARG1(THM) 6:5-ARGM-DIS() 7:0-rel
+etri#doc_1499.txt 15 얻다 ----- 12:1-ARGM-INS(INS) 14:2-ARG1(THM) 15:0-rel

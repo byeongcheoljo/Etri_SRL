@@ -1,0 +1,2 @@
+etri#doc_6278.txt 11 ¿°¿øÇÏ´Ù ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_6278.txt 14 ºÀÇåÇÏ´Ù ----- 1:1-ARGM-DIS() 4:2-ARG0(AGT) 6:2-ARGM-TMP() 7:1-ARGM-CAU(EFF) 12:4-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

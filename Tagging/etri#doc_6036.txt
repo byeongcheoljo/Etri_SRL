@@ -1,0 +1,5 @@
+etri#doc_6036.txt 4 만나다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6036.txt 6 하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_6036.txt 9 내다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_6036.txt 11 의논하다 ----- 11:0-rel
+etri#doc_6036.txt 12 말하다 ----- 1:1-ARGM-TMP() 6:2-ARGM-TMP() 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARG1() 12:0-rel

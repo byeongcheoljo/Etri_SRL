@@ -1,0 +1,3 @@
+etri#doc_897.txt 4 하다 ----- 3:2-ARG2() 4:0-rel
+etri#doc_897.txt 6 불거지다 ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_897.txt 9 헤엄치다 ----- 9:0-rel

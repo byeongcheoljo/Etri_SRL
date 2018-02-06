@@ -1,0 +1,3 @@
+etri#doc_5265.txt 3 진행되다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_5265.txt 10 빠지다 ----- 5:4-ARGM-LOC(LOC) 8:3-ARG1(THM) 9:1-ARG2(SRC) 10:0-rel
+etri#doc_5265.txt 13 제약되다 ----- 10:2-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel

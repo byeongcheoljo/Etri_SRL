@@ -1,0 +1,2 @@
+etri#doc_3238.txt 15 받다 ----- 10:1-ARGM-TMP() 13:3-ARG0(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_3238.txt 18 하다 ----- 9:2-ARG0(AGT) 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

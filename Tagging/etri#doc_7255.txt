@@ -1,0 +1,1 @@
+etri#doc_7255.txt 20 ¸ðÀ¸´Ù ----- 1:1-ARGM-DIS() 5:4-ARGM-ADV(EFF) 8:3-ARG0(AGT) 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

@@ -1,0 +1,2 @@
+etri#doc_442.txt 11 언급하다 ----- 7:3-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_442.txt 18 당하다 ----- 16:2-ARGM-LOC(LOC) 17:1-ARG1() 18:0-rel

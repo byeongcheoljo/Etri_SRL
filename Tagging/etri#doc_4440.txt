@@ -1,0 +1,5 @@
+etri#doc_4440.txt 5 빠지다 ----- 2:1-ARGM-TMP() 4:2-ARG2(GOL) 5:0-rel
+etri#doc_4440.txt 7 깨어나다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_4440.txt 9 일어나다 ----- 7:2-ARGM-CAU() 8:1-ARGM-TMP(LOC) 9:0-rel
+etri#doc_4440.txt 12 파묻다 ----- 9:2-ARGM-DIS() 10:1-ARG2(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4440.txt 13 엎드리다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 13:0-rel

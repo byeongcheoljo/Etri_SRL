@@ -1,0 +1,2 @@
+etri#doc_3203.txt 3 인정하다 ----- 2:1-ARG0(MAG) 3:0-rel
+etri#doc_3203.txt 15 이야기하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 13:3-ARG1() 14:1-ARGM-MNR() 15:0-rel

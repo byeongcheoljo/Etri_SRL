@@ -1,0 +1,3 @@
+etri#doc_11855.txt 2 돌다 ----- 1:1-ARG1(LOC) 2:0-rel
+etri#doc_11855.txt 3 느끼다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_11855.txt 19 절감하다 ----- 5:5-ARGM-LOC(LOC) 18:2-ARG1() 19:0-rel

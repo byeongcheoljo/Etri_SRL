@@ -1,0 +1,3 @@
+etri#doc_2577.txt 7 ºñ·ÔµÇ´Ù ----- 5:2-ARG1(AGT) 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_2577.txt 12 ¶³Ä¡´Ù ----- 8:3-() 9:1-() 11:2-() 12:0-rel
+etri#doc_2577.txt 14 ¾Ë´Ù ----- 1:1-ARGM-EXT() 12:3-ARGM-EXT() 13:1-ARGM-EXT() 14:0-rel

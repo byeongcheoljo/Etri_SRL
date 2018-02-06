@@ -1,0 +1,4 @@
+etri#doc_4009.txt 5 지키다 ----- 3:2-ARG1(THM) 4:1-ARGM-CAU() 5:0-rel
+etri#doc_4009.txt 7 말하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_4009.txt 8 간추리다 ----- 8:0-rel
+etri#doc_4009.txt 9 말하다 ----- 8:1-ARGM-MNR() 9:0-rel

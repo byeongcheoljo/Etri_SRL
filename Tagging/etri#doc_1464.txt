@@ -1,0 +1,2 @@
+etri#doc_1464.txt 9 이루다 ----- 2:2-ARG0(EFF) 3:1-ARGM-DIS() 7:2-ARG0(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1464.txt 16 자랑하다 ----- 9:2-ARGM-CND() 10:1-ARG0(THM) 15:3-ARG1(THM) 16:0-rel

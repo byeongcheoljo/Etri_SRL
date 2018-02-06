@@ -1,0 +1,4 @@
+etri#doc_5496.txt 6 되다 ----- 5:1-ARG2(FNS) 6:0-rel
+etri#doc_5496.txt 9 밀폐되다 ----- 9:0-rel
+etri#doc_5496.txt 11 가설되다 ----- 1:1-ARG1(THM) 4:2-ARGM-LOC(LOC) 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_5496.txt 15 남다 ----- 11:3-ARGM-DIS() 12:1-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel

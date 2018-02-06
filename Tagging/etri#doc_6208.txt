@@ -1,0 +1,4 @@
+etri#doc_6208.txt 4 달하다 ----- 3:2-ARG2(GOL) 4:0-rel
+etri#doc_6208.txt 6 제기하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_6208.txt 8 비치다 ----- 7:6-ARG1(THM) 8:0-rel
+etri#doc_6208.txt 11 취하하다 ----- 1:1-ARG0(AGT) 9:8-ARGM-ADV(EFF) 10:1-ARG1(THM) 11:0-rel

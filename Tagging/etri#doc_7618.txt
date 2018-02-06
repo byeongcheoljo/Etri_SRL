@@ -1,0 +1,7 @@
+etri#doc_7618.txt 4 돌리다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_7618.txt 5 매다 ----- 1:1-ARG0(AGT) 4:2-ARGM-MNR() 5:0-rel
+etri#doc_7618.txt 9 돌리다 ----- 7:2-ARGM-DIS() 8:1-ARGM-EXT(CRT) 9:0-rel
+etri#doc_7618.txt 12 돌리다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_7618.txt 15 남다 ----- 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_7618.txt 16 매다 ----- 12:2-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel
+etri#doc_7618.txt 18 되다 ----- 5:3-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-DIS() 17:4-ARG2(FNS) 18:0-rel

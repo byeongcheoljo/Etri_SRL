@@ -1,0 +1,7 @@
+etri#doc_5191.txt 2 나타나다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_5191.txt 5 사라지다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5191.txt 10 뿌리다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5191.txt 12 지르다 ----- 10:2-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5191.txt 14 터뜨리다 ----- 6:1-ARGM-LOC(LOC) 8:2-ARGM-LOC(LOC) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_5191.txt 18 사라지다 ----- 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_5191.txt 19 확인하다 ----- 5:2-ARGM-CAU() 14:2-ARGM-MNR() 18:2-ARG1() 19:0-rel

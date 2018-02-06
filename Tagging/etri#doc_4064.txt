@@ -1,0 +1,6 @@
+etri#doc_4064.txt 5 빈둥거리다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4064.txt 9 나오다 ----- 7:2-ARG0(THM) 8:1-ARGM-LOC() 9:0-rel
+etri#doc_4064.txt 10 모르다 ----- 5:2-ARGM-DIS() 9:2-ARGM-ADV() 10:0-rel
+etri#doc_4064.txt 14 전하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_4064.txt 18 조절하다 ----- 17:1-ARGM-EXT() 18:0-rel
+etri#doc_4064.txt 19 쓰다 ----- 14:4-ARGM-DIS() 15:1-ARG0() 16:1-ARG1(THM) 18:2-ARGM-MNR() 19:0-rel

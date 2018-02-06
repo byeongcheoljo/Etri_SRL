@@ -1,0 +1,6 @@
+etri#doc_6070.txt 2 하다 ----- 2:0-rel
+etri#doc_6070.txt 3 하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 3:0-rel
+etri#doc_6070.txt 6 생각하다 ----- 5:2-ARG1(CNT) 6:0-rel
+etri#doc_6070.txt 9 뽑히다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_6070.txt 13 잡다 ----- 11:1-ARGM-EXT() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6070.txt 15 하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-TMP() 10:3-ARGM-MNR(INS) 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel

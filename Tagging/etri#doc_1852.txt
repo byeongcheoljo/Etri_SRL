@@ -1,0 +1,5 @@
+etri#doc_1852.txt 4 표방하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_1852.txt 7 주다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1852.txt 9 주다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARG2(THM) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1852.txt 14 위하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1852.txt 16 무마하다 ----- 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

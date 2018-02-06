@@ -1,0 +1,6 @@
+etri#doc_6531.txt 4 계속하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6531.txt 5 죽다 ----- 5:0-rel
+etri#doc_6531.txt 8 떠나다 ----- 6:2-ARGM-TMP() 7:1-ARG2(THM) 8:0-rel
+etri#doc_6531.txt 13 태어나다 ----- 2:2-ARG1(THM) 4:2-ARGM-DIS() 8:2-ARGM-DIS() 11:3-ARGM-MNR(INS) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_6531.txt 19 이르다 ----- 18:2-ARG3(FNS) 19:0-rel
+etri#doc_6531.txt 20 계속되다 ----- 13:2-ARGM-DIS() 16:2-ARG1(THM) 19:3-ARGM-TMP() 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4768.txt 8 넣다 ----- 6:5-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4768.txt 9 담다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_4768.txt 18 가미하다 ----- 9:3-ARGM-DIS() 13:4-ARG1(THM) 15:2-ARG1() 16:1-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

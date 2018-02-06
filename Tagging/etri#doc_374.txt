@@ -1,0 +1,2 @@
+etri#doc_374.txt 10 주다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR(INS) 9:2-ARG1(THM) 10:0-rel
+etri#doc_374.txt 18 하다 ----- 15:2-ARGM-ADV(GOL) 17:2-ARG1(THM) 18:0-rel

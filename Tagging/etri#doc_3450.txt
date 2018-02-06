@@ -1,0 +1,3 @@
+etri#doc_3450.txt 4 허용되다 ----- 2:1-ARGM-TMP() 3:1-ARG2(GOL) 4:0-rel
+etri#doc_3450.txt 8 설치하다 ----- 6:2-ARG1(THM) 7:1-ARG2(LOC) 8:0-rel
+etri#doc_3450.txt 11 완화하다 ----- 1:1-ARGM-DIS() 8:2-ARGM-PRP() 10:2-ARG1(THM) 11:0-rel

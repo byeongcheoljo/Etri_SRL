@@ -1,0 +1,5 @@
+etri#doc_7640.txt 6 방문하다 ----- 4:1-ARGM-MNR() 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_7640.txt 8 만나다 ----- 7:1-ARG1(COM) 8:0-rel
+etri#doc_7640.txt 12 논의하다 ----- 3:2-ARGM-DIS() 6:2-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7640.txt 13 선언하다 ----- 1:1-ARG0(AGT) 12:2-ARGM-MNR(INS) 13:0-rel
+etri#doc_7640.txt 18 확인하다 ----- 13:3-ARGM-MNR() 16:2-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel

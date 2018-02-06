@@ -1,0 +1,2 @@
+etri#doc_1053.txt 9 인정하다 ----- 4:1-ARGM-MNR() 8:4-ARG1(THM) 9:0-rel
+etri#doc_1053.txt 16 보이다 ----- 3:2-ARG0() 9:5-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel

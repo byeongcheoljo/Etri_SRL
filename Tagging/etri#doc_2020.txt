@@ -1,0 +1,3 @@
+etri#doc_2020.txt 6 실현하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_2020.txt 10 이행하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 6:3-ARGM-LOC() 8:2-ARGM-MNR(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2020.txt 11 예기하다 ----- 11:0-rel

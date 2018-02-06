@@ -1,0 +1,2 @@
+etri#doc_5983.txt 2 결정하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5983.txt 13 하다 ----- 12:2-ARG1(THM) 13:0-rel

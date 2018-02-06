@@ -1,0 +1,6 @@
+etri#doc_8765.txt 2 칭찬하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_8765.txt 7 이간질하다 ----- 6:2-ARGM-PRD(INS) 7:0-rel
+etri#doc_8765.txt 9 나타나다 ----- 2:2-ARGM-CND() 4:2-ARG2(LOC) 8:4-ARG1(THM) 9:0-rel
+etri#doc_8765.txt 11 되다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8765.txt 18 막다 ----- 16:3-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel
+etri#doc_8765.txt 20 되다 ----- 9:5-ARGM-DIS() 11:2-ARGM-CND() 19:3-ARG2(FNS) 20:0-rel

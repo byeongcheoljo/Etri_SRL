@@ -1,0 +1,4 @@
+etri#doc_889.txt 4 ÇÏ´Ù ----- 3:2-ARGM-TMP(CRT) 4:0-rel
+etri#doc_889.txt 10 ¹þ¾î³ª´Ù ----- 6:2-ARG0(AGT) 7:1-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_889.txt 11 Å¸´Ù ----- 11:0-rel
+etri#doc_889.txt 14 ¸Ô´Ù ----- 11:1-ARGM-PRP() 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel

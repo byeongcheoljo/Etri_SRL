@@ -1,0 +1,4 @@
+etri#doc_428.txt 4 ¼­´Ù ----- 3:2-ARG1(LOC) 4:0-rel
+etri#doc_428.txt 7 ¿«´Ù ----- 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_428.txt 10 °­Á¶ÇÏ´Ù ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_428.txt 16 ²Å´Ù ----- 1:1-ARGM-DIS() 10:6-ARGM-CND() 12:2-ARGM-PRP(PUR) 14:2-ARG1(THM) 15:1-ARG2(FNS) 16:0-rel

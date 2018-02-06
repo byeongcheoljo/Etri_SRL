@@ -1,0 +1,4 @@
+etri#doc_9260.txt 3 걸리다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9260.txt 5 자극하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_9260.txt 7 따르다 ----- 6:1-ARG2(THM) 7:0-rel
+etri#doc_9260.txt 15 나타나다 ----- 3:3-ARGM-CND() 5:2-ARGM-DIS() 7:2-ARGM-MNR() 14:7-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_149.txt 2 터지다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_149.txt 12 긴장하다 ----- 11:1-ARGM-EXT() 12:0-rel

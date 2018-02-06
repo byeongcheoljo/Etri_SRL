@@ -1,0 +1,6 @@
+etri#doc_359.txt 7 배우다 ----- 7:0-rel
+etri#doc_359.txt 8 익히다 ----- 4:2-ARGM-INS(INS) 6:2-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_359.txt 9 타고나다 ----- 9:0-rel
+etri#doc_359.txt 12 무시하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_359.txt 17 삼다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel
+etri#doc_359.txt 22 기르다 ----- 8:2-ARGM-DIS() 17:3-ARGM-CND() 21:2-ARG1(THM) 22:0-rel

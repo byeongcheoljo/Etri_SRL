@@ -1,0 +1,6 @@
+etri#doc_11482.txt 3 말미암다 ----- 2:2-ARGM-INS(INS) 3:0-rel
+etri#doc_11482.txt 11 가리다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11482.txt 12 응용하다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_11482.txt 14 갖추다 ----- 6:2-ARG0(AGT) 8:2-ARGM-LOC(LOC) 13:5-ARG1(THM) 14:0-rel
+etri#doc_11482.txt 17 되다 ----- 3:3-ARGM-DIS() 14:6-ARGM-LOC(LOC) 15:1-ARGM-EXT() 16:1-ARG2(FNS) 17:0-rel
+etri#doc_11482.txt 18 바라다 ----- 17:2-ARG1(THM) 18:0-rel

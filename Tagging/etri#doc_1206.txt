@@ -1,0 +1,1 @@
+etri#doc_1206.txt 3 확대되다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(GOL) 3:0-rel

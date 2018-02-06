@@ -1,0 +1,4 @@
+etri#doc_2374.txt 5 사다 ----- 2:1-ARGM-EXT() 4:2-ARG1(THM) 5:0-rel
+etri#doc_2374.txt 9 갈라지다 ----- 6:1-() 7:1-() 8:1-() 9:0-rel
+etri#doc_2374.txt 11 되다 ----- 5:3-ARGM-CND() 9:2-ARGM-DIS() 10:1-ARG3() 11:0-rel
+etri#doc_2374.txt 14 공경하다 ----- 13:1-() 14:0-rel

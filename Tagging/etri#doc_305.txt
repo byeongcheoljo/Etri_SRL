@@ -1,0 +1,4 @@
+etri#doc_305.txt 4 가다 ----- 3:1-ARG3(Npr) 4:0-rel
+etri#doc_305.txt 9 가다 ----- 8:1-ARG3(DIR) 9:0-rel
+etri#doc_305.txt 13 풀다 ----- 9:2-ARGM-CND() 10:1-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel
+etri#doc_305.txt 17 포함시키다 ----- 7:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7836.txt 6 창간되다 ----- 5:2-ARGM-TMP(LOC) 6:0-rel
+etri#doc_7836.txt 8 넘다 ----- 7:1-ARG2(CRT) 8:0-rel
+etri#doc_7836.txt 15 얻다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_7836.txt 17 구상되다 ----- 16:1-ARGM-LOC(LOC) 17:0-rel

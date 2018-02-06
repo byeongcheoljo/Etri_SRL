@@ -1,0 +1,4 @@
+etri#doc_3830.txt 2 인상되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3830.txt 6 생기다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_3830.txt 12 주다 ----- 6:2-ARGM-CAU() 7:1-ARG2(GOL) 11:2-ARG1(THM) 12:0-rel
+etri#doc_3830.txt 16 밝히다 ----- 15:2-ARG1() 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5016.txt 5 당하다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG3(EFF) 4:1-ARG2(Npr) 5:0-rel
+etri#doc_5016.txt 9 앉히다 ----- 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5016.txt 11 시키다 ----- 6:3-ARG2(THM) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5016.txt 15 갖다 ----- 12:1-ARGM-ADV() 14:2-ARG1(THM) 15:0-rel
+etri#doc_5016.txt 17 느끼다 ----- 11:2-ARGM-CND() 15:3-ARG1() 16:1-ARG0(EXP) 17:0-rel

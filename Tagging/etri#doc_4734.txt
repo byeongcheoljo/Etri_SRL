@@ -1,0 +1,4 @@
+etri#doc_4734.txt 4 나타나다 ----- 2:1-ARG2(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4734.txt 5 보다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_4734.txt 13 갖다 ----- 5:3-ARGM-DIS() 6:1-ARGM-EXT() 9:3-ARG0(AGT) 10:1-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4734.txt 14 생각하다 ----- 1:1-ARG0(MAG) 13:3-ARG1() 14:0-rel

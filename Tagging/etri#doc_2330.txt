@@ -1,0 +1,5 @@
+etri#doc_2330.txt 2 짓다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2330.txt 5 단련하다 ----- 4:1-() 5:0-rel
+etri#doc_2330.txt 9 얻다 ----- 6:1-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_2330.txt 12 쓰다 ----- 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:0-rel
+etri#doc_2330.txt 13 이룩하다 ----- 3:3-() 5:2-() 9:3-() 12:2-() 13:0-rel

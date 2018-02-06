@@ -1,0 +1,4 @@
+etri#doc_5693.txt 2 참석하다 ----- 1:1-ARG1(LOC) 2:0-rel
+etri#doc_5693.txt 8 열리다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_5693.txt 10 참석하다 ----- 9:4-ARG1(LOC) 10:0-rel
+etri#doc_5693.txt 12 집전하다 ----- 3:3-ARG0(AGT) 5:2-ARGM-TMP() 10:5-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

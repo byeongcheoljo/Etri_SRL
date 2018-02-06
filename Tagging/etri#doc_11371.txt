@@ -1,0 +1,7 @@
+etri#doc_11371.txt 2 ³ª´Ù ----- 1:1-ARG1(Npr) 2:0-rel
+etri#doc_11371.txt 8 ¶§¸®´Ù ----- 8:0-rel
+etri#doc_11371.txt 9 ¸Á°¡¶ß¸®´Ù ----- 3:3-ARG0(AGT) 6:3-ARG1(THM) 7:1-ARGM-INS(INS) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_11371.txt 12 µè´Ù ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11371.txt 14 ³î¶ó´Ù ----- 14:0-rel
+etri#doc_11371.txt 15 ¸öÁ®´¯´Ù ----- 15:0-rel
+etri#doc_11371.txt 17 Á×´Ù ----- 9:2-ARGM-DIS() 13:4-ARG1(THM) 14:1-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARGM-DIS() 17:0-rel

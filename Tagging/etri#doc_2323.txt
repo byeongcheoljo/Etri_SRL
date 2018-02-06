@@ -1,0 +1,4 @@
+etri#doc_2323.txt 7 옮기다 ----- 6:4-() 7:0-rel
+etri#doc_2323.txt 9 하다 ----- 1:1-ARG0(AGT) 7:5-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_2323.txt 15 찾아가다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_2323.txt 17 하다 ----- 9:2-ARGM-DIS() 10:1-ARG0() 11:1-ARGM-EXT() 12:1-ARGM-ADV(EFF) 13:1-ARGM-ADV(EFF) 15:2-ARGM-ADV() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_5953.txt 4 달래다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:0-rel
+etri#doc_5953.txt 13 모으다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5953.txt 15 터뜨리다 ----- 4:3-ARGM-DIS() 5:1-ARG0(AGT) 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

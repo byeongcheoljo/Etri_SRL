@@ -1,0 +1,4 @@
+etri#doc_7158.txt 8 타락되다 ----- 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_7158.txt 11 지켜보다 ----- 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_7158.txt 16 이끌다 ----- 11:2-ARGM-DIS() 13:2-ARG1(THM) 15:2-ARG2(DIR) 16:0-rel
+etri#doc_7158.txt 18 말하다 ----- 1:1-ARGM-LOC(LOC) 6:5-ARG0(AGT) 17:4-ARG1(THM) 18:0-rel

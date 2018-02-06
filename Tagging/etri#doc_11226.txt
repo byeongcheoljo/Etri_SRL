@@ -1,0 +1,2 @@
+etri#doc_11226.txt 3 결정하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11226.txt 8 보관하다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 5:1-ARGM-MNR() 6:1-ARG2(LOC) 7:1-ARGM-EXT() 8:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6562.txt 2 실시되다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_6562.txt 7 앞서다 ----- 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_6562.txt 8 나타나다 ----- 3:3-ARG2(LOC) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_6562.txt 12 점치다 ----- 8:3-ARGM-DIS() 9:1-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel

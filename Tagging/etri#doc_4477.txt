@@ -1,0 +1,6 @@
+etri#doc_4477.txt 5 죽다 ----- 1:1-ARGM-TMP() 4:3-ARG1(THM) 5:0-rel
+etri#doc_4477.txt 6 동원되다 ----- 5:4-ARGM-TMP() 6:0-rel
+etri#doc_4477.txt 12 시작되다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4477.txt 17 쥐다 ----- 15:1-ARG2(LOC) 16:1-ARG1(THM) 17:0-rel
+etri#doc_4477.txt 19 주시하다 ----- 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel
+etri#doc_4477.txt 21 보내다 ----- 8:7-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARGM-TMP(LOC) 19:2-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

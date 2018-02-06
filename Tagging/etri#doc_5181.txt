@@ -1,0 +1,4 @@
+etri#doc_5181.txt 4 정리하다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR(FNS) 4:0-rel
+etri#doc_5181.txt 7 설명하다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5181.txt 10 읽다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_5181.txt 14 커지다 ----- 7:3-ARGM-DIS() 10:3-ARGM-CND() 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

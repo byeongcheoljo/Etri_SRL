@@ -1,0 +1,2 @@
+etri#doc_7233.txt 6 계시다 ----- 2:1-ARG0(AGT) 4:2-ARG2(LOC) 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_7233.txt 11 알다 ----- 1:1-ARGM-DIS() 6:2-ARGM-DIS() 9:2-ARG0(MAG) 10:1-ARG1(THM) 11:0-rel

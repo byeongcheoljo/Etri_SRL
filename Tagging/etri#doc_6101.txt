@@ -1,0 +1,7 @@
+etri#doc_6101.txt 3 타다 ----- 2:1-ARG1(LOC) 3:0-rel
+etri#doc_6101.txt 6 가다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:1-ARGM-MNR() 5:1-ARG3(GOL) 6:0-rel
+etri#doc_6101.txt 9 돌려보내다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6101.txt 11 뒤따라가다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6101.txt 15 말하다 ----- 11:2-ARG1(CNT) 12:1-ARG0(AGT) 13:1-ARGM-TMP() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_6101.txt 17 재촉하다 ----- 17:0-rel
+etri#doc_6101.txt 19 태우다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-DIS() 18:1-ARGM-LOC(LOC) 19:0-rel

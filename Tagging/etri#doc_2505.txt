@@ -1,0 +1,5 @@
+etri#doc_2505.txt 3 결심하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2505.txt 9 보이다 ----- 5:1-() 7:2-() 8:1-() 9:0-rel
+etri#doc_2505.txt 12 도모하다 ----- 9:2-ARGM-DIS() 11:2-ARG0(THM) 12:0-rel
+etri#doc_2505.txt 14 내리다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2505.txt 16 서두르다 ----- 4:4-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

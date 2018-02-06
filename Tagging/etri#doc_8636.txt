@@ -1,0 +1,4 @@
+etri#doc_8636.txt 2 종합하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8636.txt 10 예측하다 ----- 10:0-rel
+etri#doc_8636.txt 13 거듭되다 ----- 4:2-ARG1(THM) 12:3-ARG1(THM) 13:0-rel
+etri#doc_8636.txt 14 보이다 ----- 2:2-ARGM-TMP() 13:4-ARG1() 14:0-rel

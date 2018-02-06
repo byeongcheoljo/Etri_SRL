@@ -1,0 +1,5 @@
+etri#doc_11173.txt 10 입다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11173.txt 12 신다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11173.txt 14 내다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_11173.txt 15 하다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_11173.txt 16 참견하다 ----- 4:3-ARG1(LOC) 5:1-ARGM-TMP() 15:3-ARGM-DIS() 16:0-rel

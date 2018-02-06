@@ -1,0 +1,4 @@
+etri#doc_770.txt 6 즐기다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_770.txt 11 따지다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_770.txt 12 누리다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_770.txt 19 인식하다 ----- 13:5-ARG0(MAG) 14:1-ARG1(THM) 17:2-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

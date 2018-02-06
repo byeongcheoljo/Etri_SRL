@@ -1,0 +1,6 @@
+etri#doc_3628.txt 3 탈옥하다 ----- 2:2-ARGM-CAU(EFF) 3:0-rel
+etri#doc_3628.txt 6 떠돌다 ----- 5:1-ARG1(LOC) 6:0-rel
+etri#doc_3628.txt 8 누리다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3628.txt 11 휩쓸리다 ----- 8:2-ARGM-DIS() 10:2-ARG0(EFF) 11:0-rel
+etri#doc_3628.txt 13 포위되다 ----- 11:3-ARGM-DIS() 12:1-ARG0(AGT) 13:0-rel
+etri#doc_3628.txt 16 시도하다 ----- 4:4-ARG0(AGT) 13:2-ARGM-CAU() 14:1-ARGM-DIR(DIR) 15:1-ARG1(THM) 16:0-rel

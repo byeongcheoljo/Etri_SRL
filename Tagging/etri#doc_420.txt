@@ -1,0 +1,4 @@
+etri#doc_420.txt 4 높이다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_420.txt 10 되다 ----- 8:4-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_420.txt 13 유지되다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARG2(FNS) 13:0-rel
+etri#doc_420.txt 14 유도하다 ----- 1:1-ARGM-DIS() 4:3-ARGM-PRP() 13:2-ARG1() 14:0-rel

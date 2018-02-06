@@ -1,0 +1,4 @@
+etri#doc_521.txt 4 기울이다 ----- 2:1-ARG2(GOL) 3:1-(THM) 4:0-rel
+etri#doc_521.txt 6 음미하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_521.txt 7 하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_521.txt 11 견디다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel

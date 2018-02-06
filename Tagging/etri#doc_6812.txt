@@ -1,0 +1,7 @@
+etri#doc_6812.txt 3 참다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6812.txt 5 빼다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6812.txt 7 치다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6812.txt 8 말하다 ----- 3:2-ARGM-CAU() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_6812.txt 11 처형당하다 ----- 9:1-ARGM-DIS() 10:1-ARG0(AGT) 11:0-rel
+etri#doc_6812.txt 12 죽다 ----- 12:0-rel
+etri#doc_6812.txt 15 하다 ----- 1:1-ARG0(AGT) 8:3-ARGM-DIS() 14:3-ARG1(CNT) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11831.txt 4 설명하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_11831.txt 18 도달하다 ----- 4:2-ARGM-EXT() 10:4-ARG0(AGT) 13:3-ARGM-LOC(SRC) 17:2-ARG2(LOC) 18:0-rel

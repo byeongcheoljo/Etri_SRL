@@ -1,0 +1,3 @@
+etri#doc_5552.txt 9 태어나다 ----- 8:5-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5552.txt 11 자라다 ----- 9:6-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_5552.txt 17 말하다 ----- 3:3-ARG0(AGT) 11:2-ARGM-CAU() 16:2-ARG1(CNT) 17:0-rel

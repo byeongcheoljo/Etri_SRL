@@ -1,0 +1,3 @@
+etri#doc_3266.txt 11 고하다 ----- 9:4-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3266.txt 13 작성하다 ----- 4:4-ARGM-TMP() 12:3-ARG1(THM) 13:0-rel
+etri#doc_3266.txt 15 잡다 ----- 13:4-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

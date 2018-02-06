@@ -1,0 +1,2 @@
+etri#doc_5909.txt 9 소개하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5909.txt 12 보여주다 ----- 4:4-ARG0(EFF) 5:1-ARGM-LOC(LOC) 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel

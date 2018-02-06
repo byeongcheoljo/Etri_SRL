@@ -1,0 +1,4 @@
+etri#doc_8406.txt 6 느끼다 ----- 2:2-ARGM-DIS() 3:1-ARG0(EXP) 4:1-ARGM-MNR(COM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_8406.txt 8 실현하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8406.txt 10 빚어내다 ----- 9:3-ARG2(LOC) 10:0-rel
+etri#doc_8406.txt 16 기피하다 ----- 15:1-ARG0(AGT) 16:0-rel

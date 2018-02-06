@@ -1,0 +1,6 @@
+etri#doc_7441.txt 3 희망하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7441.txt 6 의거하다 ----- 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_7441.txt 8 얻다 ----- 1:1-ARGM-TMP() 4:3-ARG0(AGT) 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7441.txt 15 거치다 ----- 11:1-ARGM-MNR(COM) 14:3-ARG2(THM) 15:0-rel
+etri#doc_7441.txt 17 제출하다 ----- 10:2-ARGM-TMP() 15:4-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_7441.txt 20 얻다 ----- 8:2-ARGM-DIS() 17:2-ARGM-MNR() 19:2-ARG1(THM) 20:0-rel

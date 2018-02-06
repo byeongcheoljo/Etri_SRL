@@ -1,0 +1,4 @@
+etri#doc_4869.txt 7 촉진시키다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4869.txt 12 불식시키다 ----- 9:5-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_4869.txt 17 쟁취하다 ----- 15:3-ARG2(SRC) 16:1-ARG1(THM) 17:0-rel
+etri#doc_4869.txt 20 회복하다 ----- 12:3-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARG2(SRC) 19:1-ARG1(THM) 20:0-rel

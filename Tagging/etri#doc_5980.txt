@@ -1,0 +1,3 @@
+etri#doc_5980.txt 6 갖다 ----- 3:2-ARGM-LOC(LOC) 4:1-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5980.txt 8 알다 ----- 1:1-ARG1(THM) 7:3-ARG1(FNS) 8:0-rel
+etri#doc_5980.txt 15 발표하다 ----- 8:4-ARGM-DIS() 9:1-ARGM-LOC(LOC) 12:2-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

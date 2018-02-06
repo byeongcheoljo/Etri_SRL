@@ -1,0 +1,6 @@
+etri#doc_5129.txt 3 ±ú´Ù ----- 1:1-ARG1(THM) 2:1-ARG0(AGT) 3:0-rel
+etri#doc_5129.txt 6 ³»¸®´Ù ----- 4:3-ARG3(GOL) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5129.txt 9 ±ú¶ß¸®´Ù ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5129.txt 11 ¹Ù²î´Ù ----- 6:2-ARGM-DIS() 9:2-ARGM-CAU(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_5129.txt 13 ³ÑÄ¡´Ù ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5129.txt 16 ÇÏ´Ù ----- 11:2-ARGM-DIS() 14:3-ARGM-LOC(LOC) 15:1-ARG1(Npr) 16:0-rel

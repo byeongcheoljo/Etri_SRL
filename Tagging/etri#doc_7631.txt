@@ -1,0 +1,2 @@
+etri#doc_7631.txt 11 방해하다 ----- 6:1-ARGM-TMP() 10:4-ARG1(THM) 11:0-rel
+etri#doc_7631.txt 12 위협하다 ----- 5:1-ARG0(AGT) 11:5-ARGM-DIS() 12:0-rel

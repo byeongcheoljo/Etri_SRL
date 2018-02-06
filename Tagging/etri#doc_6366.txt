@@ -1,0 +1,3 @@
+etri#doc_6366.txt 3 이끌다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6366.txt 10 지니다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6366.txt 16 이루다 ----- 1:1-ARGM-MNR() 14:3-ARG0(AGT) 15:1-ARG1(THM) 16:0-rel

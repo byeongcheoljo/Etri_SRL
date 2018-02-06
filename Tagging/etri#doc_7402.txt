@@ -1,0 +1,4 @@
+etri#doc_7402.txt 9 꺼리다 ----- 8:2-ARG1(CRT) 9:0-rel
+etri#doc_7402.txt 12 유지하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7402.txt 14 안주하다 ----- 9:3-ARGM-DIS() 10:1-ARGM-LOC(LOC) 12:2-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_7402.txt 19 분석하다 ----- 1:1-ARG0(AGT) 5:4-ARG1(THM) 18:4-ARGM-DIS() 19:0-rel

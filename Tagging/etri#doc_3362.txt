@@ -1,0 +1,4 @@
+etri#doc_3362.txt 6 되다 ----- 5:3-ARGM-EXT() 6:0-rel
+etri#doc_3362.txt 16 기록되다 ----- 13:2-ARG1(THM) 15:2-ARGM-LOC(LOC) 16:0-rel
+etri#doc_3362.txt 17 여기다 ----- 16:3-ARGM-ADV() 17:0-rel
+etri#doc_3362.txt 19 믿다 ----- 1:1-ARG0(AGT) 8:6-ARGM-DIS() 18:5-ARGM-ADV() 19:0-rel

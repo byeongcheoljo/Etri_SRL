@@ -1,0 +1,6 @@
+etri#doc_3354.txt 6 생각되다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_3354.txt 8 행동하다 ----- 3:1-ARG0(AGT) 7:4-ARGM-MNR(INS) 8:0-rel
+etri#doc_3354.txt 10 발견하다 ----- 9:6-ARG1(THM) 10:0-rel
+etri#doc_3354.txt 13 모르다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3354.txt 16 계속하다 ----- 10:7-ARGM-DIS() 13:3-ARGM-ADV() 15:2-ARG1(THM) 16:0-rel
+etri#doc_3354.txt 18 느끼다 ----- 1:1-ARGM-DIS() 2:1-ARG0(EXP) 17:4-ARG1(THM) 18:0-rel

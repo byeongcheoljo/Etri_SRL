@@ -1,0 +1,4 @@
+etri#doc_8535.txt 4 방영하다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8535.txt 7 가려지다 ----- 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8535.txt 8 보이다 ----- 7:2-ARGM-MNR() 8:0-rel
+etri#doc_8535.txt 15 촬영되다 ----- 13:2-ARG1(THM) 14:1-ARGM-PRD(INS) 15:0-rel

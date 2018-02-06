@@ -1,0 +1,4 @@
+etri#doc_4515.txt 4 얻어내다 ----- 3:1-ARG2(SRC) 4:0-rel
+etri#doc_4515.txt 9 비비다 ----- 7:1-ARGM-INS(INS) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_4515.txt 11 하다 ----- 6:4-ARG1(THM) 9:2-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_4515.txt 17 진행시키다 ----- 2:2-ARGM-TMP() 11:2-ARGM-TMP() 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

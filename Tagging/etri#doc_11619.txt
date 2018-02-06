@@ -1,0 +1,5 @@
+etri#doc_11619.txt 3 연구하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11619.txt 6 일어나다 ----- 4:1-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11619.txt 9 파헤치다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_11619.txt 10 노력하다 ----- 3:3-ARGM-DIS() 9:3-ARG1() 10:0-rel
+etri#doc_11619.txt 17 입다 ----- 11:5-ARG0(AGT) 15:4-ARGM-CAU(EFF) 16:1-ARG1(THM) 17:0-rel

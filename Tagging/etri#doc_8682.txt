@@ -1,0 +1,3 @@
+etri#doc_8682.txt 6 대다 ----- 2:1-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8682.txt 10 방관하다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-CAU() 10:0-rel
+etri#doc_8682.txt 14 맡다 ----- 1:1-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARG0(AGT) 14:0-rel

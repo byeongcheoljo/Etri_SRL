@@ -1,0 +1,2 @@
+etri#doc_11423.txt 4 입각하다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_11423.txt 17 이해하다 ----- 7:6-ARGM-CAU(EFF) 16:3-ARG1(THM) 17:0-rel

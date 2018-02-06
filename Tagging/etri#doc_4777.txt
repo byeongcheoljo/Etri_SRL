@@ -1,0 +1,6 @@
+etri#doc_4777.txt 4 듣다 ----- 1:1-ARGM-MNR() 2:1-ARG1(THM) 3:1-ARG2(AGT) 4:0-rel
+etri#doc_4777.txt 5 담그다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_4777.txt 7 마시다 ----- 5:3-ARGM-DIS() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_4777.txt 10 없어지다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_4777.txt 12 되찾다 ----- 7:2-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_4777.txt 17 하다 ----- 12:2-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:1-ARGM-LOC(LOC) 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

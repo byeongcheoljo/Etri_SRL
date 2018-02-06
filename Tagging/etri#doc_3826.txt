@@ -1,0 +1,2 @@
+etri#doc_3826.txt 5 거론되다 ----- 2:2-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_3826.txt 14 말하다 ----- 13:3-ARG1() 14:0-rel

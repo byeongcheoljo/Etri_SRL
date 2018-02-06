@@ -1,0 +1,1 @@
+etri#doc_3443.txt 11 ´Ã¸®´Ù ----- 1:1-ARGM-DIS() 4:3-ARG0(AGT) 5:1-ARG1(THM) 7:2-ARGM-DIS(CNT) 8:1-ARGM-TMP(SRC) 9:1-ARGM-TMP() 10:1-ARG3(FNS) 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7437.txt 8 추진하다 ----- 1:1-ARG0(AGT) 5:3-ARGM-PRP(PUR) 7:2-ARG1(THM) 8:0-rel
+etri#doc_7437.txt 11 보다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3753.txt 8 찾다 ----- 3:1-ARGM-TMP() 5:2-ARGM-CAU(EFF) 7:2-ARG1(THM) 8:0-rel
+etri#doc_3753.txt 13 전망하다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARG0(AGT) 12:2-ARG1() 13:0-rel

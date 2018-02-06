@@ -1,0 +1,2 @@
+etri#doc_1358.txt 11 잠재되다 ----- 11:0-rel
+etri#doc_1358.txt 16 펼치다 ----- 2:2-ARGM-INS(INS) 3:1-ARG0(AGT) 4:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

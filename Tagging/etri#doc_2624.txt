@@ -1,0 +1,6 @@
+etri#doc_2624.txt 2 죽이다 ----- 1:1-() 2:0-rel
+etri#doc_2624.txt 4 죽이다 ----- 3:3-() 4:0-rel
+etri#doc_2624.txt 10 배상하다 ----- 4:4-() 8:3-() 9:1-() 10:0-rel
+etri#doc_2624.txt 11 도둑질하다 ----- 11:0-rel
+etri#doc_2624.txt 14 삼다 ----- 10:2-ARGM-DIS() 12:2-ARG0() 13:1-ARG2(EFF) 14:0-rel
+etri#doc_2624.txt 18 남다 ----- 16:2-ARG1(AGT) 17:1-ARGM-ADV(EFF) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4759.txt 4 판매되다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-TMP() 3:1-ARG2(GOL) 4:0-rel
+etri#doc_4759.txt 12 만들다 ----- 11:1-ARGM-INS(INS) 12:0-rel
+etri#doc_4759.txt 17 섞다 ----- 15:3-ARG1(GOL) 16:1-ARG1(THM) 17:0-rel
+etri#doc_4759.txt 18 희석시키다 ----- 17:2-ARGM-DIS() 18:0-rel

@@ -1,0 +1,8 @@
+etri#doc_6276.txt 3 흐르다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6276.txt 5 가누다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6276.txt 6 기다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_6276.txt 8 붙잡다 ----- 8:0-rel
+etri#doc_6276.txt 9 일어서다 ----- 7:4-ARGM-DIS() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_6276.txt 12 띄다 ----- 3:2-ARGM-ADV() 9:2-ARGM-DIS() 10:1-ARGM-EXT() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6276.txt 14 가다 ----- 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_6276.txt 15 걷다 ----- 1:1-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel

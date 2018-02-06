@@ -1,0 +1,5 @@
+etri#doc_6697.txt 2 지나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6697.txt 4 죽다 ----- 4:0-rel
+etri#doc_6697.txt 11 잡히다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_6697.txt 12 들리다 ----- 5:2-ARGM-DIS() 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:0-rel
+etri#doc_6697.txt 18 젖다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:1-ARG1(EFF) 17:1-ARGM-MNR() 18:0-rel

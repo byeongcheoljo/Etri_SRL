@@ -1,0 +1,1 @@
+etri#doc_901.txt 19 놓아주다 ----- 6:2-ARGM-CND() 7:1-ARG0(AGT) 8:1-ARGM-TMP(CRT) 9:1-ARGM-TMP(CRT) 17:2-ARG1(THM) 18:1-ARGM-LOC(LOC) 19:0-rel

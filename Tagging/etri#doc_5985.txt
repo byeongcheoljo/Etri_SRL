@@ -1,0 +1,3 @@
+etri#doc_5985.txt 2 실시하다 ----- 1:1-ARGM-DIS(EFF) 2:0-rel
+etri#doc_5985.txt 10 참석하다 ----- 9:6-ARG0(AGT) 10:0-rel
+etri#doc_5985.txt 14 진행되다 ----- 3:3-ARG1(THM) 10:7-ARGM-DIS() 13:3-ARGM-MNR(INS) 14:0-rel

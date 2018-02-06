@@ -1,0 +1,3 @@
+etri#doc_11094.txt 5 입각하다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_11094.txt 9 여행하다 ----- 6:1-ARGM-TMP(LOC) 8:2-ARG1(LOC) 9:0-rel
+etri#doc_11094.txt 13 표현하다 ----- 3:3-ARG0(AGT) 5:2-ARGM-DIS() 11:5-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

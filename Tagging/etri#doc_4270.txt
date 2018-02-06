@@ -1,0 +1,2 @@
+etri#doc_4270.txt 5 의미하다 ----- 4:2-ARG1(EFF) 5:0-rel
+etri#doc_4270.txt 14 설명하다 ----- 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,1 @@
+etri#doc_7811.txt 3 일어나다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-LOC(LOC) 3:0-rel

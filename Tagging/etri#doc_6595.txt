@@ -1,0 +1,4 @@
+etri#doc_6595.txt 6 시작되다 ----- 4:1-ARG0(AGT) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6595.txt 7 예언하다 ----- 3:2-ARGM-LOC(LOC) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_6595.txt 12 알려지다 ----- 12:0-rel
+etri#doc_6595.txt 14 깨어지다 ----- 10:2-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel

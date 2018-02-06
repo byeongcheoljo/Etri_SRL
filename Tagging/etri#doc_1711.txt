@@ -1,0 +1,5 @@
+etri#doc_1711.txt 4 건설하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1711.txt 6 이룩하다 ----- 6:0-rel
+etri#doc_1711.txt 13 그리다 ----- 11:1-ARGM-TMP() 12:1-ARG2(LOC) 13:0-rel
+etri#doc_1711.txt 15 옮기다 ----- 13:2-ARGM-DIS() 14:1-ARG2(LOC) 15:0-rel
+etri#doc_1711.txt 18 알리다 ----- 5:4-ARGA(THM) 10:5-ARGM-DIS() 15:2-ARGM-PRD(EFF) 16:1-ARG2(GOL) 17:1-ARGM-MNR() 18:0-rel

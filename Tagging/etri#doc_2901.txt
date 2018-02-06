@@ -1,0 +1,6 @@
+etri#doc_2901.txt 5 미끄러지다 ----- 4:3-ARG2(LOC) 5:0-rel
+etri#doc_2901.txt 8 차다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_2901.txt 9 날다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_2901.txt 12 받다 ----- 11:5-ARG1(THM) 12:0-rel
+etri#doc_2901.txt 16 사로잡히다 ----- 15:2-ARG0(EFF) 16:0-rel
+etri#doc_2901.txt 18 빠지다 ----- 1:1-ARG0(AGT) 12:6-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARG2(SRC) 18:0-rel

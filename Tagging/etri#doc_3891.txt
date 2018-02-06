@@ -1,0 +1,3 @@
+etri#doc_3891.txt 7 맺다 ----- 3:2-ARG0(AGT) 4:1-ARG2(COM) 5:1-ARGM-EXT() 6:1-ARG1(THM) 7:0-rel
+etri#doc_3891.txt 12 단축되다 ----- 9:2-ARGM-CAU(EFF) 11:2-ARG1(THM) 12:0-rel
+etri#doc_3891.txt 17 맞다 ----- 1:1-ARGM-DIS() 7:2-ARGM-DIS() 12:3-ARGM-CAU() 13:1-ARGM-MNR(INS) 16:3-ARG2(THM) 17:0-rel

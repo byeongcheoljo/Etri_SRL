@@ -1,0 +1,2 @@
+etri#doc_885.txt 15 Âö´Ù ----- 14:1-ARG1() 15:0-rel
+etri#doc_885.txt 16 ÈÖµÎ¸£´Ù ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR() 9:3-ARGM-INS(INS) 12:3-ARGM-MNR() 13:1-ARGM-MNR() 15:2-ARGM-ADV() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9896.txt 5 성숙하다 ----- 1:1-ARGM-INS(INS) 2:1-ARG1(THM) 3:1-ARGM-TMP() 4:1-ARGM-DIS() 5:0-rel
+etri#doc_9896.txt 8 주다 ----- 6:1-ARG2(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_9896.txt 11 알다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_9896.txt 13 이해하다 ----- 5:2-ARGM-DIS() 8:2-ARGM-DIS() 9:1-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4368.txt 5 한정되다 ----- 4:3-ARG2(LOC) 5:0-rel
+etri#doc_4368.txt 11 개발하다 ----- 6:1-() 9:2-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4368.txt 13 생기다 ----- 11:2-ARGM-TMP() 12:1-ARGM-MNR(INS) 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_438.txt 9 기도하다 ----- 5:2-ARG1(THM) 6:1-ARG0(AGT) 8:2-ARGM-TMP(SRC) 9:0-rel
+etri#doc_438.txt 12 오다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_438.txt 15 심화되다 ----- 9:3-ARGM-DIS() 10:1-ARGM-DIS() 12:2-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel
+etri#doc_438.txt 16 알다 ----- 15:3-ARG1() 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6857.txt 5 ÇÏ´Ù ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6857.txt 9 ´Ã¾îÁö´Ù ----- 5:2-ARGM-DIS() 6:1-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_6857.txt 10 ¶¦´Ù ----- 10:0-rel
+etri#doc_6857.txt 13 ´ê´Ù ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_6857.txt 15 º¸´Ù ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

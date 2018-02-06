@@ -1,0 +1,2 @@
+etri#doc_11840.txt 5 이르다 ----- 4:4-ARG3(FNS) 5:0-rel
+etri#doc_11840.txt 9 당하다 ----- 5:5-ARGM-TMP(GOL) 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:1-ARG1(AGT) 9:0-rel

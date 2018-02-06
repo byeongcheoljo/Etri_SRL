@@ -1,0 +1,2 @@
+etri#doc_9149.txt 6 ª©¥Ÿ ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_9149.txt 19 ªÏ««¥Ÿ ----- 6:3-ARGM-DIS() 9:3-ARGM-ADV(EFF) 17:3-ARG1() 18:1-ARGM-TMP() 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3921.txt 7 이루어지다 ----- 5:2-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_3921.txt 15 섞이다 ----- 14:1-ARG1() 15:0-rel
+etri#doc_3921.txt 17 하다 ----- 3:2-ARG0(AGT) 13:2-ARG1(CNT) 16:3-ARG1(THM) 17:0-rel

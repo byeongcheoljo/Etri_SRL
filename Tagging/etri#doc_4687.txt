@@ -1,0 +1,3 @@
+etri#doc_4687.txt 6 쏟아지다 ----- 4:3-ARGM-TMP() 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_4687.txt 16 진행되다 ----- 13:1-ARG1(THM) 15:2-ARGM-MNR(INS) 16:0-rel
+etri#doc_4687.txt 17 보여주다 ----- 12:2-ARG0(EFF) 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11716.txt 7 만들다 ----- 4:1-ARG1(THM) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_11716.txt 9 생겨나다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT(CRT) 8:4-ARGM-MNR(INS) 9:0-rel
+etri#doc_11716.txt 16 만들다 ----- 15:2-ARG1() 16:0-rel

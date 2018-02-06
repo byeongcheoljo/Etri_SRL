@@ -1,0 +1,2 @@
+etri#doc_2212.txt 15 받아들이다 ----- 14:1-ARGM-MNR() 15:0-rel
+etri#doc_2212.txt 18 마련하다 ----- 11:4-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARG1(THM) 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

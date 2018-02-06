@@ -1,0 +1,5 @@
+etri#doc_7365.txt 5 매달리다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 4:1-ARG2(GOL) 5:0-rel
+etri#doc_7365.txt 8 뛰어들다 ----- 7:2-ARG2(SRC) 8:0-rel
+etri#doc_7365.txt 10 뒤집다 ----- 8:3-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_7365.txt 13 하다 ----- 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_7365.txt 20 이끌다 ----- 5:2-ARGM-DIS() 14:3-ARG0(AGT) 15:1-ARG1(THM) 16:1-ARGM-TMP() 19:2-ARG2(DIR) 20:0-rel

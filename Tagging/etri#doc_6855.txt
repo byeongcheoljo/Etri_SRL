@@ -1,0 +1,6 @@
+etri#doc_6855.txt 2 당선되다 ----- 1:1-ARG2(FNS) 2:0-rel
+etri#doc_6855.txt 5 남다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_6855.txt 9 꽃피우다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6855.txt 12 되다 ----- 11:2-ARG2(FNS) 12:0-rel
+etri#doc_6855.txt 14 당선되다 ----- 13:1-ARG2(FNS) 14:0-rel
+etri#doc_6855.txt 20 명심하다 ----- 19:3-ARG1(THM) 20:0-rel

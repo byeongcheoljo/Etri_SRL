@@ -1,0 +1,6 @@
+etri#doc_1136.txt 4 지휘하다 ----- 3:1-ARGM-PRD() 4:0-rel
+etri#doc_1136.txt 5 따라가다 ----- 4:2-ARGM-MNR() 5:0-rel
+etri#doc_1136.txt 8 탈피하다 ----- 7:2-ARGM-LOC(FNS) 8:0-rel
+etri#doc_1136.txt 9 열리다 ----- 9:0-rel
+etri#doc_1136.txt 13 지원하다 ----- 8:3-ARGM-MNR() 10:2-ARGM-INS(INS) 12:2-ARG1(THM) 13:0-rel
+etri#doc_1136.txt 14 탈바꿈하다 ----- 2:2-ARGM-LOC(LOC) 13:3-ARGM-DIS() 14:0-rel

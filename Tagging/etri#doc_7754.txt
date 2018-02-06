@@ -1,0 +1,1 @@
+etri#doc_7754.txt 13 반성하다 ----- 7:2-ARG1(THM) 11:4-ARGM-MNR(INS) 12:1-ARGM-MNR() 13:0-rel

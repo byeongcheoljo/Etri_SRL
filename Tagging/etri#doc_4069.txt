@@ -1,0 +1,6 @@
+etri#doc_4069.txt 4 갚다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4069.txt 5 동분서주하다 ----- 2:2-ARGM-DIS() 4:2-ARGM-PRP() 5:0-rel
+etri#doc_4069.txt 7 보다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_4069.txt 9 살다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4069.txt 16 고생하다 ----- 14:2-ARG1() 15:1-ARGM-EXT() 16:0-rel
+etri#doc_4069.txt 17 말하다 ----- 7:5-ARGM-CAU() 10:3-ARG0(AGT) 12:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8062.txt 7 입다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARGM-TMP() 5:1-ARGM-TMP() 6:1-ARG1(Npr) 7:0-rel
+etri#doc_8062.txt 14 입다 ----- 8:3-ARG0(GOL) 9:1-ARGM-LOC(LOC) 11:2-ARGM-CAU(EFF) 13:2-ARG1(Npr) 14:0-rel

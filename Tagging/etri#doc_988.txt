@@ -1,0 +1,2 @@
+etri#doc_988.txt 20 부여하다 ----- 12:3-ARGM-CND() 13:1-ARG2(GOL) 19:3-ARG1(THM) 20:0-rel
+etri#doc_988.txt 23 띠다 ----- 22:1-ARG1(THM) 23:0-rel

@@ -1,0 +1,5 @@
+etri#doc_94.txt 4 차지하다 ----- 2:2-ARGM-EXT() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_94.txt 7 하다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR(COM) 7:0-rel
+etri#doc_94.txt 13 달하다 ----- 9:1-ARGM-TMP() 11:2-ARG1(THM) 12:1-ARGM-EXT(GOL) 13:0-rel
+etri#doc_94.txt 16 넘어서다 ----- 13:2-ARGM-DIS() 14:1-ARGM-TMP(SRC) 15:1-ARGM-EXT(THM) 16:0-rel
+etri#doc_94.txt 17 나타나다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR(INS) 16:2-ARGM-CND(GOL) 17:0-rel

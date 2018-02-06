@@ -1,0 +1,4 @@
+etri#doc_7014.txt 3 알다 ----- 3:0-rel
+etri#doc_7014.txt 10 논술하다 ----- 2:1-ARG0(AGT) 5:3-ARG1(THM) 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_7014.txt 13 소개하다 ----- 10:3-ARGM-DIS() 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_7014.txt 18 연구하다 ----- 1:1-ARGM-LOC(LOC) 13:2-ARGM-DIS() 14:1-ARG0(AGT) 16:2-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel

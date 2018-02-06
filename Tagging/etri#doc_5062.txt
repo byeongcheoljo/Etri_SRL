@@ -1,0 +1,5 @@
+etri#doc_5062.txt 5 배우다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5062.txt 7 알다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5062.txt 9 적응하다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_5062.txt 11 개발하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_5062.txt 16 밝히다 ----- 2:2-ARG0(AGT) 7:2-ARGM-DIS() 11:4-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3300.txt 4 믿다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_3300.txt 6 되다 ----- 2:1-ARG1(THM) 5:3-ARG2(FNS) 6:0-rel
+etri#doc_3300.txt 8 안심하다 ----- 8:0-rel
+etri#doc_3300.txt 10 발전하다 ----- 1:1-ARGM-DIS() 6:4-ARGM-DIS() 7:1-ARG1(THM) 9:2-ARG2(FNS) 10:0-rel

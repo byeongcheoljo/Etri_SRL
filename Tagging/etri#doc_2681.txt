@@ -1,0 +1,2 @@
+etri#doc_2681.txt 10 극복하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2681.txt 13 보다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

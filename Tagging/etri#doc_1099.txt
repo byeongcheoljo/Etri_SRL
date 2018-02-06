@@ -1,0 +1,2 @@
+etri#doc_1099.txt 10 따지다 ----- 6:3-ARGM-DIS() 9:3-ARGM-DIS() 10:0-rel
+etri#doc_1099.txt 15 되다 ----- 10:4-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

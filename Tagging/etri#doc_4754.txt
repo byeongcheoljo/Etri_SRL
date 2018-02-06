@@ -1,0 +1,4 @@
+etri#doc_4754.txt 7 들리다 ----- 3:2-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_4754.txt 11 부르다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4754.txt 14 부정하다 ----- 12:4-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4754.txt 16 없어지다 ----- 8:4-ARGM-TMP() 15:3-ARG1(THM) 16:0-rel

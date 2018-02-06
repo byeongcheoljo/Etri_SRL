@@ -1,0 +1,6 @@
+etri#doc_4090.txt 9 생각하다 ----- 4:2-ARGM-DIS() 7:2-ARGM-TMP(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_4090.txt 13 상기하다 ----- 11:2-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4090.txt 17 막다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_4090.txt 18 마시다 ----- 15:1-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel
+etri#doc_4090.txt 20 생각하다 ----- 19:4-ARG1(THM) 20:0-rel
+etri#doc_4090.txt 21 마시다 ----- 9:2-ARGM-ADV() 13:2-ARGM-DIS() 20:5-ARGM-DIS() 21:0-rel

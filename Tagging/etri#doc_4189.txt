@@ -1,0 +1,4 @@
+etri#doc_4189.txt 3 마련하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4189.txt 10 인상하다 ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_4189.txt 12 개선하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4189.txt 16 늘이다 ----- 4:3-ARGM-ADV(EFF) 10:6-ARGM-PRP() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARG2(SRC) 15:1-ARG3(GOL) 16:0-rel

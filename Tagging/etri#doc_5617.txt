@@ -1,0 +1,4 @@
+etri#doc_5617.txt 5 확정되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5617.txt 8 보이다 ----- 2:2-ARGM-CAU(EFF) 5:3-ARGM-TMP() 7:2-ARG1(THM) 8:0-rel
+etri#doc_5617.txt 11 확정되다 ----- 9:1-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5617.txt 13 드러내다 ----- 8:3-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

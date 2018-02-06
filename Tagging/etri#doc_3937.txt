@@ -1,0 +1,7 @@
+etri#doc_3937.txt 2 낮아지다 ----- 1:1-ARGM-EXT(CRT) 2:0-rel
+etri#doc_3937.txt 4 지지하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3937.txt 7 늘다 ----- 2:2-ARGM-CND() 6:4-ARG1(THM) 7:0-rel
+etri#doc_3937.txt 9 높아지다 ----- 8:1-ARGM-EXT(CRT) 9:0-rel
+etri#doc_3937.txt 11 추구하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3937.txt 13 늘다 ----- 7:5-ARGM-DIS() 9:2-ARGM-CND() 12:3-ARG1(THM) 13:0-rel
+etri#doc_3937.txt 14 분석하다 ----- 13:4-ARGM-MNR() 14:0-rel

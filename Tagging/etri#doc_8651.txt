@@ -1,0 +1,2 @@
+etri#doc_8651.txt 11 ºÙ´Ù ----- 10:2-ARG1() 11:0-rel
+etri#doc_8651.txt 18 ¹Ù²î´Ù ----- 1:1-ARGM-DIS(CNT) 15:3-ARGM-DIS() 16:1-ARGM-TMP(LOC) 17:1-ARG1(THM) 18:0-rel

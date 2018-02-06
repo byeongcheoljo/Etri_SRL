@@ -1,0 +1,4 @@
+etri#doc_4642.txt 4 증가시키다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4642.txt 10 정의하다 ----- 5:3-ARG0(AGT) 9:2-ARG1() 10:0-rel
+etri#doc_4642.txt 13 파괴하다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_4642.txt 18 말하다 ----- 1:1-ARGM-DIS() 10:3-ARGM-CND() 14:3-ARG1(THM) 17:2-ARG1() 18:0-rel

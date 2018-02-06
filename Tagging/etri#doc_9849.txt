@@ -1,0 +1,4 @@
+etri#doc_9849.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9849.txt 4 견디다 ----- 2:2-ARGM-DIS() 3:1-ARG1(EFF) 4:0-rel
+etri#doc_9849.txt 8 쓰다 ----- 6:1-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_9849.txt 10 보장받다 ----- 5:3-ARGM-CAU(EFF) 9:3-ARG1(THM) 10:0-rel

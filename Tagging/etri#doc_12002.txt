@@ -1,0 +1,4 @@
+etri#doc_12002.txt 3 도착하다 ----- 1:1-ARGM-TMP() 2:1-ARG3(LOC) 3:0-rel
+etri#doc_12002.txt 8 실리다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_12002.txt 13 게재되다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_12002.txt 17 들다 ----- 5:2-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:0-rel

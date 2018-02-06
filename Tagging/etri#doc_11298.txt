@@ -1,0 +1,1 @@
+etri#doc_11298.txt 13 ¿À´Ù ----- 7:5-ARG0(THM) 10:3-ARGM-DIS() 11:1-ARGM-EXT() 12:1-ARG2(SRC) 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_6181.txt 6 비판하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6181.txt 16 시도하다 ----- 1:1-ARG0(AGT) 6:3-ARGM-DIS() 14:5-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

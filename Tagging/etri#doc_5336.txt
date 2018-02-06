@@ -1,0 +1,4 @@
+etri#doc_5336.txt 4 가지다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5336.txt 10 사로잡히다 ----- 9:3-ARG0(EFF) 10:0-rel
+etri#doc_5336.txt 17 미치다 ----- 10:4-ARGM-DIS() 12:2-ARG0(AGT) 14:2-ARG2(GOL) 15:1-ARGM-EXT() 16:1-ARG1(THM) 17:0-rel
+etri#doc_5336.txt 18 의미하다 ----- 5:5-ARG0(AGT) 6:1-ARGM-TMP() 17:2-ARG1() 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_5134.txt 2 달려오다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_5134.txt 6 지피다 ----- 2:2-ARG1(CNT) 4:2-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5134.txt 14 이어지다 ----- 7:3-ARG1(THM) 8:1-ARGM-MNR() 13:2-ARGM-LOC(GOL) 14:0-rel

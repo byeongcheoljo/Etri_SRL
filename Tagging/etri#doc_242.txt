@@ -1,0 +1,5 @@
+etri#doc_242.txt 4 ¸Å´Ù ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_242.txt 5 Á×´Ù ----- 2:2-ARGM-CAU() 4:2-ARGM-MNR() 5:0-rel
+etri#doc_242.txt 11 µè´Ù ----- 9:2-ARGM-CAU(CNT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_242.txt 15 ´øÁö´Ù ----- 13:1-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_242.txt 17 ²÷´Ù ----- 12:3-ARG0(AGT) 15:2-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

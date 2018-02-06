@@ -1,0 +1,6 @@
+etri#doc_4760.txt 9 하다 ----- 7:3-ARG1(THM) 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_4760.txt 10 발효시키다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_4760.txt 11 증류하다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_4760.txt 14 첨가시키다 ----- 12:5-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_4760.txt 16 말하다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_4760.txt 19 되다 ----- 17:1-ARG1(THM) 18:1-ARG2(CRT) 19:0-rel

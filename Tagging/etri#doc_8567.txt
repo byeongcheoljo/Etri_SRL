@@ -1,0 +1,4 @@
+etri#doc_8567.txt 4 사유화하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_8567.txt 7 제공하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8567.txt 16 미치다 ----- 13:2-ARG0(AGT) 15:2-ARG2(GOL) 16:0-rel
+etri#doc_8567.txt 19 이해되다 ----- 2:2-ARG1(THM) 10:5-ARGM-PRD(INS) 18:5-ARGM-PRD(INS) 19:0-rel

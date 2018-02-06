@@ -1,0 +1,4 @@
+etri#doc_6418.txt 8 지향하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_6418.txt 14 숨쉬다 ----- 13:2-ARGM-MNR() 14:0-rel
+etri#doc_6418.txt 16 성장하다 ----- 11:1-ARG1(THM) 14:3-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_6418.txt 18 찾다 ----- 6:4-ARG0(AGT) 17:3-ARGM-LOC(LOC) 18:0-rel

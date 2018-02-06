@@ -1,0 +1,6 @@
+etri#doc_802.txt 8 먹다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_802.txt 10 만들다 ----- 9:1-ARG2(FNS) 10:0-rel
+etri#doc_802.txt 11 들이마시다 ----- 8:2-ARGM-DIS() 10:2-ARGM-MNR() 11:0-rel
+etri#doc_802.txt 13 만들다 ----- 12:1-ARG2(FNS) 13:0-rel
+etri#doc_802.txt 18 보이다 ----- 15:2-ARGM-CAU() 17:2-ARG1(THM) 18:0-rel
+etri#doc_802.txt 19 보고하다 ----- 2:2-ARGM-TMP(CRT) 5:3-ARG0(AGT) 18:3-ARGM-ADV() 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4303.txt 9 연구하다 ----- 9:0-rel
+etri#doc_4303.txt 18 접근하다 ----- 12:4-ARGM-DIS() 15:3-ARGM-MNR(INS) 17:2-ARG2(GOL) 18:0-rel

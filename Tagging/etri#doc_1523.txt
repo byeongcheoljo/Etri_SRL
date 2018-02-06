@@ -1,0 +1,3 @@
+etri#doc_1523.txt 6 감동시키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1523.txt 13 탐사되다 ----- 11:2-ARGM-DIS() 12:1-ARGM-ADV(EFF) 13:0-rel
+etri#doc_1523.txt 18 되다 ----- 1:1-ARG1(THM) 13:2-ARGM-DIS() 17:4-ARG2(FNS) 18:0-rel

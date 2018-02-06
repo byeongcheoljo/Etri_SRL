@@ -1,0 +1,3 @@
+etri#doc_4268.txt 10 확립하다 ----- 7:2-ARG1(THM) 9:2-ARGM-MNR(INS) 10:0-rel
+etri#doc_4268.txt 14 신빙하다 ----- 14:0-rel
+etri#doc_4268.txt 16 제공하다 ----- 4:3-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,8 @@
+etri#doc_326.txt 2 되다 ----- 1:1-ARGM-TMP(THM) 2:0-rel
+etri#doc_326.txt 7 부치다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_326.txt 10 싣다 ----- 7:2-ARGM-CND() 8:1-ARG2(GOL) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_326.txt 11 나오다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_326.txt 14 살다 ----- 12:1-ARG0(AGT) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_326.txt 17 오다 ----- 16:2-ARG3(LOC) 17:0-rel
+etri#doc_326.txt 19 사다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_326.txt 20 소리치다 ----- 2:2-ARGM-CND() 4:2-ARG0(AGT) 5:1-ARGM-EXT() 11:3-ARGM-CND() 17:3-ARGM-CND() 19:2-ARGM-CND() 20:0-rel

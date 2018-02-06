@@ -1,0 +1,7 @@
+etri#doc_5676.txt 3 의존하다 ----- 3:0-rel
+etri#doc_5676.txt 4 살아가다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5676.txt 6 버리다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_5676.txt 11 보여주다 ----- 6:4-ARGM-DIS() 7:1-ARG2(GOL) 10:2-ARG1(THM) 11:0-rel
+etri#doc_5676.txt 14 자립하다 ----- 14:0-rel
+etri#doc_5676.txt 15 살아가다 ----- 13:1-ARGM-MNR() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_5676.txt 17 보여주다 ----- 11:3-ARGM-CND() 12:1-ARG0(EFF) 15:2-ARG1() 16:1-ARG2(GOL) 17:0-rel

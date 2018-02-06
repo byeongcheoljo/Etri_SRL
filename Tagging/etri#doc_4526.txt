@@ -1,0 +1,2 @@
+etri#doc_4526.txt 9 되다 ----- 7:2-ARGM-ADV(EFF) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_4526.txt 14 관하다 ----- 10:1-ARGM-EXT() 13:2-ARG2(THM) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3587.txt 5 출전하다 ----- 1:1-ARGM-CAU(CNT) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_3587.txt 8 응원하다 ----- 6:4-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3587.txt 15 맛보다 ----- 9:3-ARG1(EXP) 10:1-ARGM-LOC(LOC) 14:4-ARG2(THM) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11216.txt 5 고려되다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_11216.txt 10 꾀하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_11216.txt 13 강요하다 ----- 1:1-ARGM-DIS() 6:4-ARGM-TMP(LOC) 7:1-ARG0(AGT) 10:3-ARGM-PRP() 12:2-ARG1(THM) 13:0-rel

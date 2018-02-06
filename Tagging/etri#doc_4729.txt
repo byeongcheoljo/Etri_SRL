@@ -1,0 +1,3 @@
+etri#doc_4729.txt 9 살다 ----- 8:7-ARG2(LOC) 9:0-rel
+etri#doc_4729.txt 11 찾다 ----- 10:9-ARG1(THM) 11:0-rel
+etri#doc_4729.txt 14 생각하다 ----- 1:1-ARG0(MAG) 11:10-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel

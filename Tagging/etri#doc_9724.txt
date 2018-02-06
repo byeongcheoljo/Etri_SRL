@@ -1,0 +1,6 @@
+etri#doc_9724.txt 3 노력하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_9724.txt 5 협조하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(COM) 5:0-rel
+etri#doc_9724.txt 8 유지하다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_9724.txt 10 감사하다 ----- 9:1-ARG1(GOL) 10:0-rel
+etri#doc_9724.txt 12 잊다 ----- 1:1-ARGM-DIS() 8:3-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel
+etri#doc_9724.txt 15 보내다 ----- 12:4-ARGM-CND() 14:2-ARG1(THM) 15:0-rel

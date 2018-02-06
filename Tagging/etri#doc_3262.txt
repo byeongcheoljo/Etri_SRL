@@ -1,0 +1,4 @@
+etri#doc_3262.txt 7 입각하다 ----- 6:2-ARG2(LOC) 7:0-rel
+etri#doc_3262.txt 10 고려되다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3262.txt 12 말하다 ----- 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_3262.txt 15 존중되다 ----- 14:2-ARG1(THM) 15:0-rel

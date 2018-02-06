@@ -1,0 +1,4 @@
+etri#doc_7426.txt 3 쓰다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7426.txt 5 주어지다 ----- 5:0-rel
+etri#doc_7426.txt 13 간주되다 ----- 12:5-ARG1(FNS) 13:0-rel
+etri#doc_7426.txt 17 진술하다 ----- 3:3-ARGM-TMP() 7:3-ARGM-MNR(INS) 15:8-ARG1() 16:1-ARGM-TMP() 17:0-rel

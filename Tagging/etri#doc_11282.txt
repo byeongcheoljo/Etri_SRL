@@ -1,0 +1,5 @@
+etri#doc_11282.txt 2 출발하다 ----- 1:1-ARG2(SRC) 2:0-rel
+etri#doc_11282.txt 9 전하다 ----- 8:1-ARG2(GOL) 9:0-rel
+etri#doc_11282.txt 12 선교하다 ----- 12:0-rel
+etri#doc_11282.txt 16 받다 ----- 16:0-rel
+etri#doc_11282.txt 17 나누다 ----- 16:1-ARG1() 17:0-rel

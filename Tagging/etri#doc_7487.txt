@@ -1,0 +1,5 @@
+etri#doc_7487.txt 5 읽다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7487.txt 7 읽다 ----- 2:2-ARG0(AGT) 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7487.txt 9 보다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_7487.txt 13 나다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_7487.txt 16 스크랩하다 ----- 15:2-ARG1(THM) 16:0-rel

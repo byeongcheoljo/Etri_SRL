@@ -1,0 +1,2 @@
+etri#doc_1724.txt 10 생산하다 ----- 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_1724.txt 18 생산하다 ----- 16:1-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

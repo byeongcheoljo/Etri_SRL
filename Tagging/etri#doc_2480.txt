@@ -1,0 +1,5 @@
+etri#doc_2480.txt 7 데리다 ----- 3:1-() 6:3-() 7:0-rel
+etri#doc_2480.txt 9 가다 ----- 7:4-ARGM-DIS() 8:1-ARG2(EFF) 9:0-rel
+etri#doc_2480.txt 11 전하다 ----- 10:3-ARG1() 11:0-rel
+etri#doc_2480.txt 14 가다 ----- 13:2-ARG3(LOC) 14:0-rel
+etri#doc_2480.txt 15 전하다 ----- 14:3-ARGM-EXT() 15:0-rel

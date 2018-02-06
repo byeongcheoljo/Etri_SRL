@@ -1,0 +1,4 @@
+etri#doc_5346.txt 3 등장하다 ----- 1:1-ARGM-TMP() 2:1-ARG2(LOC) 3:0-rel
+etri#doc_5346.txt 8 정당화하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_5346.txt 12 이용하다 ----- 5:1-ARG0(AGT) 8:3-ARGM-DIS() 11:3-ARG2(LOC) 12:0-rel
+etri#doc_5346.txt 17 만들다 ----- 4:3-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

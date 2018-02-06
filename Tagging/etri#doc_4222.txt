@@ -1,0 +1,5 @@
+etri#doc_4222.txt 4 지키다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_4222.txt 7 들어가다 ----- 6:4-ARG3(GOL) 7:0-rel
+etri#doc_4222.txt 9 되다 ----- 8:1-ARG2(INS) 9:0-rel
+etri#doc_4222.txt 14 부수다 ----- 7:5-ARGM-DIS() 13:6-ARG1(THM) 14:0-rel
+etri#doc_4222.txt 16 깨다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 14:7-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

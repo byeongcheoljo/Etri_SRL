@@ -1,0 +1,4 @@
+etri#doc_3097.txt 8 자리잡다 ----- 6:2-ARG1(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_3097.txt 10 재편되다 ----- 1:1-ARGM-TMP() 2:1-ARGM-TMP() 4:2-ARG1(THM) 9:3-ARGM-MNR(INS) 10:0-rel
+etri#doc_3097.txt 12 참여하다 ----- 11:1-ARG1(LOC) 12:0-rel
+etri#doc_3097.txt 20 남다 ----- 15:5-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-MNR() 19:2-ARGM-MNR(INS) 20:0-rel

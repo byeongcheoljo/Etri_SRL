@@ -1,0 +1,4 @@
+etri#doc_11534.txt 6 들이다 ----- 3:1-ARG1(THM) 5:2-ARGM-MNR() 6:0-rel
+etri#doc_11534.txt 7 알다 ----- 6:3-ARGM-DIS() 7:0-rel
+etri#doc_11534.txt 11 떠오르다 ----- 10:2-ARGM-CND() 11:0-rel
+etri#doc_11534.txt 14 점검하다 ----- 2:2-ARG0(AGT) 7:4-ARGM-DIS() 8:1-() 12:4-ARGM-MNR(INS) 13:1-ARGM-DIS() 14:0-rel

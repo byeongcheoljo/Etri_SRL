@@ -1,0 +1,2 @@
+etri#doc_2433.txt 4 살다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 3:1-ARGM-ADV(EFF) 4:0-rel
+etri#doc_2433.txt 9 되다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 7:2-ARGM-ADV(EFF) 8:1-ARG0(AGT) 9:0-rel

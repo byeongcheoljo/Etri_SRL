@@ -1,0 +1,7 @@
+etri#doc_3984.txt 4 하다 ----- 2:1-ARGM-EXT() 3:1-ARG1(THM) 4:0-rel
+etri#doc_3984.txt 6 기증하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3984.txt 8 부르다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3984.txt 10 마감하다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3984.txt 12 보다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_3984.txt 13 알려지다 ----- 13:0-rel
+etri#doc_3984.txt 19 하다 ----- 12:4-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARGM-EXT(LOC) 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4197.txt 10 던지다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4197.txt 14 벌이다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(SRC) 3:1-ARGM-TMP() 8:5-ARGM-LOC(LOC) 10:2-ARGM-DIS() 13:3-ARG1(Npr) 14:0-rel

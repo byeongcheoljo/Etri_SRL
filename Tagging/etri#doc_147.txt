@@ -1,0 +1,4 @@
+etri#doc_147.txt 3 좋아지다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_147.txt 6 침체되다 ----- 6:0-rel
+etri#doc_147.txt 8 놓이다 ----- 3:2-ARGM-ADV() 5:2-ARG1(THM) 6:1-ARGM-CND() 7:1-ARG2(GOL) 8:0-rel
+etri#doc_147.txt 14 되다 ----- 12:3-ARG1() 13:1-ARGM-MNR() 14:0-rel

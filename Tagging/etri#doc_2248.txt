@@ -1,0 +1,1 @@
+etri#doc_2248.txt 14 го╢ы ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARG0() 9:3-ARG4(LOC) 12:3-ARG2(COM) 13:1-ARG1(THM) 14:0-rel

@@ -1,0 +1,1 @@
+etri#doc_6247.txt 16 ³ª´Ù ----- 13:3-ARGM-ADV(EFF) 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

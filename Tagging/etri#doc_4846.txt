@@ -1,0 +1,3 @@
+etri#doc_4846.txt 8 나타나다 ----- 6:3-ARG2(LOC) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_4846.txt 11 보다 ----- 2:2-ARG1(THM) 10:2-ARG1(FNS) 11:0-rel
+etri#doc_4846.txt 18 되다 ----- 11:3-ARGM-TMP() 14:2-ARG1(THM) 16:2-ARG2(GOL) 17:1-ARG2(FNS) 18:0-rel

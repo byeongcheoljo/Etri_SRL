@@ -1,0 +1,3 @@
+etri#doc_11331.txt 7 생각하다 ----- 7:0-rel
+etri#doc_11331.txt 10 걷다 ----- 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_11331.txt 13 사용하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel

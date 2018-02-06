@@ -1,0 +1,6 @@
+etri#doc_5290.txt 4 쌓다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5290.txt 6 읽다 ----- 4:2-ARGM-PRP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5290.txt 7 권하다 ----- 2:2-ARG0(AGT) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_5290.txt 13 입다 ----- 10:1-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5290.txt 14 권하다 ----- 7:3-ARGM-DIS() 9:2-ARG0(AGT) 13:3-ARGM-DIS() 14:0-rel
+etri#doc_5290.txt 20 속삭이다 ----- 14:4-ARGM-DIS() 18:3-ARG0(AGT) 19:1-ARGM-ADV(EFF) 20:0-rel

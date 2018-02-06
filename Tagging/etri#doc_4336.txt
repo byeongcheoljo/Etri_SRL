@@ -1,0 +1,5 @@
+etri#doc_4336.txt 3 보다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4336.txt 6 변장하다 ----- 6:0-rel
+etri#doc_4336.txt 8 나타나다 ----- 5:4-ARG2(LOC) 7:2-ARGM-MNR(FNS) 8:0-rel
+etri#doc_4336.txt 10 발각되다 ----- 8:3-ARGM-CND() 9:1-ARGM-TMP() 10:0-rel
+etri#doc_4336.txt 15 드러내다 ----- 10:2-ARGM-DIS() 11:1-ARG0(EFF) 12:1-ARGM-EXT() 14:2-ARG1(THM) 15:0-rel

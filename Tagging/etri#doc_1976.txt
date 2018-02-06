@@ -1,0 +1,4 @@
+etri#doc_1976.txt 2 성취하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1976.txt 6 떠나다 ----- 2:2-ARGM-DIS() 3:1-ARGM-EXT() 5:2-ARG1(THM) 6:0-rel
+etri#doc_1976.txt 15 원하다 ----- 15:0-rel
+etri#doc_1976.txt 18 끊다 ----- 7:4-ARGM-DIS() 10:3-ARGM-CND() 11:1-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

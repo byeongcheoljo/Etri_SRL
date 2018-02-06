@@ -1,0 +1,5 @@
+etri#doc_2669.txt 6 행차하다 ----- 5:1-() 6:0-rel
+etri#doc_2669.txt 8 놀다 ----- 6:2-() 7:1-() 8:0-rel
+etri#doc_2669.txt 14 만나다 ----- 14:0-rel
+etri#doc_2669.txt 16 데리다 ----- 13:5-() 14:1-() 15:1-() 16:0-rel
+etri#doc_2669.txt 17 오다 ----- 3:3-ARG3(EFF) 4:1-ARG1() 8:2-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

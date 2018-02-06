@@ -1,0 +1,10 @@
+etri#doc_5386.txt 2 가다 ----- 1:1-ARG3() 2:0-rel
+etri#doc_5386.txt 5 하다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5386.txt 7 오다 ----- 6:1-ARG3(LOC) 7:0-rel
+etri#doc_5386.txt 10 하다 ----- 5:2-ARGM-DIS() 8:3-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5386.txt 12 이야기하다 ----- 11:1-ARGM-MNR(COM) 12:0-rel
+etri#doc_5386.txt 14 하다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_5386.txt 16 읽다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_5386.txt 18 하다 ----- 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_5386.txt 20 쓰다 ----- 19:1-ARG1(THM) 20:0-rel
+etri#doc_5386.txt 22 하다 ----- 18:2-ARGM-DIS() 20:2-ARGM-DIS() 21:1-ARG1(THM) 22:0-rel

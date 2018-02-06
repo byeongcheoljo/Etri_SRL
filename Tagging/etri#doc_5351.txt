@@ -1,0 +1,4 @@
+etri#doc_5351.txt 7 구분하다 ----- 5:1-ARG1(THM) 6:1-ARG2() 7:0-rel
+etri#doc_5351.txt 10 구분하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARG2() 10:0-rel
+etri#doc_5351.txt 12 강화되다 ----- 10:2-ARGM-CAU() 11:1-ARGM-EXT() 12:0-rel
+etri#doc_5351.txt 16 당연시하다 ----- 4:3-ARG0(MAG) 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

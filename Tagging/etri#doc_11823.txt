@@ -1,0 +1,4 @@
+etri#doc_11823.txt 3 사용하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11823.txt 13 지적하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_11823.txt 18 사용되다 ----- 14:1-ARGM-LOC(LOC) 15:1-ARG1(THM) 17:2-ARGM-PRD(EFF) 18:0-rel
+etri#doc_11823.txt 19 정당화하다 ----- 1:1-ARG0(AGT) 13:4-ARGM-CAU() 18:3-ARG1() 19:0-rel

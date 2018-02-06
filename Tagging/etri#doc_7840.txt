@@ -1,0 +1,5 @@
+etri#doc_7840.txt 3 갖추다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7840.txt 8 막론하다 ----- 7:2-ARG2(THM) 8:0-rel
+etri#doc_7840.txt 11 출입하다 ----- 5:2-ARGM-LOC(GOL) 8:3-ARGM-DIS() 10:2-ARG0(AGT) 11:0-rel
+etri#doc_7840.txt 16 열중하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_7840.txt 19 잊다 ----- 11:3-ARGM-DIS() 12:1-ARG0(EXP) 16:3-ARGM-MNR() 17:1-ARGM-TMP() 18:1-ARG1(THM) 19:0-rel

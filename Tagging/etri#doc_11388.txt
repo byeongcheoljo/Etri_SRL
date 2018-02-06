@@ -1,0 +1,4 @@
+etri#doc_11388.txt 7 앞서다 ----- 6:1-ARGM-TMP(CRT) 7:0-rel
+etri#doc_11388.txt 8 발굴되다 ----- 7:2-ARGM-TMP() 8:0-rel
+etri#doc_11388.txt 10 비교하다 ----- 9:4-ARG2(COM) 10:0-rel
+etri#doc_11388.txt 16 보다 ----- 1:1-ARG0(AGT) 10:5-ARGM-DIS() 15:5-ARGM-MNR(INS) 16:0-rel

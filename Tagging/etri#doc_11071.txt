@@ -1,0 +1,10 @@
+etri#doc_11071.txt 2 생각되다 ----- 1:1-ARG1(CNT) 2:0-rel
+etri#doc_11071.txt 3 매입하다 ----- 3:0-rel
+etri#doc_11071.txt 4 준비하다 ----- 2:2-ARGM-DIS() 3:1-ARGM-DIS() 4:0-rel
+etri#doc_11071.txt 6 치솟다 ----- 6:0-rel
+etri#doc_11071.txt 7 팔다 ----- 7:0-rel
+etri#doc_11071.txt 8 거부하다 ----- 6:1-ARGM-DIS() 7:1-ARG1() 8:0-rel
+etri#doc_11071.txt 12 세우다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11071.txt 15 찾다 ----- 12:2-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_11071.txt 16 상상하다 ----- 16:0-rel
+etri#doc_11071.txt 20 매기다 ----- 10:4-ARGM-DIS() 15:2-ARGM-CND() 18:3-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

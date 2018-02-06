@@ -1,0 +1,4 @@
+etri#doc_3291.txt 5 없어지다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3291.txt 10 남다 ----- 5:4-ARGM-DIS() 6:1-ARG1(THM) 7:1-ARGM-TMP() 9:2-ARG2(FNS) 10:0-rel
+etri#doc_3291.txt 14 이해하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_3291.txt 17 되다 ----- 14:3-ARGM-DIS() 15:1-ARGM-EXT() 16:1-ARG2(Npr) 17:0-rel

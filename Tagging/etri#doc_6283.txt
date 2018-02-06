@@ -1,0 +1,3 @@
+etri#doc_6283.txt 3 달리다 ----- 1:1-ARG2(SRC) 2:1-ARG3(GOL) 3:0-rel
+etri#doc_6283.txt 5 넘다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6283.txt 15 주름잡다 ----- 13:1-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

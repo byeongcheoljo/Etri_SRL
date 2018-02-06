@@ -1,0 +1,5 @@
+etri#doc_1365.txt 6 하다 ----- 6:0-rel
+etri#doc_1365.txt 9 알다 ----- 9:0-rel
+etri#doc_1365.txt 12 서슴다 ----- 12:0-rel
+etri#doc_1365.txt 13 질문하다 ----- 2:2-ARG0(AGT) 5:3-ARGM-DIS() 8:3-() 11:3-ARGM-CND() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_1365.txt 14 바라다 ----- 13:2-ARGM-DIS() 14:0-rel

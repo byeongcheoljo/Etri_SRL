@@ -1,0 +1,4 @@
+etri#doc_13069.txt 5 열다 ----- 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_13069.txt 12 구성하다 ----- 5:2-ARGM-DIS() 9:2-ARGM-MNR(COM) 10:1-ARG2(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_13069.txt 19 평가하다 ----- 15:3-ARGM-MNR(INS) 16:1-ARGM-TMP(SRC) 17:1-ARGM-EXT(CRT) 18:1-ARG1(THM) 19:0-rel
+etri#doc_13069.txt 20 발표하다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 19:2-ARGM-MNR() 20:0-rel

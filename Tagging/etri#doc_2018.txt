@@ -1,0 +1,3 @@
+etri#doc_2018.txt 7 쫓기다 ----- 3:1-() 6:2-() 7:0-rel
+etri#doc_2018.txt 13 감소하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_2018.txt 19 분석하다 ----- 2:2-ARGM-LOC(LOC) 7:3-ARG2() 9:2-ARGM-LOC(LOC) 13:4-ARGM-PRP() 14:1-ARGM-LOC(LOC) 16:2-ARG1(THM) 18:2-ARGM-DIS() 19:0-rel

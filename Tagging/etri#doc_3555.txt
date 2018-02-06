@@ -1,0 +1,5 @@
+etri#doc_3555.txt 7 지원하다 ----- 6:5-ARG0(AGT) 7:0-rel
+etri#doc_3555.txt 11 증가하다 ----- 9:8-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_3555.txt 13 지원하다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_3555.txt 16 격감하다 ----- 11:2-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel
+etri#doc_3555.txt 17 나타나다 ----- 1:1-ARGM-DIS() 16:5-ARGM-MNR() 17:0-rel

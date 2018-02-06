@@ -1,0 +1,2 @@
+etri#doc_921.txt 12 발견하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_921.txt 16 싸우다 ----- 1:1-ARGM-TMP() 2:1-ARGM-DIS() 4:2-ARG0(AGT) 5:1-ARGM-EXT() 8:2-ARGM-TMP(CRT) 10:2-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-PRP() 15:2-ARGM-PRP() 16:0-rel

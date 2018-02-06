@@ -1,0 +1,1 @@
+etri#doc_76.txt 11 거느리다 ----- 9:2-ARG1(THM) 10:1-ARGM-ADV() 11:0-rel

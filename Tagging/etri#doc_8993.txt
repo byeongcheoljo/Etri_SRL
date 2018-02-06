@@ -1,0 +1,4 @@
+etri#doc_8993.txt 2 살다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_8993.txt 4 위치하다 ----- 3:3-ARG2(LOC) 4:0-rel
+etri#doc_8993.txt 10 감소하다 ----- 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8993.txt 14 공급하다 ----- 7:3-ARG0(AGT) 10:2-ARGM-CAU() 11:1-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11120.txt 2 Èñ¸ÁÇÏ´Ù ----- 1:1-ARG0(MAG) 2:0-rel
+etri#doc_11120.txt 7 ¸Î´Ù ----- 2:2-ARGM-EXT() 3:1-ARGM-TMP() 5:2-ARGM-MNR(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_11120.txt 10 ¹àÈ÷´Ù ----- 9:4-ARG1(CNT) 10:0-rel
+etri#doc_11120.txt 17 ³»ºñÄ¡´Ù ----- 10:5-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

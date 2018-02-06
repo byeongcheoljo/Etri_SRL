@@ -1,0 +1,5 @@
+etri#doc_11650.txt 4 끝나다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_11650.txt 9 띄다 ----- 6:1-ARGM-MNR(INS) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11650.txt 11 치다 ----- 5:1-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_11650.txt 19 떠나다 ----- 16:3-ARG0(AGT) 18:2-ARG1(SRC) 19:0-rel
+etri#doc_11650.txt 20 알다 ----- 4:4-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-MNR(INS) 13:1-ARG0(MAG) 19:3-ARG1() 20:0-rel

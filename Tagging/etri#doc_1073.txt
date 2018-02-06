@@ -1,0 +1,2 @@
+etri#doc_1073.txt 4 하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_1073.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel

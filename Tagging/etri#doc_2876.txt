@@ -1,0 +1,4 @@
+etri#doc_2876.txt 4 내밀다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_2876.txt 8 가다 ----- 1:1-ARGM-TMP() 5:3-ARGM-INS(INS) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_2876.txt 12 커지다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-TMP() 11:1-ARGM-EXT(CRT) 12:0-rel
+etri#doc_2876.txt 15 보이다 ----- 14:1-ARGM-MNR() 15:0-rel

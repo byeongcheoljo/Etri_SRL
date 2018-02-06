@@ -1,0 +1,2 @@
+etri#doc_2430.txt 12 보내다 ----- 7:4-ARG0(AGT) 9:2-ARG1(THM) 11:2-ARGM-ADV(EFF) 12:0-rel
+etri#doc_2430.txt 14 요구하다 ----- 1:1-ARGM-EXT() 3:2-ARG0(AGT) 13:4-ARG1(THM) 14:0-rel

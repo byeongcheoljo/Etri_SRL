@@ -1,0 +1,5 @@
+etri#doc_8271.txt 3 성공하다 ----- 2:2-ARG1(AGT) 3:0-rel
+etri#doc_8271.txt 6 공격하다 ----- 3:3-ARGM-CND() 4:1-ARGM-TMP() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_8271.txt 10 노리다 ----- 8:2-ARG1(THM) 9:1-ARG0(MAG) 10:0-rel
+etri#doc_8271.txt 12 알리다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_8271.txt 14 다가오다 ----- 6:2-ARGM-DIS() 12:4-ARGM-EXT() 13:1-ARGM-MNR() 14:0-rel

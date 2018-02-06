@@ -1,0 +1,4 @@
+etri#doc_11051.txt 5 들어오다 ----- 3:3-ARG3(GOL) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_11051.txt 12 구입하다 ----- 6:1-ARG1(THM) 11:3-ARGM-DIS() 12:0-rel
+etri#doc_11051.txt 14 믿다 ----- 5:2-ARGM-DIS() 13:5-ARG0(MAG) 14:0-rel
+etri#doc_11051.txt 17 캐다 ----- 14:6-ARGM-DIS() 15:1-ARG0(AGT) 16:1-ARGM-TMP() 17:0-rel

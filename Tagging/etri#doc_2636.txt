@@ -1,0 +1,3 @@
+etri#doc_2636.txt 4 놓다 ----- 1:1-ARG1(THM) 3:2-ARG1(EFF) 4:0-rel
+etri#doc_2636.txt 11 부각시키다 ----- 10:1-() 11:0-rel
+etri#doc_2636.txt 14 지나다 ----- 4:3-ARGM-DIS() 9:3-ARGM-DIS() 11:2-ARGM-CND() 12:1-ARG0() 13:1-ARG2(EFF) 14:0-rel

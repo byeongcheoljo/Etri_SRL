@@ -1,0 +1,6 @@
+etri#doc_8220.txt 2 붙이다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8220.txt 6 읽다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8220.txt 9 차리다 ----- 6:3-ARGM-TMP() 7:1-ARG1() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8220.txt 12 당하다 ----- 10:1-ARG3(AGT) 11:1-ARG2(Npr) 12:0-rel
+etri#doc_8220.txt 14 되다 ----- 9:2-ARGM-CND() 13:3-ARG2(FNS) 14:0-rel
+etri#doc_8220.txt 20 처리하다 ----- 3:3-ARG0(AGT) 14:4-ARGM-CAU() 17:3-ARGM-DIS() 18:1-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

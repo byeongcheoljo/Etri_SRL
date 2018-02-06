@@ -1,0 +1,4 @@
+etri#doc_4964.txt 14 보다 ----- 4:2-ARG1(THM) 5:1-ARG0(AGT) 13:2-ARGM-LOC(LOC) 14:0-rel
+etri#doc_4964.txt 15 하다 ----- 14:3-ARG1(CNT) 15:0-rel
+etri#doc_4964.txt 17 대하다 ----- 16:5-ARGM-DIS() 17:0-rel
+etri#doc_4964.txt 18 반대하다 ----- 17:6-ARG1() 18:0-rel

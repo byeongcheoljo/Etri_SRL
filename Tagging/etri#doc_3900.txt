@@ -1,0 +1,4 @@
+etri#doc_3900.txt 4 잡다 ----- 2:1-ARG1(THM) 3:1-ARGM-INS(FNS) 4:0-rel
+etri#doc_3900.txt 7 돌입하다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 6:1-ARG1(GOL) 7:0-rel
+etri#doc_3900.txt 12 부각시키다 ----- 10:2-ARG1(THM) 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_3900.txt 16 내다 ----- 12:2-ARGM-DIS() 14:2-ARG2(LOC) 15:1-ARG1(THM) 16:0-rel

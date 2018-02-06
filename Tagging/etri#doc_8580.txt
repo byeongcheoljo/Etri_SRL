@@ -1,0 +1,5 @@
+etri#doc_8580.txt 6 확산되다 ----- 1:1-ARGM-MNR(INS) 3:2-ARG1(THM) 5:2-ARG2(GOL) 6:0-rel
+etri#doc_8580.txt 10 힘입다 ----- 9:2-ARG2(EFF) 10:0-rel
+etri#doc_8580.txt 12 성장하다 ----- 10:3-ARGM-CAU() 11:1-ARG3(FNS) 12:0-rel
+etri#doc_8580.txt 16 해직되다 ----- 13:3-ARGM-CAU(EFF) 15:2-ARG1(THM) 16:0-rel
+etri#doc_8580.txt 17 종결되다 ----- 6:3-ARGM-DIS() 7:1-ARGM-DIS() 16:3-ARGM-DIS() 17:0-rel

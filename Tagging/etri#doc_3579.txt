@@ -1,0 +1,6 @@
+etri#doc_3579.txt 2 끝내다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3579.txt 5 나오다 ----- 3:3-ARG0(AGT) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_3579.txt 8 확인하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_3579.txt 12 데려가다 ----- 11:2-ARGM-LOC(GOL) 12:0-rel
+etri#doc_3579.txt 14 알다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_3579.txt 17 건네주다 ----- 8:2-ARGM-TMP() 9:1-ARG2(GOL) 12:3-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

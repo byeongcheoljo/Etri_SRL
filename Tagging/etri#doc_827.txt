@@ -1,0 +1,6 @@
+etri#doc_827.txt 2 자라다 ----- 2:0-rel
+etri#doc_827.txt 5 떨어지다 ----- 4:2-ARG2(SRC) 5:0-rel
+etri#doc_827.txt 7 꾸다 ----- 1:1-ARG0(EXP) 2:1-ARGM-CAU() 6:4-ARG1(THM) 7:0-rel
+etri#doc_827.txt 9 사모하다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_827.txt 14 젖다 ----- 12:1-ARG1(THM) 13:1-ARGM-ADV() 14:0-rel
+etri#doc_827.txt 16 꾸다 ----- 7:5-ARGM-DIS() 10:3-ARG0(EXP) 11:1-ARGM-MNR() 15:3-ARG1(THM) 16:0-rel

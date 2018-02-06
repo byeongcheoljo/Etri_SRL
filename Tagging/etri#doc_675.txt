@@ -1,0 +1,2 @@
+etri#doc_675.txt 4 배우다 ----- 3:2-ARGM-DIR(SRC) 4:0-rel
+etri#doc_675.txt 13 모방하다 ----- 9:3-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel

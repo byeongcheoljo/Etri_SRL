@@ -1,0 +1,6 @@
+etri#doc_8863.txt 6 이해하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8863.txt 8 잘못하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-CND() 8:0-rel
+etri#doc_8863.txt 11 들다 ----- 10:2-ARG1(LOC) 11:0-rel
+etri#doc_8863.txt 13 짓다 ----- 12:1-ARG1() 13:0-rel
+etri#doc_8863.txt 14 가다 ----- 11:3-ARGM-DIS() 13:2-ARGM-PRP() 14:0-rel
+etri#doc_8863.txt 16 되다 ----- 2:2-ARGM-DIS() 8:2-ARGM-CND() 15:4-ARG2(FNS) 16:0-rel

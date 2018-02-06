@@ -1,0 +1,6 @@
+etri#doc_8199.txt 5 밟다 ----- 2:2-ARG0(AGT) 3:1-ARGM-DIS() 4:1-ARG1(LOC) 5:0-rel
+etri#doc_8199.txt 9 바라보다 ----- 5:2-ARGM-DIS() 6:1-ARG0(MAG) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8199.txt 11 살아가다 ----- 9:3-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8199.txt 14 진정하다 ----- 14:0-rel
+etri#doc_8199.txt 16 발견하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_8199.txt 20 살다 ----- 11:2-ARGM-TMP() 12:1-ARG0(AGT) 17:4-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

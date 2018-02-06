@@ -1,0 +1,4 @@
+etri#doc_3800.txt 2 말하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_3800.txt 6 유지하다 ----- 6:0-rel
+etri#doc_3800.txt 7 보호하다 ----- 5:2-ARG1(THM) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_3800.txt 12 봉쇄하다 ----- 7:2-ARGM-PRP() 11:3-ARG1(THM) 12:0-rel

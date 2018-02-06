@@ -1,0 +1,5 @@
+etri#doc_7617.txt 7 ¸ÂÃß´Ù ----- 2:1-ARG0(AGT) 3:1-ARGM-DIS() 4:1-ARG2(COM) 6:2-ARG1(THM) 7:0-rel
+etri#doc_7617.txt 11 ¶³¾î¶ß¸®´Ù ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7617.txt 13 ¸»ÇÏ´Ù ----- 12:4-ARG0(EFF) 13:0-rel
+etri#doc_7617.txt 15 ÀÔ´Ù ----- 15:0-rel
+etri#doc_7617.txt 18 ¶³¾î¶ß¸®´Ù ----- 1:1-ARGM-DIS() 8:4-ARGM-DIS() 13:5-ARGM-DIS() 14:1-ARGM-MNR() 17:3-ARG1(THM) 18:0-rel

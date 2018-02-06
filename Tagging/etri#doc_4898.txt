@@ -1,0 +1,3 @@
+etri#doc_4898.txt 3 장치되다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4898.txt 7 분석하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4898.txt 14 밝히다 ----- 1:1-ARGM-ADV(EFF) 9:5-ARGM-CND() 10:1-ARGM-MNR() 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

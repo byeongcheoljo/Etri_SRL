@@ -1,0 +1,4 @@
+etri#doc_3236.txt 4 잡다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_3236.txt 7 떠나다 ----- 5:3-ARGM-TMP() 6:1-ARG2(SRC) 7:0-rel
+etri#doc_3236.txt 16 공부하다 ----- 11:2-ARGM-LOC(LOC) 15:4-ARG1(THM) 16:0-rel
+etri#doc_3236.txt 17 훈련되다 ----- 17:0-rel

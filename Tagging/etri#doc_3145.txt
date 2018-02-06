@@ -1,0 +1,4 @@
+etri#doc_3145.txt 4 방영되다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3145.txt 12 확인하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3145.txt 14 밀려들다 ----- 12:3-ARGM-PRP() 13:1-ARGM-MNR() 14:0-rel
+etri#doc_3145.txt 18 누리다 ----- 1:1-ARGM-DIS() 5:4-ARGM-TMP(LOC) 9:3-ARG0(EXP) 16:4-ARGM-CAU() 17:1-ARG1(THM) 18:0-rel

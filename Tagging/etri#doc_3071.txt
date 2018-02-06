@@ -1,0 +1,4 @@
+etri#doc_3071.txt 3 올라가다 ----- 1:1-ARGM-CAU(INS) 2:1-ARG1(THM) 3:0-rel
+etri#doc_3071.txt 7 하다 ----- 3:2-ARGM-CAU() 5:2-ARG0(AGT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_3071.txt 11 내리다 ----- 8:1-ARGM-TMP() 9:1-ARGM-MNR(INS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3071.txt 17 단행하다 ----- 7:2-ARGM-DIS() 11:2-ARGM-CAU() 12:1-ARGM-LOC(LOC) 13:1-ARGM-TMP(LOC) 14:1-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

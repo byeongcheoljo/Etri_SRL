@@ -1,0 +1,4 @@
+etri#doc_5920.txt 5 모이다 ----- 5:0-rel
+etri#doc_5920.txt 7 열다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_5920.txt 8 합의하다 ----- 3:2-ARGM-TMP() 4:1-ARG0(AGT) 5:1-ARGM-DIS() 7:2-ARG1() 8:0-rel
+etri#doc_5920.txt 12 끝내다 ----- 8:3-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-TMP() 12:0-rel

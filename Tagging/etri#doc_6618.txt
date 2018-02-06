@@ -1,0 +1,5 @@
+etri#doc_6618.txt 2 진단되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6618.txt 13 앗아가다 ----- 5:2-ARGM-DIS() 7:2-ARG0(AGT) 9:2-ARGM-INS(INS) 12:3-ARG1(THM) 13:0-rel
+etri#doc_6618.txt 15 걸리다 ----- 14:1-ARG2(GOL) 15:0-rel
+etri#doc_6618.txt 20 죽다 ----- 16:3-ARG1(THM) 19:3-ARG0(THM) 20:0-rel
+etri#doc_6618.txt 21 알려지다 ----- 13:4-ARGM-DIS() 20:4-ARGM-DIS() 21:0-rel

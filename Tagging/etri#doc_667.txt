@@ -1,0 +1,4 @@
+etri#doc_667.txt 9 시험하다 ----- 6:2-ARGM-ADV(THM) 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_667.txt 10 만나다 ----- 10:0-rel
+etri#doc_667.txt 14 생각하다 ----- 9:2-ARGM-DIS() 12:2-ARGM-ADV(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_667.txt 20 완성시키다 ----- 2:2-ARG0(AGT) 14:2-ARGM-INS(INS) 15:1-ARGM-MNR() 18:3-ARGM-INS(INS) 19:1-ARG1(THM) 20:0-rel

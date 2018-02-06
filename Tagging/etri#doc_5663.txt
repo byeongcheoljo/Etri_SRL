@@ -1,0 +1,2 @@
+etri#doc_5663.txt 4 들어서다 ----- 3:3-ARG3(GOL) 4:0-rel
+etri#doc_5663.txt 16 느끼다 ----- 4:4-ARGM-TMP() 14:3-ARG1(THM) 15:1-ARGM-TMP() 16:0-rel

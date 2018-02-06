@@ -1,0 +1,3 @@
+etri#doc_11950.txt 7 발발하다 ----- 4:1-ARGM-TMP() 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_11950.txt 10 공격하다 ----- 7:2-ARGM-CAU() 8:1-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11950.txt 11 말하다 ----- 3:3-ARG0(AGT) 10:2-ARG1() 11:0-rel

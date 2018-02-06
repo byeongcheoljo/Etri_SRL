@@ -1,0 +1,4 @@
+etri#doc_4809.txt 5 일어나다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4809.txt 11 해결하다 ----- 7:2-ARG1(THM) 10:2-ARGM-PRD(EFF) 11:0-rel
+etri#doc_4809.txt 15 하다 ----- 14:2-ARG1() 15:0-rel
+etri#doc_4809.txt 18 보이다 ----- 17:5-ARGM-DIS() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6953.txt 3 공경하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6953.txt 7 즐기다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6953.txt 14 발전하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6953.txt 17 변화하다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel
+etri#doc_6953.txt 18 사라지다 ----- 18:0-rel

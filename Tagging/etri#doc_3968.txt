@@ -1,0 +1,4 @@
+etri#doc_3968.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3968.txt 9 발굴하다 ----- 9:0-rel
+etri#doc_3968.txt 10 연구하다 ----- 8:1-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_3968.txt 13 하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 7:2-ARGM-CAU() 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

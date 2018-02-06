@@ -1,0 +1,5 @@
+etri#doc_4380.txt 7 풍기다 ----- 3:3-ARGM-LOC(SRC) 4:1-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_4380.txt 10 드러나다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_4380.txt 13 들어가다 ----- 13:0-rel
+etri#doc_4380.txt 15 나오다 ----- 15:0-rel
+etri#doc_4380.txt 20 이루다 ----- 7:3-ARGM-DIS() 11:4-ARG0(AGT) 12:1-ARGM-DIS() 17:3-ARG0(AGT) 19:2-ARG1(THM) 20:0-rel

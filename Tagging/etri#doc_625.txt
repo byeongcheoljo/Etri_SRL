@@ -1,0 +1,4 @@
+etri#doc_625.txt 4 높아지다 ----- 2:2-ARGM-ADV(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_625.txt 8 담당하다 ----- 5:1-ARGM-TMP() 7:2-ARG1(THM) 8:0-rel
+etri#doc_625.txt 12 담당하다 ----- 9:4-ARG0(AGT) 10:1-ARGM-TMP(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_625.txt 15 높아지다 ----- 4:2-ARGM-CAU() 12:2-ARGM-CAU() 14:2-ARG1(THM) 15:0-rel

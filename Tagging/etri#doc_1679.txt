@@ -1,0 +1,4 @@
+etri#doc_1679.txt 4 주무르다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_1679.txt 9 트다 ----- 4:2-ARGM-DIS() 6:2-ARGM-INS(INS) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1679.txt 17 드러내다 ----- 15:2-ARG1() 16:1-ARGM-DIS(THM) 17:0-rel
+etri#doc_1679.txt 19 되다 ----- 1:1-ARG0(AGT) 13:4-ARGM-CAU(EFF) 18:3-ARG1() 19:0-rel

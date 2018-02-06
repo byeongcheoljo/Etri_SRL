@@ -1,0 +1,4 @@
+etri#doc_5342.txt 11 총동원하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_5342.txt 14 강조하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5342.txt 18 규정하다 ----- 14:3-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel
+etri#doc_5342.txt 20 정당화시키다 ----- 1:1-ARGM-DIS() 3:2-ARGM-TMP(LOC) 4:1-ARG0(AGT) 11:5-ARGM-MNR() 18:3-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

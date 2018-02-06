@@ -1,0 +1,1 @@
+etri#doc_8447.txt 15 높아지다 ----- 1:1-ARGM-DIS() 9:4-ARG1(THM) 11:2-ARG2(SRC) 12:1-ARGM-TMP(LOC) 13:1-ARG3(GOL) 14:1-ARGM-EXT() 15:0-rel

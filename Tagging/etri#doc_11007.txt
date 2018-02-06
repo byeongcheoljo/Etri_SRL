@@ -1,0 +1,1 @@
+etri#doc_11007.txt 17 생각하다 ----- 4:3-ARGM-LOC(LOC) 16:6-ARG1(THM) 17:0-rel

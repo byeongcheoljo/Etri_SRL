@@ -1,0 +1,2 @@
+etri#doc_3714.txt 6 ³»¸ô¸®´Ù ----- 5:2-ARG3(GOL) 6:0-rel
+etri#doc_3714.txt 13 ±»¾îÁö´Ù ----- 12:2-ARGM-LOC(LOC) 13:0-rel

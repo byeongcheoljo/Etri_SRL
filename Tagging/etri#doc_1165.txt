@@ -1,0 +1,6 @@
+etri#doc_1165.txt 2 받다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1165.txt 6 적출하다 ----- 3:3-ARGM-DIR(DIR) 5:2-ARG1(THM) 6:0-rel
+etri#doc_1165.txt 7 병들다 ----- 7:0-rel
+etri#doc_1165.txt 10 죽다 ----- 9:3-ARGM-CAU(CNT) 10:0-rel
+etri#doc_1165.txt 13 살리다 ----- 12:6-ARGM-DIS() 13:0-rel
+etri#doc_1165.txt 18 대서특필하다 ----- 14:8-ARGM-ADV(THM) 16:2-ARGM-INS(INS) 17:1-ARG0(EFF) 18:0-rel

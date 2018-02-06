@@ -1,0 +1,3 @@
+etri#doc_3006.txt 12 이르다 ----- 7:5-ARGM-DIS() 11:4-ARG3(FNS) 12:0-rel
+etri#doc_3006.txt 15 추구하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_3006.txt 17 안다 ----- 2:2-ARGM-LOC(AGT) 12:5-ARGM-TMP() 16:4-ARG1(THM) 17:0-rel

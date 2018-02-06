@@ -1,0 +1,5 @@
+etri#doc_902.txt 2 거두다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_902.txt 6 오다 ----- 5:2-ARG3(GOL) 6:0-rel
+etri#doc_902.txt 8 넣다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_902.txt 12 벌리다 ----- 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_902.txt 14 넣다 ----- 8:2-ARGM-DIS() 10:2-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

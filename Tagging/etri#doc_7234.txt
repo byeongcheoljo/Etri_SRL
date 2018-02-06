@@ -1,0 +1,5 @@
+etri#doc_7234.txt 5 거느리다 ----- 3:1-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_7234.txt 7 싸우다 ----- 6:1-ARG1(COM) 7:0-rel
+etri#doc_7234.txt 10 공략하다 ----- 8:3-ARGM-TMP(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_7234.txt 13 불사르다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_7234.txt 17 욕보이다 ----- 2:2-ARG0(AGT) 5:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARGM-TMP(LOC) 16:2-ARG1(THM) 17:0-rel

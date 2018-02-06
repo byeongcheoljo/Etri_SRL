@@ -1,0 +1,2 @@
+etri#doc_11160.txt 5 Áñ±â´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11160.txt 13 ¹úÀÌ´Ù ----- 5:2-ARGM-TMP() 7:2-ARG0(AGT) 8:1-ARGM-TMP() 10:2-ARGM-ADV(EFF) 12:2-ARG1(THM) 13:0-rel

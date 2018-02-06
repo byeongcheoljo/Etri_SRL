@@ -1,0 +1,5 @@
+etri#doc_8328.txt 5 빠지다 ----- 3:2-ARGM-CAU(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_8328.txt 8 두다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_8328.txt 12 뽑다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8328.txt 13 치료하다 ----- 12:2-ARGM-MNR() 13:0-rel
+etri#doc_8328.txt 15 심다 ----- 10:2-ARGM-CND() 13:3-ARGM-TMP() 14:1-ARGM-MNR() 15:0-rel

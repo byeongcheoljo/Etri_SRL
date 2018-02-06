@@ -1,0 +1,5 @@
+etri#doc_4949.txt 2 강조하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_4949.txt 6 기울다 ----- 5:2-ARG2(DIR) 6:0-rel
+etri#doc_4949.txt 9 현존하다 ----- 9:0-rel
+etri#doc_4949.txt 14 간주하다 ----- 10:2-ARG1(THM) 13:3-ARG1(FNS) 14:0-rel
+etri#doc_4949.txt 16 거부하다 ----- 7:4-ARG0(AGT) 8:1-ARGM-DIS() 14:4-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

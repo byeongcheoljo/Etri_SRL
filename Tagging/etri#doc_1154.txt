@@ -1,0 +1,1 @@
+etri#doc_1154.txt 10 차지하다 ----- 5:4-ARGM-DIS() 6:1-ARG0(THM) 9:3-ARGM-LOC(LOC) 10:0-rel

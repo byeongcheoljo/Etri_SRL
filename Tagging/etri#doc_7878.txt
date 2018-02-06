@@ -1,0 +1,2 @@
+etri#doc_7878.txt 8 제시되다 ----- 6:2-ARGM-LOC(LOC) 7:1-ARG2(GOL) 8:0-rel
+etri#doc_7878.txt 17 제시되다 ----- 3:3-ARG1(THM) 8:2-ARGM-DIS() 16:5-ARGM-LOC(SRC) 17:0-rel

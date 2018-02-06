@@ -1,0 +1,2 @@
+etri#doc_3299.txt 13 추구하다 ----- 5:3-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_3299.txt 18 드러나다 ----- 13:3-ARGM-DIS() 15:2-ARG1(THM) 17:2-ARGM-MNR(INS) 18:0-rel

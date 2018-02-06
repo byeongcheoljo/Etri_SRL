@@ -1,0 +1,4 @@
+etri#doc_289.txt 4 ¼Ò¿ÜµÇ´Ù ----- 3:2-ARG2(AGT) 4:0-rel
+etri#doc_289.txt 5 Åð¶ôÇÏ´Ù ----- 5:0-rel
+etri#doc_289.txt 13 ¹¯´Ù ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_289.txt 15 ÀÒ´Ù ----- 1:1-ARGM-DIS() 8:4-ARG0(SRC) 14:5-ARG1(THM) 15:0-rel

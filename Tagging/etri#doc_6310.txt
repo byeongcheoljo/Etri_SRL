@@ -1,0 +1,5 @@
+etri#doc_6310.txt 3 쌓다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6310.txt 5 퍼내다 ----- 3:2-ARGM-DIS() 4:1-(THM) 5:0-rel
+etri#doc_6310.txt 7 만들다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6310.txt 12 괴다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_6310.txt 17 배다 ----- 14:6-ARGM-DIS() 15:1-ARGM-LOC(GOL) 16:1-ARG1(THM) 17:0-rel

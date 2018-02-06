@@ -1,0 +1,2 @@
+etri#doc_8227.txt 9 집중화되다 ----- 8:1-ARGM-EXT() 9:0-rel
+etri#doc_8227.txt 13 얻다 ----- 7:3-ARG0(AGT) 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

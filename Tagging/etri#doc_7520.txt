@@ -1,0 +1,4 @@
+etri#doc_7520.txt 8 깨어나다 ----- 2:1-ARG0(EXP) 7:2-ARG1(SRC) 8:0-rel
+etri#doc_7520.txt 12 논의되다 ----- 8:3-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7520.txt 16 제기되다 ----- 12:2-ARGM-MNR() 13:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7520.txt 21 알다 ----- 1:1-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-MNR() 19:2-ARG1(THM) 20:1-ARGM-MNR(INS) 21:0-rel

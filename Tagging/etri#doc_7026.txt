@@ -1,0 +1,3 @@
+etri#doc_7026.txt 4 제기하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7026.txt 7 실현하다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_7026.txt 16 깔리다 ----- 5:4-ARGM-LOC(LOC) 15:7-ARG1(THM) 16:0-rel

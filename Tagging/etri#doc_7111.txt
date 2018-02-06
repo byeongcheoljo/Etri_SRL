@@ -1,0 +1,5 @@
+etri#doc_7111.txt 4 주목하다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_7111.txt 7 나오다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_7111.txt 13 도입되다 ----- 11:2-ARG2(LOC) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_7111.txt 17 직면하다 ----- 16:2-ARG1(LOC) 17:0-rel
+etri#doc_7111.txt 18 퇴조하다 ----- 9:2-ARG1(THM) 17:3-ARGM-DIS() 18:0-rel

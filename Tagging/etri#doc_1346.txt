@@ -1,0 +1,3 @@
+etri#doc_1346.txt 15 직시하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1346.txt 19 보다 ----- 17:4-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel
+etri#doc_1346.txt 22 생각하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-ADV(EFF) 21:4-ARGM-DIS() 22:0-rel

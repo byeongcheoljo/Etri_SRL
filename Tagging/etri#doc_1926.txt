@@ -1,0 +1,5 @@
+etri#doc_1926.txt 7 관련짓다 ----- 6:2-ARG1(SRC) 7:0-rel
+etri#doc_1926.txt 8 이해하다 ----- 7:3-ARGM-DIS() 8:0-rel
+etri#doc_1926.txt 15 인정하다 ----- 11:2-ARG0(MAG) 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:1-ARG1(FNS) 15:0-rel
+etri#doc_1926.txt 16 멀리하다 ----- 15:2-ARGM-DIS() 16:0-rel
+etri#doc_1926.txt 17 알다 ----- 3:3-ARG1(THM) 8:4-ARGM-DIS() 9:1-ARGM-EXT() 16:3-ARG1(THM) 17:0-rel

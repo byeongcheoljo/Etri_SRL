@@ -1,0 +1,6 @@
+etri#doc_11443.txt 2 작성하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_11443.txt 5 소개하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11443.txt 9 나타나다 ----- 8:2-ARG2(LOC) 9:0-rel
+etri#doc_11443.txt 16 소개하다 ----- 16:0-rel
+etri#doc_11443.txt 17 검토하다 ----- 6:1-ARGM-TMP() 14:2-ARG1(THM) 15:1-ARGM-TMP() 16:1-ARGM-DIS() 17:0-rel
+etri#doc_11443.txt 19 출발하다 ----- 5:3-ARGM-TMP() 18:3-ARG2(SRC) 19:0-rel

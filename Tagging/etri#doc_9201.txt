@@ -1,0 +1,6 @@
+etri#doc_9201.txt 3 찾아오다 ----- 2:2-ARG0(AGT) 3:0-rel
+etri#doc_9201.txt 8 끝나다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_9201.txt 11 오다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_9201.txt 14 하다 ----- 4:1-ARGM-TMP(LOC) 5:1-ARG3(GOL) 8:3-ARGM-TMP(LOC) 12:4-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_9201.txt 17 부탁하다 ----- 3:3-ARG0(AGT) 14:2-ARGM-DIS() 16:2-ARGM-MNR() 17:0-rel
+etri#doc_9201.txt 19 보다 ----- 18:4-ARG1(THM) 19:0-rel

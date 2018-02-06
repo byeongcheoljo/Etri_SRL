@@ -1,0 +1,7 @@
+etri#doc_7470.txt 8 업다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_7470.txt 10 뻗치다 ----- 9:1-ARG3(GOL) 10:0-rel
+etri#doc_7470.txt 12 포함하다 ----- 8:2-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel
+etri#doc_7470.txt 13 일어나다 ----- 1:1-ARG1(THM) 6:3-ARGM-LOC(LOC) 12:4-ARGM-DIS() 13:0-rel
+etri#doc_7470.txt 14 보다 ----- 13:5-ARGM-DIS() 14:0-rel
+etri#doc_7470.txt 18 보다 ----- 17:1-ARGM-MNR(INS) 18:0-rel
+etri#doc_7470.txt 20 되다 ----- 14:6-ARGM-DIS() 16:2-ARG1(THM) 19:3-ARG2(FNS) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8630.txt 3 보다 ----- 1:1-ARGM-TMP() 2:1-ARGM-TMP() 3:0-rel
+etri#doc_8630.txt 11 나서다 ----- 7:4-ARG0(AGT) 8:1-ARG0(AGT) 9:1-ARGM-MNR() 10:1-ARG1(LOC) 11:0-rel
+etri#doc_8630.txt 17 움직이다 ----- 3:2-ARGM-EXT() 11:2-ARGM-DIS() 15:2-ARG0(AGT) 16:1-ARGM-DIS(CNT) 17:0-rel

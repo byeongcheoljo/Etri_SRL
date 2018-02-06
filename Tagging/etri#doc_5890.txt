@@ -1,0 +1,2 @@
+etri#doc_5890.txt 5 행사되다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5890.txt 15 쌓이다 ----- 14:1-ARG2(LOC) 15:0-rel

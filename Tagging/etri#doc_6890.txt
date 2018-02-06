@@ -1,0 +1,5 @@
+etri#doc_6890.txt 8 독차지하다 ----- 2:2-ARG0(AGT) 5:3-ARGM-MNR(INS) 7:2-ARG1(THM) 8:0-rel
+etri#doc_6890.txt 11 되다 ----- 10:2-ARG2(FNS) 11:0-rel
+etri#doc_6890.txt 16 받아들이다 ----- 13:1-ARG0() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_6890.txt 18 해치다 ----- 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_6890.txt 21 삼다 ----- 8:3-ARGM-DIS() 12:4-ARG0(AGT) 19:3-ARG1(THM) 20:1-ARG2(FNS) 21:0-rel

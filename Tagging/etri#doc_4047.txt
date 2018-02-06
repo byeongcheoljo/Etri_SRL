@@ -1,0 +1,4 @@
+etri#doc_4047.txt 2 폭행하다 ----- 1:1-ARG1(GOL) 2:0-rel
+etri#doc_4047.txt 10 하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4047.txt 14 잡다 ----- 8:1-ARGM-TMP(FNS) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4047.txt 16 넘기다 ----- 7:3-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG3(GOL) 16:0-rel

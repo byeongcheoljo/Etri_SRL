@@ -1,0 +1,5 @@
+etri#doc_2791.txt 6 들어오다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:1-ARG3(GOL) 6:0-rel
+etri#doc_2791.txt 8 하다 ----- 1:1-ARGM-ADV(COM) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_2791.txt 17 가다 ----- 16:1-ARGM-DIR(DIR) 17:0-rel
+etri#doc_2791.txt 18 사용하다 ----- 14:1-ARG1(THM) 15:1-ARGM-MNR() 17:2-ARGM-DIS() 18:0-rel
+etri#doc_2791.txt 21 알아듣다 ----- 13:2-ARGM-DIS() 18:3-ARGM-DIS() 20:2-ARGM-LOC(LOC) 21:0-rel

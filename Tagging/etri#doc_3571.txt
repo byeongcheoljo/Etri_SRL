@@ -1,0 +1,1 @@
+etri#doc_3571.txt 13 Àû´Ù ----- 2:2-ARG2(LOC) 3:1-ARGM-DIS() 12:3-ARG1() 13:0-rel

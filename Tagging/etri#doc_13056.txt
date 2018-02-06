@@ -1,0 +1,4 @@
+etri#doc_13056.txt 4 구성되다 ----- 3:2-ARG2(INS) 4:0-rel
+etri#doc_13056.txt 8 열다 ----- 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_13056.txt 15 결정하다 ----- 8:2-ARGM-DIS() 9:1-ARGM-TMP(GOL) 10:1-ARGM-EXT(CRT) 14:4-ARG1(THM) 15:0-rel
+etri#doc_13056.txt 17 통보하다 ----- 5:4-ARG0(AGT) 15:5-ARGM-DIS() 16:1-ARG2(GOL) 17:0-rel

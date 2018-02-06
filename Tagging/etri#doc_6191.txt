@@ -1,0 +1,3 @@
+etri#doc_6191.txt 4 만지다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6191.txt 17 내다 ----- 12:3-ARGM-LOC(LOC) 16:3-ARG1(Npr) 17:0-rel
+etri#doc_6191.txt 19 울리다 ----- 1:1-ARGM-DIS() 8:3-ARGM-CND() 9:1-ARG0(AGT) 18:5-ARG1(THM) 19:0-rel

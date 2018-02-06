@@ -1,0 +1,2 @@
+etri#doc_586.txt 4 생활화하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_586.txt 15 받다 ----- 7:2-ARGM-DIS() 10:2-ARGM-CAU() 13:2-ARGM-LOC(FNS) 14:1-ARG1(THM) 15:0-rel

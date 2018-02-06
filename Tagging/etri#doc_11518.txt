@@ -1,0 +1,4 @@
+etri#doc_11518.txt 4 집중되다 ----- 2:1-ARG1(THM) 3:1-ARG2(GOL) 4:0-rel
+etri#doc_11518.txt 9 일으키다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_11518.txt 11 발생하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11518.txt 14 높아지다 ----- 1:1-ARGM-LOC(LOC) 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

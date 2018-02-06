@@ -1,0 +1,6 @@
+etri#doc_8151.txt 3 돌아다니다 ----- 2:2-ARG1(LOC) 3:0-rel
+etri#doc_8151.txt 4 사냥하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_8151.txt 5 기르다 ----- 5:0-rel
+etri#doc_8151.txt 7 낳다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8151.txt 9 잡아먹다 ----- 4:4-ARGM-DIS() 5:1-ARGM-DIS() 8:3-ARGM-TMP() 9:0-rel
+etri#doc_8151.txt 14 기울이다 ----- 9:4-ARGM-DIS() 10:1-ARG2(GOL) 13:3-ARG1(Npr) 14:0-rel

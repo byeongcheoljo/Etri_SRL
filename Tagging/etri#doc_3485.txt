@@ -1,0 +1,4 @@
+etri#doc_3485.txt 4 열리다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_3485.txt 6 참석하다 ----- 5:3-ARG1(LOC) 6:0-rel
+etri#doc_3485.txt 11 갖다 ----- 6:4-ARGM-DIS() 7:1-ARGM-TMP() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3485.txt 15 협의하다 ----- 11:4-ARGM-DIS() 13:2-ARG2(COM) 14:1-ARG1(THM) 15:0-rel

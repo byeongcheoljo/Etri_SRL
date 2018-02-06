@@ -1,0 +1,3 @@
+etri#doc_2798.txt 2 인정받다 ----- 1:1-ARGM-LOC(MAG) 2:0-rel
+etri#doc_2798.txt 17 깨닫다 ----- 16:4-ARG1(THM) 17:0-rel
+etri#doc_2798.txt 22 확인하다 ----- 17:5-ARGM-DIS() 21:2-ARG1(THM) 22:0-rel

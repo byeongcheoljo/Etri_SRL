@@ -1,0 +1,3 @@
+etri#doc_8202.txt 6 지니다 ----- 5:2-ARG0(EXP) 6:0-rel
+etri#doc_8202.txt 10 되다 ----- 8:2-ARG1(THM) 9:1-ARG2(FNS) 10:0-rel
+etri#doc_8202.txt 14 하다 ----- 10:2-ARGM-CND() 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:0-rel

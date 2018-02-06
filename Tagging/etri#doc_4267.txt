@@ -1,0 +1,4 @@
+etri#doc_4267.txt 4 몰락하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4267.txt 6 상실하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_4267.txt 9 닥쳐오다 ----- 6:2-ARGM-MNR(COM) 8:2-ARG0(AGT) 9:0-rel
+etri#doc_4267.txt 16 지배하다 ----- 2:2-ARGM-TMP() 9:3-ARGM-DIS() 10:1-ARGM-TMP() 11:1-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

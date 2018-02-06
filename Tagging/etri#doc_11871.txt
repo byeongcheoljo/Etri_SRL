@@ -1,0 +1,5 @@
+etri#doc_11871.txt 10 휩쓸다 ----- 6:5-ARGM-MNR(INS) 8:2-ARG0(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11871.txt 14 발견되다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_11871.txt 17 흥분되다 ----- 16:2-ARGM-INS(INS) 17:0-rel
+etri#doc_11871.txt 19 가지다 ----- 18:4-ARG1(THM) 19:0-rel
+etri#doc_11871.txt 21 토하다 ----- 10:2-ARGM-DIS() 11:1-ARG0(EXP) 19:5-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

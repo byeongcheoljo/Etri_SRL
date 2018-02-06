@@ -1,0 +1,4 @@
+etri#doc_3293.txt 6 부응하다 ----- 5:2-ARG1(GOL) 6:0-rel
+etri#doc_3293.txt 9 가지다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3293.txt 15 갖다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_3293.txt 18 생산하다 ----- 1:1-ARG0(AGT) 6:3-ARGM-PRP() 11:5-ARGM-CND() 17:2-ARG1(THM) 18:0-rel

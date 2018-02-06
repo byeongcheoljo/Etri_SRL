@@ -1,0 +1,4 @@
+etri#doc_4653.txt 5 조절되다 ----- 2:1-ARG1(THM) 3:1-ARGM-INS(INS) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_4653.txt 9 일어나다 ----- 7:1-ARG1(THM) 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_4653.txt 14 계속하다 ----- 14:0-rel
+etri#doc_4653.txt 16 복구되다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 13:2-ARGM-CND() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

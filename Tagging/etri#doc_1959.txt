@@ -1,0 +1,4 @@
+etri#doc_1959.txt 4 품다 ----- 4:0-rel
+etri#doc_1959.txt 6 불태우다 ----- 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_1959.txt 9 붙이다 ----- 7:1-ARGM-LOC(GOL) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1959.txt 10 날리다 ----- 2:1-ARG0() 6:3-ARGM-PRP() 9:2-ARGM-DIS() 10:0-rel

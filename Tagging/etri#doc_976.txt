@@ -1,0 +1,5 @@
+etri#doc_976.txt 5 나오다 ----- 2:2-ARGM-CAU(EFF) 4:2-ARG1(THM) 5:0-rel
+etri#doc_976.txt 6 모르다 ----- 5:3-ARG1() 6:0-rel
+etri#doc_976.txt 10 먹다 ----- 8:2-() 9:1-ARG0(AGT) 10:0-rel
+etri#doc_976.txt 13 느끼다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_976.txt 15 쓰다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

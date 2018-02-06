@@ -1,0 +1,5 @@
+etri#doc_5096.txt 8 파묻히다 ----- 7:1-ARG2(LOC) 8:0-rel
+etri#doc_5096.txt 10 죽이다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_5096.txt 11 살아가다 ----- 1:1-ARGM-TMP() 4:2-ARGM-DIS() 6:2-ARG0(AGT) 8:2-ARGM-MNR() 10:2-ARGM-MNR() 11:0-rel
+etri#doc_5096.txt 16 뭉치다 ----- 14:2-ARG0(AGT) 15:1-ARGM-PRP(FNS) 16:0-rel
+etri#doc_5096.txt 18 오다 ----- 11:3-ARGM-DIS() 12:1-ARGM-TMP() 17:3-ARG1(THM) 18:0-rel

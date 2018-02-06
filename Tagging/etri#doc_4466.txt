@@ -1,0 +1,6 @@
+etri#doc_4466.txt 3 비하다 ----- 2:2-ARG2(CRT) 3:0-rel
+etri#doc_4466.txt 7 단정하다 ----- 7:0-rel
+etri#doc_4466.txt 9 서다 ----- 4:1-ARGM-TMP() 6:2-ARG1(LOC) 8:2-ARGM-MNR(INS) 9:0-rel
+etri#doc_4466.txt 11 신다 ----- 10:4-ARG0(AGT) 11:0-rel
+etri#doc_4466.txt 15 닦다 ----- 14:1-ARGM-MNR() 15:0-rel
+etri#doc_4466.txt 17 발하다 ----- 3:3-ARGM-DIS() 13:2-ARG0(EFF) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

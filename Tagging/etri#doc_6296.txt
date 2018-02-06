@@ -1,0 +1,7 @@
+etri#doc_6296.txt 5 태어나다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_6296.txt 10 타락하다 ----- 9:2-ARG1(LOC) 10:0-rel
+etri#doc_6296.txt 12 공격하다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_6296.txt 13 억눌리다 ----- 13:0-rel
+etri#doc_6296.txt 14 굶주리다 ----- 13:1-ARGM-DIS() 14:0-rel
+etri#doc_6296.txt 15 헐벗다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_6296.txt 17 싸우다 ----- 1:1-ARG0(AGT) 5:4-ARGM-DIS() 7:2-ARGM-TMP() 12:5-ARGM-DIS() 16:4-ARGM-PRP(PUR) 17:0-rel

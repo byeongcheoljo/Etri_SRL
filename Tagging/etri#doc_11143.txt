@@ -1,0 +1,2 @@
+etri#doc_11143.txt 16 규정되다 ----- 11:1-ARGM-DIS() 15:2-ARGM-ADV(EFF) 16:0-rel
+etri#doc_11143.txt 19 탄생시키다 ----- 2:2-ARG0(AGT) 18:2-ARG1(THM) 19:0-rel

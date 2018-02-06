@@ -1,0 +1,3 @@
+etri#doc_1239.txt 3 하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1239.txt 10 하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1239.txt 14 내버리다 ----- 7:2-ARGM-DIS() 11:4-ARG0(AGT) 13:2-ARG1(THM) 14:0-rel

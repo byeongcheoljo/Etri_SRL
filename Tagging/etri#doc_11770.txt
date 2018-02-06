@@ -1,0 +1,6 @@
+etri#doc_11770.txt 4 둘러싸다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11770.txt 7 담기다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11770.txt 9 나누다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_11770.txt 11 읽다 ----- 11:0-rel
+etri#doc_11770.txt 12 요약하다 ----- 10:1-ARG1(THM) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_11770.txt 14 가지다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARGM-TMP(LOC) 9:5-ARGM-TMP() 13:3-ARG1(THM) 14:0-rel

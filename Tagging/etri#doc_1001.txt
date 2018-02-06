@@ -1,0 +1,3 @@
+etri#doc_1001.txt 11 살아가다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1001.txt 14 되다 ----- 12:3-ARG1(THM) 13:1-ARG2(FNS) 14:0-rel
+etri#doc_1001.txt 15 늙다 ----- 15:0-rel

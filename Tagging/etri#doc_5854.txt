@@ -1,0 +1,5 @@
+etri#doc_5854.txt 3 지원하다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_5854.txt 9 밀려나다 ----- 8:1-ARG3(DIR) 9:0-rel
+etri#doc_5854.txt 11 구하다 ----- 7:3-ARGM-CAU(EFF) 10:3-ARG1(THM) 11:0-rel
+etri#doc_5854.txt 15 잊다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_5854.txt 19 다가오다 ----- 12:5-ARG0(AGT) 15:3-ARGM-DIS() 16:1-ARGM-INS(INS) 17:1-ARG3(GOL) 18:1-ARGM-MNR() 19:0-rel

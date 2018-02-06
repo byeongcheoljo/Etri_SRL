@@ -1,0 +1,4 @@
+etri#doc_5761.txt 7 설정하다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_5761.txt 10 멍들다 ----- 10:0-rel
+etri#doc_5761.txt 12 받다 ----- 9:2-ARGM-CAU(EFF) 10:1-ARGM-DIS() 11:1-ARG1() 12:0-rel
+etri#doc_5761.txt 16 구체화하다 ----- 1:1-ARGM-DIS() 4:2-ARG0(AGT) 7:2-ARGM-DIS() 13:3-ARGM-INS(INS) 15:2-ARG1(THM) 16:0-rel

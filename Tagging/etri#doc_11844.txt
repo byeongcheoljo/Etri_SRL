@@ -1,0 +1,1 @@
+etri#doc_11844.txt 9 ²¨³»´Ù ----- 2:2-ARG1(THM) 3:1-ARG0(AGT) 5:2-ARGM-INS(INS) 7:2-ARGM-TMP() 8:1-ARGM-MNR() 9:0-rel

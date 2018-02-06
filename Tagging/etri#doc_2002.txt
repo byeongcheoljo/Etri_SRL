@@ -1,0 +1,1 @@
+etri#doc_2002.txt 12 태어나다 ----- 1:1-ARG1(THM) 10:3-ARGM-LOC(LOC) 11:1-ARG2(LOC) 12:0-rel

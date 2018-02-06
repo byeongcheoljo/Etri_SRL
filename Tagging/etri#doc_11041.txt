@@ -1,0 +1,3 @@
+etri#doc_11041.txt 8 ´À³¢´Ù ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_11041.txt 13 ºüÁö´Ù ----- 8:3-ARGM-DIS() 10:2-ARGM-CND() 11:1-ARGM-EXT() 12:1-ARG2(GOL) 13:0-rel
+etri#doc_11041.txt 17 ÀÒ´Ù ----- 2:2-ARG0(SRC) 13:2-ARGM-DIS() 15:2-ARGM-CND() 16:1-ARG1(THM) 17:0-rel

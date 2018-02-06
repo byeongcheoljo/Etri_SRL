@@ -1,0 +1,2 @@
+etri#doc_5282.txt 10 양분하다 ----- 3:1-ARG1(THM) 9:3-ARGM-MNR(INS) 10:0-rel
+etri#doc_5282.txt 17 발견하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC() 16:4-ARG1(THM) 17:0-rel

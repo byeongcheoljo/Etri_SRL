@@ -1,0 +1,6 @@
+etri#doc_8884.txt 2 끊다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8884.txt 4 버리다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_8884.txt 8 되다 ----- 4:2-ARGM-CND() 6:2-ARG1(THM) 7:1-ARG2(CRT) 8:0-rel
+etri#doc_8884.txt 10 버리다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_8884.txt 18 버리다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_8884.txt 20 해석하다 ----- 11:5-ARG1(THM) 19:4-ARGM-MNR(FNS) 20:0-rel

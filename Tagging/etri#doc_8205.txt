@@ -1,0 +1,4 @@
+etri#doc_8205.txt 4 돌다 ----- 3:2-ARG1(LOC) 4:0-rel
+etri#doc_8205.txt 5 느끼다 ----- 4:3-ARGM-DIS() 5:0-rel
+etri#doc_8205.txt 15 형상화하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR(FNS) 15:0-rel
+etri#doc_8205.txt 16 말하다 ----- 1:1-ARG0(AGT) 15:2-ARG1(CNT) 16:0-rel

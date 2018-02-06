@@ -1,0 +1,4 @@
+etri#doc_8562.txt 10 탈피하다 ----- 9:4-ARG1(SRC) 10:0-rel
+etri#doc_8562.txt 15 성취하다 ----- 10:5-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel
+etri#doc_8562.txt 17 변화시키다 ----- 16:6-ARGM-MNR(FNS) 17:0-rel
+etri#doc_8562.txt 18 지적되다 ----- 5:3-ARG1(THM) 17:7-ARG1() 18:0-rel

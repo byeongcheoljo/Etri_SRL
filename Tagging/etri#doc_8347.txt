@@ -1,0 +1,4 @@
+etri#doc_8347.txt 3 하다 ----- 2:2-ARGM-DIR(DIR) 3:0-rel
+etri#doc_8347.txt 7 종사하다 ----- 6:2-ARG1(LOC) 7:0-rel
+etri#doc_8347.txt 10 통하다 ----- 9:5-ARGM-LOC(LOC) 10:0-rel
+etri#doc_8347.txt 16 가정하다 ----- 4:4-ARGM-LOC(LOC) 15:2-ARG1() 16:0-rel

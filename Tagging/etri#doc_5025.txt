@@ -1,0 +1,5 @@
+etri#doc_5025.txt 3 맞다 ----- 2:1-ARG2() 3:0-rel
+etri#doc_5025.txt 5 두다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_5025.txt 9 막론하다 ----- 8:2-ARG2(THM) 9:0-rel
+etri#doc_5025.txt 13 걸리다 ----- 10:1-ARGM-ADV(CNT) 11:1-ARGM-MNR() 12:1-ARG1(GOL) 13:0-rel
+etri#doc_5025.txt 15 주다 ----- 1:1-ARGM-CND() 6:5-ARG0(AGT) 9:3-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

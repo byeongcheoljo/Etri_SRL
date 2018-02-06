@@ -1,0 +1,2 @@
+etri#doc_9931.txt 9 들다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_9931.txt 17 흩날리다 ----- 1:1-ARG0(AGT) 3:2-ARGM-LOC(LOC) 9:4-ARGM-DIS() 13:4-ARG1(THM) 15:2-ARGM-LOC(LOC) 16:1-ARGM-MNR() 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_7705.txt 4 타고나다 ----- 4:0-rel
+etri#doc_7705.txt 9 살아가다 ----- 5:2-ARGM-MNR(INS) 6:1-ARGM-MNR(INS) 7:1-ARGM-MNR(INS) 8:1-ARGM-PRD(EFF) 9:0-rel
+etri#doc_7705.txt 11 적응하다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_7705.txt 12 생각하다 ----- 12:0-rel
+etri#doc_7705.txt 13 선택하다 ----- 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7705.txt 15 발전시키다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 9:2-ARGM-DIS() 11:2-ARGM-PRP() 14:3-ARG1(THM) 15:0-rel

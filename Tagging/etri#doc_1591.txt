@@ -1,0 +1,1 @@
+etri#doc_1591.txt 16 °¡Áö´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(THM) 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1448.txt 2 하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_1448.txt 10 쓰이다 ----- 9:1-ARGM-INS(INS) 10:0-rel
+etri#doc_1448.txt 13 빨아들이다 ----- 11:3-ARG0(THM) 12:1-ARG1(THM) 13:0-rel

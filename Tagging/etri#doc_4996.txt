@@ -1,0 +1,4 @@
+etri#doc_4996.txt 5 발붙이다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_4996.txt 8 만들다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4996.txt 10 놓치다 ----- 1:1-ARGM-TMP(LOC) 3:2-ARGM-DIS() 9:4-ARG1(THM) 10:0-rel
+etri#doc_4996.txt 16 놓치다 ----- 10:5-ARGM-DIS() 11:1-ARGM-TMP() 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_859.txt 7 따먹다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_859.txt 8 하다 ----- 5:1-ARGM-LOC(LOC) 7:2-ARG1() 8:0-rel
+etri#doc_859.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_859.txt 13 설치다 ----- 11:2-ARGM-DIS() 12:1-ARGM-INS(INS) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1942.txt 3 구가하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1942.txt 5 늘다 ----- 3:3-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_1942.txt 10 다가오다 ----- 8:3-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_1942.txt 12 증가하다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_1942.txt 15 대비하다 ----- 14:2-ARG1(GOL) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6409.txt 3 되다 ----- 1:1-ARG1(THM) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_6409.txt 17 하다 ----- 15:1-ARGM-TMP() 16:1-ARG1(THM) 17:0-rel
+etri#doc_6409.txt 21 되다 ----- 3:2-ARGM-ADV() 10:7-ARGM-DIS() 14:2-ARG1(THM) 20:2-ARG2(FNS) 21:0-rel

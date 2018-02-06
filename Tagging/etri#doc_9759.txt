@@ -1,0 +1,4 @@
+etri#doc_9759.txt 4 임하다 ----- 3:1-ARG1(LOC) 4:0-rel
+etri#doc_9759.txt 12 강화하다 ----- 10:1-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_9759.txt 14 기르다 ----- 8:6-ARGM-EXT() 9:1-ARG0(AGT) 12:2-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_9759.txt 17 보다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 14:2-ARGM-LOC() 16:2-ARG1(THM) 17:0-rel

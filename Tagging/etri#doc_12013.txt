@@ -1,0 +1,3 @@
+etri#doc_12013.txt 2 꾸리다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_12013.txt 13 활동하다 ----- 8:1-ARGM-LOC(LOC) 12:3-ARGM-INS(INS) 13:0-rel
+etri#doc_12013.txt 15 갖추다 ----- 3:3-ARG0(AGT) 7:2-ARGM-DIS() 14:5-ARG1(THM) 15:0-rel

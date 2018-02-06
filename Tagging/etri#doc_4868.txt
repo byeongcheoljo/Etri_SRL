@@ -1,0 +1,2 @@
+etri#doc_4868.txt 11 진출하다 ----- 7:5-ARGM-CND() 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4868.txt 13 따르다 ----- 12:1-ARG1(THM) 13:0-rel

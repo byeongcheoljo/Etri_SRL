@@ -1,0 +1,2 @@
+etri#doc_8815.txt 5 맺히다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_8815.txt 13 의심하다 ----- 8:6-ARGM-DIS() 12:2-ARG1() 13:0-rel

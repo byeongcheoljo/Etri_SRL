@@ -1,0 +1,5 @@
+etri#doc_1415.txt 4 임하다 ----- 2:1-ARG0(THM) 3:1-ARG1(LOC) 4:0-rel
+etri#doc_1415.txt 7 쌓다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1415.txt 9 방비하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1415.txt 13 지키다 ----- 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_1415.txt 19 되다 ----- 1:1-ARGM-DIS() 13:4-ARGM-CND() 15:2-ARG1(THM) 18:3-ARG2() 19:0-rel

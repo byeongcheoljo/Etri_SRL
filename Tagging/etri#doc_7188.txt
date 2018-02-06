@@ -1,0 +1,6 @@
+etri#doc_7188.txt 5 깔보다 ----- 3:3-ARG0(MAG) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7188.txt 9 갖다 ----- 7:1-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7188.txt 11 주다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_7188.txt 14 쥐다 ----- 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARG2(LOC) 14:0-rel
+etri#doc_7188.txt 15 만족하다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_7188.txt 17 말하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 15:3-ARGM-DIS() 16:1-ARGM-TMP() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6560.txt 4 계속하다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_6560.txt 11 조인하다 ----- 4:2-ARGM-DIS() 9:3-ARGM-TMP(LOC) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_6560.txt 13 모으다 ----- 1:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6560.txt 16 보도하다 ----- 13:2-ARG1() 15:2-ARG0(AGT) 16:0-rel

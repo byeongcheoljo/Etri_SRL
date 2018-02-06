@@ -1,0 +1,4 @@
+etri#doc_8621.txt 3 표현하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(FNS) 3:0-rel
+etri#doc_8621.txt 5 하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_8621.txt 9 쓰다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_8621.txt 15 반성하다 ----- 7:2-ARG1(THM) 12:5-ARG0(MAG) 14:2-ARGM-MNR() 15:0-rel

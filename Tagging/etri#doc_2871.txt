@@ -1,0 +1,5 @@
+etri#doc_2871.txt 3 밀다 ----- 2:1-ARGM-LOC() 3:0-rel
+etri#doc_2871.txt 5 밀리다 ----- 3:2-ARGM-DIS() 4:1-ARGM-LOC() 5:0-rel
+etri#doc_2871.txt 10 방황하다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARG1(LOC) 10:0-rel
+etri#doc_2871.txt 14 밀집하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2871.txt 17 싣다 ----- 1:1-ARGM-DIS() 7:2-ARG0(AGT) 12:2-ARG1(THM) 15:3-ARG2(GOL) 16:1-ARGM-MNR() 17:0-rel

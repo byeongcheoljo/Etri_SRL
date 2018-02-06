@@ -1,0 +1,5 @@
+etri#doc_2838.txt 4 다니다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(GOL) 3:1-() 4:0-rel
+etri#doc_2838.txt 7 입학하다 ----- 6:1-ARG1(GOL) 7:0-rel
+etri#doc_2838.txt 9 보내다 ----- 7:2-ARGM-TMP() 8:1-ARG1(GOL) 9:0-rel
+etri#doc_2838.txt 15 재촉하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_2838.txt 17 되다 ----- 4:2-ARGM-DIS() 13:3-ARG1(THM) 16:3-ARG2(FNS) 17:0-rel

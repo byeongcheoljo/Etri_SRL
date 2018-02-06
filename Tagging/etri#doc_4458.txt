@@ -1,0 +1,2 @@
+etri#doc_4458.txt 11 찌르다 ----- 9:1-ARGM-LOC(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4458.txt 14 서성이다 ----- 2:2-ARG0(THM) 8:4-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:1-ARG1(LOC) 14:0-rel

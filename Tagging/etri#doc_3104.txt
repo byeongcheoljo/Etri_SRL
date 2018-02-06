@@ -1,0 +1,2 @@
+etri#doc_3104.txt 16 접목되다 ----- 12:3-ARG1(THM) 14:2-ARG2(COM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_3104.txt 18 보여주다 ----- 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

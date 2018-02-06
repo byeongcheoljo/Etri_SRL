@@ -1,0 +1,6 @@
+etri#doc_11367.txt 2 떨어지다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_11367.txt 6 되다 ----- 4:1-ARG2(FNS) 5:1-ARGM-DIS() 6:0-rel
+etri#doc_11367.txt 8 쓰다 ----- 3:3-ARGM-LOC(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_11367.txt 11 찾다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11367.txt 13 받치다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11367.txt 15 자다 ----- 8:4-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

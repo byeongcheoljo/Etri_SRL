@@ -1,0 +1,3 @@
+etri#doc_3710.txt 7 지나치다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARG1(AGT) 7:0-rel
+etri#doc_3710.txt 11 드러내다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_3710.txt 14 불러일으키다 ----- 4:4-ARG0(EFF) 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1890.txt 5 들다 ----- 3:1-ARG0(AGT) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_1890.txt 12 보내다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_1890.txt 15 가리다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_1890.txt 17 보내오다 ----- 2:2-ARG0(AGT) 9:3-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3241.txt 11 알다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3241.txt 13 치료하다 ----- 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel

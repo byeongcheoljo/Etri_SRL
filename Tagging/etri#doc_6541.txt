@@ -1,0 +1,3 @@
+etri#doc_6541.txt 3 모시다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_6541.txt 14 뜨다 ----- 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:1-ARG2(LOC) 14:0-rel
+etri#doc_6541.txt 17 이러다 ----- 10:3-ARGM-DIS() 15:3-ARG1() 16:1-ARGM-DIS() 17:0-rel

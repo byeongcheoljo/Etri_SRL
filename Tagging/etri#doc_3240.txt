@@ -1,0 +1,5 @@
+etri#doc_3240.txt 4 세우다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_3240.txt 9 들다 ----- 4:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_3240.txt 13 들어가다 ----- 9:3-ARGM-DIS() 12:3-ARG3(GOL) 13:0-rel
+etri#doc_3240.txt 16 돌다 ----- 14:1-ARG1(LOC) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_3240.txt 18 올라가다 ----- 1:1-ARG0(AGT) 13:4-ARGM-DIS() 16:2-ARGM-MNR() 17:1-ARG3(GOL) 18:0-rel

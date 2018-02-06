@@ -1,0 +1,2 @@
+etri#doc_1425.txt 4 쓰이다 ----- 2:2-ARG0(THM) 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_1425.txt 15 알다 ----- 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

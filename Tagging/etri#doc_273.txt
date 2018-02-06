@@ -1,0 +1,3 @@
+etri#doc_273.txt 10 떨치다 ----- 7:3-ARGM-INS(INS) 9:2-ARG1(THM) 10:0-rel
+etri#doc_273.txt 13 만나다 ----- 4:1-ARGM-TMP(SRC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_273.txt 14 시작되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 3:1-ARG1(THM) 13:3-ARGM-TMP() 14:0-rel

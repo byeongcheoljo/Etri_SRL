@@ -1,0 +1,6 @@
+etri#doc_11777.txt 3 보내다 ----- 1:1-ARG1(THM) 2:1-ARG2(GOL) 3:0-rel
+etri#doc_11777.txt 6 보이다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_11777.txt 9 심취하다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_11777.txt 13 되다 ----- 10:1-ARG1(THM) 12:2-ARG2(FNS) 13:0-rel
+etri#doc_11777.txt 17 보내다 ----- 14:4-ARGM-TMP(LOC) 15:1-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel
+etri#doc_11777.txt 18 결심하다 ----- 7:4-ARG0(AGT) 9:2-ARGM-DIS() 17:2-ARGM-MNR() 18:0-rel

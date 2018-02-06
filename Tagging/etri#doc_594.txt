@@ -1,0 +1,1 @@
+etri#doc_594.txt 10 µÇ´Ù ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 9:2-ARG2(FNS) 10:0-rel

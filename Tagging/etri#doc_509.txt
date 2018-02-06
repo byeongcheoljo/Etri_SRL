@@ -1,0 +1,4 @@
+etri#doc_509.txt 3 일컫다 ----- 2:2-ARG2(CNT) 3:0-rel
+etri#doc_509.txt 14 주다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_509.txt 19 전하다 ----- 18:2-ARG1(THM) 19:0-rel
+etri#doc_509.txt 22 되다 ----- 4:4-ARG1(THM) 8:3-ARGM-DIS() 12:2-ARGM-LOC(LOC) 21:2-ARG2(FNS) 22:0-rel

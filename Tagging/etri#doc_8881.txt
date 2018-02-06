@@ -1,0 +1,6 @@
+etri#doc_8881.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8881.txt 7 알다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_8881.txt 10 쓰다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_8881.txt 12 부정하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_8881.txt 14 주장하다 ----- 4:1-ARG0(AGT) 7:3-ARGM-CAU() 8:1-ARGM-MNR(INS) 13:3-ARG1(THM) 14:0-rel
+etri#doc_8881.txt 15 생각되다 ----- 3:3-ARGM-CND() 14:4-ARG1() 15:0-rel

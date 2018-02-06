@@ -1,0 +1,2 @@
+etri#doc_280.txt 10 멀리하다 ----- 1:1-ARG0(AGT) 8:2-ARGM-CND() 9:1-ARG1(THM) 10:0-rel
+etri#doc_280.txt 16 하다 ----- 10:2-ARGM-CAU() 11:1-ARG2(GOL) 15:2-ARG1() 16:0-rel

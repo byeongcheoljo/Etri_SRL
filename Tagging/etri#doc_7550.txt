@@ -1,0 +1,4 @@
+etri#doc_7550.txt 5 무너지다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_7550.txt 7 살다 ----- 6:3-ARG2(LOC) 7:0-rel
+etri#doc_7550.txt 11 해결하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7550.txt 14 설파하다 ----- 8:5-ARG0(AGT) 12:4-ARGM-PRD(EFF) 13:1-ARG1(THM) 14:0-rel

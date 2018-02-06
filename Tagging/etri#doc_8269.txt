@@ -1,0 +1,7 @@
+etri#doc_8269.txt 4 쏠리다 ----- 1:1-ARG2(GOL) 3:2-ARG1(THM) 4:0-rel
+etri#doc_8269.txt 5 생각하다 ----- 4:3-ARG1() 5:0-rel
+etri#doc_8269.txt 7 내키다 ----- 5:4-ARGM-CAU() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8269.txt 10 휘청거리다 ----- 10:0-rel
+etri#doc_8269.txt 13 가르치다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_8269.txt 16 잡다 ----- 16:0-rel
+etri#doc_8269.txt 17 끌다 ----- 9:4-ARGM-DIS() 11:2-ARG0(AGT) 14:3-ARGM-DIR(DIR) 15:1-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel

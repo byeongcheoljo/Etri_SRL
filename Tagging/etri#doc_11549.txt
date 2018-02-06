@@ -1,0 +1,4 @@
+etri#doc_11549.txt 4 마시다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11549.txt 9 발생하다 ----- 2:2-ARGM-CAU(EFF) 5:3-ARGM-LOC(GOL) 7:2-ARGM-CAU(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_11549.txt 13 먹다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11549.txt 15 지키다 ----- 9:2-ARGM-DIS() 11:2-ARG0(AGT) 13:2-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

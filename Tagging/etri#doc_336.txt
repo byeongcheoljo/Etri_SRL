@@ -1,0 +1,2 @@
+etri#doc_336.txt 16 ³ì´Ù ----- 2:2-ARGM-MNR(INS) 14:11-ARG1(THM) 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_336.txt 19 ³ì¾Æµé´Ù ----- 16:2-ARGM-DIS() 17:1-ARGM-TMP(GOL) 18:1-ARG0(GOL) 19:0-rel

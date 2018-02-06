@@ -1,0 +1,3 @@
+etri#doc_1708.txt 11 하다 ----- 9:3-ARG1(THM) 10:1-ARG3(FNS) 11:0-rel
+etri#doc_1708.txt 14 가지다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1708.txt 18 추가하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(LOC) 3:1-ARG0(THM) 14:3-ARGM-DIS() 15:1-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

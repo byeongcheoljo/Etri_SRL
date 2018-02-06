@@ -1,0 +1,7 @@
+etri#doc_5340.txt 3 거역하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5340.txt 6 먹다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5340.txt 9 보다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5340.txt 10 참다 ----- 3:3-ARGM-DIS() 6:3-ARGM-DIS() 7:1-ARGM-TMP() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_5340.txt 12 되다 ----- 10:3-ARGM-MNR() 11:1-ARG2(FNS) 12:0-rel
+etri#doc_5340.txt 15 결혼하다 ----- 14:1-ARGM-MNR(COM) 15:0-rel
+etri#doc_5340.txt 17 낳다 ----- 13:3-ARG0(AGT) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

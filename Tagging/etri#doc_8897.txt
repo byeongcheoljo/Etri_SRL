@@ -1,0 +1,2 @@
+etri#doc_8897.txt 3 고려하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8897.txt 16 알다 ----- 14:2-ARG1() 15:1-ARG0(MAG) 16:0-rel

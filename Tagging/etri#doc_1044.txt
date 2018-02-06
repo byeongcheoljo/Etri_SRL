@@ -1,0 +1,7 @@
+etri#doc_1044.txt 4 배우다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1044.txt 7 나다 ----- 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1044.txt 10 하다 ----- 4:2-ARGM-DIS() 7:2-ARGM-CND() 8:1-ARG0(COM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1044.txt 13 설명하다 ----- 13:0-rel
+etri#doc_1044.txt 14 모르다 ----- 12:1-ARG0(AGT) 13:1-ARGM-CND() 14:0-rel
+etri#doc_1044.txt 16 취급하다 ----- 11:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG2(FNS) 16:0-rel
+etri#doc_1044.txt 18 되다 ----- 10:2-ARGM-TMP() 16:2-ARGM-CAU() 17:1-ARG1(THM) 18:0-rel

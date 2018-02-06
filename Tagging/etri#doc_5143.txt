@@ -1,0 +1,1 @@
+etri#doc_5143.txt 5 최소화되다 ----- 3:2-ARG1(THM) 4:1-ARGM-DIS() 5:0-rel

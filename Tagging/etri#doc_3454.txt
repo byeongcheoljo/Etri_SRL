@@ -1,0 +1,2 @@
+etri#doc_3454.txt 4 올리다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3454.txt 13 오르다 ----- 6:5-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-EXT(FNS) 9:1-ARGM-LOC() 10:1-ARG1(THM) 11:1-ARGM-EXT(FNS) 12:1-ARGM-LOC(LOC) 13:0-rel

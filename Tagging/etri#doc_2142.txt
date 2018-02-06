@@ -1,0 +1,4 @@
+etri#doc_2142.txt 5 ¸Ã´Ù ----- 2:2-ARGM-ADV() 3:1-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_2142.txt 10 ¹è¿ì´Ù ----- 8:1-ARGM-TMP() 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_2142.txt 16 µ¹´Ù ----- 15:3-ARG1(LOC) 16:0-rel
+etri#doc_2142.txt 18 ÆÈ´Ù ----- 11:3-ARGM-MNR(INS) 12:1-ARGM-TMP() 16:4-ARGM-DIS() 17:1-ARG2() 18:0-rel

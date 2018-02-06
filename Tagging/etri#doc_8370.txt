@@ -1,0 +1,4 @@
+etri#doc_8370.txt 3 배우다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8370.txt 7 익히다 ----- 1:1-ARGM-TMP(LOC) 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_8370.txt 15 읽히다 ----- 14:2-ARGM-TMP() 15:0-rel
+etri#doc_8370.txt 16 이해되다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 15:3-ARGM-DIS() 16:0-rel

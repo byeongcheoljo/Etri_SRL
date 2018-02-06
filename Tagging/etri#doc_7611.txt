@@ -1,0 +1,5 @@
+etri#doc_7611.txt 2 하다 ----- 1:1-ARG1(CNT) 2:0-rel
+etri#doc_7611.txt 7 내리다 ----- 3:1-ARG0(Npr1) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_7611.txt 9 말하다 ----- 2:2-ARG0() 8:4-ARG1(THM) 9:0-rel
+etri#doc_7611.txt 12 인정하다 ----- 11:1-ARG1(FNS) 12:0-rel
+etri#doc_7611.txt 15 존재하다 ----- 12:2-ARGM-CND() 14:2-ARGM-INS(INS) 15:0-rel

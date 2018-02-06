@@ -1,0 +1,3 @@
+etri#doc_6647.txt 9 하다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG0(AGT) 8:3-ARG1(THM) 9:0-rel
+etri#doc_6647.txt 13 만족시키다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_6647.txt 18 빠뜨리다 ----- 9:4-ARGM-DIS() 13:3-ARGM-PRP() 16:2-ARG1(THM) 17:1-ARG2(GOL) 18:0-rel

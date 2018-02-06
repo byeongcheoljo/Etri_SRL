@@ -1,0 +1,4 @@
+etri#doc_6677.txt 4 붙다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_6677.txt 9 쫓기다 ----- 7:2-ARGM-EXT(EFF) 8:1-ARG0(AGT) 9:0-rel
+etri#doc_6677.txt 15 가다 ----- 14:1-ARG1() 15:0-rel
+etri#doc_6677.txt 18 가다 ----- 1:1-ARGM-DIS() 5:3-ARGM-LOC(LOC) 11:4-ARGM-CND() 12:1-ARG1(THM) 13:1-ARGM-MNR() 15:2-ARGM-MNR() 17:2-ARG3() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5112.txt 6 덮다 ----- 4:1-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5112.txt 7 늘어지다 ----- 3:2-ARG1(THM) 6:2-ARGM-EXT() 7:0-rel
+etri#doc_5112.txt 11 흐르다 ----- 7:3-ARGM-DIS() 8:1-ARGM-LOC(LOC) 9:1-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5112.txt 14 보다 ----- 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_5112.txt 15 더하다 ----- 15:0-rel

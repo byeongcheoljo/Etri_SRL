@@ -1,0 +1,4 @@
+etri#doc_13059.txt 2 확대하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13059.txt 8 탈락시키다 ----- 3:1-ARGM-TMP(LOC) 6:3-ARG1(THM) 7:1-ARGM-LOC(SRC) 8:0-rel
+etri#doc_13059.txt 14 발탁하다 ----- 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_13059.txt 17 예상되다 ----- 2:2-ARGM-CND() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

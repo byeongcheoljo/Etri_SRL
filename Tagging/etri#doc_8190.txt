@@ -1,0 +1,2 @@
+etri#doc_8190.txt 8 갖다 ----- 5:3-ARGM-MNR(COM) 7:2-ARG1(Npr) 8:0-rel
+etri#doc_8190.txt 19 무시하다 ----- 10:5-ARGM-DIS() 11:1-ARGM-TMP() 17:5-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7196.txt 20 방지하다 ----- 18:3-ARG1(THM) 19:1-ARGM-MNR(INS) 20:0-rel
+etri#doc_7196.txt 22 갖다 ----- 13:3-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARGM-TMP() 21:3-ARG1(THM) 22:0-rel

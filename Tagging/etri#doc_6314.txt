@@ -1,0 +1,3 @@
+etri#doc_6314.txt 10 모이다 ----- 7:1-ARG1(THM) 9:2-ARGM-MNR() 10:0-rel
+etri#doc_6314.txt 13 알려지다 ----- 5:3-ARG1() 6:1-ARGM-LOC(LOC) 12:5-ARGM-EXT(CRT) 13:0-rel
+etri#doc_6314.txt 15 보다 ----- 14:1-ARGM-LOC(LOC) 15:0-rel

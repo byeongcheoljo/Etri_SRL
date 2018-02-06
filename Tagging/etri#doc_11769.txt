@@ -1,0 +1,4 @@
+etri#doc_11769.txt 3 작성하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11769.txt 4 평가하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_11769.txt 9 부여하다 ----- 4:3-ARGM-TMP() 5:1-ARGM-TMP() 6:1-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11769.txt 15 지니다 ----- 10:1-ARGM-DIS() 12:2-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

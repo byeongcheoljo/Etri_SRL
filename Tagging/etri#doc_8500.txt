@@ -1,0 +1,3 @@
+etri#doc_8500.txt 8 입히다 ----- 6:1-ARGM-LOC(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_8500.txt 10 갖추다 ----- 5:3-ARG0(AGT) 9:3-ARG1(THM) 10:0-rel
+etri#doc_8500.txt 13 신설되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 10:4-ARGM-ADV() 12:2-ARG1(THM) 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7632.txt 6 규탄하다 ----- 4:2-ARG1(THM) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_7632.txt 10 다짐하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7632.txt 16 성공시키다 ----- 14:4-ARG0(AGT) 15:1-ARGM-MNR() 16:0-rel

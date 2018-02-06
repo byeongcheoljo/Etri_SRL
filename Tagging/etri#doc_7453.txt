@@ -1,0 +1,4 @@
+etri#doc_7453.txt 2 짓다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7453.txt 4 시설하다 ----- 3:3-ARGM-TMP(LOC) 4:0-rel
+etri#doc_7453.txt 11 공급하다 ----- 5:5-ARG0(EFF) 8:2-ARGM-MNR() 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_7453.txt 14 초과하다 ----- 12:1-ARG1(AGT) 13:1-ARG2(CRT) 14:0-rel

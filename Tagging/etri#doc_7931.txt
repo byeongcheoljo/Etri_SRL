@@ -1,0 +1,5 @@
+etri#doc_7931.txt 5 잡다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7931.txt 8 보다 ----- 3:2-ARGM-TMP() 7:4-ARG1(THM) 8:0-rel
+etri#doc_7931.txt 10 끝나다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7931.txt 13 사다 ----- 10:2-ARGM-TMP() 11:1-ARGM-MNR() 12:1-ARGM-ADV() 13:0-rel
+etri#doc_7931.txt 16 절감하다 ----- 8:5-ARGM-DIS() 15:4-ARG1() 16:0-rel

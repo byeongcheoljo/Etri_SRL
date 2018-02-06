@@ -1,0 +1,2 @@
+etri#doc_8105.txt 4 나다 ----- 2:2-ARGM-EXT(CRT) 3:1-ARGM-NEG() 4:0-rel
+etri#doc_8105.txt 10 보다 ----- 9:1-ARGM-LOC() 10:0-rel

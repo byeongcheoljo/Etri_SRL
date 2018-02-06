@@ -1,0 +1,5 @@
+etri#doc_4005.txt 3 묻히다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4005.txt 5 굽다 ----- 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_4005.txt 11 보다 ----- 8:5-ARG1(THM) 9:1-ARGM-LOC(LOC) 10:1-ARGM-INS(INS) 11:0-rel
+etri#doc_4005.txt 15 되다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARGM-TMP() 14:1-ARG0(AGT) 15:0-rel
+etri#doc_4005.txt 17 보다 ----- 11:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

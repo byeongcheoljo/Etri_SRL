@@ -1,0 +1,4 @@
+etri#doc_7363.txt 2 다녀오다 ----- 1:1-ARG1(GOL) 2:0-rel
+etri#doc_7363.txt 6 시작하다 ----- 5:3-ARG1(SRC) 6:0-rel
+etri#doc_7363.txt 9 이르다 ----- 6:4-ARGM-DIS() 8:2-ARG3(FNS) 9:0-rel
+etri#doc_7363.txt 13 맺다 ----- 9:3-ARGM-DIS() 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

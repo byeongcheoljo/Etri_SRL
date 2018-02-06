@@ -1,0 +1,5 @@
+etri#doc_4319.txt 6 인식하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_4319.txt 9 지니다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_4319.txt 14 관찰하다 ----- 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_4319.txt 18 바라보다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_4319.txt 20 되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 7:4-ARG1(THM) 11:4-ARGM-DIS() 19:3-ARG2(FNS) 20:0-rel

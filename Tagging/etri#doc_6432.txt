@@ -1,0 +1,1 @@
+etri#doc_6432.txt 17 ±ÍÂøµÇ´Ù ----- 7:4-ARG1(THM) 8:1-ARGM-DIS() 16:5-ARGM-LOC(FNS) 17:0-rel

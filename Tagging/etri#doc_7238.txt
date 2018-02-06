@@ -1,0 +1,5 @@
+etri#doc_7238.txt 4 제공하다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_7238.txt 9 감안하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_7238.txt 10 지급하다 ----- 9:3-ARGM-MNR() 10:0-rel
+etri#doc_7238.txt 13 나누다 ----- 12:2-ARG2(FNS) 13:0-rel
+etri#doc_7238.txt 18 찍히다 ----- 1:1-ARGM-DIS() 16:2-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel

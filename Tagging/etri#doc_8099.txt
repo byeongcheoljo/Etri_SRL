@@ -1,0 +1,5 @@
+etri#doc_8099.txt 4 보이다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1() 4:0-rel
+etri#doc_8099.txt 5 어찌하다 ----- 4:3-ARGM-DIS() 5:0-rel
+etri#doc_8099.txt 8 가다 ----- 7:2-ARG3(GOL) 8:0-rel
+etri#doc_8099.txt 10 사다 ----- 5:4-ARGM-MNR() 8:3-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8099.txt 14 강구하다 ----- 11:3-ARGM-CND() 13:2-ARG1(THM) 14:0-rel

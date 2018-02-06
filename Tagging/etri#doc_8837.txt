@@ -1,0 +1,3 @@
+etri#doc_8837.txt 6 발표하다 ----- 1:1-ARGM-TMP() 3:2-ARG2(GOL) 4:1-ARG1(THM) 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_8837.txt 12 이르다 ----- 11:4-ARG3(FNS) 12:0-rel
+etri#doc_8837.txt 18 발표하다 ----- 6:2-ARGM-TMP() 7:1-ARG0(AGT) 12:5-ARGM-TMP() 17:2-ARG1(THM) 18:0-rel

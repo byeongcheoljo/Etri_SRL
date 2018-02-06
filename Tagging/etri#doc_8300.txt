@@ -1,0 +1,1 @@
+etri#doc_8300.txt 2 출품되다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel

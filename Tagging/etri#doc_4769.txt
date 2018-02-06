@@ -1,0 +1,6 @@
+etri#doc_4769.txt 2 담그다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_4769.txt 5 먹다 ----- 3:3-ARG0(AGT) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4769.txt 7 모르다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4769.txt 9 걸리다 ----- 7:2-ARGM-DIS() 8:1-ARG1(GOL) 9:0-rel
+etri#doc_4769.txt 13 얻다 ----- 11:2-ARGM-TMP() 12:1-ARG2(SRC) 13:0-rel
+etri#doc_4769.txt 16 풀어주다 ----- 5:2-ARGM-DIS() 9:2-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

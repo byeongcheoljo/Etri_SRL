@@ -1,0 +1,5 @@
+etri#doc_1759.txt 4 유린하다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_1759.txt 6 갈라지다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1759.txt 9 되다 ----- 1:1-ARGM-TMP() 6:2-ARGM-DIS() 7:1-ARG2(THM) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1759.txt 14 고백하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1759.txt 17 구하다 ----- 14:3-ARGM-TMP() 15:1-ARGM-INS(INS) 16:1-ARG1(THM) 17:0-rel

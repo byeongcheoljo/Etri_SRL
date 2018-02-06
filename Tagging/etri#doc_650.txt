@@ -1,0 +1,4 @@
+etri#doc_650.txt 4 들어서다 ----- 3:2-ARG2(GOL) 4:0-rel
+etri#doc_650.txt 6 들어서다 ----- 5:1-ARG2(GOL) 6:0-rel
+etri#doc_650.txt 8 들다 ----- 4:3-ARGM-TMP() 7:3-ARG1(THM) 8:0-rel
+etri#doc_650.txt 11 이해하다 ----- 9:5-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel

@@ -1,0 +1,7 @@
+etri#doc_7511.txt 5 대항하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_7511.txt 6 논쟁하다 ----- 5:3-ARGM-MNR() 6:0-rel
+etri#doc_7511.txt 13 나오다 ----- 12:3-ARG2(SRC) 13:0-rel
+etri#doc_7511.txt 14 내려다보다 ----- 14:0-rel
+etri#doc_7511.txt 16 취하다 ----- 13:4-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7511.txt 19 옹호하다 ----- 19:0-rel
+etri#doc_7511.txt 20 주장하다 ----- 2:2-ARGM-MNR(INS) 7:5-ARG0(AGT) 9:2-ARGM-MNR() 16:3-ARGM-MNR() 18:2-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel

@@ -1,0 +1,5 @@
+etri#doc_982.txt 2 보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_982.txt 5 보이다 ----- 2:2-ARGM-CND() 4:2-ARGM-ADV(EFF) 5:0-rel
+etri#doc_982.txt 8 먹다 ----- 6:1-ARG1(THM) 7:1-ARG0(AGT) 8:0-rel
+etri#doc_982.txt 11 끌다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_982.txt 19 오르다 ----- 15:1-ARGM-TMP() 17:2-ARG3(LOC) 18:1-ARGM-EXT() 19:0-rel

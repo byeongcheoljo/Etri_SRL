@@ -1,0 +1,4 @@
+etri#doc_4726.txt 6 연구하다 ----- 2:2-ARGM-PRD(EFF) 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_4726.txt 10 되다 ----- 9:1-ARGM-EXT() 10:0-rel
+etri#doc_4726.txt 14 이루다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_4726.txt 15 살다 ----- 7:3-ARGM-ADV(CNT) 8:1-ARG0(AGT) 14:4-ARGM-DIS() 15:0-rel

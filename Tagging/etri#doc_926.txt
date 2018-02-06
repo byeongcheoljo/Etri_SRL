@@ -1,0 +1,3 @@
+etri#doc_926.txt 2 보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_926.txt 5 자르다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_926.txt 11 보다 ----- 10:1-ARG2(FNS) 11:0-rel

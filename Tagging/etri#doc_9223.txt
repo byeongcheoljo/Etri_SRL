@@ -1,0 +1,2 @@
+etri#doc_9223.txt 10 오다 ----- 6:2-() 7:1-ARGM-TMP(LOC) 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_9223.txt 15 되다 ----- 4:2-ARG1(THM) 14:3-ARG2(FNS) 15:0-rel

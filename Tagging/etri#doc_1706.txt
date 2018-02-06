@@ -1,0 +1,2 @@
+etri#doc_1706.txt 15 발전하다 ----- 14:2-ARG2(FNS) 15:0-rel
+etri#doc_1706.txt 20 유발하다 ----- 2:2-ARG1(THM) 3:1-ARGM-DIS() 7:2-ARGM-DIS() 10:3-ARGM-LOC(LOC) 15:3-ARGM-DIS() 17:2-ARG3(GOL) 19:2-ARG1(THM) 20:0-rel

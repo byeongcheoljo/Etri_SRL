@@ -1,0 +1,4 @@
+etri#doc_7768.txt 7 용인하다 ----- 5:3-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_7768.txt 11 제시되다 ----- 2:2-ARGM-MNR(COM) 10:2-ARG1(THM) 11:0-rel
+etri#doc_7768.txt 17 극복하다 ----- 15:2-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel
+etri#doc_7768.txt 20 빠지다 ----- 11:3-ARGM-MNR() 12:1-ARG1(THM) 19:2-ARG2(GOL) 20:0-rel

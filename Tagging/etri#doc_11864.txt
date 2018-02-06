@@ -1,0 +1,3 @@
+etri#doc_11864.txt 9 말하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11864.txt 13 넘다 ----- 12:1-ARG2(CRT) 13:0-rel
+etri#doc_11864.txt 16 받다 ----- 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

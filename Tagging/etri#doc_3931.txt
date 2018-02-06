@@ -1,0 +1,4 @@
+etri#doc_3931.txt 6 나가다 ----- 6:0-rel
+etri#doc_3931.txt 8 나가다 ----- 5:1-ARGM-LOC(LOC) 6:1-ARGM-DIS() 7:1-ARGM-NEG() 8:0-rel
+etri#doc_3931.txt 9 결정하다 ----- 4:1-ARGM-INS(INS) 8:2-ARG1() 9:0-rel
+etri#doc_3931.txt 14 미치다 ----- 3:2-ARG0(THM) 10:4-ARG2(GOL) 13:3-ARG1(THM) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11328.txt 5 일으키다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11328.txt 16 바꾸다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_11328.txt 18 갖추다 ----- 1:1-ARG0(AGT) 9:3-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

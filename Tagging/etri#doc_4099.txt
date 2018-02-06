@@ -1,0 +1,7 @@
+etri#doc_4099.txt 3 하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4099.txt 6 지나다 ----- 4:4-ARGM-DIS() 5:1-ARGM-TMP() 6:0-rel
+etri#doc_4099.txt 9 들다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_4099.txt 14 지다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_4099.txt 15 나타나다 ----- 6:2-ARGM-CND() 7:1-ARGM-LOC() 10:3-ARG0(THM) 14:4-ARGM-DIS() 15:0-rel
+etri#doc_4099.txt 18 보이다 ----- 16:1-ARGM-TMP() 17:1-ARG0(FNS) 18:0-rel
+etri#doc_4099.txt 23 띠다 ----- 15:5-ARGM-DIS() 20:2-ARG0() 22:2-ARG1(THM) 23:0-rel

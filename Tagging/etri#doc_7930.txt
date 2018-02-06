@@ -1,0 +1,4 @@
+etri#doc_7930.txt 5 전해오다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_7930.txt 9 검토하다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_7930.txt 12 무시하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7930.txt 19 변경하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 10:7-ARGM-TMP() 12:2-ARGM-DIS() 13:1-ARG1(THM) 18:5-ARGM-LOC(LOC) 19:0-rel

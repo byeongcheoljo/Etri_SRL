@@ -1,0 +1,5 @@
+etri#doc_4139.txt 9 폭파시키다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4139.txt 11 합류하다 ----- 10:1-ARG1(COM) 11:0-rel
+etri#doc_4139.txt 14 불태우다 ----- 9:2-() 13:4-ARG1(THM) 14:0-rel
+etri#doc_4139.txt 16 걸려오다 ----- 5:3-ARGM-TMP() 6:1-ARGM-TMP(LOC) 7:1-ARGM-EXT() 15:6-ARG1(THM) 16:0-rel
+etri#doc_4139.txt 17 밝히다 ----- 2:2-ARG0(AGT) 16:7-ARG1(CNT) 17:0-rel

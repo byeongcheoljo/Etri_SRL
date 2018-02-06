@@ -1,0 +1,5 @@
+etri#doc_11202.txt 3 들어가다 ----- 2:1-ARG1(GOL) 3:0-rel
+etri#doc_11202.txt 5 외우다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11202.txt 7 풀다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11202.txt 12 맞다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11202.txt 14 배우다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

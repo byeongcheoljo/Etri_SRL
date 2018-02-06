@@ -1,0 +1,2 @@
+etri#doc_1452.txt 12 ¾ò´Ù ----- 10:1-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1452.txt 15 ¸ô¸®´Ù ----- 13:3-ARG0(GOL) 14:1-ARGM-LOC(LOC) 15:0-rel

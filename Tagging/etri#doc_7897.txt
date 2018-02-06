@@ -1,0 +1,4 @@
+etri#doc_7897.txt 3 보다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_7897.txt 11 때려잡다 ----- 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7897.txt 13 잃다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_7897.txt 17 모으다 ----- 8:5-ARG0(AGT) 11:2-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-LOC(LOC) 17:0-rel

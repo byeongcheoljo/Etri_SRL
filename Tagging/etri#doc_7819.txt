@@ -1,0 +1,4 @@
+etri#doc_7819.txt 5 설하다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7819.txt 11 배우다 ----- 9:1-ARG0(AGT) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_7819.txt 19 즐기다 ----- 19:0-rel
+etri#doc_7819.txt 20 읊조리다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 14:5-ARG1(THM) 18:4-ARGM-DIS() 19:1-ARGM-MNR() 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5775.txt 13 발견하다 ----- 7:1-ARGM-TMP() 11:4-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5775.txt 16 싣다 ----- 15:2-ARG2(GOL) 16:0-rel
+etri#doc_5775.txt 17 돌아오다 ----- 16:3-ARGM-DIS() 17:0-rel
+etri#doc_5775.txt 19 만들다 ----- 6:2-ARG0(AGT) 13:2-ARGM-DIS() 17:4-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

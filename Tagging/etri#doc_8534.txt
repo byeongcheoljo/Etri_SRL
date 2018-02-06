@@ -1,0 +1,4 @@
+etri#doc_8534.txt 4 실험하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8534.txt 11 채용하다 ----- 9:1-ARG1(THM) 10:1-ARG0(AGT) 11:0-rel
+etri#doc_8534.txt 14 살리다 ----- 11:2-ARGM-CAU() 13:2-ARG1(THM) 14:0-rel
+etri#doc_8534.txt 15 위하다 ----- 8:4-ARG0(AGT) 14:3-ARGM-DIS() 15:0-rel

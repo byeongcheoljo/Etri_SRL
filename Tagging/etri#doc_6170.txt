@@ -1,0 +1,2 @@
+etri#doc_6170.txt 7 지니다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_6170.txt 18 포함되다 ----- 16:4-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_8991.txt 20 æ≤¿Ã¥Ÿ ----- 2:2-ARG1(THM) 5:3-ARGM-LOC(LOC) 19:5-ARG2(INS) 20:0-rel

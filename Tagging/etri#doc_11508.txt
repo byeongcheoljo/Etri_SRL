@@ -1,0 +1,4 @@
+etri#doc_11508.txt 3 섭취하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_11508.txt 4 생기다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_11508.txt 13 들다 ----- 12:2-ARGM-MNR(INS) 13:0-rel
+etri#doc_11508.txt 18 주다 ----- 9:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-TMP() 15:1-ARGM-LOC(GOL) 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3309.txt 8 하다 ----- 2:2-ARGM-ADV(CNT) 3:1-ARGM-TMP() 5:2-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_3309.txt 15 발전하다 ----- 12:2-ARG1(THM) 14:2-ARG2(FNS) 15:0-rel

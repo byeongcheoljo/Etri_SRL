@@ -1,0 +1,5 @@
+etri#doc_11639.txt 4 살다 ----- 3:1-ARGM-ADV() 4:0-rel
+etri#doc_11639.txt 6 보여주다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_11639.txt 11 그리워하다 ----- 6:4-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_11639.txt 13 상상하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_11639.txt 19 생각하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 13:2-ARGM-DIS() 18:5-ARG1(THM) 19:0-rel

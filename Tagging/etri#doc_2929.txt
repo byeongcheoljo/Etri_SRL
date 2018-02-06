@@ -1,0 +1,1 @@
+etri#doc_2929.txt 7 ¸Î´Ù ----- 4:2-ARG0(AGT) 6:2-ARG2(COM) 7:0-rel

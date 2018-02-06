@@ -1,0 +1,5 @@
+etri#doc_7213.txt 6 눕다 ----- 4:4-ARG1(LOC) 5:1-ARGM-DIS() 6:0-rel
+etri#doc_7213.txt 10 취하다 ----- 8:1-ARG1(EFF) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_7213.txt 12 들어오다 ----- 11:1-ARG1() 12:0-rel
+etri#doc_7213.txt 13 모르다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_7213.txt 15 잠들다 ----- 7:3-ARG0(EXP) 10:2-ARGM-MNR() 13:3-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel

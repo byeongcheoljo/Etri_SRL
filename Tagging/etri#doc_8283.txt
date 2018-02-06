@@ -1,0 +1,3 @@
+etri#doc_8283.txt 3 이르다 ----- 1:1-ARGM-TMP() 2:1-ARG3(FNS) 3:0-rel
+etri#doc_8283.txt 11 정리하다 ----- 9:3-ARG1(THM) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_8283.txt 20 해내다 ----- 12:3-ARG1(THM) 16:4-ARGM-MNR() 17:1-ARGM-TMP(LOC) 18:1-ARGM-TMP() 19:1-ARGM-MNR() 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_45.txt 6 숙이다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_45.txt 8 배우다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_45.txt 11 지다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_45.txt 16 가지다 ----- 3:2-ARGM-ADV() 4:1-ARG0(LOC) 8:4-ARGM-NEG() 15:2-ARG1(THM) 16:0-rel

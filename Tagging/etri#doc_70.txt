@@ -1,0 +1,4 @@
+etri#doc_70.txt 6 찾다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_70.txt 9 감추다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_70.txt 10 사라지다 ----- 2:1-ARGM-DIS() 4:2-ARGM-TMP(THM) 6:2-ARGM-NEG() 7:1-() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_70.txt 17 나타나다 ----- 1:1-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARGM-ADV() 12:1-(LOC) 13:1-ARGM-EXT(COM) 16:3-ARGM-ADV() 17:0-rel

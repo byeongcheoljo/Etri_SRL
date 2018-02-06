@@ -1,0 +1,3 @@
+etri#doc_5673.txt 6 되다 ----- 5:1-ARG2(FNS) 6:0-rel
+etri#doc_5673.txt 8 열다 ----- 4:1-ARGM-LOC(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_5673.txt 11 받아들이다 ----- 10:2-ARG1(THM) 11:0-rel

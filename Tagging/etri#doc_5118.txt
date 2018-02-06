@@ -1,0 +1,3 @@
+etri#doc_5118.txt 7 저지르다 ----- 2:1-ARG0(AGT) 6:3-ARG1(THM) 7:0-rel
+etri#doc_5118.txt 13 거두다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5118.txt 15 하다 ----- 1:1-ARGM-DIS() 7:4-ARGM-DIS() 9:2-ARGM-CAU(EFF) 10:1-ARG0() 11:1-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(Npr) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_577.txt 13 다루다 ----- 3:2-ARGM-LOC(LOC) 5:2-ARGM-LOC(LOC) 7:2-ARGM-LOC(LOC) 10:3-ARG1(THM) 11:1-ARGM-TMP() 12:1-ARGM-EXT() 13:0-rel
+etri#doc_577.txt 15 착수하다 ----- 14:1-ARGM-MNR() 15:0-rel

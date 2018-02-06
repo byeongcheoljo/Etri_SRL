@@ -1,0 +1,6 @@
+etri#doc_227.txt 3 잠기다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_227.txt 8 하다 ----- 4:3-ARG1(GOL) 7:2-ARG1(CNT) 8:0-rel
+etri#doc_227.txt 12 대접하다 ----- 8:3-ARGM-DIS() 10:2-ARG1(GOL) 11:1-ARG2(THM) 12:0-rel
+etri#doc_227.txt 14 좋아하다 ----- 13:1-ARG0(MAG) 14:0-rel
+etri#doc_227.txt 16 하다 ----- 12:2-ARGM-EXT() 15:3-ARG1(THM) 16:0-rel
+etri#doc_227.txt 19 좋아지다 ----- 1:1-ARGM-DIS() 16:4-ARGM-CND() 17:1-ARG1(THM) 18:1-ARGM-ADV() 19:0-rel

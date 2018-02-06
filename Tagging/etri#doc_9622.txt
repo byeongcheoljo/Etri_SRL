@@ -1,0 +1,6 @@
+etri#doc_9622.txt 5 ¿’¥Ÿ ----- 4:1-ARG2(GOL) 5:0-rel
+etri#doc_9622.txt 8 ∏ﬁ¥Ÿ ----- 8:0-rel
+etri#doc_9622.txt 9 ≤»¥Ÿ ----- 2:2-ARG1(THM) 3:1-ARGM-TMP(LOC) 6:3-ARGM-MNR(INS) 7:1-ARGM-LOC(LOC) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_9622.txt 10 ¿’¥Ÿ ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_9622.txt 15 ¿’¥Ÿ ----- 14:1-ARG2(GOL) 15:0-rel
+etri#doc_9622.txt 17 ≥°≥ª¥Ÿ ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 13:2-ARGM-TMP(LOC) 16:3-ARGM-MNR(INS) 17:0-rel

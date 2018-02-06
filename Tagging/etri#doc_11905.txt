@@ -1,0 +1,3 @@
+etri#doc_11905.txt 2 나타나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11905.txt 12 의존하다 ----- 11:4-ARG1(GOL) 12:0-rel
+etri#doc_11905.txt 15 끊이다 ----- 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2431.txt 9 부응하다 ----- 8:2-ARGM-ADV(EFF) 9:0-rel
+etri#doc_2431.txt 11 개선하다 ----- 5:1-ARGM-ADV(EFF) 6:1-ARGM-INS(INS) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

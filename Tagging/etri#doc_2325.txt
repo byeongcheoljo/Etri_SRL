@@ -1,0 +1,2 @@
+etri#doc_2325.txt 15 생동하다 ----- 15:0-rel
+etri#doc_2325.txt 18 육박하다 ----- 3:3-ARGM-LOC(LOC) 8:3-ARGM-ADV(LOC) 10:2-ARG1(THM) 14:4-ARGM-MNR(EFF) 16:2-ARGM-INS(INS) 17:1-ARGM-LOC(LOC) 18:0-rel

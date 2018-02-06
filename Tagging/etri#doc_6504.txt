@@ -1,0 +1,3 @@
+etri#doc_6504.txt 5 규정되다 ----- 3:2-ARG1(THM) 4:1-ARGM-PRD(EFF) 5:0-rel
+etri#doc_6504.txt 11 변혁하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_6504.txt 18 인정하다 ----- 7:1-ARGM-MNR(INS) 9:2-ARG0(MAG) 15:3-ARG1(THM) 17:2-ARG1() 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2625.txt 3 ¿«´Ù ----- 2:1-() 3:0-rel
+etri#doc_2625.txt 10 ´ã´Ù ----- 9:2-ARG1(THM) 10:0-rel

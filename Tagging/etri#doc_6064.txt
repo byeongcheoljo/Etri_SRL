@@ -1,0 +1,5 @@
+etri#doc_6064.txt 3 일어서다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6064.txt 7 질문하다 ----- 7:0-rel
+etri#doc_6064.txt 9 주장하다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 5:1-ARGM-MNR() 6:1-ARGM-MNR() 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6064.txt 13 설득시키다 ----- 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_6064.txt 15 하다 ----- 9:2-ARGM-DIS() 13:2-ARG1(CNT) 14:1-ARG1(THM) 15:0-rel

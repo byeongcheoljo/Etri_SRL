@@ -1,0 +1,5 @@
+etri#doc_1766.txt 7 이루다 ----- 5:2-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1766.txt 11 이룩하다 ----- 7:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_1766.txt 16 실현하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_1766.txt 18 다하다 ----- 17:4-ARG1(THM) 18:0-rel
+etri#doc_1766.txt 19 명령하다 ----- 3:3-ARG0(AGT) 11:3-ARGM-DIS() 12:1-ARGM-LOC(LOC) 18:5-ARGM-DIS() 19:0-rel

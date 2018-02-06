@@ -1,0 +1,2 @@
+etri#doc_181.txt 8 하다 ----- 6:2-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_181.txt 18 강조하다 ----- 9:3-ARG0(EFF) 14:2-ARGM-NEG() 17:3-ARG1(THM) 18:0-rel

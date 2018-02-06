@@ -1,0 +1,2 @@
+etri#doc_7349.txt 13 오르락내리락하다 ----- 2:2-ARGM-DIS() 6:3-ARGM-LOC(LOC) 9:3-ARGM-LOC(LOC) 11:2-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7349.txt 17 알다 ----- 13:2-ARGM-DIS() 16:3-ARGM-DIS() 17:0-rel

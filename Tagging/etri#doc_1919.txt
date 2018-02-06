@@ -1,0 +1,6 @@
+etri#doc_1919.txt 2 되다 ----- 1:1-ARG2(FNS) 2:0-rel
+etri#doc_1919.txt 4 조직하다 ----- 4:0-rel
+etri#doc_1919.txt 7 불러일으키다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1919.txt 10 의식화되다 ----- 10:0-rel
+etri#doc_1919.txt 12 조직되다 ----- 12:0-rel
+etri#doc_1919.txt 15 쓰다 ----- 3:3-ARG0(AGT) 9:4-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-CND() 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel

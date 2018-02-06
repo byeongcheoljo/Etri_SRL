@@ -1,0 +1,2 @@
+etri#doc_1442.txt 14 받다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1442.txt 17 잡다 ----- 3:3-ARGM-DIS() 4:1-ARGM-TMP() 10:3-ARGM-INS(INS) 11:1-ARG1(THM) 14:3-ARGM-DIS() 15:1-ARGM-LOC(LOC) 16:1-ARG1() 17:0-rel

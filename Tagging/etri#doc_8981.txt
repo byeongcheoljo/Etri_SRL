@@ -1,0 +1,6 @@
+etri#doc_8981.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_8981.txt 8 형언하다 ----- 8:0-rel
+etri#doc_8981.txt 10 빠지다 ----- 1:1-ARGM-TMP() 3:2-ARGM-LOC(LOC) 4:1-ARG1(THM) 7:3-ARGM-DIS() 9:2-ARG2(Npr) 10:0-rel
+etri#doc_8981.txt 11 하다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_8981.txt 13 다니다 ----- 12:1-ARG1(GOL) 13:0-rel
+etri#doc_8981.txt 18 펼쳐지다 ----- 11:4-ARGM-DIS() 15:4-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

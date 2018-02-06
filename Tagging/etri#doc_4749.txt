@@ -1,0 +1,4 @@
+etri#doc_4749.txt 5 맞추다 ----- 1:1-ARGM-EXT() 3:2-ARG2(CRT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4749.txt 17 나타나다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_4749.txt 21 형성되다 ----- 11:2-ARGM-DIS() 13:2-ARG1(THM) 20:2-ARGM-TMP(LOC) 21:0-rel
+etri#doc_4749.txt 22 보다 ----- 7:2-ARG0(AGT) 21:3-ARG1() 22:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5756.txt 5 내리다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR(INS) 4:1-ARG2(LOC) 5:0-rel
+etri#doc_5756.txt 8 판단하다 ----- 7:4-ARG1() 8:0-rel
+etri#doc_5756.txt 12 만들다 ----- 11:2-ARGM-INS(INS) 12:0-rel
+etri#doc_5756.txt 14 걸치다 ----- 9:1-ARGM-LOC(LOC) 13:4-ARG1(THM) 14:0-rel
+etri#doc_5756.txt 17 만들다 ----- 16:1-ARGM-INS(INS) 17:0-rel
+etri#doc_5756.txt 20 씌우다 ----- 1:1-ARG0(AGT) 8:5-ARGM-CAU() 14:5-ARGM-DIS() 15:1-ARGM-LOC(GOL) 19:2-ARG1(THM) 20:0-rel

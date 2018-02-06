@@ -1,0 +1,5 @@
+etri#doc_999.txt 4 가다 ----- 3:1-ARGM-DIR() 4:0-rel
+etri#doc_999.txt 10 찾다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_999.txt 11 들어가다 ----- 4:2-ARGM-DIS() 7:3-ARGM-INS(INS) 10:3-ARGM-MNR() 11:0-rel
+etri#doc_999.txt 12 생각하다 ----- 2:1-ARG0(MAG) 11:4-ARG1() 12:0-rel
+etri#doc_999.txt 15 싸돌다 ----- 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8010.txt 3 돌아가다 ----- 2:1-ARG3(GOL) 3:0-rel
+etri#doc_8010.txt 5 되다 ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 4:1-ARG2(FNS) 5:0-rel
+etri#doc_8010.txt 10 타다 ----- 9:1-ARG2(EFF) 10:0-rel
+etri#doc_8010.txt 15 가다 ----- 14:2-ARG3(GOL) 15:0-rel
+etri#doc_8010.txt 17 살아가다 ----- 5:2-ARGM-DIS() 8:3-ARG0(AGT) 12:2-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARGM-TMP() 17:0-rel
+etri#doc_8010.txt 18 알다 ----- 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8638.txt 9 하다 ----- 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_8638.txt 13 추진하다 ----- 1:1-ARG0(AGT) 7:6-ARGM-LOC(LOC) 11:4-ARGM-DIS() 12:1-ARGM-MNR(INS) 13:0-rel

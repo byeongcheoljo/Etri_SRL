@@ -1,0 +1,3 @@
+etri#doc_8826.txt 8 지각되다 ----- 4:2-ARGM-CND() 5:1-ARG1(THM) 7:2-ARG1() 8:0-rel
+etri#doc_8826.txt 15 독립되다 ----- 15:0-rel
+etri#doc_8826.txt 17 지각되다 ----- 8:3-ARGM-DIS() 12:2-ARGM-CND() 13:1-ARG1(THM) 16:2-ARG1(FNS) 17:0-rel

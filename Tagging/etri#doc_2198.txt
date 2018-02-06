@@ -1,0 +1,2 @@
+etri#doc_2198.txt 6 »ç¸ÁÇÏ´Ù ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_2198.txt 14 »ç¸ÁÇÏ´Ù ----- 1:1-ARGM-TMP() 2:1-ARG0(LOC) 6:3-ARGM-DIS() 7:1-ARGM-EXT(CRT) 13:2-ARG1(AGT) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8507.txt 9 하다 ----- 8:3-ARG1(CNT) 9:0-rel
+etri#doc_8507.txt 17 하다 ----- 13:1-ARGM-TMP() 14:1-ARG0(AGT) 15:1-ARGM-MNR(INS) 16:1-ARG1(Npr) 17:0-rel
+etri#doc_8507.txt 20 덧붙이다 ----- 1:1-ARG0(AGT) 9:4-ARGM-DIS() 19:2-ARG1(CNT) 20:0-rel

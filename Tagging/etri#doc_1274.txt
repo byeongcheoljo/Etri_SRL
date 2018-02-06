@@ -1,0 +1,2 @@
+etri#doc_1274.txt 5 제휴하다 ----- 2:1-ARG1(THM) 4:2-ARG1() 5:0-rel
+etri#doc_1274.txt 14 촉진시키다 ----- 5:3-ARGM-MNR() 7:2-ARGM-INS(INS) 11:2-ARGM-DIS(CNT) 13:2-ARG1(THM) 14:0-rel

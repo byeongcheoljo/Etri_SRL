@@ -1,0 +1,1 @@
+etri#doc_3429.txt 4 파손되다 ----- 2:1-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel

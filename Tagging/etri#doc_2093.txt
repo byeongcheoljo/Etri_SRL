@@ -1,0 +1,3 @@
+etri#doc_2093.txt 7 뽑다 ----- 4:1-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_2093.txt 14 의하다 ----- 13:2-ARG2(GOL) 14:0-rel
+etri#doc_2093.txt 17 들어가다 ----- 11:1-ARG0(AGT) 14:3-ARGM-DIS() 15:1-ARGM-LOC(LOC) 16:1-ARGM-EXT() 17:0-rel

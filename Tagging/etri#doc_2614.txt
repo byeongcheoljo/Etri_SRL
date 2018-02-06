@@ -1,0 +1,3 @@
+etri#doc_2614.txt 9 감당하다 ----- 9:0-rel
+etri#doc_2614.txt 13 헤어나다 ----- 12:1-() 13:0-rel
+etri#doc_2614.txt 17 되다 ----- 1:1-ARGM-DIS() 5:2-ARGM-ADV(EFF) 7:2-ARG1() 8:1-ARGM-EXT() 16:3-ARG2(AGT) 17:0-rel

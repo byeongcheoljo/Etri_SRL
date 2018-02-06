@@ -1,0 +1,4 @@
+etri#doc_467.txt 5 되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_467.txt 8 찾다 ----- 2:1-ARGM-LOC(LOC) 7:2-ARG1(THM) 8:0-rel
+etri#doc_467.txt 14 예측하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_467.txt 15 얻다 ----- 1:1-ARGM-DIS() 8:3-ARGM-DIS() 10:2-ARG1(THM) 14:4-ARGM-CAU() 15:0-rel

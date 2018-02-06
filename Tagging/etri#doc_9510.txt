@@ -1,0 +1,1 @@
+etri#doc_9510.txt 14 ²¨¸®´Ù ----- 4:3-ARG0(EXP) 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

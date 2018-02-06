@@ -1,0 +1,4 @@
+etri#doc_5306.txt 4 선물하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_5306.txt 10 가까워지다 ----- 7:1-ARGM-EXT(EFF) 8:1-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_5306.txt 13 선물하다 ----- 10:2-ARGM-DIS() 12:2-ARG0(AGT) 13:0-rel
+etri#doc_5306.txt 18 재다 ----- 1:1-ARGM-LOC(LOC) 15:2-ARG0(AGT) 16:1-ARGM-EXT(CRT) 17:1-ARG1(THM) 18:0-rel

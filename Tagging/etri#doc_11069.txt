@@ -1,0 +1,6 @@
+etri#doc_11069.txt 3 옮기다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11069.txt 6 하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:1-ARG2(COM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11069.txt 7 알다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_11069.txt 11 이사하다 ----- 10:1-ARG2(DIR) 11:0-rel
+etri#doc_11069.txt 13 하다 ----- 8:1-ARGM-DIS() 9:1-ARGM-MNR(INS) 12:3-ARG1(THM) 13:0-rel
+etri#doc_11069.txt 14 모르다 ----- 7:3-ARGM-DIS() 13:4-ARG1() 14:0-rel

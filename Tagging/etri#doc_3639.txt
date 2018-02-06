@@ -1,0 +1,2 @@
+etri#doc_3639.txt 14 나오다 ----- 3:2-ARG0(THM) 4:1-ARGM-CAU() 13:4-ARGM-LOC(LOC) 14:0-rel
+etri#doc_3639.txt 16 들다 ----- 15:6-ARG1(THM) 16:0-rel

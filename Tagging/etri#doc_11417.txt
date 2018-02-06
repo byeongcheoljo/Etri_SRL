@@ -1,0 +1,5 @@
+etri#doc_11417.txt 2 말하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_11417.txt 5 고정되다 ----- 5:0-rel
+etri#doc_11417.txt 7 상정하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11417.txt 10 갖다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_11417.txt 18 경직되다 ----- 2:2-ARGM-DIS() 8:4-ARG1(THM) 14:4-ARGM-TMP() 16:2-ARGM-LOC(LOC) 17:1-ARGM-EXT() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6009.txt 4 남기다 ----- 2:2-ARGM-PRD(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6009.txt 13 눕다 ----- 9:1-ARGM-LOC() 12:3-ARG0(THM) 13:0-rel
+etri#doc_6009.txt 14 쓰다 ----- 13:4-ARG1(CNT) 14:0-rel
+etri#doc_6009.txt 15 남기다 ----- 6:2-ARG0(AGT) 8:2-ARG1(THM) 14:5-ARGM-DIS() 15:0-rel

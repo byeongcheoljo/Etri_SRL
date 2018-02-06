@@ -1,0 +1,6 @@
+etri#doc_9209.txt 4 이야기하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_9209.txt 8 살피다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_9209.txt 11 살피다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_9209.txt 12 말하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_9209.txt 14 하다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_9209.txt 17 말하다 ----- 4:3-ARG1() 5:1-ARG0(EFF) 12:3-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-EXT(EFF) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8574.txt 11 주다 ----- 2:1-ARGM-MNR(INS) 10:4-ARG1(THM) 11:0-rel
+etri#doc_8574.txt 19 만들다 ----- 1:1-ARGM-DIS() 11:5-ARGM-DIS() 15:3-ARGM-CAU(EFF) 16:1-ARGM-MNR() 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9566.txt 4 고립되다 ----- 4:0-rel
+etri#doc_9566.txt 5 고정되다 ----- 4:1-ARGM-DIS() 5:0-rel

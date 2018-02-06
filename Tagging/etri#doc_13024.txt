@@ -1,0 +1,2 @@
+etri#doc_13024.txt 7 ¸Â´Ù ----- 2:1-ARGM-CND(EFF) 3:1-ARGM-TMP(CRT) 6:3-ARG1(THM) 7:0-rel
+etri#doc_13024.txt 14 ´À³¢´Ù ----- 1:1-ARGM-DIS() 7:4-ARGM-CAU() 9:2-ARG0(EXP) 12:2-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel

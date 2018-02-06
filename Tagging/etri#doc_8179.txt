@@ -1,0 +1,5 @@
+etri#doc_8179.txt 3 중요시하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8179.txt 8 부르다 ----- 8:0-rel
+etri#doc_8179.txt 9 따르다 ----- 8:1-ARGM-CAU() 9:0-rel
+etri#doc_8179.txt 11 되다 ----- 10:1-ARG2(FNS) 11:0-rel
+etri#doc_8179.txt 13 되다 ----- 7:3-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG2(FNS) 13:0-rel

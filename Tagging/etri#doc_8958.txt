@@ -1,0 +1,5 @@
+etri#doc_8958.txt 2 빠지다 ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_8958.txt 4 눈멀다 ----- 2:2-ARGM-DIS() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8958.txt 8 만들다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8958.txt 13 감추다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_8958.txt 19 고통받다 ----- 15:4-ARGM-CAU() 16:1-ARGM-TMP() 17:1-ARGM-DIS() 18:1-ARGM-CAU(EFF) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5297.txt 4 바르다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 4:0-rel
+etri#doc_5297.txt 10 하다 ----- 4:3-ARGM-DIS() 6:2-ARGM-LOC(LOC) 8:2-ARGM-MNR(FNS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5297.txt 16 나다 ----- 15:2-ARG1() 16:0-rel
+etri#doc_5297.txt 18 만들다 ----- 17:1-ARGM-MNR() 18:0-rel

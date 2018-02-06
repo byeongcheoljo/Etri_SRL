@@ -1,0 +1,5 @@
+etri#doc_8086.txt 5 지니다 ----- 2:2-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_8086.txt 9 찾아오다 ----- 7:1-ARGM-MNR() 8:1-ARG2(DIR) 9:0-rel
+etri#doc_8086.txt 12 찢어지다 ----- 10:1-ARGM-MNR(INS) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_8086.txt 15 번뜩이다 ----- 13:3-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_8086.txt 17 말하다 ----- 6:4-ARG0(AGT) 9:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG2(GOL) 17:0-rel

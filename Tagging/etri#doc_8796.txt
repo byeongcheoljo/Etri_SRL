@@ -1,0 +1,3 @@
+etri#doc_8796.txt 5 지나다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-EXT() 4:1-ARG2(CRT) 5:0-rel
+etri#doc_8796.txt 11 알다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_8796.txt 12 알다 ----- 6:3-ARG0(MAG) 7:1-ARG0(MAG) 11:3-ARG1() 12:0-rel

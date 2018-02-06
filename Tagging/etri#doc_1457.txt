@@ -1,0 +1,5 @@
+etri#doc_1457.txt 4 알다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1457.txt 5 살다 ----- 4:3-ARGM-DIS() 5:0-rel
+etri#doc_1457.txt 8 따지다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_1457.txt 15 가리다 ----- 8:2-ARGM-DIS() 9:1-() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_1457.txt 18 보이다 ----- 1:1-ARGM-DIS() 6:5-ARGM-DIR(DIR) 16:3-ARG0(AGT) 17:1-ARGM-MNR() 18:0-rel

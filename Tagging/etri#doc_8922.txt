@@ -1,0 +1,6 @@
+etri#doc_8922.txt 3 ¸Ô´Ù ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_8922.txt 6 Âõ´Ù ----- 6:0-rel
+etri#doc_8922.txt 7 ¿Ã¶ó°¡´Ù ----- 1:1-ARG0(THM) 3:2-ARGM-EXT() 4:1-ARG3(GOL) 5:1-ARGM-MNR() 6:1-ARGM-DIS() 7:0-rel
+etri#doc_8922.txt 8 ÁË´Ù ----- 8:0-rel
+etri#doc_8922.txt 11 ±«´Ù ----- 7:2-ARGM-DIS() 9:2-ARGM-LOC(LOC) 10:1-ARG0(AGT) 11:0-rel
+etri#doc_8922.txt 13 ¾ÈµÇ´Ù ----- 12:1-ARG2(LOC) 13:0-rel

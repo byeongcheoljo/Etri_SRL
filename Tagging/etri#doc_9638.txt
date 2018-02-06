@@ -1,0 +1,4 @@
+etri#doc_9638.txt 2 들르다 ----- 1:1-ARGM-LOC(GOL) 2:0-rel
+etri#doc_9638.txt 6 찾다 ----- 2:2-ARGM-DIS() 5:3-ARG1(THM) 6:0-rel
+etri#doc_9638.txt 14 붙잡다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_9638.txt 15 깨닫다 ----- 8:6-ARGM-MNR() 9:1-ARG1(MAG) 11:2-ARGM-TMP(LOC) 14:3-ARG2(THM) 15:0-rel

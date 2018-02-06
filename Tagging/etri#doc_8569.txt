@@ -1,0 +1,4 @@
+etri#doc_8569.txt 6 옹호하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8569.txt 14 실천하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_8569.txt 16 기여하다 ----- 14:3-ARGM-MNR() 15:1-ARG1(GOL) 16:0-rel
+etri#doc_8569.txt 20 갖다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 11:4-ARGM-ADV(EFF) 19:2-ARG1(THM) 20:0-rel

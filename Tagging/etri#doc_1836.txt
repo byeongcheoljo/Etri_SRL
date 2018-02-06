@@ -1,0 +1,5 @@
+etri#doc_1836.txt 6 수놓다 ----- 3:3-ARGM-LOC() 4:1-ARGM-MNR(CRT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1836.txt 9 나빠지다 ----- 8:1-ARG0() 9:0-rel
+etri#doc_1836.txt 10 걱정하다 ----- 9:2-ARGM-CAU() 10:0-rel
+etri#doc_1836.txt 12 일어나다 ----- 11:1-ARGM-DIS(CNT) 12:0-rel
+etri#doc_1836.txt 16 말하다 ----- 7:3-ARG0(AGT) 10:3-ARGM-DIS(CNT) 12:2-ARGM-MNR(CNT) 13:1-ARG1(CNT) 15:2-ARGM-MNR() 16:0-rel

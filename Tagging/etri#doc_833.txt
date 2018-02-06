@@ -1,0 +1,2 @@
+etri#doc_833.txt 5 끝장내다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_833.txt 10 어쩌다 ----- 8:1-ARGM-MNR() 9:1-ARGM-CAU() 10:0-rel

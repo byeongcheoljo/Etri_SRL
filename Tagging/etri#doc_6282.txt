@@ -1,0 +1,4 @@
+etri#doc_6282.txt 3 버림받다 ----- 3:0-rel
+etri#doc_6282.txt 7 생각하다 ----- 2:2-ARG0(MAG) 5:3-ARG1(FNS) 6:1-ARG0(MAG) 7:0-rel
+etri#doc_6282.txt 9 살다 ----- 8:1-ARGM-LOC() 9:0-rel
+etri#doc_6282.txt 16 지나다 ----- 7:2-ARGM-DIS() 13:2-ARGM-CND(AGT) 14:1-ARGM-MNR(INS) 15:1-ARG2(CRT) 16:0-rel

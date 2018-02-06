@@ -1,0 +1,3 @@
+etri#doc_11812.txt 3 비추다 ----- 2:2-ARG2(INS) 3:0-rel
+etri#doc_11812.txt 8 금하다 ----- 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_11812.txt 11 우려하다 ----- 9:1-ARG0(EXP) 10:1-ARGM-EXT() 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8092.txt 2 굳다 ----- 2:0-rel
+etri#doc_8092.txt 13 차지하다 ----- 12:1-ARG0(AGT) 13:0-rel

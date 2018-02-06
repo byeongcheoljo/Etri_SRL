@@ -1,0 +1,4 @@
+etri#doc_11329.txt 5 얻다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV() 3:1-ARG2(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11329.txt 9 패배하다 ----- 5:2-ARGM-DIS() 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_11329.txt 11 구축하다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_11329.txt 17 흐르다 ----- 9:4-ARGM-CND() 14:3-ARG1(THM) 16:2-ARG3(DIR) 17:0-rel

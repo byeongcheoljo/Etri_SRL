@@ -1,0 +1,5 @@
+etri#doc_993.txt 6 절다 ----- 5:1-ARGM-CAU(EFF) 6:0-rel
+etri#doc_993.txt 8 벗다 ----- 8:0-rel
+etri#doc_993.txt 13 나오다 ----- 9:2-ARGM-DIS() 10:1-ARGM-INS(INS) 11:1-ARGM-EXT(CRT) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_993.txt 14 날아가다 ----- 14:0-rel
+etri#doc_993.txt 17 내다보다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 13:2-ARGM-MNR() 16:2-ARG1(THM) 17:0-rel

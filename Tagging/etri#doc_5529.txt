@@ -1,0 +1,3 @@
+etri#doc_5529.txt 2 이르다 ----- 1:1-ARG3(FNS) 2:0-rel
+etri#doc_5529.txt 9 떨어지다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:1-ARG2(SRC) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_5529.txt 11 폭로하다 ----- 10:1-ARG1(THM) 11:0-rel

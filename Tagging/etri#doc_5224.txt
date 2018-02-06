@@ -1,0 +1,4 @@
+etri#doc_5224.txt 2 내걸다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5224.txt 8 빚다 ----- 2:2-ARGM-DIS() 5:3-ARGM-LOC(LOC) 6:1-ARGM-MNR(COM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_5224.txt 13 방문하다 ----- 9:3-ARG0(AGT) 10:1-ARG2(SRC) 11:1-ARG3(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5224.txt 15 일어나다 ----- 13:2-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

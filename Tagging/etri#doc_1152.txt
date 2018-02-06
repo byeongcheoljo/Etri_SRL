@@ -1,0 +1,3 @@
+etri#doc_1152.txt 4 탄생되다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 4:0-rel
+etri#doc_1152.txt 8 접다 ----- 4:3-ARGM-DIS() 6:2-ARG0(THM) 7:1-ARGM-TMP(LOC) 8:0-rel
+etri#doc_1152.txt 12 가지다 ----- 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel

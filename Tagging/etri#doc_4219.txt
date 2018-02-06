@@ -1,0 +1,5 @@
+etri#doc_4219.txt 3 통과하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4219.txt 6 검사하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_4219.txt 14 오염시키다 ----- 11:1-ARG0(AGT) 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_4219.txt 15 판단되다 ----- 10:3-ARGM-DIS() 14:2-ARG1() 15:0-rel
+etri#doc_4219.txt 16 말하다 ----- 1:1-ARG0(AGT) 15:3-ARG1(CNT) 16:0-rel

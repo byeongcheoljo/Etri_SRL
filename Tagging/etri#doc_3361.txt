@@ -1,0 +1,5 @@
+etri#doc_3361.txt 6 인용하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3361.txt 7 확증하다 ----- 3:1-ARG0(AGT) 6:3-ARGM-INS() 7:0-rel
+etri#doc_3361.txt 15 인정하다 ----- 15:0-rel
+etri#doc_3361.txt 16 하다 ----- 9:2-ARG1(THM) 11:2-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:0-rel
+etri#doc_3361.txt 17 달리다 ----- 1:1-() 2:1-ARG1(THM) 16:2-ARGM-LOC() 17:0-rel

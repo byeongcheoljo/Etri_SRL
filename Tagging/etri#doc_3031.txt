@@ -1,0 +1,5 @@
+etri#doc_3031.txt 5 대항하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_3031.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_3031.txt 10 유지하다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3031.txt 12 누리다 ----- 2:2-ARG0(AGT) 5:3-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_3031.txt 18 정착하다 ----- 13:3-ARG0(EXP) 14:1-ARGM-TMP() 15:1-ARGM-EXT() 17:2-ARG2(FNS) 18:0-rel

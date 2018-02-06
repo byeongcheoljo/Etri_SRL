@@ -1,0 +1,2 @@
+etri#doc_6337.txt 6 보다 ----- 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_6337.txt 19 활동하다 ----- 15:4-ARGM-DIS() 17:2-ARGM-LOC(LOC) 18:1-ARGM-MNR() 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5405.txt 2 태어나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5405.txt 7 이다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_5405.txt 9 돌아오다 ----- 7:2-ARGM-DIS() 8:1-ARG2(SRC) 9:0-rel
+etri#doc_5405.txt 11 짓다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5405.txt 16 들어가다 ----- 15:1-ARG3(GOL) 16:0-rel
+etri#doc_5405.txt 19 낳다 ----- 3:3-ARGM-TMP() 5:2-ARG0(AGT) 11:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel

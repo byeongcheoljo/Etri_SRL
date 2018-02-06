@@ -1,0 +1,2 @@
+etri#doc_5444.txt 7 ºÀÇåÇÏ´Ù ----- 1:1-ARGM-EXT() 2:1-ARGM-TMP(LOC) 3:1-ARGM-EXT(SRC) 4:1-ARGM-EXT(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_5444.txt 12 ¹ÙÄ¡´Ù ----- 9:2-ARGM-EXT(EFF) 10:1-ARGM-TMP(LOC) 11:1-ARGM-EXT() 12:0-rel

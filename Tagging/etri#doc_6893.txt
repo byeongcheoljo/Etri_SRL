@@ -1,0 +1,5 @@
+etri#doc_6893.txt 6 보내다 ----- 4:1-ARG2(GOL) 5:1-ARG1(THM) 6:0-rel
+etri#doc_6893.txt 11 관련되다 ----- 10:2-ARG2(COM) 11:0-rel
+etri#doc_6893.txt 15 가져오다 ----- 15:0-rel
+etri#doc_6893.txt 16 조사받다 ----- 14:2-ARG0(GOL) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_6893.txt 17 하다 ----- 3:2-ARGM-DIS() 6:2-ARGM-DIS() 16:2-ARG1(CNT) 17:0-rel

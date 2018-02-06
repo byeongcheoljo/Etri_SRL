@@ -1,0 +1,4 @@
+etri#doc_4971.txt 9 존재하다 ----- 6:1-ARG1(THM) 7:1-ARGM-LOC(LOC) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4971.txt 13 고찰하다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_4971.txt 16 관련되다 ----- 5:2-ARG1(THM) 14:3-ARG2(COM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_4971.txt 17 생각하다 ----- 1:1-ARGM-DIS() 16:2-ARG1() 17:0-rel

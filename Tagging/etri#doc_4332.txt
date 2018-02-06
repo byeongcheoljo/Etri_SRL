@@ -1,0 +1,6 @@
+etri#doc_4332.txt 3 만들다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4332.txt 5 구경하다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_4332.txt 7 서두르다 ----- 5:5-ARGM-PRP() 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_4332.txt 9 제외하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_4332.txt 11 띄다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_4332.txt 15 알다 ----- 9:4-ARGM-DIS() 13:2-ARG0(MAG) 14:1-ARG1(THM) 15:0-rel

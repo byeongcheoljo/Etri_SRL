@@ -1,0 +1,2 @@
+etri#doc_7069.txt 10 옮기다 ----- 8:2-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_7069.txt 17 밝히다 ----- 15:2-ARG1() 16:1-ARG0(AGT) 17:0-rel

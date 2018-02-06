@@ -1,0 +1,6 @@
+etri#doc_1557.txt 6 이루다 ----- 4:1-ARGM-DIS(COM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1557.txt 8 담기다 ----- 3:2-ARGM-LOC(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_1557.txt 9 설명하다 ----- 8:4-ARGM-DIS() 9:0-rel
+etri#doc_1557.txt 16 섞다 ----- 15:5-ARG1(THM) 16:0-rel
+etri#doc_1557.txt 17 만들다 ----- 16:6-() 17:0-rel
+etri#doc_1557.txt 22 강조하다 ----- 10:6-ARG0(AGT) 21:4-ARGM-DIS() 22:0-rel

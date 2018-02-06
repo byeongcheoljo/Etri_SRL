@@ -1,0 +1,4 @@
+etri#doc_7063.txt 11 나누다 ----- 10:4-ARG2(FNS) 11:0-rel
+etri#doc_7063.txt 12 고찰하다 ----- 11:5-ARGM-MNR() 12:0-rel
+etri#doc_7063.txt 15 들다 ----- 12:6-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_7063.txt 19 설명하다 ----- 15:3-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

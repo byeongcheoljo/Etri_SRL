@@ -1,0 +1,6 @@
+etri#doc_6019.txt 4 시키다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6019.txt 6 열다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6019.txt 10 보내다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 8:2-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6019.txt 14 돌아오다 ----- 13:1-ARG0(THM) 14:0-rel
+etri#doc_6019.txt 16 끼다 ----- 15:1-ARGM-LOC() 16:0-rel
+etri#doc_6019.txt 18 없어지다 ----- 10:2-ARGM-DIS() 12:2-ARGM-TMP() 14:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

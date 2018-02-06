@@ -1,0 +1,4 @@
+etri#doc_7106.txt 3 나서다 ----- 2:1-ARG2(SRC) 3:0-rel
+etri#doc_7106.txt 5 나오다 ----- 3:2-ARGM-DIS() 4:1-ARGM-LOC(GOL) 5:0-rel
+etri#doc_7106.txt 16 걸어오다 ----- 9:1-ARGM-EXT(CRT) 10:1-ARGM-EXT() 11:1-ARGM-EXT(CRT) 13:2-ARGM-MNR() 14:1-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_7106.txt 18 만나다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

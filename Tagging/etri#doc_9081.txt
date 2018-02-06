@@ -1,0 +1,2 @@
+etri#doc_9081.txt 7 제한하다 ----- 5:2-ARG1(THM) 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_9081.txt 13 위하다 ----- 9:4-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

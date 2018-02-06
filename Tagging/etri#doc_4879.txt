@@ -1,0 +1,4 @@
+etri#doc_4879.txt 3 포함하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4879.txt 7 가다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_4879.txt 9 검토하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_4879.txt 16 제공하다 ----- 5:2-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

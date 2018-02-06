@@ -1,0 +1,2 @@
+etri#doc_11737.txt 5 부려먹다 ----- 4:1-ARGM-EXT(EFF) 5:0-rel
+etri#doc_11737.txt 11 허락하다 ----- 6:3-ARGM-LOC(LOC) 10:3-ARG1(THM) 11:0-rel

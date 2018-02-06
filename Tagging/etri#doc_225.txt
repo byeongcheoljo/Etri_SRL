@@ -1,0 +1,4 @@
+etri#doc_225.txt 9 짜다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_225.txt 12 기록하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_225.txt 15 이용하다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_225.txt 18 활용하다 ----- 1:1-ARGM-EXT(FNS) 2:1-ARG0(AGT) 15:5-ARGM-MNR() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

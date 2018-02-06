@@ -1,0 +1,7 @@
+etri#doc_8821.txt 3 좋아하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_8821.txt 5 주다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_8821.txt 6 먹다 ----- 5:4-ARGM-DIS() 6:0-rel
+etri#doc_8821.txt 7 하다 ----- 6:5-ARG1() 7:0-rel
+etri#doc_8821.txt 9 거절하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_8821.txt 12 달다 ----- 1:1-ARGM-DIS() 7:6-ARGM-TMP() 9:2-ARGM-DIS() 10:1-ARGM-TMP() 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_8821.txt 17 알다 ----- 16:4-ARG1(THM) 17:0-rel

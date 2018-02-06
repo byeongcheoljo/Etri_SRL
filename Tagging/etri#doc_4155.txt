@@ -1,0 +1,4 @@
+etri#doc_4155.txt 2 막다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4155.txt 6 일어나다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_4155.txt 9 부르다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_4155.txt 11 가속되다 ----- 6:4-ARGM-CND() 9:2-ARGM-DIS() 10:1-ARG0(THM) 11:0-rel

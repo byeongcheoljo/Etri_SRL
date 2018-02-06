@@ -1,0 +1,4 @@
+etri#doc_11899.txt 6 독립되다 ----- 6:0-rel
+etri#doc_11899.txt 8 비유되다 ----- 7:2-ARG2(CRT) 8:0-rel
+etri#doc_11899.txt 17 독립되다 ----- 17:0-rel
+etri#doc_11899.txt 20 취급되다 ----- 10:5-ARGM-EXT() 15:2-ARG1(THM) 16:1-ARGM-ADV() 19:2-ARGM-PRD(EFF) 20:0-rel

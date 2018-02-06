@@ -1,0 +1,5 @@
+etri#doc_4731.txt 4 얻다 ----- 3:1-ARG2(SRC) 4:0-rel
+etri#doc_4731.txt 7 쓰다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_4731.txt 11 이해하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4731.txt 13 주다 ----- 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_4731.txt 16 무시하다 ----- 2:2-ARG0(MAG) 8:3-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

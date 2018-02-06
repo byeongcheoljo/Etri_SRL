@@ -1,0 +1,3 @@
+etri#doc_9511.txt 4 평가되다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR(FNS) 4:0-rel
+etri#doc_9511.txt 6 불거지다 ----- 5:3-ARGM-DIS(EFF) 6:0-rel
+etri#doc_9511.txt 13 던지다 ----- 7:5-ARG0(AGT) 11:3-ARG1(THM) 12:1-ARG2(GOL) 13:0-rel

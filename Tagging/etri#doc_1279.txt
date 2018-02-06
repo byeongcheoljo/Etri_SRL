@@ -1,0 +1,4 @@
+etri#doc_1279.txt 4 벗어나다 ----- 1:1-ARG0(THM) 2:1-ARGM-TMP() 3:1-ARGM-DIR(DIR) 4:0-rel
+etri#doc_1279.txt 10 접근하다 ----- 7:2-ARGM-LOC(GOL) 9:2-ARG3(FNS) 10:0-rel
+etri#doc_1279.txt 15 침투하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_1279.txt 17 보이다 ----- 5:3-ARG1(THM) 15:3-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

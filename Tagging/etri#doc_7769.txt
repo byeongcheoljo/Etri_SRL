@@ -1,0 +1,4 @@
+etri#doc_7769.txt 3 나타나다 ----- 1:1-ARGM-TMP() 2:1-ARG2(LOC) 3:0-rel
+etri#doc_7769.txt 5 팽배하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7769.txt 8 받다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_7769.txt 12 직면하다 ----- 3:2-ARGM-DIS() 8:2-ARGM-DIS() 9:1-ARG0() 10:1-ARGM-DIS() 11:1-ARG1(LOC) 12:0-rel

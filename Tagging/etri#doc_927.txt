@@ -1,0 +1,3 @@
+etri#doc_927.txt 2 가다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_927.txt 7 소재하다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_927.txt 13 가다 ----- 12:1-ARG3(DIR) 13:0-rel

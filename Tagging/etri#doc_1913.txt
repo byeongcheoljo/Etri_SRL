@@ -1,0 +1,4 @@
+etri#doc_1913.txt 4 놓이다 ----- 1:1-ARGM-TMP() 3:2-ARG2(GOL) 4:0-rel
+etri#doc_1913.txt 8 개선하다 ----- 5:4-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_1913.txt 12 자각하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_1913.txt 14 싸우다 ----- 12:3-ARGM-DIS() 13:1-ARGM-INS(INS) 14:0-rel

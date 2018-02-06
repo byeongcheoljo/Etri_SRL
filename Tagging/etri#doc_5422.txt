@@ -1,0 +1,8 @@
+etri#doc_5422.txt 1 짜이다 ----- 1:0-rel
+etri#doc_5422.txt 7 뚫다 ----- 3:3-ARGM-DIS(EFF) 5:2-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_5422.txt 12 지나가다 ----- 12:0-rel
+etri#doc_5422.txt 13 뚫리다 ----- 13:0-rel
+etri#doc_5422.txt 15 통과하다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 11:2-ARG0(AGT) 12:1-ARGM-DIS() 14:2-ARGM-LOC(LOC) 15:0-rel
+etri#doc_5422.txt 16 원하다 ----- 16:0-rel
+etri#doc_5422.txt 18 꼬이다 ----- 18:0-rel
+etri#doc_5422.txt 21 만들다 ----- 15:3-ARGM-MNR() 20:3-ARG1(THM) 21:0-rel

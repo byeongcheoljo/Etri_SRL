@@ -1,0 +1,2 @@
+etri#doc_3264.txt 12 이끌다 ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 11:3-ARG2(DIR) 12:0-rel
+etri#doc_3264.txt 15 제시하다 ----- 3:3-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_867.txt 6 저지르다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_867.txt 8 죽다 ----- 8:0-rel
+etri#doc_867.txt 9 웅크리다 ----- 2:1-ARGM-DIS() 3:1-ARG0(AGT) 6:3-ARGM-DIS() 7:1-ARGM-MNR() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_867.txt 13 나오다 ----- 10:1-ARGM-MNR() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_867.txt 17 갖다 ----- 16:3-ARG1(THM) 17:0-rel

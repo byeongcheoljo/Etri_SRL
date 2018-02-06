@@ -1,0 +1,5 @@
+etri#doc_5964.txt 4 떠나다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5964.txt 8 얻다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_5964.txt 16 실현하다 ----- 15:5-ARG1(THM) 16:0-rel
+etri#doc_5964.txt 19 창설하다 ----- 8:3-ARGM-DIS() 17:7-ARGM-PRD(INS) 18:1-ARG1(THM) 19:0-rel
+etri#doc_5964.txt 21 되다 ----- 5:3-ARG1(THM) 19:2-ARGM-CAU() 20:1-ARG2(FNS) 21:0-rel

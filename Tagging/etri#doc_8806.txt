@@ -1,0 +1,5 @@
+etri#doc_8806.txt 5 흐트러지다 ----- 5:0-rel
+etri#doc_8806.txt 7 살다 ----- 3:3-ARG0(AGT) 4:1-ARG1(THM) 6:2-ARG2(LOC) 7:0-rel
+etri#doc_8806.txt 11 기어오르다 ----- 7:3-ARGM-DIS() 9:2-ARG0(AGT) 10:1-ARG2(GOL) 11:0-rel
+etri#doc_8806.txt 16 기어오르다 ----- 11:2-ARGM-DIS() 12:1-ARGM-DIS() 15:3-ARG2(GOL) 16:0-rel
+etri#doc_8806.txt 17 하다 ----- 16:4-ARGM-DIS() 17:0-rel

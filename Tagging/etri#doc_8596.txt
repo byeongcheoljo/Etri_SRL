@@ -1,0 +1,3 @@
+etri#doc_8596.txt 10 하사하다 ----- 9:3-ARG2(GOL) 10:0-rel
+etri#doc_8596.txt 14 부과되다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 12:6-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_8596.txt 19 인식하다 ----- 14:2-ARGM-CAU() 16:2-ARG1(THM) 18:2-ARGM-MNR() 19:0-rel

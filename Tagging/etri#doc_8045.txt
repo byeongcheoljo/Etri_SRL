@@ -1,0 +1,4 @@
+etri#doc_8045.txt 4 잡다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8045.txt 7 이루다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8045.txt 11 올라서다 ----- 4:2-ARGM-DIS() 5:1-ARG1(AGT) 7:2-ARGM-EXT() 10:2-ARG3(GOL) 11:0-rel
+etri#doc_8045.txt 14 되다 ----- 1:1-ARG1(THM) 11:3-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARG2(FNS) 14:0-rel

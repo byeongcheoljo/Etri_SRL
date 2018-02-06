@@ -1,0 +1,2 @@
+etri#doc_11557.txt 4 하다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_11557.txt 13 하다 ----- 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

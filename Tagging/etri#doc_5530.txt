@@ -1,0 +1,2 @@
+etri#doc_5530.txt 5 존재하다 ----- 2:2-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_5530.txt 15 존재하다 ----- 5:3-ARGM-DIS() 8:2-ARGM-ADV(CNT) 12:2-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel

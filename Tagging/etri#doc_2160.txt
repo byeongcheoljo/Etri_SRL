@@ -1,0 +1,1 @@
+etri#doc_2160.txt 17 ´Ù·ç´Ù ----- 4:2-ARG0(LOC) 5:1-ARG1(CRT) 7:2-(CRT) 15:3-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

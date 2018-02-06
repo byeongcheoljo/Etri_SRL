@@ -1,0 +1,6 @@
+etri#doc_5018.txt 3 들어서다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_5018.txt 6 내리다 ----- 4:1-ARGM-ADV() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5018.txt 8 다물다 ----- 3:2-ARGM-TMP() 6:2-ARGM-ADV() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5018.txt 10 나서다 ----- 9:1-ARG1(SRC) 10:0-rel
+etri#doc_5018.txt 12 달라지다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_5018.txt 15 이야기하다 ----- 8:2-ARGM-DIS() 10:2-ARGM-CND() 12:2-ARGM-DIS() 13:1-ARGM-MNR(COM) 14:1-ARGM-MNR() 15:0-rel

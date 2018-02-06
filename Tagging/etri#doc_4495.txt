@@ -1,0 +1,5 @@
+etri#doc_4495.txt 3 하다 ----- 2:1-ARG1(CNT) 3:0-rel
+etri#doc_4495.txt 9 알다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_4495.txt 15 부르다 ----- 13:1-ARGM-DIS() 14:1-ARG1(CNT) 15:0-rel
+etri#doc_4495.txt 17 닥치다 ----- 16:1-ARGM-TMP(LOC) 17:0-rel
+etri#doc_4495.txt 21 알다 ----- 20:2-ARG1(THM) 21:0-rel

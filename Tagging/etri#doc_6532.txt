@@ -1,0 +1,4 @@
+etri#doc_6532.txt 7 결합되다 ----- 4:2-ARG1(THM) 5:1-ARGM-LOC(GOL) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_6532.txt 11 분리하다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6532.txt 15 결정하다 ----- 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel
+etri#doc_6532.txt 16 이해하다 ----- 7:2-ARGM-ADV() 8:1-ARG0(MAG) 12:3-ARGM-LOC(LOC) 15:2-ARG1() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11112.txt 5 나다 ----- 2:2-ARGM-DIS() 3:1-ARG2(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11112.txt 7 널리다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11112.txt 12 가지다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_11112.txt 13 먹다 ----- 13:0-rel
+etri#doc_11112.txt 14 짓찧다 ----- 14:0-rel
+etri#doc_11112.txt 15 상처나다 ----- 15:0-rel

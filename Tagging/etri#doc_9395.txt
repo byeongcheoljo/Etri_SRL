@@ -1,0 +1,4 @@
+etri#doc_9395.txt 4 ³ª´µ´Ù ----- 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_9395.txt 7 °È´Ù ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 4:2-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_9395.txt 10 ÀÕ´Ù ----- 7:3-ARGM-DIS() 9:2-ARG2(THM) 10:0-rel
+etri#doc_9395.txt 13 ÀÏ¾î³ª´Ù ----- 12:1-ARGM-LOC(LOC) 13:0-rel

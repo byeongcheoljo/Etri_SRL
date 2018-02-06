@@ -1,0 +1,4 @@
+etri#doc_132.txt 1 과장되다 ----- 1:0-rel
+etri#doc_132.txt 5 되다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_132.txt 8 앉다 ----- 6:1-ARGM-MNR(INS) 7:1-ARG1(GOL) 8:0-rel
+etri#doc_132.txt 16 나서다 ----- 16:0-rel

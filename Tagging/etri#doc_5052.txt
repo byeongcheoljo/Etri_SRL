@@ -1,0 +1,2 @@
+etri#doc_5052.txt 14 정복하다 ----- 10:6-ARG0(AGT) 11:1-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_5052.txt 19 함축되다 ----- 1:1-ARGM-DIS() 4:3-ARG1(THM) 18:3-ARGM-LOC(LOC) 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4721.txt 5 만나다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4721.txt 7 타다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4721.txt 8 표류하다 ----- 5:2-ARGM-DIS() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4721.txt 13 살다 ----- 13:0-rel
+etri#doc_4721.txt 15 정착하다 ----- 3:2-ARG0(AGT) 8:3-ARGM-DIS() 14:2-ARG2(LOC) 15:0-rel
+etri#doc_4721.txt 16 생각하다 ----- 1:1-ARGM-DIS(DIR) 15:3-ARG1() 16:0-rel

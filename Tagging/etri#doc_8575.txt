@@ -1,0 +1,2 @@
+etri#doc_8575.txt 9 지적하다 ----- 2:2-ARG0(AGT) 5:3-ARGM-MNR(INS) 8:3-ARG1(THM) 9:0-rel
+etri#doc_8575.txt 13 부각되다 ----- 9:4-ARGM-DIS() 10:1-ARGM-DIS(CNT) 12:2-ARG1(THM) 13:0-rel

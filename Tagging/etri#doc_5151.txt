@@ -1,0 +1,4 @@
+etri#doc_5151.txt 2 이기다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5151.txt 6 켜다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5151.txt 7 밤새우다 ----- 7:0-rel
+etri#doc_5151.txt 8 일하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel

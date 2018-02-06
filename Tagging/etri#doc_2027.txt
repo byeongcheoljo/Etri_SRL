@@ -1,0 +1,4 @@
+etri#doc_2027.txt 8 거부하다 ----- 6:1-ARG2(MAG) 7:1-ARG1(THM) 8:0-rel
+etri#doc_2027.txt 10 통제하다 ----- 9:1-ARG0(THM) 10:0-rel
+etri#doc_2027.txt 13 통제하다 ----- 11:3-ARG1(THM) 12:1-ARG0(AGT) 13:0-rel
+etri#doc_2027.txt 14 바라다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 8:2-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel

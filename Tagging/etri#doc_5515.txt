@@ -1,0 +1,1 @@
+etri#doc_5515.txt 7 생각하다 ----- 5:3-ARGM-DIS(CNT) 6:1-ARG0(MAG) 7:0-rel

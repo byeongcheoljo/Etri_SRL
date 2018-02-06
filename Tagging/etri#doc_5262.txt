@@ -1,0 +1,5 @@
+etri#doc_5262.txt 6 폐지하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5262.txt 11 경유하다 ----- 7:1-ARG0(AGT) 8:1-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_5262.txt 12 의무화하다 ----- 11:3-ARGM-PRP() 12:0-rel
+etri#doc_5262.txt 14 폐지하다 ----- 13:5-ARG1(THM) 14:0-rel
+etri#doc_5262.txt 16 개편하다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 14:6-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

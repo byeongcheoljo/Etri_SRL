@@ -1,0 +1,5 @@
+etri#doc_6877.txt 4 보다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_6877.txt 9 찾아가다 ----- 7:1-ARG1(THM) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6877.txt 14 찾다 ----- 11:2-ARGM-LOC(SRC) 13:2-ARG1(THM) 14:0-rel
+etri#doc_6877.txt 17 하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_6877.txt 20 하다 ----- 6:2-ARG0(AGT) 9:2-ARGM-DIS() 19:5-ARG1() 20:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3719.txt 11 선택하다 ----- 7:4-ARGM-CAU() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3719.txt 20 권하다 ----- 2:2-ARGM-LOC(LOC) 11:4-ARGM-DIS() 16:4-ARGM-CAU() 19:3-ARG1(THM) 20:0-rel

@@ -1,0 +1,8 @@
+etri#doc_8703.txt 5 µ¥Ä¡´Ù ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_8703.txt 6 ¸Ô´Ù ----- 2:1-ARGM-TMP(LOC) 5:3-ARGM-MNR() 6:0-rel
+etri#doc_8703.txt 10 ½Î´Ù ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8703.txt 11 ¸Ô´Ù ----- 6:4-ARGM-DIS() 7:1-ARGM-TMP(LOC) 10:2-ARGM-MNR() 11:0-rel
+etri#doc_8703.txt 15 ºÎÄ¡´Ù ----- 13:1-ARGM-INS(INS) 14:1-ARG1(THM) 15:0-rel
+etri#doc_8703.txt 16 ¸Ô´Ù ----- 11:3-ARGM-DIS() 12:1-ARGM-TMP(LOC) 15:2-ARGM-DIS() 16:0-rel
+etri#doc_8703.txt 19 ´ÞÀÌ´Ù ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_8703.txt 20 ¸¶½Ã´Ù ----- 1:1-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-TMP(LOC) 19:2-ARGM-DIS() 20:0-rel

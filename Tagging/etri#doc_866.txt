@@ -1,0 +1,5 @@
+etri#doc_866.txt 4 되다 ----- 1:1-ARGM-MNR() 2:1-ARGM-TMP(CRT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_866.txt 8 하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_866.txt 10 가다 ----- 9:1-ARGM-EXT(CRT) 10:0-rel
+etri#doc_866.txt 13 되다 ----- 12:1-ARG1() 13:0-rel
+etri#doc_866.txt 16 미루다 ----- 5:3-ARGM-DIS() 8:3-ARGM-MNR() 10:2-ARGM-TMP() 11:1-ARGM-EXT() 14:3-ARGM-DIS() 15:1-ARG2(FNS) 16:0-rel

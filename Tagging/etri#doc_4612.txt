@@ -1,0 +1,5 @@
+etri#doc_4612.txt 5 생기다 ----- 4:3-ARG2(LOC) 5:0-rel
+etri#doc_4612.txt 10 결정하다 ----- 6:5-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4612.txt 16 제한하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_4612.txt 19 존재하다 ----- 10:3-ARGM-DIS() 13:3-ARG2(FNS) 18:2-ARG1(THM) 19:0-rel
+etri#doc_4612.txt 20 믿다 ----- 1:1-ARG0(MAG) 19:3-ARG1() 20:0-rel

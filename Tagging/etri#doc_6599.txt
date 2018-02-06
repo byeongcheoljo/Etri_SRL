@@ -1,0 +1,5 @@
+etri#doc_6599.txt 8 생각하다 ----- 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6599.txt 10 알다 ----- 6:3-ARG1(THM) 8:2-ARGM-DIS() 9:1-ARG0(MAG) 10:0-rel
+etri#doc_6599.txt 11 여겨지다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_6599.txt 17 생각하다 ----- 15:2-ARGM-DIS() 16:1-ARGM-EXT() 17:0-rel
+etri#doc_6599.txt 18 쓰다 ----- 17:2-ARGM-DIS() 18:0-rel

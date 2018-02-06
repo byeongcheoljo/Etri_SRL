@@ -1,0 +1,7 @@
+etri#doc_864.txt 4 끼다 ----- 2:1-ARG1(THM) 3:1-ARG2(LOC) 4:0-rel
+etri#doc_864.txt 7 누르다 ----- 5:1-(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_864.txt 9 긋다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_864.txt 10 붙이다 ----- 9:2-ARGM-MNR() 10:0-rel
+etri#doc_864.txt 11 물다 ----- 4:2-ARGM-DIS() 7:2-ARGM-MNR() 10:3-ARGM-MNR() 11:0-rel
+etri#doc_864.txt 18 들여다보다 ----- 17:4-ARG1(THM) 18:0-rel
+etri#doc_864.txt 22 잠기다 ----- 1:1-ARGM-DIS() 11:4-ARGM-DIS() 18:5-ARGM-DIS() 21:2-ARG2(LOC) 22:0-rel

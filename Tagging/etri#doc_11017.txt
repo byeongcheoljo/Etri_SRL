@@ -1,0 +1,4 @@
+etri#doc_11017.txt 2 꿰다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11017.txt 5 견주다 ----- 4:1-ARG2(COM) 5:0-rel
+etri#doc_11017.txt 12 자르다 ----- 9:3-ARGM-CND() 11:2-ARG1(THM) 12:0-rel
+etri#doc_11017.txt 15 꽂히다 ----- 3:3-ARG0(AGT) 12:3-ARGM-DIS() 13:1-ARG0(AGT) 14:1-ARGM-LOC(LOC) 15:0-rel

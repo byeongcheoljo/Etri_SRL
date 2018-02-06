@@ -1,0 +1,4 @@
+etri#doc_378.txt 4 재개되다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_378.txt 8 지속되다 ----- 4:3-ARGM-DIS() 7:3-ARG1(THM) 8:0-rel
+etri#doc_378.txt 10 잇다 ----- 9:1-ARG3(THM) 10:0-rel
+etri#doc_378.txt 12 지속하다 ----- 1:1-ARG0(AGT) 8:4-ARGM-CAU(EFF) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

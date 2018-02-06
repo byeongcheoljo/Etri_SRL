@@ -1,0 +1,3 @@
+etri#doc_1879.txt 5 대립하다 ----- 3:2-ARG0(AGT) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_1879.txt 7 정립되다 ----- 1:1-ARGM-LOC(LOC) 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:0-rel
+etri#doc_1879.txt 13 이해하다 ----- 13:0-rel

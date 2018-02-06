@@ -1,0 +1,2 @@
+etri#doc_5094.txt 4 ±Øº¹ÇÏ´Ù ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5094.txt 16 ½ñ¾ÆÁö´Ù ----- 4:4-ARGM-CND() 13:2-ARG1(THM) 14:1-ARGM-LOC(LOC) 15:1-ARGM-EXT() 16:0-rel

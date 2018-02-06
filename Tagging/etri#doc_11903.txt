@@ -1,0 +1,3 @@
+etri#doc_11903.txt 10 하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_11903.txt 12 가져가다 ----- 3:3-ARGM-TMP() 4:1-ARG0(AGT) 6:2-ARG1(THM) 10:3-ARGM-DIS() 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_11903.txt 13 의심하다 ----- 13:0-rel

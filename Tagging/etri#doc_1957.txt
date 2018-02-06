@@ -1,0 +1,4 @@
+etri#doc_1957.txt 3 출근하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_1957.txt 5 이르다 ----- 3:2-ARGM-DIS() 4:1-ARGM-LOC(GOL) 5:0-rel
+etri#doc_1957.txt 13 떨어지다 ----- 8:1-ARGM-EXT() 9:1-ARG1(THM) 11:2-ARGM-EXT(FNS) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1957.txt 16 들어오다 ----- 5:2-ARGM-TMP() 6:1-ARGM-LOC() 7:1-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:1-ARGM-LOC(GOL) 16:0-rel

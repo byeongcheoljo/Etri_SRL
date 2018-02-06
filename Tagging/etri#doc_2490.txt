@@ -1,0 +1,2 @@
+etri#doc_2490.txt 11 하다 ----- 9:1-ARG0() 10:1-ARGM-TMP() 11:0-rel
+etri#doc_2490.txt 16 달하다 ----- 8:4-ARG1(AGT) 11:2-ARGM-DIS() 12:1-ARGM-EXT(EFF) 13:1-ARG2(LOC) 14:1-ARGM-EXT() 15:1-ARG2(EFF) 16:0-rel

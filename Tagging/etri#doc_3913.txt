@@ -1,0 +1,4 @@
+etri#doc_3913.txt 2 발견되다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_3913.txt 9 분류되다 ----- 7:2-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_3913.txt 13 작성하다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_3913.txt 14 나타나다 ----- 9:2-ARGM-DIS() 11:2-ARG1(THM) 13:2-ARGM-MNR() 14:0-rel

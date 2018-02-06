@@ -1,0 +1,7 @@
+etri#doc_1037.txt 2 들어오다 ----- 1:1-ARG3(GOL) 2:0-rel
+etri#doc_1037.txt 3 대기하다 ----- 3:0-rel
+etri#doc_1037.txt 6 떼다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1037.txt 8 알다 ----- 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_1037.txt 10 나누다 ----- 10:0-rel
+etri#doc_1037.txt 11 타다 ----- 2:2-ARGM-DIS() 9:3-ARGM-LOC(LOC) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1037.txt 13 나서다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

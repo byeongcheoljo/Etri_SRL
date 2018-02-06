@@ -1,0 +1,4 @@
+etri#doc_3653.txt 7 참여하다 ----- 6:4-ARG0(AGT) 7:0-rel
+etri#doc_3653.txt 12 다다르다 ----- 11:1-ARG3(GOL) 12:0-rel
+etri#doc_3653.txt 17 들다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_3653.txt 18 진단하다 ----- 2:2-ARGM-LOC(LOC) 7:5-ARGM-DIS() 13:3-ARG1(THM) 17:4-ARGM-MNR() 18:0-rel

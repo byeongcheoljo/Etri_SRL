@@ -1,0 +1,1 @@
+etri#doc_7562.txt 16 연계되다 ----- 9:3-ARG1(THM) 14:2-ARG2(COM) 15:1-ARGM-MNR() 16:0-rel

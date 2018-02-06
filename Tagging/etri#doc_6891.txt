@@ -1,0 +1,7 @@
+etri#doc_6891.txt 4 당도하다 ----- 3:2-ARG3(GOL) 4:0-rel
+etri#doc_6891.txt 6 틈타다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6891.txt 8 얻다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6891.txt 10 다스리다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 6:2-ARGM-DIS() 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_6891.txt 14 만들다 ----- 10:2-ARGM-DIS() 11:1-ARGM-DIS() 13:2-ARGM-MNR() 14:0-rel
+etri#doc_6891.txt 18 격동하다 ----- 15:1-ARG1(THM) 16:1-ARGM-CAU(EFF) 17:1-ARGM-EXT() 18:0-rel
+etri#doc_6891.txt 20 일으키다 ----- 14:3-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

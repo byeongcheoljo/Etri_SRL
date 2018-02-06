@@ -1,0 +1,1 @@
+etri#doc_2888.txt 5 배회하다 ----- 3:2-ARG0(AGT) 4:1-ARG1(LOC) 5:0-rel

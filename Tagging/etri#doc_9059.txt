@@ -1,0 +1,6 @@
+etri#doc_9059.txt 2 시작되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9059.txt 3 닫아걸다 ----- 3:0-rel
+etri#doc_9059.txt 8 열리다 ----- 8:0-rel
+etri#doc_9059.txt 9 닫히다 ----- 2:2-ARGM-TMP() 6:3-ARG0(THM) 7:1-ARGM-EXT() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_9059.txt 12 지나다 ----- 10:1-ARG0(AGT) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_9059.txt 15 열리다 ----- 9:2-ARGM-DIS() 12:2-ARGM-TMP() 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel

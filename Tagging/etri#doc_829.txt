@@ -1,0 +1,3 @@
+etri#doc_829.txt 3 살아오다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_829.txt 5 그치다 ----- 5:0-rel
+etri#doc_829.txt 15 베풀다 ----- 13:2-ARG0(AGT) 14:1-ARG2(GOL) 15:0-rel

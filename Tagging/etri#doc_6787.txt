@@ -1,0 +1,4 @@
+etri#doc_6787.txt 5 웃다 ----- 2:2-ARGM-EXT() 3:1-ARGM-TMP() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_6787.txt 11 달다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6787.txt 13 모자라다 ----- 13:0-rel
+etri#doc_6787.txt 15 보이다 ----- 11:2-ARGM-DIS() 12:1-ARGM-NEG() 14:2-ARG1(FNS) 15:0-rel

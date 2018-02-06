@@ -1,0 +1,4 @@
+etri#doc_2311.txt 10 보이다 ----- 9:1-() 10:0-rel
+etri#doc_2311.txt 12 쌓다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_2311.txt 14 만나다 ----- 12:4-ARGM-PRP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2311.txt 17 뿌리다 ----- 2:2-ARGM-DIS() 7:4-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

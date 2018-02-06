@@ -1,0 +1,5 @@
+etri#doc_2459.txt 7 수리하다 ----- 6:1-ARG3() 7:0-rel
+etri#doc_2459.txt 9 제공하다 ----- 3:2-ARG1(THM) 5:2-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARG1() 9:0-rel
+etri#doc_2459.txt 11 증대하다 ----- 1:1-ARGM-ADV(EFF) 10:3-ARG1(AGT) 11:0-rel
+etri#doc_2459.txt 17 절감하다 ----- 15:1-ARG3() 16:1-ARG1(THM) 17:0-rel
+etri#doc_2459.txt 20 따르다 ----- 11:4-ARGM-CND() 13:2-ARGM-EXT() 14:1-ARG2(EFF) 18:3-ARG1(AGT) 19:1-ARGM-EXT() 20:0-rel

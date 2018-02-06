@@ -1,0 +1,4 @@
+etri#doc_3170.txt 4 쫓기다 ----- 3:2-ARGM-LOC(EFF) 4:0-rel
+etri#doc_3170.txt 7 이탈되다 ----- 4:3-ARGM-DIS() 6:2-ARG1(SRC) 7:0-rel
+etri#doc_3170.txt 11 지키다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_3170.txt 16 도모하다 ----- 11:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

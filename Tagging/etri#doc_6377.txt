@@ -1,0 +1,2 @@
+etri#doc_6377.txt 18 하다 ----- 16:3-ARGM-MNR(COM) 17:1-ARG1(THM) 18:0-rel
+etri#doc_6377.txt 20 얻다 ----- 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

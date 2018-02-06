@@ -1,0 +1,2 @@
+etri#doc_9903.txt 18 관련되다 ----- 9:2-ARGM-PRD(EFF) 15:6-ARG1(THM) 16:1-ARGM-MNR() 17:1-ARG2(COM) 18:0-rel
+etri#doc_9903.txt 19 밝히다 ----- 2:2-ARGM-MNR(INS) 18:2-ARG1() 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8364.txt 6 차별하다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_8364.txt 9 쌓다 ----- 6:4-ARGM-DIS() 7:1-ARGM-LOC() 8:1-ARG1(THM) 9:0-rel
+etri#doc_8364.txt 13 다하다 ----- 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_8364.txt 15 보다 ----- 9:2-ARG0() 14:4-ARG1(CNT) 15:0-rel

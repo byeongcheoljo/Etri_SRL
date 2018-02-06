@@ -1,0 +1,8 @@
+etri#doc_5395.txt 6 오르다 ----- 4:2-ARG0(AGT) 5:1-ARG2(LOC) 6:0-rel
+etri#doc_5395.txt 7 웃다 ----- 7:0-rel
+etri#doc_5395.txt 8 말하다 ----- 7:1-ARGM-DIS() 8:0-rel
+etri#doc_5395.txt 12 살다 ----- 12:0-rel
+etri#doc_5395.txt 15 되다 ----- 12:1-ARGM-DIS() 14:2-ARG2(FNS) 15:0-rel
+etri#doc_5395.txt 16 죽다 ----- 16:0-rel
+etri#doc_5395.txt 19 되다 ----- 11:2-ARGM-CAU() 15:3-ARGM-DIS() 16:1-ARGM-DIS() 18:2-ARG2(FNS) 19:0-rel
+etri#doc_5395.txt 20 하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG0(AGT) 6:2-ARGM-DIS() 8:2-ARG1(THM) 19:3-ARG1(CNT) 20:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11409.txt 4 이루어지다 ----- 2:2-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11409.txt 7 골몰하다 ----- 4:2-ARGM-DIS() 6:2-ARG1() 7:0-rel
+etri#doc_11409.txt 9 오다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_11409.txt 12 해석하다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-MNR(FNS) 12:0-rel
+etri#doc_11409.txt 16 보다 ----- 15:2-ARGM-LOC(LOC) 16:0-rel

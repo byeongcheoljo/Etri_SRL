@@ -1,0 +1,4 @@
+etri#doc_6195.txt 5 간주하다 ----- 3:2-ARGM-CND() 4:1-ARG1(FNS) 5:0-rel
+etri#doc_6195.txt 9 해당하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 8:2-ARG2(CRT) 9:0-rel
+etri#doc_6195.txt 13 의미하다 ----- 9:3-ARGM-DIS() 10:1-ARG1(EFF) 12:2-ARG2(THM) 13:0-rel
+etri#doc_6195.txt 18 의미하다 ----- 1:1-ARGM-MNR(INS) 13:3-ARGM-DIS() 14:1-ARG1(EFF) 17:2-ARG2(THM) 18:0-rel

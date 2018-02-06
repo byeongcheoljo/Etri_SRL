@@ -1,0 +1,5 @@
+etri#doc_732.txt 4 해보다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_732.txt 7 망연자실하다 ----- 6:2-ARGM-CAU(EFF) 7:0-rel
+etri#doc_732.txt 8 어찌하다 ----- 8:0-rel
+etri#doc_732.txt 11 수납하다 ----- 2:2-ARG0(AGT) 7:3-ARGM-DIS() 8:1-ARGM-CAU() 9:1-ARG1(THM) 10:1-ARGM-INS(INS) 11:0-rel
+etri#doc_732.txt 16 흘러가다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARGM-DIS() 14:1-ARGM-EXT() 15:1-ARGM-MNR() 16:0-rel

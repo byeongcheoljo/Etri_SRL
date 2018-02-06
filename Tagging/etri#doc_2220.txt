@@ -1,0 +1,4 @@
+etri#doc_2220.txt 5 나다 ----- 1:1-ARGM-TMP() 4:2-ARG1(AGT) 5:0-rel
+etri#doc_2220.txt 8 뜯다 ----- 6:4-() 7:1-() 8:0-rel
+etri#doc_2220.txt 12 만들다 ----- 8:2-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel
+etri#doc_2220.txt 19 높이다 ----- 12:4-() 14:2-() 16:2-() 17:1-() 18:1-() 19:0-rel

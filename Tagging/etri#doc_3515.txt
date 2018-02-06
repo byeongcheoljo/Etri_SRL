@@ -1,0 +1,5 @@
+etri#doc_3515.txt 3 내세우다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_3515.txt 6 동조하다 ----- 5:1-ARG1(LOC) 6:0-rel
+etri#doc_3515.txt 9 계획되다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_3515.txt 11 벌이다 ----- 7:3-ARG1(COM) 10:3-ARG1(Npr) 11:0-rel
+etri#doc_3515.txt 13 소외시키다 ----- 11:4-ARGM-PRD() 12:1-ARG1(THM) 13:0-rel

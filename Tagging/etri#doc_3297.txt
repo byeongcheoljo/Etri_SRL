@@ -1,0 +1,2 @@
+etri#doc_3297.txt 12 살피다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_3297.txt 17 다루다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 3:1-ARG0(AGT) 12:4-ARGM-DIS() 13:1-ARGM-DIS(FNS) 15:2-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

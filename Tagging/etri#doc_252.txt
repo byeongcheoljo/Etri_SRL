@@ -1,0 +1,3 @@
+etri#doc_252.txt 6 출현하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_252.txt 13 보이다 ----- 11:3-ARGM-CND(FNS) 12:1-ARG1(THM) 13:0-rel
+etri#doc_252.txt 19 재개하다 ----- 18:3-ARG1(THM) 19:0-rel

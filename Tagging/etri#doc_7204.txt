@@ -1,0 +1,3 @@
+etri#doc_7204.txt 4 가지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7204.txt 6 수행하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_7204.txt 19 생각하다 ----- 1:1-ARG0(MAG) 18:3-ARGM-DIS() 19:0-rel

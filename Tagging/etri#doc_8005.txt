@@ -1,0 +1,3 @@
+etri#doc_8005.txt 3 시도하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8005.txt 12 생활화하다 ----- 8:2-ARGM-EXT() 10:2-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_8005.txt 16 살다 ----- 1:1-ARG0() 6:2-ARG0(AGT) 12:2-ARGM-DIS() 15:3-ARG2(LOC) 16:0-rel

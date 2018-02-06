@@ -1,0 +1,1 @@
+etri#doc_5520.txt 19 재발견하다 ----- 16:1-ARG0(AGT) 18:2-ARGM-LOC(LOC) 19:0-rel

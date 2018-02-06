@@ -1,0 +1,3 @@
+etri#doc_5359.txt 3 남다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_5359.txt 10 이다 ----- 7:4-ARG0(EXP) 8:1-ARGM-PRD(EFF) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5359.txt 13 타고나다 ----- 12:2-ARG1(THM) 13:0-rel

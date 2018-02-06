@@ -1,0 +1,6 @@
+etri#doc_7316.txt 6 들다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_7316.txt 9 무너지다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7316.txt 13 지다 ----- 12:1-ARG1(Npr) 13:0-rel
+etri#doc_7316.txt 14 나서다 ----- 9:2-ARGM-DIS() 11:2-ARG0(AGT) 13:2-ARGM-DIS() 14:0-rel
+etri#doc_7316.txt 17 책임지다 ----- 16:1-ARG0(AGT) 17:0-rel
+etri#doc_7316.txt 18 달라지다 ----- 17:2-ARGM-DIS() 18:0-rel

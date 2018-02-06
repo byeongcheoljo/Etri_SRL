@@ -1,0 +1,4 @@
+etri#doc_2773.txt 4 나가다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2773.txt 6 닫히다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_2773.txt 9 보다 ----- 8:1-ARGM-TMP(LOC) 9:0-rel
+etri#doc_2773.txt 16 보다 ----- 6:2-ARGM-DIS() 7:1-ARG0(MAG) 15:2-ARG1(THM) 16:0-rel

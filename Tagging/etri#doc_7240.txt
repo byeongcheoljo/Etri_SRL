@@ -1,0 +1,4 @@
+etri#doc_7240.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7240.txt 10 영입하다 ----- 5:2-ARGM-MNR(INS) 7:2-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_7240.txt 13 불러일으키다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_7240.txt 15 지다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 14:4-ARG1(Npr) 15:0-rel

@@ -1,0 +1,1 @@
+etri#doc_5793.txt 3 µé´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR(INS) 3:0-rel

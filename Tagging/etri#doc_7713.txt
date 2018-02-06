@@ -1,0 +1,4 @@
+etri#doc_7713.txt 10 전제하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7713.txt 13 접근하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-MNR(INS) 5:1-ARGM-DIS() 7:2-ARG0(AGT) 10:3-ARGM-DIS() 12:2-ARG2(GOL) 13:0-rel
+etri#doc_7713.txt 17 맞다 ----- 16:2-ARG2(COM) 17:0-rel
+etri#doc_7713.txt 22 생각하다 ----- 13:3-ARGM-DIS() 21:3-ARGM-DIS() 22:0-rel

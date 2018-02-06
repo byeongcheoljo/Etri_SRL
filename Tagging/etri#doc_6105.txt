@@ -1,0 +1,6 @@
+etri#doc_6105.txt 3 벌리다 ----- 1:1-ARGM-MNR(INS) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_6105.txt 5 오므리다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_6105.txt 6 다그치다 ----- 6:0-rel
+etri#doc_6105.txt 8 묻다 ----- 5:4-ARGM-DIS() 6:1-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6105.txt 14 모르다 ----- 13:1-ARG1() 14:0-rel
+etri#doc_6105.txt 16 느끼다 ----- 10:4-ARGM-LOC(THM) 11:1-ARG0(EXP) 12:1-ARGM-EXT(CRT) 15:3-ARG1(THM) 16:0-rel

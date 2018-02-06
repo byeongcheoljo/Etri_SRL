@@ -1,0 +1,5 @@
+etri#doc_7097.txt 3 가다 ----- 2:2-ARG1(GOL) 3:0-rel
+etri#doc_7097.txt 5 홅다 ----- 5:0-rel
+etri#doc_7097.txt 10 들다 ----- 3:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_7097.txt 15 찾다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_7097.txt 16 헤매다 ----- 12:1-ARGM-TMP() 15:3-ARGM-MNR() 16:0-rel

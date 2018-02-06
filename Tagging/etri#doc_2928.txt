@@ -1,0 +1,2 @@
+etri#doc_2928.txt 3 알려지다 ----- 2:2-ARGM-TMP() 3:0-rel
+etri#doc_2928.txt 11 주다 ----- 9:2-ARGM-INS(INS) 10:1-ARG1(THM) 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7972.txt 4 가르치다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7972.txt 20 주장하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 19:4-ARGM-DIS() 20:0-rel

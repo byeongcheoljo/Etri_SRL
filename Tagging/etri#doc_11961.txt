@@ -1,0 +1,2 @@
+etri#doc_11961.txt 6 되다 ----- 4:3-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_11961.txt 16 남기다 ----- 15:2-ARG1(THM) 16:0-rel

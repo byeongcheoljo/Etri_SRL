@@ -1,0 +1,2 @@
+etri#doc_6345.txt 4 앞두다 ----- 2:2-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6345.txt 8 그려지다 ----- 7:3-ARGM-LOC(LOC) 8:0-rel

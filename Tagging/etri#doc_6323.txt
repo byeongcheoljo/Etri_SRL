@@ -1,0 +1,5 @@
+etri#doc_6323.txt 3 지키다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6323.txt 12 방관하다 ----- 12:0-rel
+etri#doc_6323.txt 13 용인하다 ----- 1:1-ARGM-DIS() 7:3-ARG1(THM) 11:3-() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_6323.txt 19 주다 ----- 16:1-ARG2(GOL) 18:2-ARG1(THM) 19:0-rel
+etri#doc_6323.txt 23 맞이하다 ----- 13:2-ARGM-DIS() 15:2-ARG0(AGT) 19:3-ARGM-DIS() 20:1-ARGM-MNR() 22:2-ARG1(THM) 23:0-rel

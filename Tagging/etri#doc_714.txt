@@ -1,0 +1,7 @@
+etri#doc_714.txt 3 막다 ----- 3:0-rel
+etri#doc_714.txt 4 막다 ----- 2:1-ARG1(THM) 3:1-ARGM-CND() 4:0-rel
+etri#doc_714.txt 8 울다 ----- 1:1-ARG0(AGT) 4:2-ARGM-CND() 7:3-ARGM-INS(INS) 8:0-rel
+etri#doc_714.txt 9 울다 ----- 9:0-rel
+etri#doc_714.txt 11 달래다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_714.txt 14 마치다 ----- 11:3-ARGM-DIS() 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_714.txt 18 알다 ----- 8:4-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

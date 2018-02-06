@@ -1,0 +1,4 @@
+etri#doc_6012.txt 6 일하다 ----- 3:1-ARGM-TMP() 5:2-ARGM-PRD(EFF) 6:0-rel
+etri#doc_6012.txt 14 취재하다 ----- 13:4-ARGM-MNR(COM) 14:0-rel
+etri#doc_6012.txt 15 적다 ----- 7:4-ARG0(AGT) 14:5-ARGM-TMP() 15:0-rel
+etri#doc_6012.txt 18 제작되다 ----- 2:2-ARG1(THM) 17:2-ARGM-MNR(INS) 18:0-rel

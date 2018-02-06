@@ -1,0 +1,6 @@
+etri#doc_5477.txt 2 운반하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5477.txt 4 하다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_5477.txt 6 이동하다 ----- 4:2-ARGM-DIS() 5:1-ARG0(THM) 6:0-rel
+etri#doc_5477.txt 13 하다 ----- 6:2-ARGM-TMP() 10:4-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5477.txt 18 유지하다 ----- 16:2-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel
+etri#doc_5477.txt 19 하다 ----- 13:3-ARGM-DIS() 14:1-ARG0(AGT) 18:2-ARGM-MNR() 19:0-rel

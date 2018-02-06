@@ -1,0 +1,5 @@
+etri#doc_7194.txt 4 가지다 ----- 1:1-ARGM-TMP() 2:1-ARG0(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_7194.txt 10 출근하다 ----- 7:1-ARGM-EXT(LOC) 8:1-ARGM-EXT() 9:1-ARGM-LOC(GOL) 10:0-rel
+etri#doc_7194.txt 13 여기다 ----- 12:4-ARG1(FNS) 13:0-rel
+etri#doc_7194.txt 16 가지다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_7194.txt 17 않다 ----- 4:2-ARGM-DIS() 6:2-ARG0(AGT) 13:5-ARGM-DIS() 14:1-ARGM-EXT() 16:2-ARGM-MNR() 17:0-rel

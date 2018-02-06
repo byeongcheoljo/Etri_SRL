@@ -1,0 +1,5 @@
+etri#doc_7306.txt 2 하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_7306.txt 3 급변하다 ----- 3:0-rel
+etri#doc_7306.txt 7 발아하다 ----- 6:2-ARGM-TMP(LOC) 7:0-rel
+etri#doc_7306.txt 9 죽다 ----- 4:2-ARGM-LOC(LOC) 8:4-ARG1(THM) 9:0-rel
+etri#doc_7306.txt 15 넘기다 ----- 2:2-ARGM-DIS() 9:5-ARGM-DIS() 13:4-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

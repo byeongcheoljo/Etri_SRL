@@ -1,0 +1,2 @@
+etri#doc_9181.txt 13 찾다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 5:2-ARG1(THM) 12:2-ARG2(SRC) 13:0-rel
+etri#doc_9181.txt 19 대변하다 ----- 13:3-ARGM-CND() 14:1-ARG0(AGT) 15:1-ARGM-MNR() 18:3-ARG1(THM) 19:0-rel

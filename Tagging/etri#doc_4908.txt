@@ -1,0 +1,4 @@
+etri#doc_4908.txt 3 흡수하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4908.txt 13 전환시키다 ----- 3:2-ARGM-DIS() 12:3-ARG3(FNS) 13:0-rel
+etri#doc_4908.txt 16 차지하다 ----- 15:2-ARG0(AGT) 16:0-rel
+etri#doc_4908.txt 19 간주되다 ----- 1:1-ARG1(THM) 18:2-ARG1(FNS) 19:0-rel

@@ -1,0 +1,1 @@
+etri#doc_6264.txt 17 나타나다 ----- 1:1-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARGM-EXT() 13:1-ARG1(THM) 16:2-ARG1() 17:0-rel

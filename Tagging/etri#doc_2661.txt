@@ -1,0 +1,2 @@
+etri#doc_2661.txt 6 산출하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 3:1-ARGM-EXT() 5:2-ARG1(THM) 6:0-rel
+etri#doc_2661.txt 18 이루다 ----- 6:3-ARGM-DIS() 13:3-ARGM-DIS() 15:2-ARGM-MNR(EFF) 17:2-ARG1(THM) 18:0-rel

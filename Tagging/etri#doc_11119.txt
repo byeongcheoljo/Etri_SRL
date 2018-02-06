@@ -1,0 +1,4 @@
+etri#doc_11119.txt 2 비교하다 ----- 1:1-ARG2(COM) 2:0-rel
+etri#doc_11119.txt 4 적다 ----- 2:2-ARGM-DIS() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_11119.txt 10 하다 ----- 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11119.txt 15 장담하다 ----- 7:1-ARG0(AGT) 10:2-ARGM-CND() 14:2-ARG1(THM) 15:0-rel

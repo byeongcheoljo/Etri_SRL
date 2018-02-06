@@ -1,0 +1,2 @@
+etri#doc_1214.txt 10 부흥하다 ----- 2:2-ARGM-TMP() 3:1-ARGM-DIS() 4:1-ARG0(THM) 9:3-ARGM-INS(INS) 10:0-rel
+etri#doc_1214.txt 19 용서하다 ----- 10:4-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARG0(THM) 18:1-ARGM-DIS() 19:0-rel

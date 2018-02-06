@@ -1,0 +1,6 @@
+etri#doc_6199.txt 3 말하다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_6199.txt 7 극복하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6199.txt 9 충족시키다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6199.txt 10 변화시키다 ----- 5:1-ARG0(EFF) 9:2-ARGM-PRP() 10:0-rel
+etri#doc_6199.txt 18 수립하다 ----- 15:4-ARGM-MNR(COM) 17:2-ARG1(THM) 18:0-rel
+etri#doc_6199.txt 20 말하다 ----- 3:3-ARGM-DIS() 4:1-ARG0(AGT) 19:4-ARG1(THM) 20:0-rel

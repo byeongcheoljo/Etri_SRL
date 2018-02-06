@@ -1,0 +1,3 @@
+etri#doc_6004.txt 3 보다 ----- 1:1-ARG1(THM) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_6004.txt 7 부담하다 ----- 6:3-ARG0(AGT) 7:0-rel
+etri#doc_6004.txt 14 의존하다 ----- 13:1-ARG1(GOL) 14:0-rel

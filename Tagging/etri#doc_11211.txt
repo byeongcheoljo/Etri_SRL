@@ -1,0 +1,5 @@
+etri#doc_11211.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11211.txt 6 나타내다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_11211.txt 11 가지다 ----- 8:1-ARGM-TMP() 10:2-ARG1(THM) 11:0-rel
+etri#doc_11211.txt 13 받다 ----- 12:4-ARG2(AGT) 13:0-rel
+etri#doc_11211.txt 16 소개하다 ----- 6:6-ARGM-PRP() 7:1-ARGM-TMP(LOC) 14:6-ARG1(THM) 15:1-ARGM-TMP(LOC) 16:0-rel

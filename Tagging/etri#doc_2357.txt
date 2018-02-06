@@ -1,0 +1,4 @@
+etri#doc_2357.txt 6 나다 ----- 5:3-ARG1(AGT) 6:0-rel
+etri#doc_2357.txt 8 만들다 ----- 7:5-ARGM-MNR(EFF) 8:0-rel
+etri#doc_2357.txt 13 말하다 ----- 12:1-ARGM-DIR(EFF) 13:0-rel
+etri#doc_2357.txt 19 드러나다 ----- 10:8-ARGM-DIS() 11:1-ARGM-LOC(LOC) 17:4-ARG0() 18:1-ARGM-MNR() 19:0-rel

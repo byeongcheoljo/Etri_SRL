@@ -1,0 +1,1 @@
+etri#doc_116.txt 17 ´ÞÇÏ´Ù ----- 10:2-ARGM-DIS() 12:2-ARGM-EXT() 13:1-ARG1(THM) 16:3-ARG2(GOL) 17:0-rel

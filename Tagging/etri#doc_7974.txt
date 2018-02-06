@@ -1,0 +1,4 @@
+etri#doc_7974.txt 3 끌다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7974.txt 8 분리시키다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_7974.txt 9 주장하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7974.txt 17 이용하다 ----- 5:2-ARG0(AGT) 12:2-ARG0(AGT) 13:1-ARG1(THM) 16:2-ARGM-PRD(EFF) 17:0-rel

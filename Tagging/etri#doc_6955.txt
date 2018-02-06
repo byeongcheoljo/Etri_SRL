@@ -1,0 +1,7 @@
+etri#doc_6955.txt 3 열리다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6955.txt 4 내리다 ----- 4:0-rel
+etri#doc_6955.txt 6 내리다 ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_6955.txt 8 기다리다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_6955.txt 9 타다 ----- 9:0-rel
+etri#doc_6955.txt 12 떠밀다 ----- 3:3-ARGM-DIS() 8:5-ARGM-CAU() 10:2-ARG0(AGT) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6955.txt 17 보다 ----- 15:3-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4657.txt 2 °¡¶ó¾É´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4657.txt 6 ÀØÈ÷´Ù ----- 6:0-rel
+etri#doc_4657.txt 16 ¹Þ´Ù ----- 8:1-ARGM-DIS() 9:1-ARGM-TMP() 10:1-ARGM-ADV(EFF) 12:2-ARG0(THM) 13:1-ARGM-EXT(EFF) 15:2-ARG1(THM) 16:0-rel

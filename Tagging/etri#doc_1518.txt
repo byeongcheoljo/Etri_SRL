@@ -1,0 +1,8 @@
+etri#doc_1518.txt 2 하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_1518.txt 6 들이다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_1518.txt 8 건너다 ----- 6:3-ARGM-DIS() 7:1-ARG2(GOL) 8:0-rel
+etri#doc_1518.txt 10 없어지다 ----- 3:3-ARGM-TMP(LOC) 9:3-ARG0(THM) 10:0-rel
+etri#doc_1518.txt 12 가다 ----- 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_1518.txt 14 구하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1518.txt 16 찾다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_1518.txt 19 없어지다 ----- 10:4-ARGM-DIS() 18:4-ARG2(FNS) 19:0-rel

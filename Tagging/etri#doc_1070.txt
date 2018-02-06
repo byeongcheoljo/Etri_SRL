@@ -1,0 +1,3 @@
+etri#doc_1070.txt 7 찾다 ----- 4:3-ARGM-DIS() 5:1-ARG1(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1070.txt 10 해보다 ----- 8:3-ARGM-CAU() 9:1-ARG1(THM) 10:0-rel
+etri#doc_1070.txt 14 갖다 ----- 10:2-ARGM-CND() 13:3-ARG1(THM) 14:0-rel

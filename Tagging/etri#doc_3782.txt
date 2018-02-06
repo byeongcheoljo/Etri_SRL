@@ -1,0 +1,2 @@
+etri#doc_3782.txt 6 분출되다 ----- 5:3-ARGM-LOC(SRC) 6:0-rel
+etri#doc_3782.txt 13 가시화하다 ----- 12:1-ARG1(THM) 13:0-rel

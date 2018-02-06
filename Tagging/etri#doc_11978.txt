@@ -1,0 +1,3 @@
+etri#doc_11978.txt 3 가입하다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_11978.txt 7 되다 ----- 4:3-ARGM-ADV() 5:1-ARG1(THM) 6:1-ARGM-EXT(CRT) 7:0-rel
+etri#doc_11978.txt 8 나타나다 ----- 1:1-ARGM-CAU() 7:2-ARGM-MNR() 8:0-rel

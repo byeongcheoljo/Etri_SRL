@@ -1,0 +1,5 @@
+etri#doc_2591.txt 2 ¸Î´Ù ----- 2:0-rel
+etri#doc_2591.txt 3 ²÷´Ù ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_2591.txt 5 ´©±×·¯¶ß¸®´Ù ----- 4:3-() 5:0-rel
+etri#doc_2591.txt 7 ÇÏ´Ù ----- 1:1-() 5:4-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_2591.txt 15 ºôºÙ´Ù ----- 7:2-() 8:1-() 13:2-() 14:1-() 15:0-rel

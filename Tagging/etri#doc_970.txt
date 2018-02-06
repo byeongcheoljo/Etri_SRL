@@ -1,0 +1,4 @@
+etri#doc_970.txt 4 읊다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_970.txt 10 적히다 ----- 5:3-ARG2(LOC) 8:3-ARGM-INS(INS) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_970.txt 12 보다 ----- 1:1-ARGM-DIS() 11:3-ARG1() 12:0-rel
+etri#doc_970.txt 17 즐기다 ----- 13:1-ARGM-TMP(LOC) 16:3-ARGM-TMP(LOC) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_1689.txt 10 »€æµ¥Ÿ ----- 6:4-ARGM-EXT(EFF) 7:1-ARG2(EFF) 9:2-ARG1(THM) 10:0-rel

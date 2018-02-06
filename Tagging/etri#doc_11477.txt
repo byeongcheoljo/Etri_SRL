@@ -1,0 +1,5 @@
+etri#doc_11477.txt 4 쓰다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11477.txt 7 권유하다 ----- 1:1-ARGM-TMP() 4:2-ARGM-DIS() 5:1-ARGM-EXT(CRT) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11477.txt 9 감사하다 ----- 8:3-ARG1(GOL) 9:0-rel
+etri#doc_11477.txt 13 쓰다 ----- 11:1-ARGM-TMP() 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11477.txt 14 내다 ----- 10:1-ARG2(GOL) 13:2-ARGM-DIS() 14:0-rel

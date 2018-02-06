@@ -1,0 +1,2 @@
+etri#doc_7336.txt 4 의도하다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_7336.txt 6 구현하다 ----- 5:3-ARG0(AGT) 6:0-rel

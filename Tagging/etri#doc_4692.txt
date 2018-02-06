@@ -1,0 +1,3 @@
+etri#doc_4692.txt 5 모르다 ----- 1:1-ARGM-DIS() 2:1-ARG0(EXP) 4:2-ARGM-ADV(EFF) 5:0-rel
+etri#doc_4692.txt 14 놓이다 ----- 8:3-ARGM-EXT(CRT) 10:2-ARG1(THM) 13:3-ARG2(GOL) 14:0-rel
+etri#doc_4692.txt 16 은폐하다 ----- 5:3-ARGM-CND() 15:5-ARG1(THM) 16:0-rel

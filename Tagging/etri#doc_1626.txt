@@ -1,0 +1,6 @@
+etri#doc_1626.txt 4 보다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_1626.txt 7 보다 ----- 5:1-ARG1(THM) 6:1-ARGM-DIR(FNS) 7:0-rel
+etri#doc_1626.txt 10 나타나다 ----- 7:2-ARGM-TMP() 8:1-ARG0(THM) 9:1-ARGM-DIR(FNS) 10:0-rel
+etri#doc_1626.txt 12 들다 ----- 11:1-ARGM-TMP() 12:0-rel
+etri#doc_1626.txt 15 진전되다 ----- 4:4-ARGM-CND() 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_1626.txt 16 보이다 ----- 15:2-ARG1(THM) 16:0-rel

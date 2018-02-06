@@ -1,0 +1,4 @@
+etri#doc_5039.txt 8 만들다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_5039.txt 10 부리다 ----- 8:3-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5039.txt 13 흉내내다 ----- 11:1-ARGM-ADV() 12:1-ARGM-PRD(AGT) 13:0-rel
+etri#doc_5039.txt 15 지니다 ----- 5:1-ARG0(AGT) 10:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

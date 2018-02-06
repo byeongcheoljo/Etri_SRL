@@ -1,0 +1,3 @@
+etri#doc_7921.txt 5 Âï´Ù ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7921.txt 8 »Ñ¸®´Ù ----- 1:1-ARG0(AGT) 3:2-ARGM-MNR(INS) 5:2-ARGM-MNR() 6:1-ARGM-TMP() 7:1-ARG2(GOL) 8:0-rel
+etri#doc_7921.txt 15 Ä¡¸£´Ù ----- 11:3-ARGM-CAU(CNT) 12:1-ARG0(AGT) 13:1-ARGM-TMP(LOC) 14:1-ARG1(THM) 15:0-rel

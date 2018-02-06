@@ -1,0 +1,2 @@
+etri#doc_4281.txt 11 좌우되다 ----- 10:2-ARGM-ADV(EFF) 11:0-rel
+etri#doc_4281.txt 16 보여주다 ----- 7:6-ARGM-INS(INS) 15:4-ARG1(THM) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8919.txt 6 표현하다 ----- 2:1-ARGM-TMP(LOC) 4:2-ARG1(THM) 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_8919.txt 14 받아들이다 ----- 1:1-ARGM-DIS() 7:3-ARGM-DIS(CNT) 8:1-ARG0(AGT) 9:1-ARG1(THM) 13:2-ARGM-MNR() 14:0-rel

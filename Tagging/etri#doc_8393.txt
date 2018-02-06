@@ -1,0 +1,2 @@
+etri#doc_8393.txt 7 하다 ----- 4:3-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_8393.txt 17 부르다 ----- 16:2-ARG1(CNT) 17:0-rel

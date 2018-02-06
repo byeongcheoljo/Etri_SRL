@@ -1,0 +1,3 @@
+etri#doc_1665.txt 3 등지다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1665.txt 14 감당하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1665.txt 19 일다 ----- 11:5-ARG0(THM) 18:4-ARG1(THM) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_13047.txt 5 받다 ----- 2:1-ARGM-TMP() 3:1-ARGM-CAU(EFF) 4:1-ARG1(Npr) 5:0-rel
+etri#doc_13047.txt 7 반전시키다 ----- 5:2-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_13047.txt 8 위하다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_13047.txt 12 시키다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_13047.txt 14 전달하다 ----- 1:1-ARGM-DIS() 8:3-ARGM-PRP() 10:2-ARG2(GOL) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

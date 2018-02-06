@@ -1,0 +1,6 @@
+etri#doc_1519.txt 3 밝아지다 ----- 2:2-ARG0(THM) 3:0-rel
+etri#doc_1519.txt 6 퍼지다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1519.txt 11 날다 ----- 8:1-ARGM-LOC() 9:1-ARGM-DIS() 10:1-ARGM-INS(INS) 11:0-rel
+etri#doc_1519.txt 13 떼짓다 ----- 12:3-ARG0(THM) 13:0-rel
+etri#doc_1519.txt 17 돌리다 ----- 7:3-ARGM-MNR() 13:4-ARGM-MNR() 15:2-ARGM-DIR(DIR) 16:1-ARG1(THM) 17:0-rel
+etri#doc_1519.txt 19 바라보다 ----- 18:3-ARG1(THM) 19:0-rel

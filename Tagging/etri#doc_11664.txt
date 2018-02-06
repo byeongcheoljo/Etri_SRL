@@ -1,0 +1,5 @@
+etri#doc_11664.txt 2 말하다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_11664.txt 4 대응하다 ----- 3:3-ARG1(GOL) 4:0-rel
+etri#doc_11664.txt 11 서술하다 ----- 9:1-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_11664.txt 14 출발하다 ----- 11:2-ARGM-DIS() 13:2-ARG2(SRC) 14:0-rel
+etri#doc_11664.txt 15 비판하다 ----- 4:4-ARGM-DIS() 5:1-ARG0(AGT) 8:3-ARGM-ADV(EFF) 14:3-ARG2() 15:0-rel

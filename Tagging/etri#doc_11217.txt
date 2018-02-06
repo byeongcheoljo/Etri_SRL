@@ -1,0 +1,6 @@
+etri#doc_11217.txt 4 낳다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_11217.txt 8 갖다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11217.txt 9 노력하다 ----- 5:3-ARG0(AGT) 6:1-ARGM-TMP(LOC) 8:2-ARG1() 9:0-rel
+etri#doc_11217.txt 10 무너지다 ----- 10:0-rel
+etri#doc_11217.txt 14 되돌아가다 ----- 12:3-ARG0(AGT) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_11217.txt 16 얻다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

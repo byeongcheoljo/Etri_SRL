@@ -1,0 +1,4 @@
+etri#doc_1193.txt 8 담다 ----- 6:2-ARG1(THM) 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_1193.txt 11 내리다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_1193.txt 18 들다 ----- 16:1-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_1193.txt 20 달리다 ----- 20:0-rel

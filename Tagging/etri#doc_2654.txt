@@ -1,0 +1,4 @@
+etri#doc_2654.txt 5 일어나다 ----- 3:3-ARGM-ADV(EFF) 4:1-ARG1(AGT) 5:0-rel
+etri#doc_2654.txt 8 겪다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_2654.txt 12 지탱하다 ----- 11:2-() 12:0-rel
+etri#doc_2654.txt 16 발생하다 ----- 9:3-ARG0() 14:2-ARGM-ADV(EFF) 15:1-ARG1(AGT) 16:0-rel

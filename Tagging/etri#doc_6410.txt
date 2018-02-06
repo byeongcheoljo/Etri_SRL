@@ -1,0 +1,6 @@
+etri#doc_6410.txt 3 창립하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6410.txt 10 불태우다 ----- 6:1-ARGM-ADV(EFF) 7:1-ARGM-PRP(PUR) 9:2-ARG1(THM) 10:0-rel
+etri#doc_6410.txt 12 말다 ----- 11:4-ARGM-DIS() 12:0-rel
+etri#doc_6410.txt 15 붙잡다 ----- 14:1-ARGM-EXT() 15:0-rel
+etri#doc_6410.txt 17 팔다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_6410.txt 18 생매장시키다 ----- 5:2-ARG0(AGT) 12:5-ARGM-DIS() 13:1-ARG1(THM) 15:2-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel

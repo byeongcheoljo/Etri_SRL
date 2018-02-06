@@ -1,0 +1,4 @@
+etri#doc_3676.txt 5 가지다 ----- 2:2-ARG0(LOC) 3:1-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3676.txt 7 들다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_3676.txt 9 세우다 ----- 5:2-ARGM-CAU() 7:2-ARGM-CND() 8:1-ARG1(THM) 9:0-rel
+etri#doc_3676.txt 16 파급되다 ----- 10:3-ARGM-DIS() 14:4-ARG1(THM) 15:1-ARG2(GOL) 16:0-rel

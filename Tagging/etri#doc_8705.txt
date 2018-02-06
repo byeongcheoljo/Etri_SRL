@@ -1,0 +1,5 @@
+etri#doc_8705.txt 3 오르다 ----- 2:2-ARG3(LOC) 3:0-rel
+etri#doc_8705.txt 7 떼다 ----- 4:1-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8705.txt 8 출타하다 ----- 3:3-ARGM-TMP() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_8705.txt 13 쫓다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_8705.txt 17 다스리다 ----- 13:4-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

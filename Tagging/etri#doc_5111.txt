@@ -1,0 +1,5 @@
+etri#doc_5111.txt 3 애쓰다 ----- 3:0-rel
+etri#doc_5111.txt 4 만들다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5111.txt 9 넘다 ----- 6:4-ARG1(THM) 7:1-ARGM-EXT() 8:1-ARGM-DIR(DIR) 9:0-rel
+etri#doc_5111.txt 13 되다 ----- 9:2-ARGM-DIS() 12:2-ARG1(Npr) 13:0-rel
+etri#doc_5111.txt 15 모르다 ----- 1:1-ARGM-EXT() 13:3-ARG1() 14:1-ARGM-MNR() 15:0-rel

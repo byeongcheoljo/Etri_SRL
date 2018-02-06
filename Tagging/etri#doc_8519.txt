@@ -1,0 +1,3 @@
+etri#doc_8519.txt 3 누리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8519.txt 13 영화화되다 ----- 13:0-rel
+etri#doc_8519.txt 15 되다 ----- 1:1-ARGM-TMP() 11:8-ARG1(THM) 12:1-ARGM-EXT() 13:1-ARGM-DIS() 14:1-ARGM-TMP() 15:0-rel

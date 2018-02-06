@@ -1,0 +1,4 @@
+etri#doc_8573.txt 2 어찌하다 ----- 2:0-rel
+etri#doc_8573.txt 7 받다 ----- 2:1-ARGM-DIS() 5:2-ARG2(AGT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8573.txt 8 방영하다 ----- 7:2-ARGM-MNR() 8:0-rel
+etri#doc_8573.txt 13 발생하다 ----- 1:1-ARGM-DIS() 8:3-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel

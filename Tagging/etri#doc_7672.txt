@@ -1,0 +1,4 @@
+etri#doc_7672.txt 4 마감되다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_7672.txt 11 상륙하다 ----- 6:2-ARG0(AGT) 8:2-ARGM-CND(INS) 9:1-ARGM-TMP() 10:1-ARG1(GOL) 11:0-rel
+etri#doc_7672.txt 13 뒤따르다 ----- 12:1-ARGM-TMP() 13:0-rel
+etri#doc_7672.txt 15 예고하다 ----- 4:3-ARGM-DIS() 11:2-ARGM-MNR() 14:3-ARG2(THM) 15:0-rel

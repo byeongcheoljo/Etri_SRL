@@ -1,0 +1,4 @@
+etri#doc_2870.txt 9 요구하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_2870.txt 11 탈취하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2870.txt 13 강요하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_2870.txt 16 사용하다 ----- 2:2-ARGM-INS(INS) 4:2-ARGM-LOC(LOC) 5:1-ARGM-TMP() 7:2-ARG0(AGT) 9:2-ARGM-DIS() 15:4-ARG2(LOC) 16:0-rel

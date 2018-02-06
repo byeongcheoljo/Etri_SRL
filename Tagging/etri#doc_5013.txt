@@ -1,0 +1,3 @@
+etri#doc_5013.txt 10 받다 ----- 7:3-ARG0(GOL) 8:1-ARG2(AGT) 9:1-ARG1() 10:0-rel
+etri#doc_5013.txt 12 비교하다 ----- 11:1-ARGM-MNR(COM) 12:0-rel
+etri#doc_5013.txt 19 배척당하다 ----- 2:2-ARGM-PRD(INS) 10:2-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

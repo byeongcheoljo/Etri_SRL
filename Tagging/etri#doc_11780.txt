@@ -1,0 +1,5 @@
+etri#doc_11780.txt 7 갖추다 ----- 3:2-ARGM-EXT() 5:2-ARGM-EXT() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11780.txt 13 소화하다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_11780.txt 15 판단하다 ----- 15:0-rel
+etri#doc_11780.txt 16 표현하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_11780.txt 19 뒤따르다 ----- 1:1-ARGM-TMP() 18:2-ARG1(THM) 19:0-rel

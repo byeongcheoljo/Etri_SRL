@@ -1,0 +1,3 @@
+etri#doc_6081.txt 2 나오다 ----- 1:1-ARG2(SRC) 2:0-rel
+etri#doc_6081.txt 6 연상시키다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_6081.txt 13 닮다 ----- 11:2-ARGM-MNR(COM) 12:1-ARGM-EXT() 13:0-rel

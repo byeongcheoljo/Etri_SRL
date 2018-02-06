@@ -1,0 +1,4 @@
+etri#doc_7718.txt 2 보다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7718.txt 9 표현하다 ----- 7:4-ARG1(CNT) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7718.txt 11 챙기다 ----- 10:1-ARG1() 11:0-rel
+etri#doc_7718.txt 15 비난하다 ----- 3:3-ARG0(AGT) 9:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARGM-MNR(INS) 15:0-rel

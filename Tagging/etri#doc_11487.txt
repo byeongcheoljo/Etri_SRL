@@ -1,0 +1,3 @@
+etri#doc_11487.txt 5 맞다 ----- 3:2-ARGM-CND() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_11487.txt 12 하다 ----- 11:2-ARGM-DIS(EFF) 12:0-rel
+etri#doc_11487.txt 15 짐작하다 ----- 5:2-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARG0(MAG) 15:0-rel

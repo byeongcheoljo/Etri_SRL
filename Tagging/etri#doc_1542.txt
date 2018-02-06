@@ -1,0 +1,2 @@
+etri#doc_1542.txt 7 겹쳐지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1542.txt 17 패다 ----- 13:5-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARG0(THM) 17:0-rel

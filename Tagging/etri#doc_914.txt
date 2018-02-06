@@ -1,0 +1,4 @@
+etri#doc_914.txt 6 관찰하다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_914.txt 9 내다 ----- 6:2-ARGM-ADV() 7:1-ARGM-EXT() 8:1-ARG1(THM) 9:0-rel
+etri#doc_914.txt 11 범하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_914.txt 15 생각하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 9:2-ARGM-DIR() 12:3-ARGM-ADV(EFF) 14:2-ARGM-MNR() 15:0-rel

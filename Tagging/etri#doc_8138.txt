@@ -1,0 +1,5 @@
+etri#doc_8138.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_8138.txt 5 취하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_8138.txt 7 생기다 ----- 6:1-ARG2(LOC) 7:0-rel
+etri#doc_8138.txt 13 상충되다 ----- 10:2-ARGM-TMP(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_8138.txt 22 되다 ----- 5:4-ARGM-CND() 21:4-ARG2(FNS) 22:0-rel

@@ -1,0 +1,1 @@
+etri#doc_850.txt 18 ºø´ë´Ù ----- 4:3-() 5:1-ARG1(THM) 6:1-ARGM-TMP() 17:2-ARG2(CRT) 18:0-rel

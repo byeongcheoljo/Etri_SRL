@@ -1,0 +1,2 @@
+etri#doc_8792.txt 9 붙다 ----- 6:3-ARGM-LOC() 8:2-ARG1() 9:0-rel
+etri#doc_8792.txt 14 남다 ----- 3:2-ARGM-DIS() 11:2-ARG0(AGT) 12:1-ARGM-TMP() 13:1-ARGM-MNR() 14:0-rel

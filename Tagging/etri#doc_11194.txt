@@ -1,0 +1,5 @@
+etri#doc_11194.txt 7 구성하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11194.txt 9 활용되다 ----- 7:3-ARGM-DIS() 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_11194.txt 12 표현하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11194.txt 14 사랑받다 ----- 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11194.txt 15 쓰이다 ----- 3:3-ARGM-TMP(SRC) 4:1-ARG1(THM) 9:2-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel

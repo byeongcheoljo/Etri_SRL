@@ -1,0 +1,6 @@
+etri#doc_13106.txt 3 졸업하다 ----- 2:1-ARG1(SRC) 3:0-rel
+etri#doc_13106.txt 5 졸업하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(SRC) 5:0-rel
+etri#doc_13106.txt 11 찾다 ----- 8:1-ARGM-LOC(LOC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_13106.txt 15 하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_13106.txt 19 그만두다 ----- 15:2-ARGM-CND() 17:2-ARGM-CND(EFF) 18:1-ARG1(THM) 19:0-rel
+etri#doc_13106.txt 20 하다 ----- 1:1-ARGM-TMP() 13:5-ARGM-CAU() 19:2-ARGM-MNR() 20:0-rel

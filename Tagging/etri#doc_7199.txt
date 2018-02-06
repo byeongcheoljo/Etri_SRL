@@ -1,0 +1,3 @@
+etri#doc_7199.txt 6 선전하다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_7199.txt 8 대항하다 ----- 3:2-ARGM-LOC(LOC) 7:4-ARG1(GOL) 8:0-rel
+etri#doc_7199.txt 15 쓰다 ----- 1:1-ARG0(AGT) 8:5-ARGM-DIS() 13:3-ARG2(LOC) 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_17.txt 5 보살피다 ----- 4:1-ARGM-ADV() 5:0-rel
+etri#doc_17.txt 7 놀다 ----- 1:1-ARGM-ADV() 2:1-ARGM-LOC(LOC) 3:1-(THM) 5:2-ARGM-DIS() 6:1-ARGM-ADV() 7:0-rel
+etri#doc_17.txt 14 실감하다 ----- 13:3-ARG1(THM) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_551.txt 5 주장하다 ----- 3:2-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_551.txt 9 표현하다 ----- 7:1-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_551.txt 17 엿보다 ----- 16:2-ARG1(THM) 17:0-rel

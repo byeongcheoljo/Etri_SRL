@@ -1,0 +1,6 @@
+etri#doc_12047.txt 6 걸리다 ----- 5:1-ARG1(GOL) 6:0-rel
+etri#doc_12047.txt 8 접근하다 ----- 7:3-ARG2(GOL) 8:0-rel
+etri#doc_12047.txt 11 만지다 ----- 10:1-() 11:0-rel
+etri#doc_12047.txt 12 껴안다 ----- 8:4-ARGM-DIS() 9:1-ARGM-INS(INS) 11:2-ARGM-DIS() 12:0-rel
+etri#doc_12047.txt 14 옮기다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_12047.txt 16 유행하다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:0-rel

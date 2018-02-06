@@ -1,0 +1,1 @@
+etri#doc_7080.txt 13 확정되다 ----- 10:3-ARG2(FNS) 12:2-ARG1(THM) 13:0-rel

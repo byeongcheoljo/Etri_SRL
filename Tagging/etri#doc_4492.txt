@@ -1,0 +1,9 @@
+etri#doc_4492.txt 2 깨다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4492.txt 5 기다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4492.txt 7 연결되다 ----- 6:1-ARG2(COM) 7:0-rel
+etri#doc_4492.txt 9 열다 ----- 5:2-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_4492.txt 10 떨어지다 ----- 9:4-ARGM-DIS() 10:0-rel
+etri#doc_4492.txt 11 걸치다 ----- 11:0-rel
+etri#doc_4492.txt 12 덮다 ----- 11:1-ARGM-DIS() 12:0-rel
+etri#doc_4492.txt 14 뒤집다 ----- 10:5-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_4492.txt 16 들어가다 ----- 3:3-ARG0(AGT) 14:4-ARGM-DIS() 15:1-ARG3(GOL) 16:0-rel

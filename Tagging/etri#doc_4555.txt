@@ -1,0 +1,4 @@
+etri#doc_4555.txt 3 뽑히다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4555.txt 4 쓰러지다 ----- 1:1-ARGM-TMP() 3:2-ARGM-DIS() 4:0-rel
+etri#doc_4555.txt 7 살리다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4555.txt 12 계속되다 ----- 10:2-ARG1(THM) 11:1-ARGM-TMP() 12:0-rel

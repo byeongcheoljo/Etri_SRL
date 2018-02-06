@@ -1,0 +1,4 @@
+etri#doc_2303.txt 5 정하다 ----- 2:1-ARGM-EXT() 4:2-ARG1(THM) 5:0-rel
+etri#doc_2303.txt 8 돕다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_2303.txt 9 화합하다 ----- 1:1-() 5:3-() 8:3-() 9:0-rel
+etri#doc_2303.txt 16 알다 ----- 9:4-ARGM-DIS() 10:1-ARG0(AGT) 15:4-ARG1(THM) 16:0-rel

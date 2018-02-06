@@ -1,0 +1,5 @@
+etri#doc_4493.txt 3 불리다 ----- 2:2-ARGM-INS(INS) 3:0-rel
+etri#doc_4493.txt 9 알다 ----- 9:0-rel
+etri#doc_4493.txt 10 풀이하다 ----- 5:2-ARG1(THM) 8:3-ARGM-INS(INS) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4493.txt 13 되다 ----- 10:2-ARGM-DIS() 12:2-ARG2(FNS) 13:0-rel
+etri#doc_4493.txt 17 밝히다 ----- 13:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

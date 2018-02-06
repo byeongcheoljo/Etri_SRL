@@ -1,0 +1,4 @@
+etri#doc_1264.txt 11 내리다 ----- 9:1-ARGM-TMP(LOC) 10:1-ARG0(THM) 11:0-rel
+etri#doc_1264.txt 18 높이다 ----- 17:1-ARGM-DIS() 18:0-rel
+etri#doc_1264.txt 19 지르다 ----- 13:2-ARG0(THM) 16:3-ARG1(THM) 18:2-ARGM-MNR() 19:0-rel
+etri#doc_1264.txt 21 나다 ----- 8:4-ARGM-DIS() 11:2-ARGM-CND() 20:4-ARG1(Npr) 21:0-rel

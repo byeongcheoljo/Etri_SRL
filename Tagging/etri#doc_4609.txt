@@ -1,0 +1,3 @@
+etri#doc_4609.txt 4 행하다 ----- 3:1-ARGM-PRD(EFF) 4:0-rel
+etri#doc_4609.txt 7 제시하다 ----- 2:2-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_4609.txt 10 옮기다 ----- 8:1-ARG1(THM) 9:1-ARG3(DIR) 10:0-rel

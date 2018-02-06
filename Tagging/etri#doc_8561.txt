@@ -1,0 +1,2 @@
+etri#doc_8561.txt 10 이루어지다 ----- 5:1-ARGM-MNR() 9:2-ARGM-CAU(EFF) 10:0-rel
+etri#doc_8561.txt 15 발생하다 ----- 1:1-ARGM-DIS() 4:2-ARG1(THM) 10:3-ARGM-DIS() 11:1-ARGM-DIR(DIR) 13:2-ARGM-CAU(EFF) 14:1-ARGM-MNR(INS) 15:0-rel

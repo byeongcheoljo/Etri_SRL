@@ -1,0 +1,3 @@
+etri#doc_72.txt 5 속삭이다 ----- 3:1-ARGM-DIS() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_72.txt 10 스치다 ----- 7:2-ARG0(THM) 9:2-ARG1(LOC) 10:0-rel
+etri#doc_72.txt 17 찌르다 ----- 1:1-ARGM-DIS() 10:3-ARGM-TMP() 13:2-ARG0(THM) 14:1-ARG1(THM) 15:1-ARGM-MNR(INS) 16:1-ARGM-ADV() 17:0-rel

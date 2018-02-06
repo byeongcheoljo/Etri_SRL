@@ -1,0 +1,8 @@
+etri#doc_5163.txt 3 감다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5163.txt 8 치다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5163.txt 9 가리다 ----- 8:2-ARGM-MNR() 9:0-rel
+etri#doc_5163.txt 11 쓰다 ----- 4:3-ARG1(THM) 6:2-ARGM-LOC(LOC) 10:4-ARGM-PRD(CNT) 11:0-rel
+etri#doc_5163.txt 14 치다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_5163.txt 17 들어오다 ----- 14:2-ARGM-MNR() 15:1-ARG0(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_5163.txt 19 감다 ----- 17:2-ARGM-EXT() 18:1-ARGM-MNR() 19:0-rel
+etri#doc_5163.txt 21 생각하다 ----- 11:5-ARGM-DIS() 20:3-ARGM-PRD(FNS) 21:0-rel

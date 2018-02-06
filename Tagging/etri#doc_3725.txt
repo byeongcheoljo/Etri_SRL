@@ -1,0 +1,5 @@
+etri#doc_3725.txt 6 살다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_3725.txt 8 잃어버리다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3725.txt 10 살다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_3725.txt 12 외면하다 ----- 12:0-rel
+etri#doc_3725.txt 13 떨치다 ----- 2:2-ARGM-LOC(LOC) 11:5-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6513.txt 6 되다 ----- 2:2-ARG1(THM) 5:3-ARG2(FNS) 6:0-rel
+etri#doc_6513.txt 8 찾다 ----- 6:4-ARGM-ADV(EFF) 7:1-ARG1(THM) 8:0-rel
+etri#doc_6513.txt 14 약동하다 ----- 13:3-ARGM-LOC(LOC) 14:0-rel
+etri#doc_6513.txt 17 알다 ----- 10:4-ARG0(MAG) 16:6-ARG1(THM) 17:0-rel

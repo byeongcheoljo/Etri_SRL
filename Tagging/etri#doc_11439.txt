@@ -1,0 +1,4 @@
+etri#doc_11439.txt 8 오다 ----- 7:1-ARGM-TMP(LOC) 8:0-rel
+etri#doc_11439.txt 17 회자되다 ----- 2:2-ARG1(THM) 6:4-ARG1(THM) 8:2-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARGM-LOC(LOC) 17:0-rel
+etri#doc_11439.txt 18 알다 ----- 17:3-ARG1() 18:0-rel
+etri#doc_11439.txt 20 금하다 ----- 18:4-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

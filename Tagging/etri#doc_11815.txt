@@ -1,0 +1,6 @@
+etri#doc_11815.txt 3 만나다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_11815.txt 6 하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-ADV() 5:1-ARG1(THM) 6:0-rel
+etri#doc_11815.txt 8 마시다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11815.txt 12 즐기다 ----- 1:1-ARGM-TMP(LOC) 6:2-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_11815.txt 14 하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11815.txt 17 마시다 ----- 12:2-ARGM-DIS() 14:2-ARGM-TMP() 15:1-ARGM-LOC(LOC) 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11413.txt 6 진단하다 ----- 3:1-ARGM-TMP(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_11413.txt 10 하다 ----- 8:1-ARG0(AGT) 9:1-ARGM-MNR(INS) 10:0-rel

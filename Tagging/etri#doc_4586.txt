@@ -1,0 +1,4 @@
+etri#doc_4586.txt 6 조사하다 ----- 6:0-rel
+etri#doc_4586.txt 8 하다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4586.txt 17 받아오다 ----- 15:4-ARG1(THM) 16:1-ARG2(SRC) 17:0-rel
+etri#doc_4586.txt 22 하다 ----- 4:3-ARGM-DIS() 9:4-ARGM-LOC(LOC) 10:1-ARG0(AGT) 18:3-ARGM-DIS() 21:3-ARG1(THM) 22:0-rel

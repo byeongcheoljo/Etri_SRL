@@ -1,0 +1,3 @@
+etri#doc_3886.txt 8 이루어지다 ----- 5:3-ARG1(THM) 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_3886.txt 14 의존하다 ----- 8:2-ARGM-DIS() 11:3-ARG0(THM) 12:1-ARGM-EXT() 13:1-ARG1(GOL) 14:0-rel
+etri#doc_3886.txt 19 나타나다 ----- 1:1-ARGM-CND(CNT) 14:2-ARGM-CAU() 18:3-ARGM-PRD(FNS) 19:0-rel

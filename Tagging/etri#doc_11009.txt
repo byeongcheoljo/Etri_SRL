@@ -1,0 +1,2 @@
+etri#doc_11009.txt 17 해결하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_11009.txt 19 되다 ----- 8:2-ARG1(THM) 15:6-ARGM-LOC(LOC) 18:3-ARGM-INS(INS) 19:0-rel

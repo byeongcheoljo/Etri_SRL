@@ -1,0 +1,5 @@
+etri#doc_4167.txt 7 이어지다 ----- 6:5-ARG1(THM) 7:0-rel
+etri#doc_4167.txt 10 맞추다 ----- 7:6-ARGM-DIS() 8:1-ARGM-INS(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4167.txt 11 알다 ----- 11:0-rel
+etri#doc_4167.txt 13 나오다 ----- 12:2-ARG0(THM) 13:0-rel
+etri#doc_4167.txt 15 따르다 ----- 1:1-ARG0(AGT) 10:2-ARGM-DIS() 13:3-ARGM-TMP() 14:1-ARGM-MNR() 15:0-rel

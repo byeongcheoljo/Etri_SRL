@@ -1,0 +1,4 @@
+etri#doc_11274.txt 6 간청하다 ----- 4:3-ARG2(GOL) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11274.txt 11 가리다 ----- 8:4-ARG0(AGT) 9:1-ARG0(THM) 10:1-ARG1(THM) 11:0-rel
+etri#doc_11274.txt 14 살다 ----- 13:1-ARG1(Npr) 14:0-rel
+etri#doc_11274.txt 20 피우다 ----- 11:2-ARGM-DIS() 16:4-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARGM-TMP() 19:1-ARG1(Npr) 20:0-rel

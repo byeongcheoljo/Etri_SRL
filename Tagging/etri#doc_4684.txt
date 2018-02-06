@@ -1,0 +1,3 @@
+etri#doc_4684.txt 7 하다 ----- 5:1-ARGM-MNR(COM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4684.txt 10 적어지다 ----- 4:3-ARGM-CND() 9:4-ARG1(THM) 10:0-rel
+etri#doc_4684.txt 14 떨어지다 ----- 11:6-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

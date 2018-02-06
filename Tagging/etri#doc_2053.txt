@@ -1,0 +1,2 @@
+etri#doc_2053.txt 6 지적하다 ----- 5:4-ARGM-EXT(EFF) 6:0-rel
+etri#doc_2053.txt 14 수용하다 ----- 13:4-ARG1(THM) 14:0-rel

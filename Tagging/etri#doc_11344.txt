@@ -1,0 +1,9 @@
+etri#doc_11344.txt 3 되다 ----- 2:1-ARG2(FNS) 3:0-rel
+etri#doc_11344.txt 4 거부하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11344.txt 5 먹다 ----- 5:0-rel
+etri#doc_11344.txt 6 거부하다 ----- 4:3-ARGM-DIS() 5:1-ARG1() 6:0-rel
+etri#doc_11344.txt 7 살다 ----- 7:0-rel
+etri#doc_11344.txt 8 거부하다 ----- 1:1-ARGM-TMP(SRC) 6:2-ARGM-DIS() 7:1-ARG1() 8:0-rel
+etri#doc_11344.txt 14 저주하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11344.txt 16 먹다 ----- 12:2-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_11344.txt 17 죽다 ----- 9:3-ARG1(THM) 10:1-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

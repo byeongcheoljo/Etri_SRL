@@ -1,0 +1,3 @@
+etri#doc_1158.txt 7 살다 ----- 2:2-ARGM-TMP(LOC) 6:4-ARG0(AGT) 7:0-rel
+etri#doc_1158.txt 15 고취하다 ----- 13:2-ARGM-DIR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1158.txt 17 살다 ----- 11:2-ARGM-TMP(LOC) 16:3-ARG0(AGT) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_11449.txt 18 비판받다 ----- 3:3-ARGM-LOC(LOC) 9:2-ARG1(THM) 17:4-ARGM-LOC(LOC) 18:0-rel

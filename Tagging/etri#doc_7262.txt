@@ -1,0 +1,5 @@
+etri#doc_7262.txt 1 덧붙이다 ----- 1:0-rel
+etri#doc_7262.txt 2 말하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_7262.txt 6 존재하다 ----- 5:2-ARG2(LOC) 6:0-rel
+etri#doc_7262.txt 14 한정하다 ----- 13:2-ARG2(LOC) 14:0-rel
+etri#doc_7262.txt 15 고찰되다 ----- 3:3-ARG0(AGT) 11:2-ARG1(THM) 14:3-ARGM-DIS() 15:0-rel

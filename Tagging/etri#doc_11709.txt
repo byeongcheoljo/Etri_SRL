@@ -1,0 +1,5 @@
+etri#doc_11709.txt 4 보장하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11709.txt 7 통제되다 ----- 4:3-ARGM-CND() 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11709.txt 11 따르다 ----- 10:1-ARG2(THM) 11:0-rel
+etri#doc_11709.txt 12 행사하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_11709.txt 13 통제하다 ----- 9:2-ARG1(THM) 12:3-ARGM-CAU() 13:0-rel

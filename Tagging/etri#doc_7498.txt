@@ -1,0 +1,4 @@
+etri#doc_7498.txt 2 벗어나다 ----- 1:1-ARG1(SRC) 2:0-rel
+etri#doc_7498.txt 10 훼손하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_7498.txt 13 해당되다 ----- 7:1-ARG0(AGT) 10:3-ARGM-DIS() 12:2-ARG2(CRT) 13:0-rel
+etri#doc_7498.txt 15 받다 ----- 6:3-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

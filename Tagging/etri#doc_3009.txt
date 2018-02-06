@@ -1,0 +1,4 @@
+etri#doc_3009.txt 8 나타나다 ----- 7:1-ARGM-LOC(SRC) 8:0-rel
+etri#doc_3009.txt 11 두다 ----- 9:3-ARG2(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3009.txt 12 관리하다 ----- 5:3-ARGM-PRD() 6:1-ARGM-EXT() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_3009.txt 19 파악하다 ----- 18:2-ARG2(FNS) 19:0-rel

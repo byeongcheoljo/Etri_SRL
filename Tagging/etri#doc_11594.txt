@@ -1,0 +1,4 @@
+etri#doc_11594.txt 4 예정되다 ----- 4:0-rel
+etri#doc_11594.txt 8 참가하다 ----- 5:2-ARGM-CAU(EFF) 6:1-ARG0(AGT) 7:1-ARG1(LOC) 8:0-rel
+etri#doc_11594.txt 10 내리다 ----- 1:1-ARGM-DIS(CNT) 3:2-ARG0(AGT) 8:2-ARGM-MNR() 9:1-ARG1(Npr) 10:0-rel
+etri#doc_11594.txt 13 밝히다 ----- 10:2-ARG1() 11:1-ARG0(AGT) 12:1-ARGM-TMP() 13:0-rel

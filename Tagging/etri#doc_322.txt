@@ -1,0 +1,4 @@
+etri#doc_322.txt 6 타다 ----- 4:1-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_322.txt 9 되다 ----- 3:3-ARGM-TMP(GOL) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_322.txt 14 단장하다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_322.txt 18 두다 ----- 9:2-ARGM-CAU() 12:2-ARG1(THM) 16:4-ARG2(FNS) 17:1-ARGM-MNR() 18:0-rel

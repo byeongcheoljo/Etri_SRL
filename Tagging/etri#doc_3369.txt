@@ -1,0 +1,4 @@
+etri#doc_3369.txt 5 가하다 ----- 3:1-ARG2(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3369.txt 12 선택하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3369.txt 13 배열하다 ----- 2:2-ARGM-CND() 9:3-ARG0(AGT) 12:3-ARGM-MNR() 13:0-rel
+etri#doc_3369.txt 19 알다 ----- 13:4-ARG1(THM) 16:3-ARGM-CND() 17:1-ARG0() 18:1-ARGM-EXT() 19:0-rel

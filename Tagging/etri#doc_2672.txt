@@ -1,0 +1,4 @@
+etri#doc_2672.txt 3 실리다 ----- 1:1-() 2:1-() 3:0-rel
+etri#doc_2672.txt 11 부르다 ----- 8:1-ARG0(AGT) 10:2-ARG1(THM) 11:0-rel
+etri#doc_2672.txt 13 사라지다 ----- 12:1-ARG1(AGT) 13:0-rel
+etri#doc_2672.txt 15 돌아가다 ----- 3:2-ARGM-DIS() 7:2-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:0-rel

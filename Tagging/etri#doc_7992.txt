@@ -1,0 +1,4 @@
+etri#doc_7992.txt 1 환언하다 ----- 1:0-rel
+etri#doc_7992.txt 4 도달하다 ----- 2:1-ARG0(AGT) 3:1-ARG2(LOC) 4:0-rel
+etri#doc_7992.txt 13 도달하다 ----- 10:2-ARG0() 11:1-ARGM-TMP() 12:1-ARG0(AGT) 13:0-rel
+etri#doc_7992.txt 14 되다 ----- 1:1-ARGM-MNR() 8:2-ARGM-DIS() 13:2-ARG2() 14:0-rel

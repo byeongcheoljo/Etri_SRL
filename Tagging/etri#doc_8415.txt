@@ -1,0 +1,1 @@
+etri#doc_8415.txt 15 ¶ì´Ù ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 8:2-ARGM-MNR() 10:2-ARGM-LOC(LOC) 14:4-ARG1() 15:0-rel

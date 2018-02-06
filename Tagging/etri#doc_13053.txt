@@ -1,0 +1,2 @@
+etri#doc_13053.txt 8 받다 ----- 2:1-ARGM-PRP(PUR) 3:1-ARGM-TMP(GOL) 6:3-ARG1(THM) 7:1-ARG1() 8:0-rel
+etri#doc_13053.txt 15 활용하다 ----- 1:1-ARG0(AGT) 13:4-ARGM-DIS() 14:1-ARG2(FNS) 15:0-rel

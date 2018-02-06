@@ -1,0 +1,2 @@
+etri#doc_5266.txt 6 영위하다 ----- 4:3-ARGM-MNR(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5266.txt 17 놓이다 ----- 1:1-ARGM-DIS() 7:3-ARG1(THM) 12:5-ARGM-LOC(LOC) 15:3-ARGM-EXT(CRT) 16:1-ARG2(GOL) 17:0-rel

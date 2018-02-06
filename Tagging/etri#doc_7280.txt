@@ -1,0 +1,5 @@
+etri#doc_7280.txt 5 보다 ----- 3:3-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_7280.txt 7 이해하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_7280.txt 9 보다 ----- 7:4-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7280.txt 13 나가떨어지다 ----- 9:2-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_7280.txt 16 되다 ----- 15:1-ARGM-TMP(CRT) 16:0-rel

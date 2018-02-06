@@ -1,0 +1,5 @@
+etri#doc_5090.txt 3 ¸ÁÇÏ´Ù ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5090.txt 6 ÀÇ½ÉÇÏ´Ù ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5090.txt 11 ¼Ó´Ù ----- 7:1-ARG1(THM) 8:1-ARGM-CAU() 10:2-ARG2(EFF) 11:0-rel
+etri#doc_5090.txt 15 ½Å·ÚÇÏ´Ù ----- 11:3-ARGM-DIS() 12:1-ARGM-CAU() 14:2-ARG1(THM) 15:0-rel
+etri#doc_5090.txt 16 Å¿ÇÏ´Ù ----- 1:1-ARGM-DIS() 3:2-ARGM-TMP() 6:3-ARGM-EXT() 15:3-ARGM-DIS() 16:0-rel

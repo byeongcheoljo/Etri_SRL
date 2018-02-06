@@ -1,0 +1,2 @@
+etri#doc_8587.txt 7 통하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8587.txt 17 이용하다 ----- 16:4-ARG1(THM) 17:0-rel

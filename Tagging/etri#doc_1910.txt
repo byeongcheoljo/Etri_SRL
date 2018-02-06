@@ -1,0 +1,5 @@
+\etri#doc_1910.txt 9 실리다 ----- 5:3-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1910.txt 11 되다 ----- 9:3-ARGM-CAU() 10:1-() 11:0-rel
+etri#doc_1910.txt 17 거치다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_1910.txt 21 갖추다 ----- 17:3-ARGM-DIS() 20:3-ARG1(THM) 21:0-rel
+etri#doc_1910.txt 23 정착되다 ----- 2:2-ARG1(THM) 11:2-ARGM-DIS() 13:2-ARGM-TMP() 22:5-ARG2(FNS) 23:0-rel

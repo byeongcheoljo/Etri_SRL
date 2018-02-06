@@ -1,0 +1,5 @@
+etri#doc_3076.txt 6 돌리다 ----- 2:2-ARG1(THM) 3:1-ARGM-LOC(LOC) 4:1-ARG2(GOL) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_3076.txt 7 수출하다 ----- 7:0-rel
+etri#doc_3076.txt 8 수입하다 ----- 7:1-ARGM-EXT() 8:0-rel
+etri#doc_3076.txt 12 생기다 ----- 9:3-ARG1(THM) 11:2-ARG1(THM) 12:0-rel
+etri#doc_3076.txt 15 생기다 ----- 6:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

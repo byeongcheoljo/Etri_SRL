@@ -1,0 +1,4 @@
+etri#doc_7915.txt 1 이리하다 ----- 1:0-rel
+etri#doc_7915.txt 9 달리하다 ----- 1:1-ARGM-CAU() 7:3-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7915.txt 13 나서다 ----- 10:1-ARG0(AGT) 12:2-ARG1(LOC) 13:0-rel
+etri#doc_7915.txt 16 호응하다 ----- 9:2-ARGM-DIS() 14:4-ARGM-TMP(LOC) 15:1-ARGM-MNR(INS) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5548.txt 7 들다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 6:2-ARG2(GOL) 7:0-rel
+etri#doc_5548.txt 10 하다 ----- 8:1-ARGM-LOC(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5548.txt 15 잃다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_5548.txt 19 하다 ----- 7:3-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARG0(AGT) 13:1-ARGM-EXT(EFF) 15:2-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2920.txt 2 되다 ----- 1:1-ARGM-TMP(THM) 2:0-rel
+etri#doc_2920.txt 6 찾다 ----- 2:2-ARGM-DIS() 5:3-ARG0(AGT) 6:0-rel
+etri#doc_2920.txt 13 남기다 ----- 9:1-ARG1(THM) 11:2-ARGM-PRD() 12:1-ARG2(LOC) 13:0-rel
+etri#doc_2920.txt 17 사라지다 ----- 7:5-ARGM-TMP(LOC) 8:1-ARG1(THM) 14:3-ARGM-DIS() 15:1-ARGM-TMP() 16:1-ARGM-LOC(SRC) 17:0-rel

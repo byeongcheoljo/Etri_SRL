@@ -1,0 +1,5 @@
+etri#doc_11772.txt 3 벌이다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_11772.txt 9 제시하다 ----- 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11772.txt 11 두다 ----- 5:1-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_11772.txt 15 벗어나다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11772.txt 19 하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP(LOC) 11:2-ARGM-DIS() 17:4-ARGM-ADV(EFF) 18:1-ARG1(THM) 19:0-rel

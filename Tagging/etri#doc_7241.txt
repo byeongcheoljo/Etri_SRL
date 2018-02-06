@@ -1,0 +1,2 @@
+etri#doc_7241.txt 8 구하다 ----- 4:2-() 5:1-ARG0(AGT) 6:1-ARG2(EXP) 7:1-ARG1(THM) 8:0-rel
+etri#doc_7241.txt 15 노력하다 ----- 10:1-ARGM-MNR(INS) 11:1-ARGM-DIS() 14:3-ARGM-PRP(GOL) 15:0-rel

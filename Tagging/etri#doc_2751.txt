@@ -1,0 +1,5 @@
+etri#doc_2751.txt 3 ∏Ù¥Ÿ ----- 3:0-rel
+etri#doc_2751.txt 4 ø¿¥Ÿ ----- 2:2-ARG0(Npr) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_2751.txt 6 √‚∑∑∞≈∏Æ¥Ÿ ----- 6:0-rel
+etri#doc_2751.txt 11 »Â∏£¥Ÿ ----- 10:3-ARGM-MNR() 11:0-rel
+etri#doc_2751.txt 16 ≥ı¥Ÿ ----- 13:1-ARGM-LOC(GOL) 15:2-ARG1(THM) 16:0-rel

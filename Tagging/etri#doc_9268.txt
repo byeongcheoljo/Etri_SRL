@@ -1,0 +1,6 @@
+etri#doc_9268.txt 3 호소하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_9268.txt 5 참작하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_9268.txt 7 세우다 ----- 5:4-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_9268.txt 9 지니다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_9268.txt 12 설명하다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARG2(GOL) 12:0-rel
+etri#doc_9268.txt 17 되풀이되다 ----- 17:0-rel

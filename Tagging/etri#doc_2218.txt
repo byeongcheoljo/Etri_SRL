@@ -1,0 +1,4 @@
+etri#doc_2218.txt 3 예견하다 ----- 2:2-ARG2(THM) 3:0-rel
+etri#doc_2218.txt 9 모방하다 ----- 5:5-ARGM-INS() 6:1-ARGM-MNR() 8:2-ARG2() 9:0-rel
+etri#doc_2218.txt 13 되돌아보다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_2218.txt 16 절감하다 ----- 13:3-ARGM-CND() 14:1-ARGM-EXT() 15:1-ARG1(THM) 16:0-rel

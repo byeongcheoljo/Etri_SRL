@@ -1,0 +1,7 @@
+etri#doc_3856.txt 3 굶주리다 ----- 2:1-ARG1(EXP) 3:0-rel
+etri#doc_3856.txt 5 풀다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3856.txt 7 풀다 ----- 5:4-ARGM-EXT() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3856.txt 11 가지다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3856.txt 14 풀다 ----- 14:0-rel
+etri#doc_3856.txt 16 찾다 ----- 11:2-ARGM-CND() 13:2-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel
+etri#doc_3856.txt 19 여기다 ----- 1:1-ARGM-CAU() 18:5-ARG1() 19:0-rel

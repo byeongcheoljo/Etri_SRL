@@ -1,0 +1,4 @@
+etri#doc_6968.txt 4 되다 ----- 3:2-ARG2(FNS) 4:0-rel
+etri#doc_6968.txt 10 보다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6968.txt 16 낮아지다 ----- 13:2-ARG2(SRC) 15:2-ARG3(GOL) 16:0-rel
+etri#doc_6968.txt 18 알다 ----- 10:3-ARGM-DIS() 11:1-ARGM-CND() 17:4-ARG1(THM) 18:0-rel

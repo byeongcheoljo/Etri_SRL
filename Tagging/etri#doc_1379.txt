@@ -1,0 +1,3 @@
+etri#doc_1379.txt 12 차지하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_1379.txt 13 앉다 ----- 12:3-ARGM-DIS() 13:0-rel
+etri#doc_1379.txt 19 나타나다 ----- 18:3-ARG0(THM) 19:0-rel

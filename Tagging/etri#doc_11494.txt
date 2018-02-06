@@ -1,0 +1,4 @@
+etri#doc_11494.txt 10 내려가다 ----- 9:4-ARG3(GOL) 10:0-rel
+etri#doc_11494.txt 11 살피다 ----- 5:1-ARGM-DIS() 10:5-ARGM-MNR() 11:0-rel
+etri#doc_11494.txt 13 밝혀지다 ----- 12:1-ARGM-MNR() 13:0-rel
+etri#doc_11494.txt 17 나오다 ----- 4:3-ARG0(AGT) 11:6-ARGM-MNR() 13:2-ARGM-DIS() 16:3-ARG0(AGT) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11564.txt 14 만들다 ----- 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_11564.txt 20 어려워지다 ----- 1:1-ARG0(EXP) 12:2-ARGM-DIS() 14:2-ARGM-CND() 17:2-ARGM-MNR() 19:2-ARG1(THM) 20:0-rel

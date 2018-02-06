@@ -1,0 +1,2 @@
+etri#doc_996.txt 6 나오다 ----- 4:2-ARGM-TMP(CRT) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_996.txt 17 알다 ----- 13:4-ARGM-CND() 15:2-ARG1(THM) 16:1-ARG2(FNS) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1041.txt 4 머물다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_1041.txt 11 몰아붙이다 ----- 7:5-ARGM-MNR() 8:1-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARG2(GOL) 11:0-rel
+etri#doc_1041.txt 15 강조하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 12:3-ARGM-EXT() 13:1-ARGM-ADV(EFF) 14:1-ARG1(THM) 15:0-rel

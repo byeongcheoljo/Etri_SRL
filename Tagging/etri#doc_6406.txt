@@ -1,0 +1,3 @@
+etri#doc_6406.txt 9 보다 ----- 8:3-ARG1() 9:0-rel
+etri#doc_6406.txt 14 분석하다 ----- 12:2-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_6406.txt 17 받아들이다 ----- 3:2-ARG0(AGT) 5:2-ARG1(THM) 9:4-ARGM-DIS() 16:2-ARG3(FNS) 17:0-rel

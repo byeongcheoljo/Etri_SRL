@@ -1,0 +1,5 @@
+etri#doc_5468.txt 2 가지다 ----- 1:1-ARG0(LOC) 2:0-rel
+etri#doc_5468.txt 5 가지다 ----- 4:1-ARG0(LOC) 5:0-rel
+etri#doc_5468.txt 10 되다 ----- 6:3-ARG1(THM) 8:2-ARGM-MNR() 9:1-ARG2(FNS) 10:0-rel
+etri#doc_5468.txt 16 섬기다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_5468.txt 18 보내다 ----- 10:2-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARGM-DIS(EFF) 13:1-ARGM-ADV() 16:3-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

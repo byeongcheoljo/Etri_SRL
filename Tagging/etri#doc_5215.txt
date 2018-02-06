@@ -1,0 +1,4 @@
+etri#doc_5215.txt 6 받다 ----- 2:1-ARG2(SRC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_5215.txt 10 넘다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5215.txt 11 진격시키다 ----- 1:1-ARG0(AGT) 6:4-ARGM-MNR() 8:2-ARG1(THM) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_5215.txt 19 폭격하다 ----- 11:3-ARGM-DIS() 12:1-ARG0(AGT) 18:2-ARG1(LOC) 19:0-rel

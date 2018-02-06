@@ -1,0 +1,5 @@
+etri#doc_5098.txt 2 버리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5098.txt 5 쓰다 ----- 2:2-ARGM-DIS() 3:1-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5098.txt 8 가지다 ----- 6:1-ARGM-TMP() 7:1-ARGM-EXT(CRT) 8:0-rel
+etri#doc_5098.txt 10 만족하다 ----- 9:3-ARG0(THM) 10:0-rel
+etri#doc_5098.txt 11 살아가다 ----- 10:4-ARGM-DIS() 11:0-rel

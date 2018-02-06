@@ -1,0 +1,4 @@
+etri#doc_6937.txt 4 앉다 ----- 1:1-ARG1(GOL) 2:1-ARGM-MNR() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_6937.txt 9 떨어지다 ----- 8:2-ARG3(GOL) 9:0-rel
+etri#doc_6937.txt 12 하다 ----- 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6937.txt 17 받다 ----- 6:2-ARG0(GOL) 9:3-ARGM-DIS() 13:3-ARGM-CAU(EFF) 14:1-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

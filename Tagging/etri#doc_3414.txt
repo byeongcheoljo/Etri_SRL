@@ -1,0 +1,4 @@
+etri#doc_3414.txt 3 연행되다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_3414.txt 6 제의하다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_3414.txt 11 가다 ----- 9:3-ARGM-PRP(PUR) 10:1-ARG3(GOL) 11:0-rel
+etri#doc_3414.txt 13 실행하다 ----- 3:2-ARGM-CAU() 4:1-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel

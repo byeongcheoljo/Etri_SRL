@@ -1,0 +1,2 @@
+etri#doc_3787.txt 7 높아지다 ----- 4:4-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_3787.txt 10 무너지다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel

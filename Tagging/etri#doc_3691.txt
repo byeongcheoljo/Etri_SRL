@@ -1,0 +1,5 @@
+etri#doc_3691.txt 1 일어나다 ----- 1:0-rel
+etri#doc_3691.txt 8 먹다 ----- 6:3-ARGM-CAU() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3691.txt 11 치대다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3691.txt 12 쪼그리다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_3691.txt 15 바라보다 ----- 8:2-ARGM-DIS() 9:1-ARGM-LOC(LOC) 12:3-ARGM-MNR() 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

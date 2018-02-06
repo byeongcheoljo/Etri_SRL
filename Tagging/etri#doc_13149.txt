@@ -1,0 +1,6 @@
+etri#doc_13149.txt 7 빠지다 ----- 4:4-ARGM-INS(INS) 5:1-ARGM-LOC(LOC) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_13149.txt 10 모면하다 ----- 8:3-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_13149.txt 11 위하다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_13149.txt 14 되다 ----- 11:3-ARGM-PRP() 12:1-ARG1(THM) 13:1-ARG2(FNS) 14:0-rel
+etri#doc_13149.txt 17 일으키다 ----- 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_13149.txt 19 배제하다 ----- 18:4-ARG1(THM) 19:0-rel

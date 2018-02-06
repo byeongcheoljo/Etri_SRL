@@ -1,0 +1,3 @@
+etri#doc_3303.txt 10 제기하다 ----- 1:1-ARGM-TMP() 5:2-ARGM-ADV(EFF) 6:1-ARGM-TMP() 7:1-ARG0(AGT) 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3303.txt 15 갖다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_3303.txt 17 나서다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP() 12:1-ARG0(AGT) 15:3-ARGM-DIS() 16:1-ARG1(LOC) 17:0-rel

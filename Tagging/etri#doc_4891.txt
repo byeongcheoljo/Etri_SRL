@@ -1,0 +1,5 @@
+etri#doc_4891.txt 4 제외되다 ----- 1:1-ARG1(THM) 3:2-ARG2(LOC) 4:0-rel
+etri#doc_4891.txt 7 지각되다 ----- 7:0-rel
+etri#doc_4891.txt 12 기인하다 ----- 11:2-ARG2(SRC) 12:0-rel
+etri#doc_4891.txt 16 기인하다 ----- 6:1-ARG1(THM) 12:3-ARGM-DIS() 15:2-ARG2(SRC) 16:0-rel
+etri#doc_4891.txt 18 근거하다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 17:4-ARG2(LOC) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4714.txt 3 차지하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4714.txt 13 갖다 ----- 12:2-ARG1(THM) 13:0-rel

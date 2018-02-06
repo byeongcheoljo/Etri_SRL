@@ -1,0 +1,5 @@
+etri#doc_6722.txt 2 보다 ----- 1:1-ARGM-ADV() 2:0-rel
+etri#doc_6722.txt 6 살다 ----- 3:1-ARGM-EXT(CRT) 5:2-ARGM-MNR() 6:0-rel
+etri#doc_6722.txt 14 머무르다 ----- 13:1-ARG2(LOC) 14:0-rel
+etri#doc_6722.txt 16 되다 ----- 12:1-ARG1(THM) 14:2-ARGM-DIS() 15:1-ARG2(FNS) 16:0-rel
+etri#doc_6722.txt 19 생각하다 ----- 9:6-ARGM-DIS() 10:1-ARG0(MAG) 11:1-ARGM-TMP() 17:3-ARG1(THM) 18:1-ARG1(CNT) 19:0-rel

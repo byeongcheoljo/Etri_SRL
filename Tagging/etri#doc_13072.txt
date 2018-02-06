@@ -1,0 +1,4 @@
+etri#doc_13072.txt 7 마련되다 ----- 6:5-ARGM-PRP(PUR) 7:0-rel
+etri#doc_13072.txt 11 동원되다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_13072.txt 15 살포하다 ----- 11:3-ARGM-MNR() 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_13072.txt 20 뿌리다 ----- 8:7-ARGM-TMP(LOC) 15:2-ARGM-DIS() 16:1-ARG2(GOL) 17:1-ARG0(AGT) 18:1-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

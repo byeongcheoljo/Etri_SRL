@@ -1,0 +1,4 @@
+etri#doc_3490.txt 3 보다 ----- 1:1-ARG1(THM) 2:1-ARGM-ADV(EFF) 3:0-rel
+etri#doc_3490.txt 6 합치다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3490.txt 14 집중되다 ----- 6:3-ARGM-CND() 10:2-ARG1(THM) 13:2-ARG2(GOL) 14:0-rel
+etri#doc_3490.txt 15 나타나다 ----- 3:2-ARGM-CND() 14:3-ARGM-MNR() 15:0-rel

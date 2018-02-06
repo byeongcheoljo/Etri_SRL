@@ -1,0 +1,2 @@
+etri#doc_11359.txt 3 µè´Ù ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11359.txt 13 µè´Ù ----- 5:5-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARGM-CAU(EFF) 9:1-ARG0(MAG) 10:1-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel

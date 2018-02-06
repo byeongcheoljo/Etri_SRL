@@ -1,0 +1,2 @@
+etri#doc_5614.txt 4 경선하다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5614.txt 9 기다리다 ----- 6:2-ARGM-DIS(EFF) 7:1-ARG0(AGT) 8:1-ARGM-EXT() 9:0-rel

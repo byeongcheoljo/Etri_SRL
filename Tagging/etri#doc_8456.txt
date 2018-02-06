@@ -1,0 +1,2 @@
+etri#doc_8456.txt 10 장악하다 ----- 8:6-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_8456.txt 15 지적되다 ----- 2:2-ARG1(THM) 14:2-ARG1() 15:0-rel

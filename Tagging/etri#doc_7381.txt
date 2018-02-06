@@ -1,0 +1,4 @@
+etri#doc_7381.txt 4 실천하다 ----- 2:2-ARG1() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_7381.txt 9 어긋나다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7381.txt 11 바로잡다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7381.txt 15 해내다 ----- 5:3-ARG0(AGT) 9:4-ARGM-MNR() 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_9845.txt 2 도망치다 ----- 1:1-ARGM-MNR(COM) 2:0-rel
+etri#doc_9845.txt 4 하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_9845.txt 6 공부하다 ----- 5:1-ARGM-ADV(EFF) 6:0-rel
+etri#doc_9845.txt 9 알다 ----- 6:2-ARGM-DIS() 7:1-ARGM-ADV(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_9845.txt 13 상상하다 ----- 4:4-ARGM-DIS() 10:3-ARGM-PRD(EFF) 12:2-ARG1(THM) 13:0-rel

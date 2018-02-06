@@ -1,0 +1,5 @@
+etri#doc_11059.txt 9 추첨하다 ----- 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_11059.txt 11 당첨되다 ----- 1:1-ARGM-DIS() 7:3-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_11059.txt 14 디밀다 ----- 11:2-ARGM-CND() 12:1-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_11059.txt 17 하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_11059.txt 19 하다 ----- 14:2-ARGM-DIS() 15:1-ARG0(AGT) 17:2-ARGM-CND() 18:1-ARGM-EXT() 19:0-rel

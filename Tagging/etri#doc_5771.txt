@@ -1,0 +1,1 @@
+etri#doc_5771.txt 10 출전하다 ----- 1:1-ARG1(LOC) 9:4-ARG0(AGT) 10:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6441.txt 9 맞다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_6441.txt 15 대우하다 ----- 12:1-ARG1(THM) 13:1-ARGM-EXT(CRT) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_6441.txt 17 찾다 ----- 5:4-ARG0(AGT) 11:5-ARG1(THM) 16:3-ARGM-LOC(SRC) 17:0-rel

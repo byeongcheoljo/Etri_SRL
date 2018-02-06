@@ -1,0 +1,7 @@
+etri#doc_1751.txt 4 정성들이다 ----- 4:0-rel
+etri#doc_1751.txt 5 꾸미다 ----- 1:1-ARGM-MNR() 2:1-ARGM-INS(INS) 3:1-ARGM-INS(INS) 4:1-ARGM-DIS() 5:0-rel
+etri#doc_1751.txt 7 가다 ----- 5:2-ARGM-DIS() 6:1-ARGM-LOC(GOL) 7:0-rel
+etri#doc_1751.txt 11 주다 ----- 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1751.txt 14 어울리다 ----- 14:0-rel
+etri#doc_1751.txt 15 웃다 ----- 14:1-ARGM-DIS() 15:0-rel
+etri#doc_1751.txt 17 나누다 ----- 8:1-ARG1(AGT) 11:2-ARGM-DIS() 13:2-ARGM-EXT(COM) 15:2-ARGM-DIS() 16:1-ARGM-DIS() 17:0-rel

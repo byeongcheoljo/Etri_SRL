@@ -1,0 +1,5 @@
+etri#doc_4728.txt 4 조사하다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4728.txt 10 들다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_4728.txt 12 이루다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4728.txt 13 살다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_4728.txt 18 알다 ----- 6:4-ARGM-DIS() 10:4-ARGM-DIS() 14:4-ARG1(THM) 17:3-ARGM-MNR() 18:0-rel

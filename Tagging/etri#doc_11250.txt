@@ -1,0 +1,4 @@
+etri#doc_11250.txt 4 모이다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_11250.txt 13 하다 ----- 11:1-ARGM-MNR(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_11250.txt 14 모이다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_11250.txt 19 알다 ----- 1:1-ARGM-TMP() 2:1-ARG0(MAG) 17:6-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

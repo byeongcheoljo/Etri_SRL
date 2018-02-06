@@ -1,0 +1,3 @@
+etri#doc_1102.txt 10 보다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_1102.txt 15 알다 ----- 14:2-ARGM-DIS(THM) 15:0-rel
+etri#doc_1102.txt 16 생각하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(EXP) 10:4-ARGM-CAU() 15:3-ARGM-CND() 16:0-rel

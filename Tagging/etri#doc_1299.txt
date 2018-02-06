@@ -1,0 +1,4 @@
+etri#doc_1299.txt 10 배회하다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_1299.txt 15 날다 ----- 15:0-rel
+etri#doc_1299.txt 17 떨구다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_1299.txt 25 환대하다 ----- 19:5-ARGM-DIS() 21:2-ARGM-CAU() 22:1-ARGM-TMP() 23:1-ARGM-DIS() 24:1-ARG1(THM) 25:0-rel

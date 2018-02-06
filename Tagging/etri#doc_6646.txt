@@ -1,0 +1,5 @@
+etri#doc_6646.txt 6 받아들이다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6646.txt 10 되찾다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6646.txt 11 복수하다 ----- 10:3-ARGM-PRP() 11:0-rel
+etri#doc_6646.txt 15 받다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6646.txt 17 처하다 ----- 16:1-ARG2(LOC) 17:0-rel

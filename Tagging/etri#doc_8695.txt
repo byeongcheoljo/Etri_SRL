@@ -1,0 +1,5 @@
+etri#doc_8695.txt 5 하다 ----- 4:4-ARG1() 5:0-rel
+etri#doc_8695.txt 8 보다 ----- 7:2-ARG1(FNS) 8:0-rel
+etri#doc_8695.txt 13 상상하다 ----- 5:5-ARGM-CND() 12:4-ARG1() 13:0-rel
+etri#doc_8695.txt 18 통하다 ----- 14:1-ARGM-DIS(CNT) 15:1-ARG0(EXP) 16:1-ARGM-MNR() 17:1-ARG1(THM) 18:0-rel
+etri#doc_8695.txt 19 놀라다 ----- 13:5-ARGM-DIS() 18:2-ARGM-DIS() 19:0-rel

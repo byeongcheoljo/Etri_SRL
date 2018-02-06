@@ -1,0 +1,5 @@
+etri#doc_4591.txt 5 설정하다 ----- 2:1-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4591.txt 7 제한하다 ----- 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4591.txt 11 막다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4591.txt 14 보호하다 ----- 7:2-ARGM-CAU() 11:3-ARGM-DIS() 12:1-ARG2(SRC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_4591.txt 19 공감하다 ----- 16:4-ARGM-LOC() 18:2-ARG0(MAG) 19:0-rel

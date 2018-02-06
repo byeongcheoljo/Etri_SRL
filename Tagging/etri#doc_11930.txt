@@ -1,0 +1,4 @@
+etri#doc_11930.txt 4 중단되다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_11930.txt 8 나오다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 7:2-ARG1(THM) 8:0-rel
+etri#doc_11930.txt 12 달하다 ----- 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:1-ARGM-EXT(CRT) 12:0-rel
+etri#doc_11930.txt 14 되다 ----- 1:1-ARGM-DIS() 8:3-ARGM-TMP() 13:3-ARG2(FNS) 14:0-rel

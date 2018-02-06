@@ -1,0 +1,5 @@
+etri#doc_8889.txt 5 지적하다 ----- 3:2-ARGM-LOC(LOC) 4:1-ARG0(AGT) 5:0-rel
+etri#doc_8889.txt 7 도입하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8889.txt 8 주장하다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_8889.txt 12 받다 ----- 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_8889.txt 13 얼빠지다 ----- 12:2-ARGM-EXT() 13:0-rel

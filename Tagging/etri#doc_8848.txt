@@ -1,0 +1,2 @@
+etri#doc_8848.txt 7 하다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG0(AGT) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8848.txt 16 출발되다 ----- 2:2-ARG1(THM) 15:3-ARG2(LOC) 16:0-rel

@@ -1,0 +1,7 @@
+etri#doc_4982.txt 3 되다 ----- 2:1-ARG2(FNS) 3:0-rel
+etri#doc_4982.txt 5 협동하다 ----- 5:0-rel
+etri#doc_4982.txt 7 유지하다 ----- 4:3-ARG0(AGT) 5:1-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4982.txt 10 하다 ----- 8:3-ARG1(THM) 9:1-ARG1(CNT) 10:0-rel
+etri#doc_4982.txt 14 하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_4982.txt 17 구분하다 ----- 10:2-ARGM-DIS() 15:5-ARG1(THM) 16:1-ARG2(FNS) 17:0-rel
+etri#doc_4982.txt 18 다루다 ----- 1:1-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_5527.txt 14 의식하다 ----- 4:2-ARG0(EXP) 7:2-ARG1(THM) 11:2-ARG1(THM) 13:2-ARGM-EXT(CRT) 14:0-rel

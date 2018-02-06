@@ -1,0 +1,2 @@
+etri#doc_13023.txt 7 벌이다 ----- 5:1-ARG1(COM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_13023.txt 10 살리다 ----- 4:2-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel

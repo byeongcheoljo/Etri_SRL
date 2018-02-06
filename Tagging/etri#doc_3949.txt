@@ -1,0 +1,4 @@
+etri#doc_3949.txt 6 낮추다 ----- 4:1-ARG2(SRC) 5:1-ARG3(FNS) 6:0-rel
+etri#doc_3949.txt 7 고시하다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_3949.txt 11 판매하다 ----- 10:3-ARGM-MNR(INS) 11:0-rel
+etri#doc_3949.txt 13 통보하다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 11:4-ARG1() 12:1-ARG2(GOL) 13:0-rel

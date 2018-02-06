@@ -1,0 +1,3 @@
+etri#doc_7670.txt 9 부르다 ----- 6:1-ARG0(AGT) 8:2-ARG2(FNS) 9:0-rel
+etri#doc_7670.txt 13 하다 ----- 10:4-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_7670.txt 16 타다 ----- 15:2-ARG1(THM) 16:0-rel

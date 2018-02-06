@@ -1,0 +1,4 @@
+etri#doc_6382.txt 6 뽑다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_6382.txt 11 관련되다 ----- 10:1-ARG2(COM) 11:0-rel
+etri#doc_6382.txt 13 배제하다 ----- 2:1-ARG2(SRC) 6:4-ARGM-DIS() 7:1-ARGM-EXT() 12:3-ARG1(THM) 13:0-rel
+etri#doc_6382.txt 17 두다 ----- 15:6-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

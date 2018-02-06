@@ -1,0 +1,4 @@
+etri#doc_6636.txt 3 속하다 ----- 1:1-ARG1(THM) 2:1-ARG2(LOC) 3:0-rel
+etri#doc_6636.txt 5 관리하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6636.txt 11 되다 ----- 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_6636.txt 14 판단되다 ----- 8:3-ARGM-CND(EFF) 12:3-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8493.txt 6 하다 ----- 4:2-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_8493.txt 9 예고하다 ----- 2:1-ARGM-TMP() 7:3-ARG1(THM) 8:1-ARG1() 9:0-rel
+etri#doc_8493.txt 12 제출하다 ----- 10:1-ARGM-TMP() 11:1-ARG2(GOL) 12:0-rel
+etri#doc_8493.txt 14 시행하다 ----- 9:2-ARGM-TMP() 12:2-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_8493.txt 16 밝히다 ----- 1:1-ARG0(AGT) 14:2-ARG1() 15:1-ARGM-TMP() 16:0-rel

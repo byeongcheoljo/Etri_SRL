@@ -1,0 +1,1 @@
+etri#doc_12024.txt 7 °É´Ù ----- 1:1-ARGM-DIS() 4:3-ARG0() 5:1-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel

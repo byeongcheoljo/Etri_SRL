@@ -1,0 +1,2 @@
+etri#doc_7788.txt 10 참가하다 ----- 4:2-ARG0(AGT) 8:3-ARG2(COM) 9:1-ARG1(LOC) 10:0-rel
+etri#doc_7788.txt 11 자축하다 ----- 2:2-ARGM-LOC(LOC) 10:2-ARG1() 11:0-rel

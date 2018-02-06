@@ -1,0 +1,4 @@
+etri#doc_1753.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1753.txt 10 가지다 ----- 7:2-ARG2(LOC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_1753.txt 16 가지다 ----- 10:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_1753.txt 19 갖다 ----- 1:1-ARGM-DIS() 5:2-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel

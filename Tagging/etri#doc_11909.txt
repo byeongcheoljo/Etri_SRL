@@ -1,0 +1,3 @@
+etri#doc_11909.txt 3 공통되다 ----- 3:0-rel
+etri#doc_11909.txt 7 존재하다 ----- 1:1-ARG0(AGT) 6:4-ARGM-CAU(EFF) 7:0-rel
+etri#doc_11909.txt 13 감내하다 ----- 12:4-ARGM-PRD(EFF) 13:0-rel

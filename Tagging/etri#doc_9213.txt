@@ -1,0 +1,5 @@
+etri#doc_9213.txt 3 걸리다 ----- 2:2-ARGM-LOC(EFF) 3:0-rel
+etri#doc_9213.txt 4 살다 ----- 4:0-rel
+etri#doc_9213.txt 5 죽다 ----- 3:3-ARGM-DIS() 4:1-ARGM-DIS() 5:0-rel
+etri#doc_9213.txt 16 일삼다 ----- 6:3-ARG0(AGT) 7:1-ARGM-ADV() 8:1-ARGM-ADV(EFF) 14:2-ARGM-MNR() 15:1-ARG1(Npr) 16:0-rel
+etri#doc_9213.txt 18 충고하다 ----- 16:2-ARGM-DIS() 17:1-ARG0(AGT) 18:0-rel

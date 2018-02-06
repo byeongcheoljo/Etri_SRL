@@ -1,0 +1,4 @@
+etri#doc_5897.txt 5 하다 ----- 3:2-ARG1(THM) 4:1-ARGM-INS(CNT) 5:0-rel
+etri#doc_5897.txt 10 잇달다 ----- 10:0-rel
+etri#doc_5897.txt 15 주다 ----- 6:3-ARGM-CND(LOC) 12:2-ARGM-CAU(EFF) 13:1-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_5897.txt 16 인식하다 ----- 1:1-ARGM-EXT() 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8028.txt 6 생각하다 ----- 6:0-rel
+etri#doc_8028.txt 8 생기다 ----- 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_8028.txt 11 생각하다 ----- 11:0-rel
+etri#doc_8028.txt 15 깨닫다 ----- 12:2-ARG1(MAG) 13:1-ARG2(THM) 14:1-ARGM-MNR() 15:0-rel

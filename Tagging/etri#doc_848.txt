@@ -1,0 +1,4 @@
+etri#doc_848.txt 6 µ¤´Ù ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_848.txt 13 ½Ç¸®´Ù ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_848.txt 14 ½â´Ù ----- 14:0-rel
+etri#doc_848.txt 19 ³ª´Ù ----- 18:1-ARG1() 19:0-rel

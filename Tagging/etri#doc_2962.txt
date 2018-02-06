@@ -1,0 +1,5 @@
+etri#doc_2962.txt 4 되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_2962.txt 5 모르다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_2962.txt 7 증발되다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_2962.txt 15 먹다 ----- 14:1-() 15:0-rel
+etri#doc_2962.txt 16 가다 ----- 5:3-ARGM-DIS() 9:2-ARGM-TMP(LOC) 13:3-ARG0(THM) 15:2-ARGM-DIS() 16:0-rel

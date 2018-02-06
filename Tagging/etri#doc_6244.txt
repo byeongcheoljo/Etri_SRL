@@ -1,0 +1,1 @@
+etri#doc_6244.txt 18 의미하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 7:4-ARGM-DIS() 9:2-ARG1(EFF) 17:2-ARG2(THM) 18:0-rel

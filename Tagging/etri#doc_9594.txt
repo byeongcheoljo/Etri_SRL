@@ -1,0 +1,2 @@
+etri#doc_9594.txt 5 서다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_9594.txt 15 여겨지다 ----- 11:2-ARG1(THM) 14:2-ARGM-EXT(EFF) 15:0-rel

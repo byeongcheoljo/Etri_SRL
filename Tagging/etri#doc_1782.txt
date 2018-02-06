@@ -1,0 +1,1 @@
+etri#doc_1782.txt 11 생각하다 ----- 8:1-ARG2(THM) 10:2-ARGM-DIS() 11:0-rel

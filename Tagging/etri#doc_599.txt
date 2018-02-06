@@ -1,0 +1,5 @@
+etri#doc_599.txt 4 합치되다 ----- 3:2-() 4:0-rel
+etri#doc_599.txt 5 깨닫다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_599.txt 15 실행하다 ----- 5:4-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_599.txt 17 결정하다 ----- 15:3-ARGM-PRD() 16:1-ARG1(THM) 17:0-rel
+etri#doc_599.txt 20 성명하다 ----- 17:2-ARGM-DIS() 18:1-() 19:1-ARGM-LOC(LOC) 20:0-rel

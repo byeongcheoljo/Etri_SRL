@@ -1,0 +1,5 @@
+etri#doc_4046.txt 5 덧나다 ----- 5:0-rel
+etri#doc_4046.txt 7 썩히다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 5:1-ARGM-CAU() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4046.txt 14 하다 ----- 12:1-ARG1(THM) 13:1-ARGM-NEG() 14:0-rel
+etri#doc_4046.txt 16 울리다 ----- 7:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4046.txt 22 도외시하다 ----- 20:2-ARG1(THM) 21:1-ARGM-MNR() 22:0-rel

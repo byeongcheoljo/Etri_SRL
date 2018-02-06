@@ -1,0 +1,2 @@
+etri#doc_3190.txt 5 설명하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3190.txt 14 설명하다 ----- 1:1-ARG0(AGT) 5:3-ARGM-PRP() 13:4-ARG1(THM) 14:0-rel

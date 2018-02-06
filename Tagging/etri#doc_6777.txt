@@ -1,0 +1,4 @@
+etri#doc_6777.txt 4 속하다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_6777.txt 18 들다 ----- 5:4-ARGM-LOC(LOC) 12:7-ARGM-LOC(LOC) 17:5-ARG1(THM) 18:0-rel
+etri#doc_6777.txt 25 전승되다 ----- 23:3-ARGM-LOC(LOC) 24:1-ARGM-TMP() 25:0-rel
+etri#doc_6777.txt 27 즐기다 ----- 26:1-ARG0(AGT) 27:0-rel

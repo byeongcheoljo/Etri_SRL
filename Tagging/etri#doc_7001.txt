@@ -1,0 +1,5 @@
+etri#doc_7001.txt 11 상실하다 ----- 8:2-ARG0(EXP) 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7001.txt 12 지적하다 ----- 11:2-ARG1() 12:0-rel
+etri#doc_7001.txt 17 고갈되다 ----- 17:0-rel
+etri#doc_7001.txt 18 쇠진하다 ----- 16:4-ARGM-DIS() 17:1-ARGM-DIS() 18:0-rel
+etri#doc_7001.txt 20 시사하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-LOC() 3:1-ARG0(AGT) 12:3-ARGM-DIS() 18:2-ARG1(THM) 19:1-ARGM-MNR(INS) 20:0-rel

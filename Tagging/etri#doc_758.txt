@@ -1,0 +1,3 @@
+etri#doc_758.txt 3 지나다 ----- 1:1-ARGM-TMP() 2:1-ARG0(CRT) 3:0-rel
+etri#doc_758.txt 15 되다 ----- 10:2-ARGM-CAU() 11:1-ARGM-MNR() 14:3-ARG2(FNS) 15:0-rel
+etri#doc_758.txt 16 하다 ----- 15:4-ARG2() 16:0-rel

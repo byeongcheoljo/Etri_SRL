@@ -1,0 +1,6 @@
+etri#doc_1369.txt 5 희생시키다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_1369.txt 12 믿다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1369.txt 13 의지하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_1369.txt 16 부르다 ----- 6:5-ARG1(AGT) 10:4-ARGM-TMP(LOC) 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_1369.txt 19 나타나다 ----- 19:0-rel
+etri#doc_1369.txt 20 구하다 ----- 16:3-ARGM-CND() 17:1-ARGM-DIS() 18:1-ARG0(AGT) 19:1-ARGM-DIS() 20:0-rel

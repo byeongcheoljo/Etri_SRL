@@ -1,0 +1,2 @@
+etri#doc_8442.txt 4 ¹úÀÌ´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(SRC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8442.txt 9 °Þ´Ù ----- 5:3-ARG0(EXP) 7:2-ARGM-CAU(EFF) 8:1-ARG1(THM) 9:0-rel

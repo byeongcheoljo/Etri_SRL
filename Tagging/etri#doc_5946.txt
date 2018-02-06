@@ -1,0 +1,4 @@
+etri#doc_5946.txt 7 절대화시키다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_5946.txt 11 끌어내다 ----- 7:5-ARGM-DIS() 8:1-ARG2(SRC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_5946.txt 12 시도되다 ----- 11:3-ARGM-PRP() 12:0-rel
+etri#doc_5946.txt 20 해당되다 ----- 15:3-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARG2(CRT) 20:0-rel

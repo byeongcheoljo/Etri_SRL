@@ -1,0 +1,5 @@
+etri#doc_5225.txt 7 끌려가다 ----- 4:3-ARGM-TMP() 5:1-ARGM-DIS() 6:1-ARG3(GOL) 7:0-rel
+etri#doc_5225.txt 10 합치다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5225.txt 12 이르다 ----- 8:3-ARG1(THM) 10:2-ARGM-DIS() 11:1-ARG3(FNS) 12:0-rel
+etri#doc_5225.txt 13 발표하다 ----- 1:1-ARG0(AGT) 12:2-ARG1() 13:0-rel
+etri#doc_5225.txt 20 당하다 ----- 13:3-ARGM-DIS() 14:1-ARGM-MNR(INS) 18:3-ARG1(EXP) 19:1-ARG2(Npr) 20:0-rel

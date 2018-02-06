@@ -1,0 +1,5 @@
+etri#doc_5127.txt 4 따르다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5127.txt 9 반복하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 7:2-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5127.txt 13 생기다 ----- 10:1-ARG2(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5127.txt 15 넘치다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_5127.txt 17 바뀌다 ----- 9:2-ARGM-CND() 13:3-ARGM-DIS() 16:3-ARGM-LOC(FNS) 17:0-rel

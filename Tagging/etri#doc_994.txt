@@ -1,0 +1,5 @@
+etri#doc_994.txt 3 하다 ----- 2:2-ARGM-INS(INS) 3:0-rel
+etri#doc_994.txt 5 들다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_994.txt 9 갈기다 ----- 5:2-ARGM-MNR() 8:3-ARG1(THM) 9:0-rel
+etri#doc_994.txt 17 흘리다 ----- 13:2-ARGM-CAU() 15:2-ARG1(THM) 16:1-ARG2(DIR) 17:0-rel
+etri#doc_994.txt 18 듣다 ----- 11:2-ARGM-DIS() 17:2-ARGM-MNR() 18:0-rel

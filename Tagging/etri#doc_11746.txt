@@ -1,0 +1,1 @@
+etri#doc_11746.txt 15 ½É´Ù ----- 13:2-ARG1(THM) 14:1-ARG2(GOL) 15:0-rel

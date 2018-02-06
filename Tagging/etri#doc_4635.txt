@@ -1,0 +1,5 @@
+etri#doc_4635.txt 4 합성하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4635.txt 8 기울이다 ----- 1:1-ARGM-DIS(FNS) 2:1-ARG0(AGT) 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_4635.txt 10 되다 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4635.txt 13 하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4635.txt 16 줄어들다 ----- 8:3-ARGM-DIS() 10:2-ARGM-CND() 11:1-ARGM-MNR(INS) 14:3-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

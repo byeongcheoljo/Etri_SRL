@@ -1,0 +1,5 @@
+etri#doc_963.txt 2 다스리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_963.txt 6 하다 ----- 3:3-ARG0(COM) 4:1-ARGM-MNR(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_963.txt 15 멎다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_963.txt 17 감금하다 ----- 16:1-ARG2(LOC) 17:0-rel
+etri#doc_963.txt 19 강요받다 ----- 8:2-ARG0(AGT) 13:3-ARGM-DIS() 15:2-ARGM-TMP() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8591.txt 3 틀다 ----- 3:0-rel
+etri#doc_8591.txt 4 잡다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_8591.txt 8 떨다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_8591.txt 12 확보하다 ----- 12:0-rel
+etri#doc_8591.txt 17 구사하다 ----- 10:2-ARG0(AGT) 16:4-ARG1(THM) 17:0-rel

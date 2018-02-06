@@ -1,0 +1,4 @@
+etri#doc_1837.txt 2 살다 ----- 1:1-ARGM-MNR(DIR) 2:0-rel
+etri#doc_1837.txt 4 살다 ----- 2:2-ARGM-DIS(CNT) 3:1-ARGM-MNR(CNT) 4:0-rel
+etri#doc_1837.txt 11 알다 ----- 6:2-ARGM-DIS(FNS) 7:1-ARGM-DIS(DIR) 9:2-ARG1(THM) 10:1-ARGM-MNR(CNT) 11:0-rel
+etri#doc_1837.txt 14 들다 ----- 13:2-ARG0() 14:0-rel

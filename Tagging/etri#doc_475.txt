@@ -1,0 +1,4 @@
+etri#doc_475.txt 3 대면하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_475.txt 12 예속되다 ----- 11:2-ARG2(GOL) 12:0-rel
+etri#doc_475.txt 13 독립되다 ----- 13:0-rel
+etri#doc_475.txt 19 엮다 ----- 18:2-ARG0(AGT) 19:0-rel

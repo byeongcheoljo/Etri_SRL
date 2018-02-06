@@ -1,0 +1,7 @@
+etri#doc_9007.txt 4 굴복하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_9007.txt 5 하다 ----- 5:0-rel
+etri#doc_9007.txt 8 하다 ----- 6:2-ARG1(THM) 7:1-ARGM-NEG() 8:0-rel
+etri#doc_9007.txt 9 하다 ----- 9:0-rel
+etri#doc_9007.txt 11 하다 ----- 1:1-ARGM-DIS() 4:3-ARGM-MNR() 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_9007.txt 17 죽이다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_9007.txt 19 되다 ----- 11:3-ARGM-CND() 13:2-ARG1(THM) 15:2-ARGM-TMP(SRC) 18:3-ARG2(FNS) 19:0-rel

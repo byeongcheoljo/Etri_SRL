@@ -1,0 +1,2 @@
+etri#doc_3537.txt 11 결말짓다 ----- 1:1-ARGM-DIS() 6:3-ARG1(THM) 10:4-ARGM-EXT(CRT) 11:0-rel
+etri#doc_3537.txt 15 치중하다 ----- 11:5-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARGM-LOC(GOL) 14:1-ARGM-EXT() 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5038.txt 2 내뿜다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5038.txt 3 춤추다 ----- 3:0-rel
+etri#doc_5038.txt 4 퍼지다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5038.txt 9 올라가다 ----- 2:2-ARGM-TMP() 7:2-ARG0(THM) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_5038.txt 15 오다 ----- 14:2-ARG2(SRC) 15:0-rel
+etri#doc_5038.txt 17 들여다보다 ----- 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-MNR() 16:4-ARG1(THM) 17:0-rel

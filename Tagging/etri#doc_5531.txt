@@ -1,0 +1,3 @@
+etri#doc_5531.txt 6 제약되다 ----- 3:2-ARG1(THM) 5:2-ARGM-MNR(EFF) 6:0-rel
+etri#doc_5531.txt 10 갖다 ----- 9:2-ARG0(AGT) 10:0-rel
+etri#doc_5531.txt 18 작용하다 ----- 6:3-ARGM-CND() 12:2-ARG1(THM) 14:2-ARGM-DIS() 16:2-ARGM-LOC(SRC) 17:1-ARGM-MNR(INS) 18:0-rel

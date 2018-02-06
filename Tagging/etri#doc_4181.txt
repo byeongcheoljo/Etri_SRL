@@ -1,0 +1,5 @@
+etri#doc_4181.txt 5 발표하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4181.txt 13 침해하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_4181.txt 16 하다 ----- 15:5-ARG1(CNT) 16:0-rel
+etri#doc_4181.txt 18 대처하다 ----- 17:1-ARG1(LOC) 18:0-rel
+etri#doc_4181.txt 20 보이다 ----- 1:1-ARGM-ADV() 3:2-ARG0(AGT) 5:2-ARGM-DIS() 16:6-ARGM-DIS() 19:3-ARG1(THM) 20:0-rel

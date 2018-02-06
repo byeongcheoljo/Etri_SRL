@@ -1,0 +1,5 @@
+etri#doc_1398.txt 7 들어오다 ----- 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_1398.txt 8 지나다 ----- 8:0-rel
+etri#doc_1398.txt 11 겪다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_1398.txt 14 되다 ----- 13:6-ARGM-DIS() 14:0-rel
+etri#doc_1398.txt 17 들어가다 ----- 5:4-ARG0(THM) 7:2-ARGM-DIS() 16:2-ARG3(GOL) 17:0-rel

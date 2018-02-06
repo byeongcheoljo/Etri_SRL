@@ -1,0 +1,6 @@
+etri#doc_6809.txt 5 간여하다 ----- 4:1-ARG1(LOC) 5:0-rel
+etri#doc_6809.txt 6 물러나다 ----- 2:1-ARGM-TMP() 3:1-ARGM-TMP() 5:2-ARGM-DIS() 6:0-rel
+etri#doc_6809.txt 11 꾸미다 ----- 7:1-ARG0(AGT) 9:2-ARGM-PRP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6809.txt 13 접하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_6809.txt 15 몰아내다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_6809.txt 18 업다 ----- 1:1-ARG0(AGT) 6:3-ARGM-DIS() 13:4-ARGM-DIS() 15:2-ARGM-PRP() 16:1-ARG1(THM) 17:1-ARG2(LOC) 18:0-rel

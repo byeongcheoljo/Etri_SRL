@@ -1,0 +1,3 @@
+etri#doc_11618.txt 11 여기다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_11618.txt 17 하다 ----- 15:2-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel
+etri#doc_11618.txt 19 회피하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 11:4-ARGM-DIS() 12:1-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

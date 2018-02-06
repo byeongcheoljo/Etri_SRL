@@ -1,0 +1,8 @@
+etri#doc_9058.txt 3 생각하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_9058.txt 5 시키다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_9058.txt 6 말하다 ----- 6:0-rel
+etri#doc_9058.txt 9 알다 ----- 6:1-ARGM-CND() 7:1-ARG0(MAG) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_9058.txt 11 않다 ----- 9:2-ARGM-DIS() 10:1-ARG1() 11:0-rel
+etri#doc_9058.txt 12 시키다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_9058.txt 15 거행하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_9058.txt 18 알다 ----- 12:3-ARGM-MNR() 16:4-ARG0(MAG) 17:1-ARG1(THM) 18:0-rel

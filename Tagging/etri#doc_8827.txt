@@ -1,0 +1,5 @@
+etri#doc_8827.txt 1 날다 ----- 1:0-rel
+etri#doc_8827.txt 4 내려다보다 ----- 3:3-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8827.txt 6 추정되다 ----- 4:4-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8827.txt 11 보이다 ----- 11:0-rel
+etri#doc_8827.txt 14 추정하다 ----- 6:2-ARGM-CND() 7:1-ARG0(MAG) 10:3-ARGM-MNR(FNS) 13:3-ARG1(THM) 14:0-rel

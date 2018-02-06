@@ -1,0 +1,4 @@
+etri#doc_3259.txt 6 추진하다 ----- 4:2-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_3259.txt 7 이룩하다 ----- 6:2-ARGM-MNR() 7:0-rel
+etri#doc_3259.txt 14 추진하다 ----- 12:3-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3259.txt 15 얻다 ----- 14:2-ARGM-MNR() 15:0-rel

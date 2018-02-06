@@ -1,0 +1,3 @@
+etri#doc_6823.txt 6 받다 ----- 2:2-ARG0(GOL) 3:1-ARG2(AGT) 4:1-ARGM-INS(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_6823.txt 8 대항하다 ----- 7:1-ARG1(GOL) 8:0-rel
+etri#doc_6823.txt 14 지켜보다 ----- 6:2-ARGM-DIS() 12:4-ARG1(THM) 13:1-ARGM-TMP(LOC) 14:0-rel

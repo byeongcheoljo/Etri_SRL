@@ -1,0 +1,2 @@
+etri#doc_2532.txt 5 넘다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_2532.txt 15 변신하다 ----- 11:2-ARG0(AGT) 14:3-ARGM-LOC(LOC) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3029.txt 10 처리되다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_3029.txt 12 전술하다 ----- 12:0-rel
+etri#doc_3029.txt 18 의미하다 ----- 1:1-ARGM-LOC(LOC) 11:5-ARGM-DIS() 14:3-ARG1(EFF) 17:2-ARG2(THM) 18:0-rel

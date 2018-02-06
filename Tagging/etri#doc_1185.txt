@@ -1,0 +1,1 @@
+etri#doc_1185.txt 16 거론되다 ----- 11:4-ARG1() 13:2-ARGM-EXT() 14:1-ARGM-LOC(LOC) 15:1-ARGM-MNR(FNS) 16:0-rel

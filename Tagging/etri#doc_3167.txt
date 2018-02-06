@@ -1,0 +1,3 @@
+etri#doc_3167.txt 7 하다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_3167.txt 15 말하다 ----- 11:1-ARGM-MNR() 12:1-() 14:2-ARG1() 15:0-rel
+etri#doc_3167.txt 22 지나다 ----- 10:5-ARGM-DIS() 16:4-ARGM-EXT() 19:3-ARG1(THM) 21:2-ARG2(CRT) 22:0-rel

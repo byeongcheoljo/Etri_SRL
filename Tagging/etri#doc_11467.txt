@@ -1,0 +1,2 @@
+etri#doc_11467.txt 7 빠지다 ----- 2:1-ARGM-CND(EFF) 5:3-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_11467.txt 13 말하다 ----- 7:2-ARGM-DIS() 8:1-ARG0(EFF) 12:4-ARG1(THM) 13:0-rel

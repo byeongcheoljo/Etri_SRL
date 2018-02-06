@@ -1,0 +1,4 @@
+etri#doc_4549.txt 6 좋아하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_4549.txt 8 만들다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 7:3-ARG2(FNS) 8:0-rel
+etri#doc_4549.txt 13 보이다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_4549.txt 19 키우다 ----- 15:6-ARGM-DIS() 16:1-ARG0(AGT) 18:2-ARG2(FNS) 19:0-rel

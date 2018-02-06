@@ -1,0 +1,4 @@
+etri#doc_11813.txt 1 거론하다 ----- 1:0-rel
+etri#doc_11813.txt 5 주장하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11813.txt 9 안기다 ----- 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:1-ARG0(AGT) 9:0-rel
+etri#doc_11813.txt 15 삼다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 5:3-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel

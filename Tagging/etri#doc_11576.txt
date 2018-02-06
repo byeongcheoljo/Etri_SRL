@@ -1,0 +1,2 @@
+etri#doc_11576.txt 7 규명하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11576.txt 12 앞서다 ----- 4:4-ARG0(THM) 7:3-ARGM-DIS() 9:2-ARGM-CND(EFF) 11:2-ARGM-EXT(CRT) 12:0-rel

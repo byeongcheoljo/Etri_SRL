@@ -1,0 +1,4 @@
+etri#doc_11629.txt 4 달성되다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_11629.txt 8 가지다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_11629.txt 16 달성하다 ----- 10:2-ARG0(AGT) 11:1-ARGM-DIS() 13:2-ARGM-EXT(CRT) 14:1-ARGM-EXT() 15:1-ARG1(THM) 16:0-rel
+etri#doc_11629.txt 18 밝히다 ----- 5:3-ARG0(AGT) 17:3-ARG1(THM) 18:0-rel

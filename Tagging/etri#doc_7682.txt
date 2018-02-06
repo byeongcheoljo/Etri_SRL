@@ -1,0 +1,2 @@
+etri#doc_7682.txt 8 방해하다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_7682.txt 19 자아내다 ----- 17:4-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

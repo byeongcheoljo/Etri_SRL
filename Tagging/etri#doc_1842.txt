@@ -1,0 +1,4 @@
+etri#doc_1842.txt 8 두다 ----- 2:1-ARG0(AGT) 5:3-ARG1(THM) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_1842.txt 11 가지다 ----- 9:1-ARG2(COM) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1842.txt 14 개입하다 ----- 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1842.txt 18 부여하다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARGM-PRD(AGT) 17:1-ARG1(THM) 18:0-rel

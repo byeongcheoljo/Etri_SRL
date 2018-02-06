@@ -1,0 +1,3 @@
+etri#doc_1686.txt 3 불다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1686.txt 10 여행하다 ----- 9:2-ARG1(LOC) 10:0-rel
+etri#doc_1686.txt 19 들리다 ----- 3:3-ARGM-DIS() 17:2-ARG0(THM) 18:1-ARGM-LOC(LOC) 19:0-rel

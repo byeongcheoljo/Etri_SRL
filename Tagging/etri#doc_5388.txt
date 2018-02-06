@@ -1,0 +1,4 @@
+etri#doc_5388.txt 7 쓰다 ----- 3:1-ARG0(AGT) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_5388.txt 11 따지다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_5388.txt 14 놓다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARG1() 14:0-rel
+etri#doc_5388.txt 16 저지르다 ----- 15:3-ARG1(THM) 16:0-rel

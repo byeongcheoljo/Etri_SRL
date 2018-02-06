@@ -1,0 +1,6 @@
+etri#doc_8325.txt 6 흐르다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8325.txt 13 누르다 ----- 13:0-rel
+etri#doc_8325.txt 14 주무르다 ----- 12:4-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_8325.txt 16 돕다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_8325.txt 19 덜다 ----- 14:2-ARGM-MNR() 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel
+etri#doc_8325.txt 22 말하다 ----- 2:2-ARG0(AGT) 21:5-ARG1(CNT) 22:0-rel

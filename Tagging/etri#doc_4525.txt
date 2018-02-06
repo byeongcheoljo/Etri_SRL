@@ -1,0 +1,4 @@
+etri#doc_4525.txt 10 입증하다 ----- 8:3-ARGM-DIS(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4525.txt 14 고소되다 ----- 13:1-ARG3(INS) 14:0-rel
+etri#doc_4525.txt 16 보호하다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_4525.txt 18 여기다 ----- 5:3-ARG0(MAG) 17:5-ARGM-DIS() 18:0-rel

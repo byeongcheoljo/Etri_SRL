@@ -1,0 +1,4 @@
+etri#doc_4348.txt 2 거론되다 ----- 1:1-ARGM-TMP(SRC) 2:0-rel
+etri#doc_4348.txt 8 표면화되다 ----- 4:2-ARG1(THM) 7:2-ARGM-INS(INS) 8:0-rel
+etri#doc_4348.txt 11 같이하다 ----- 9:4-ARG2(COM) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4348.txt 13 퇴조하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

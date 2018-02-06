@@ -1,0 +1,9 @@
+etri#doc_1238.txt 1 달아나다 ----- 1:0-rel
+etri#doc_1238.txt 4 사로잡다 ----- 2:2-ARGM-CND(EFF) 3:1-ARGM-INS(INS) 4:0-rel
+etri#doc_1238.txt 5 되다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_1238.txt 6 헤엄치다 ----- 6:0-rel
+etri#doc_1238.txt 9 잡다 ----- 7:2-ARGM-CND(EFF) 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_1238.txt 10 되다 ----- 5:3-ARGM-DIS() 9:2-ARGM-CND() 10:0-rel
+etri#doc_1238.txt 11 날아오르다 ----- 11:0-rel
+etri#doc_1238.txt 14 달리다 ----- 13:1-ARGM-DIS() 14:0-rel
+etri#doc_1238.txt 16 잡다 ----- 12:2-ARGM-CND(EFF) 15:3-ARGM-INS(INS) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_9414.txt 3 해당되다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_9414.txt 9 해당되다 ----- 8:1-ARGM-TMP(LOC) 9:0-rel
+etri#doc_9414.txt 14 해당되다 ----- 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_9414.txt 17 해당되다 ----- 16:1-ARGM-TMP(LOC) 17:0-rel
+etri#doc_9414.txt 22 정해지다 ----- 1:1-ARGM-DIS() 12:2-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARGM-ADV() 20:1-ARGM-EXT() 21:1-ARGM-MNR() 22:0-rel

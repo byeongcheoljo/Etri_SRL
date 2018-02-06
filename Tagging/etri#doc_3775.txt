@@ -1,0 +1,2 @@
+etri#doc_3775.txt 10 ∏€µÈ¥Ÿ ----- 6:2-ARGM-DIS() 8:2-ARG0(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_3775.txt 11 ¿Ø≥‰«œ¥Ÿ ----- 10:2-ARGM-LOC() 11:0-rel

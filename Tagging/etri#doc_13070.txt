@@ -1,0 +1,5 @@
+etri#doc_13070.txt 3 폐지되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_13070.txt 8 기록하다 ----- 5:2-ARGM-TMP() 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_13070.txt 10 잇다 ----- 9:3-ARG1() 10:0-rel
+etri#doc_13070.txt 19 제외하다 ----- 18:3-ARG1(THM) 19:0-rel
+etri#doc_13070.txt 22 넘어서다 ----- 1:1-ARG0(AGT) 10:4-ARGM-DIS() 19:4-ARG1() 20:1-ARGM-TMP() 21:1-ARG2(CRT) 22:0-rel

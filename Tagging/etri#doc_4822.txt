@@ -1,0 +1,2 @@
+etri#doc_4822.txt 10 지나다 ----- 9:1-ARG0(CRT) 10:0-rel
+etri#doc_4822.txt 18 느끼다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

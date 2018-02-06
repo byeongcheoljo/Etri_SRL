@@ -1,0 +1,5 @@
+etri#doc_4036.txt 3 떠나다 ----- 1:1-ARGM-TMP() 2:1-ARG1(LOC) 3:0-rel
+etri#doc_4036.txt 6 살다 ----- 5:1-ARG2(LOC) 6:0-rel
+etri#doc_4036.txt 8 돌아가시다 ----- 8:0-rel
+etri#doc_4036.txt 12 돌아오다 ----- 3:2-ARGM-DIS() 11:3-ARG3(GOL) 12:0-rel
+etri#doc_4036.txt 16 되다 ----- 12:4-ARGM-CND() 14:2-ARG1(THM) 15:1-ARG2(FNS) 16:0-rel

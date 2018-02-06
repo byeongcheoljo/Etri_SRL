@@ -1,0 +1,5 @@
+etri#doc_6704.txt 2 나서다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_6704.txt 6 향상시키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6704.txt 8 부응하다 ----- 7:1-ARG1(GOL) 8:0-rel
+etri#doc_6704.txt 10 만들다 ----- 2:2-ARGM-DIS() 4:2-ARGM-MNR(INS) 6:2-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel
+etri#doc_6704.txt 17 떨치다 ----- 13:7-ARGM-CND() 15:2-ARG1(THM) 16:1-ARGM-TMP(LOC) 17:0-rel

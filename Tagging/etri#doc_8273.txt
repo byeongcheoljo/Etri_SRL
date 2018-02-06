@@ -1,0 +1,4 @@
+etri#doc_8273.txt 2 받다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8273.txt 6 찾아내다 ----- 3:3-ARG1(THM) 5:2-ARGM-MNR(FNS) 6:0-rel
+etri#doc_8273.txt 17 만나다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel
+etri#doc_8273.txt 18 하다 ----- 8:5-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel

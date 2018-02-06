@@ -1,0 +1,3 @@
+etri#doc_5702.txt 7 작곡하다 ----- 6:5-ARG1(THM) 7:0-rel
+etri#doc_5702.txt 14 어우러지다 ----- 13:2-ARGM-MNR(COM) 14:0-rel
+etri#doc_5702.txt 17 전하다 ----- 10:2-ARG0(AGT) 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

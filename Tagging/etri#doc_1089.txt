@@ -1,0 +1,4 @@
+etri#doc_1089.txt 5 일어나다 ----- 2:1-ARG1(THM) 4:2-ARGM-MNR() 5:0-rel
+etri#doc_1089.txt 8 늘어나다 ----- 5:3-ARGM-CND() 7:2-ARG1(THM) 8:0-rel
+etri#doc_1089.txt 15 빠져나가다 ----- 10:2-ARGM-CND() 13:3-ARG0(EFF) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_1089.txt 18 줄어들다 ----- 1:1-ARGM-DIS() 8:3-ARGM-DIS() 15:2-ARGM-MNR() 17:2-ARG1(THM) 18:0-rel

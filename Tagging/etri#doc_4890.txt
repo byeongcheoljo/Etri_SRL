@@ -1,0 +1,5 @@
+etri#doc_4890.txt 6 여겨지다 ----- 2:2-ARG1() 3:1-ARGM-DIS() 5:2-ARG1() 6:0-rel
+etri#doc_4890.txt 16 고립되다 ----- 16:0-rel
+etri#doc_4890.txt 18 고립하다 ----- 17:1-ARGM-DIS() 18:0-rel
+etri#doc_4890.txt 20 구성되다 ----- 19:3-ARG2(INS) 20:0-rel
+etri#doc_4890.txt 21 간주되다 ----- 7:4-ARGM-DIS() 8:1-ARG0(THM) 20:4-ARG1() 21:0-rel

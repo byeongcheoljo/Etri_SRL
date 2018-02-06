@@ -1,0 +1,5 @@
+etri#doc_7313.txt 2 열다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7313.txt 5 추대하다 ----- 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_7313.txt 9 결의하다 ----- 2:2-ARGM-DIS() 6:3-ARG1(THM) 8:2-ARG1(FNS) 9:0-rel
+etri#doc_7313.txt 11 맞이하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7313.txt 16 다짐하다 ----- 9:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

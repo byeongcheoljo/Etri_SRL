@@ -1,0 +1,4 @@
+etri#doc_8522.txt 2 말하다 ----- 2:0-rel
+etri#doc_8522.txt 5 보다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_8522.txt 14 즐기다 ----- 5:2-ARGM-TMP() 12:3-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_8522.txt 17 이해하다 ----- 16:2-ARG1(THM) 17:0-rel

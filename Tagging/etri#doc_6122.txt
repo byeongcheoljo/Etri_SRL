@@ -1,0 +1,8 @@
+etri#doc_6122.txt 2 처분하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_6122.txt 4 드리다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_6122.txt 7 말씀드리다 ----- 4:2-ARGM-DIS() 5:1-ARG2(GOL) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_6122.txt 9 말다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_6122.txt 12 하다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6122.txt 13 하다 ----- 12:2-ARG1(CNT) 13:0-rel
+etri#doc_6122.txt 15 빼다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_6122.txt 18 따르다 ----- 13:3-ARGM-DIS() 16:3-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

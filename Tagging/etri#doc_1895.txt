@@ -1,0 +1,4 @@
+etri#doc_1895.txt 6 봉하다 ----- 2:2-ARG0(AGT) 3:1-ARG1(THM) 5:2-ARGM-MNR(FNS) 6:0-rel
+etri#doc_1895.txt 9 옮기다 ----- 7:1-ARG0(AGT) 8:1-ARGM-LOC(DIR) 9:0-rel
+etri#doc_1895.txt 12 돌아오다 ----- 9:2-ARGM-DIS() 10:1-ARGM-MNR() 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_1895.txt 14 되다 ----- 6:3-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(FNS) 14:0-rel

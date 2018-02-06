@@ -1,0 +1,3 @@
+etri#doc_4260.txt 14 경멸하다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_4260.txt 17 하다 ----- 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel
+etri#doc_4260.txt 21 가르치다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 4:2-ARGM-ADV(CNT) 14:5-ARGM-DIS() 18:3-ARGM-DIS() 20:2-ARG2(GOL) 21:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7165.txt 8 받다 ----- 2:2-ARGM-TMP() 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7165.txt 10 보다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_7165.txt 19 하다 ----- 18:2-ARGM-TMP() 19:0-rel
+etri#doc_7165.txt 21 물러나다 ----- 16:2-ARGM-MNR() 19:3-ARGM-DIS() 20:1-ARGM-DIS() 21:0-rel

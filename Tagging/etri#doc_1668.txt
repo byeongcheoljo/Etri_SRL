@@ -1,0 +1,4 @@
+etri#doc_1668.txt 11 못하다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 10:2-ARGM-MNR() 11:0-rel
+etri#doc_1668.txt 13 닥치다 ----- 12:1-ARG2(GOL) 13:0-rel
+etri#doc_1668.txt 15 비상하다 ----- 15:0-rel
+etri#doc_1668.txt 20 알다 ----- 18:4-ARG1(THM) 19:1-ARG0(MAG) 20:0-rel

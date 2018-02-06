@@ -1,0 +1,5 @@
+etri#doc_8858.txt 3 살펴보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8858.txt 7 두다 ----- 5:2-ARG1(THM) 6:1-ARG2(LOC) 7:0-rel
+etri#doc_8858.txt 10 나누다 ----- 3:3-ARGM-TMP() 7:2-ARGM-DIS() 9:2-ARG2(FNS) 10:0-rel
+etri#doc_8858.txt 12 기록되다 ----- 11:1-ARGM-MNR(FNS) 12:0-rel
+etri#doc_8858.txt 16 시작하다 ----- 10:3-ARGM-CND() 14:2-ARG0(AGT) 15:1-ARGM-LOC(SRC) 16:0-rel

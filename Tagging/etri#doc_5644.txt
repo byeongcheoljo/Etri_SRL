@@ -1,0 +1,2 @@
+etri#doc_5644.txt 12 ¸Ô´Ù ----- 12:0-rel
+etri#doc_5644.txt 13 ÀÚ´Ù ----- 11:1-ARGM-MNR() 12:1-ARGM-DIS() 13:0-rel

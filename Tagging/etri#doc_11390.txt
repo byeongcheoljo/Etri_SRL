@@ -1,0 +1,2 @@
+etri#doc_11390.txt 7 발견되다 ----- 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 6:2-ARGM-TMP(LOC) 7:0-rel
+etri#doc_11390.txt 9 주장하다 ----- 8:1-ARG0(AGT) 9:0-rel

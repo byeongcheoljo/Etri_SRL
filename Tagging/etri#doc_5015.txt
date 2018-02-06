@@ -1,0 +1,4 @@
+etri#doc_5015.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_5015.txt 13 섞이다 ----- 13:0-rel
+etri#doc_5015.txt 14 지내다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_5015.txt 16 만들다 ----- 9:1-ARG0(AGT) 11:2-ARGM-MNR() 15:3-ARG1(THM) 16:0-rel

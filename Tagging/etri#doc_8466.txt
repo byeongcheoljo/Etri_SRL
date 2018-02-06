@@ -1,0 +1,4 @@
+etri#doc_8466.txt 7 피하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_8466.txt 10 도용하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_8466.txt 12 입원시키다 ----- 10:3-ARGM-DIS() 11:1-ARG2(GOL) 12:0-rel
+etri#doc_8466.txt 14 쓰다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 3:1-ARGM-EXT() 7:4-ARGM-PRP() 13:3-ARG1(THM) 14:0-rel

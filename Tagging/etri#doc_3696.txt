@@ -1,0 +1,6 @@
+etri#doc_3696.txt 5 가지다 ----- 1:1-ARGM-TMP() 2:1-ARGM-MNR(COM) 3:1-ARG3(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3696.txt 8 빠지다 ----- 7:1-ARG2(GOL) 8:0-rel
+etri#doc_3696.txt 9 나오다 ----- 9:0-rel
+etri#doc_3696.txt 10 들어가다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_3696.txt 12 움직이다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3696.txt 14 서다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARGM-CAU() 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:0-rel

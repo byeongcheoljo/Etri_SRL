@@ -1,0 +1,4 @@
+etri#doc_1800.txt 4 가지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1800.txt 10 하다 ----- 4:3-ARGM-DIS() 9:4-ARG1(THM) 10:0-rel
+etri#doc_1800.txt 15 하다 ----- 12:1-ARGM-DIS() 13:1-ARG0(THM) 14:1-ARG3(GOL) 15:0-rel
+etri#doc_1800.txt 21 되다 ----- 1:1-ARGM-DIS() 11:6-ARG0(THM) 20:5-ARG1(FNS) 21:0-rel

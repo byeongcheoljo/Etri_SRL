@@ -1,0 +1,4 @@
+etri#doc_566.txt 5 구체화시키다 ----- 2:1-ARG1(THM) 4:2-ARGM-EXT() 5:0-rel
+etri#doc_566.txt 8 나타나다 ----- 6:1-ARG2(LOC) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_566.txt 11 지양하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_566.txt 13 높이다 ----- 11:3-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11754.txt 6 하다 ----- 2:2-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_11754.txt 13 좋아하다 ----- 10:1-ARG0(MAG) 12:2-ARG1() 13:0-rel
+etri#doc_11754.txt 18 하다 ----- 14:4-ARG0(AGT) 16:2-ARG1(THM) 17:1-ARGM-MNR(INS) 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6061.txt 7 걸리다 ----- 4:3-ARGM-CAU(EFF) 5:1-ARGM-EXT(CRT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_6061.txt 10 못하다 ----- 7:2-ARGM-CAU() 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6061.txt 12 보내다 ----- 1:1-ARGM-TMP() 10:2-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel

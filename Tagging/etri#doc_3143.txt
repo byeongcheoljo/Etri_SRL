@@ -1,0 +1,5 @@
+etri#doc_3143.txt 1 메모하다 ----- 1:0-rel
+etri#doc_3143.txt 8 남다 ----- 5:2-ARG1(THM) 6:1-ARG2(LOC) 7:1-ARGM-TMP() 8:0-rel
+etri#doc_3143.txt 9 못하다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_3143.txt 11 남다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3143.txt 15 되다 ----- 12:1-ARGM-EXT() 14:2-ARG2(FNS) 15:0-rel

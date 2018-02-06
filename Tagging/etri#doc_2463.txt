@@ -1,0 +1,3 @@
+etri#doc_2463.txt 3 유도하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2463.txt 5 말하다 ----- 5:0-rel
+etri#doc_2463.txt 13 강조하다 ----- 12:6-ARG1(THM) 13:0-rel

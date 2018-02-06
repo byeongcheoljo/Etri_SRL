@@ -1,0 +1,3 @@
+etri#doc_6342.txt 3 죽다 ----- 3:0-rel
+etri#doc_6342.txt 6 만나다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG0(AGT) 5:3-ARGM-MNR(COM) 6:0-rel
+etri#doc_6342.txt 14 끌어들이다 ----- 6:4-ARGM-DIS() 9:3-ARGM-CAU(EFF) 11:2-ARG1(THM) 13:2-ARG3(GOL) 14:0-rel

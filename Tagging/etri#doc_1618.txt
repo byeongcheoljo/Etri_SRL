@@ -1,0 +1,2 @@
+etri#doc_1618.txt 13 ½Î´Ù ----- 11:3-ARG1(THM) 12:1-() 13:0-rel
+etri#doc_1618.txt 16 µé´Ù ----- 2:2-ARG0(EFF) 15:4-ARG1(THM) 16:0-rel

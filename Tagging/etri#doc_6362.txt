@@ -1,0 +1,4 @@
+etri#doc_6362.txt 3 비교하다 ----- 2:2-ARG2(COM) 3:0-rel
+etri#doc_6362.txt 5 갖다 ----- 3:3-ARGM-TMP() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_6362.txt 9 얽매이다 ----- 8:2-ARGM-LOC(AGT) 9:0-rel
+etri#doc_6362.txt 15 담다 ----- 9:3-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARG2(GOL) 15:0-rel

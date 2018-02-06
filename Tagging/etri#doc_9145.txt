@@ -1,0 +1,5 @@
+etri#doc_9145.txt 3 빠지다 ----- 2:2-ARG2(GOL) 3:0-rel
+etri#doc_9145.txt 5 않다 ----- 3:3-ARGM-DIS() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_9145.txt 10 존재하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_9145.txt 12 겪다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_9145.txt 15 나가다 ----- 12:5-ARGM-DIS() 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

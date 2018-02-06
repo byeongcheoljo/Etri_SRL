@@ -1,0 +1,3 @@
+etri#doc_259.txt 3 정당화하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_259.txt 8 이행하다 ----- 5:2-ARG2(SRC) 7:2-ARG3(GOL) 8:0-rel
+etri#doc_259.txt 12 의도하다 ----- 3:2-ARGM-DIS() 9:4-ARGM-TMP(SRC) 11:2-ARG1(THM) 12:0-rel

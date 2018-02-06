@@ -1,0 +1,4 @@
+etri#doc_11266.txt 11 밝히다 ----- 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11266.txt 12 하다 ----- 6:3-ARGM-DIS() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_11266.txt 18 예방하다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_11266.txt 22 보다 ----- 12:3-ARGM-DIS() 13:1-ARGM-DIS() 21:3-ARGM-MNR(INS) 22:0-rel

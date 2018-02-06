@@ -1,0 +1,2 @@
+etri#doc_3213.txt 11 사용하다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_3213.txt 15 지속되다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 8:2-ARGM-MNR(INS) 14:3-ARGM-MNR(INS) 15:0-rel

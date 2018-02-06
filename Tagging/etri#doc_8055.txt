@@ -1,0 +1,2 @@
+etri#doc_8055.txt 11 증가되다 ----- 7:3-ARGM-DIS() 8:1-ARG0(THM) 10:2-ARG1(THM) 11:0-rel
+etri#doc_8055.txt 17 줄어들다 ----- 1:1-ARGM-EXT() 3:2-ARGM-CAU(EFF) 11:3-ARGM-CAU() 14:3-ARG1(THM) 15:1-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

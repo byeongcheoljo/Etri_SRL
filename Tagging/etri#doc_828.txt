@@ -1,0 +1,2 @@
+etri#doc_828.txt 3 지내다 ----- 2:1-ARG1() 3:0-rel
+etri#doc_828.txt 15 조화시키다 ----- 8:2-ARGM-DIS() 11:2-ARG1(THM) 14:3-ARGM-DIR(GOL) 15:0-rel

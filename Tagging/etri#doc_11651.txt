@@ -1,0 +1,4 @@
+etri#doc_11651.txt 7 겪다 ----- 6:2-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11651.txt 9 관계되다 ----- 8:1-ARGM-MNR(COM) 9:0-rel
+etri#doc_11651.txt 15 해결하다 ----- 12:3-ARG1(THM) 14:2-ARGM-MNR() 15:0-rel
+etri#doc_11651.txt 17 보이다 ----- 2:2-ARG0(AGT) 16:4-ARGM-MNR(INS) 17:0-rel

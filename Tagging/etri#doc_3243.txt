@@ -1,0 +1,4 @@
+etri#doc_3243.txt 7 도달하다 ----- 6:3-ARG2(LOC) 7:0-rel
+etri#doc_3243.txt 9 나열되다 ----- 8:1-ARGM-DIR(DIR) 9:0-rel
+etri#doc_3243.txt 12 작용하다 ----- 3:1-ARG1(THM) 7:4-ARGM-TMP() 11:4-ARGM-LOC(LOC) 12:0-rel
+etri#doc_3243.txt 13 생각되다 ----- 2:2-ARGM-DIS(CNT) 12:5-ARG1() 13:0-rel

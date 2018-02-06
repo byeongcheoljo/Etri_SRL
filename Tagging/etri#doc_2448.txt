@@ -1,0 +1,3 @@
+etri#doc_2448.txt 8 강조하다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_2448.txt 12 강조하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_2448.txt 19 대응하다 ----- 16:2-ARGM-ADV(EFF) 17:1-ARGM-EXT() 18:1-ARGM-MNR(EFF) 19:0-rel

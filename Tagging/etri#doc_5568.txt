@@ -1,0 +1,5 @@
+etri#doc_5568.txt 4 이용하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_5568.txt 7 들다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_5568.txt 11 습격하다 ----- 11:0-rel
+etri#doc_5568.txt 12 점령하다 ----- 4:3-ARGM-MNR() 7:3-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_5568.txt 14 버티다 ----- 1:1-ARG0(AGT) 12:2-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel

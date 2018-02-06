@@ -1,0 +1,5 @@
+etri#doc_7796.txt 4 결정되다 ----- 2:1-ARG1(THM) 3:1-ARGM-ADV(EFF) 4:0-rel
+etri#doc_7796.txt 8 낮추다 ----- 5:1-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_7796.txt 10 강화시키다 ----- 8:3-ARGM-CND() 9:1-ARG1(THM) 10:0-rel
+etri#doc_7796.txt 13 진정하다 ----- 13:0-rel
+etri#doc_7796.txt 16 보다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 10:2-ARG1() 12:2-ARGM-LOC(LOC) 15:3-ARG2(FNS) 16:0-rel

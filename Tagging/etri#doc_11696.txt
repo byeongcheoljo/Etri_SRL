@@ -1,0 +1,6 @@
+etri#doc_11696.txt 7 돌아보다 ----- 2:2-ARGM-MNR(INS) 4:2-ARG1(LOC) 5:1-ARGM-MNR() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_11696.txt 9 내다 ----- 8:1-ARG1(Npr) 9:0-rel
+etri#doc_11696.txt 10 애쓰다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_11696.txt 13 죽다 ----- 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11696.txt 15 상하다 ----- 15:0-rel
+etri#doc_11696.txt 17 고르다 ----- 7:2-ARGM-TMP() 10:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

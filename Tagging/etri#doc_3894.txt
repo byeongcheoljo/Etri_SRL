@@ -1,0 +1,4 @@
+etri#doc_3894.txt 5 처벌하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3894.txt 7 발효되다 ----- 3:1-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_3894.txt 11 느끼다 ----- 7:4-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3894.txt 15 가담하다 ----- 2:2-ARG0(AGT) 11:2-ARGM-CAU() 12:1-ARGM-EXT() 13:1-ARG1(LOC) 14:1-ARGM-MNR() 15:0-rel

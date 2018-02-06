@@ -1,0 +1,3 @@
+etri#doc_4634.txt 7 오다 ----- 6:1-ARG2(SRC) 7:0-rel
+etri#doc_4634.txt 15 하다 ----- 11:1-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_4634.txt 18 전환시키다 ----- 4:3-ARGM-CAU(EFF) 5:1-ARG0(AGT) 10:3-ARG1(THM) 17:6-ARG3(FNS) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2955.txt 10 충족시키다 ----- 5:3-ARGM-CAU() 9:3-ARG1(THM) 10:0-rel
+etri#doc_2955.txt 11 사다 ----- 10:4-ARGM-DIS() 11:0-rel

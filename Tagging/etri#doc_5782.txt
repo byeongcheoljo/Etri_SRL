@@ -1,0 +1,5 @@
+etri#doc_5782.txt 2 고사하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5782.txt 8 올리다 ----- 5:3-ARGM-TMP(LOC) 6:1-ARG1(Npr) 7:1-ARGM-NEG() 8:0-rel
+etri#doc_5782.txt 11 내다 ----- 8:2-ARGM-CND() 9:1-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_5782.txt 14 올리다 ----- 12:1-ARG1(THM) 13:1-ARGM-NEG() 14:0-rel
+etri#doc_5782.txt 17 내다 ----- 11:2-ARGM-DIS() 14:2-ARGM-CND() 15:1-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel

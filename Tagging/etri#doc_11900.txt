@@ -1,0 +1,3 @@
+etri#doc_11900.txt 5 품다 ----- 4:2-ARG0(AGT) 5:0-rel
+etri#doc_11900.txt 8 탄생하다 ----- 2:2-ARGM-TMP(LOC) 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_11900.txt 12 비교하다 ----- 11:2-ARGM-LOC(LOC) 12:0-rel

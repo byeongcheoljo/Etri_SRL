@@ -1,0 +1,4 @@
+etri#doc_5851.txt 6 가속화되다 ----- 3:2-ARGM-DIS() 5:2-ARGM-MNR() 6:0-rel
+etri#doc_5851.txt 11 노리다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_5851.txt 14 갚다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5851.txt 16 하다 ----- 8:5-ARGM-CAU(EFF) 11:3-ARGM-PRP() 12:1-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,7 @@
+etri#doc_3181.txt 4 일어나다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_3181.txt 7 괴다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3181.txt 9 뜨다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_3181.txt 13 올리다 ----- 9:4-ARGM-DIS() 11:2-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_3181.txt 17 지피다 ----- 4:2-ARGM-DIS() 14:3-ARGM-TMP() 15:1-ARGM-LOC(LOC) 16:1-ARG1(THM) 17:0-rel
+etri#doc_3181.txt 20 들어오다 ----- 17:2-ARGM-DIS() 18:1-ARGM-DIS() 19:1-ARG3(GOL) 20:0-rel
+etri#doc_3181.txt 22 돋우다 ----- 1:1-ARG0(AGT) 20:2-ARGM-DIS() 21:1-ARG1(THM) 22:0-rel

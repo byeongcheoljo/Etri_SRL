@@ -1,0 +1,4 @@
+etri#doc_2628.txt 8 쏘다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_2628.txt 11 다루다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_2628.txt 13 들다 ----- 2:1-ARGM-LOC(LOC) 5:2-ARGM-INS(INS) 12:3-ARG1(THM) 13:0-rel
+etri#doc_2628.txt 17 담기다 ----- 1:1-() 14:5-() 16:2-() 17:0-rel

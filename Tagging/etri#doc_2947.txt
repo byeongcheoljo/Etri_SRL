@@ -1,0 +1,3 @@
+etri#doc_2947.txt 7 만들다 ----- 4:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_2947.txt 12 만들다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_2947.txt 15 사다 ----- 14:2-ARG1(THM) 15:0-rel

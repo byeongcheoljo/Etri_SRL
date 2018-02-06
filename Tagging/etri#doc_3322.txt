@@ -1,0 +1,4 @@
+etri#doc_3322.txt 8 살아오다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_3322.txt 9 살아가다 ----- 9:0-rel
+etri#doc_3322.txt 13 보내다 ----- 8:4-ARGM-DIS() 9:1-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_3322.txt 17 쓰다 ----- 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3010.txt 9 나타나다 ----- 8:5-ARGM-LOC(LOC) 9:0-rel
+etri#doc_3010.txt 11 대응하다 ----- 10:7-ARG1(GOL) 11:0-rel

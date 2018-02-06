@@ -1,0 +1,3 @@
+etri#doc_3338.txt 8 둘러싸다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3338.txt 12 전개되다 ----- 8:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_3338.txt 17 기억하다 ----- 16:4-ARG1(THM) 17:0-rel

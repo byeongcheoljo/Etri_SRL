@@ -1,0 +1,6 @@
+etri#doc_54.txt 7 생각하다 ----- 6:4-ARGM-DIS() 7:0-rel
+etri#doc_54.txt 9 생기다 ----- 7:5-ARGM-ADV() 8:1-ARG0(THM) 9:0-rel
+etri#doc_54.txt 12 생각하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_54.txt 15 피다 ----- 15:0-rel
+etri#doc_54.txt 16 시들다 ----- 15:1-ARGM-TMP() 16:0-rel
+etri#doc_54.txt 21 들다 ----- 9:2-ARGM-NEG() 12:3-ARGM-ADV() 20:4-ARG0(THM) 21:0-rel

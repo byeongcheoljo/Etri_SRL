@@ -1,0 +1,1 @@
+etri#doc_3926.txt 20 Ãß±ÃÇÏ´Ù ----- 16:3-ARGM-LOC(LOC) 17:1-ARG0(AGT) 18:1-ARG1(THM) 19:1-ARGM-MNR(INS) 20:0-rel

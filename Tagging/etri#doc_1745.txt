@@ -1,0 +1,5 @@
+etri#doc_1745.txt 6 부르다 ----- 4:2-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1745.txt 9 보다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1745.txt 12 나다 ----- 10:3-ARGM-ADV(EFF) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1745.txt 15 치솟다 ----- 13:3-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1745.txt 19 돌리다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 18:2-ARG2(GOL) 19:0-rel

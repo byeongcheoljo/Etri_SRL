@@ -1,0 +1,4 @@
+etri#doc_7569.txt 4 가중되다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_7569.txt 11 서두르다 ----- 11:0-rel
+etri#doc_7569.txt 12 안기다 ----- 6:4-ARG0(AGT) 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7569.txt 14 납득하다 ----- 13:3-ARG1(THM) 14:0-rel

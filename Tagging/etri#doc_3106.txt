@@ -1,0 +1,6 @@
+etri#doc_3106.txt 3 접어들다 ----- 2:1-ARG2(THM) 3:0-rel
+etri#doc_3106.txt 6 보이다 ----- 1:1-ARG0(AGT) 3:2-ARGM-CND() 4:1-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3106.txt 10 일으키다 ----- 8:2-ARGM-CND() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3106.txt 15 낳다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_3106.txt 17 되다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP() 16:5-ARG2() 17:0-rel
+etri#doc_3106.txt 18 주의하다 ----- 6:2-ARGM-DIS() 17:6-ARGM-CAU() 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11740.txt 5 내다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11740.txt 6 떨어지다 ----- 2:1-ARG1(THM) 3:1-ARG1(THM) 5:2-ARGM-PRP() 6:0-rel
+etri#doc_11740.txt 16 들어가다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 8:2-ARG0(AGT) 9:1-ARGM-DIS() 14:3-ARGM-PRP(PUR) 15:1-ARG3(GOL) 16:0-rel

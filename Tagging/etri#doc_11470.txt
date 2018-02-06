@@ -1,0 +1,4 @@
+etri#doc_11470.txt 4 도달하다 ----- 2:2-ARG1(AGT) 3:1-ARG2(LOC) 4:0-rel
+etri#doc_11470.txt 7 드러내다 ----- 5:1-ARG0(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_11470.txt 11 묘사하다 ----- 7:2-ARGM-DIS() 8:1-ARG0(EFF) 10:2-ARG1(THM) 11:0-rel
+etri#doc_11470.txt 12 기다리다 ----- 4:2-ARGM-PRP() 11:3-ARG1(THM) 12:0-rel

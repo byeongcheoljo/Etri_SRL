@@ -1,0 +1,4 @@
+etri#doc_3895.txt 4 수입되다 ----- 2:1-ARG1(THM) 3:1-ARGM-EXT(CRT) 4:0-rel
+etri#doc_3895.txt 7 수입되다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARGM-EXT(CRT) 7:0-rel
+etri#doc_3895.txt 11 수입되다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-EXT(CRT) 10:1-ARGM-ADV() 11:0-rel
+etri#doc_3895.txt 12 집계되다 ----- 1:1-ARGM-DIS() 11:2-ARG1() 12:0-rel

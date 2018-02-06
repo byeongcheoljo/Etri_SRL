@@ -1,0 +1,3 @@
+etri#doc_2485.txt 5 말하다 ----- 4:2-ARGM-MNR(EFF) 5:0-rel
+etri#doc_2485.txt 12 오르다 ----- 7:1-ARGM-EXT() 10:2-ARGM-ADV(EFF) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_2485.txt 16 이르다 ----- 6:1-ARG0() 12:2-ARGM-DIS() 15:2-ARG3(LOC) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3648.txt 6 들어가다 ----- 2:1-ARGM-TMP(SRC) 5:3-ARG2(Npr) 6:0-rel
+etri#doc_3648.txt 12 살리다 ----- 10:2-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_3648.txt 16 단행하다 ----- 6:4-ARGM-DIS() 12:2-ARGM-PRP() 15:3-ARG1(THM) 16:0-rel
+etri#doc_3648.txt 18 보이다 ----- 1:1-ARG0(AGT) 16:4-ARG1(CNT) 17:1-ARG1(Npr) 18:0-rel

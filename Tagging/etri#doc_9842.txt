@@ -1,0 +1,4 @@
+etri#doc_9842.txt 4 거치다 ----- 3:1-() 4:0-rel
+etri#doc_9842.txt 7 하다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_9842.txt 9 생기다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_9842.txt 12 배기다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARGM-DIS() 12:0-rel

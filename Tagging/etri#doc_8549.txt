@@ -1,0 +1,8 @@
+etri#doc_8549.txt 3 냉동되다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_8549.txt 5 들여다보이다 ----- 4:1-ARGM-EXT() 5:0-rel
+etri#doc_8549.txt 7 진열되다 ----- 3:2-ARGM-DIS() 6:3-ARG2(LOC) 7:0-rel
+etri#doc_8549.txt 10 가리키다 ----- 7:4-ARGM-CAU() 8:1-ARG0(AGT) 9:1-ARGM-INS(INS) 10:0-rel
+etri#doc_8549.txt 12 꺼내다 ----- 10:2-ARGM-CND() 11:1-ARG0(AGT) 12:0-rel
+etri#doc_8549.txt 15 끄덕이다 ----- 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel
+etri#doc_8549.txt 16 주문하다 ----- 12:2-ARGM-DIS() 15:2-ARGM-CND() 16:0-rel
+etri#doc_8549.txt 17 토막내다 ----- 16:3-ARGM-MNR() 17:0-rel

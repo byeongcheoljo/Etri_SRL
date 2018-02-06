@@ -1,0 +1,2 @@
+etri#doc_2214.txt 4 놓치다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_2214.txt 13 전환하다 ----- 1:1-ARG1() 4:3-ARGM-DIS() 6:2-ARG1(THM) 8:2-ARG2(LOC) 11:3-ARG3(LOC) 12:1-ARGM-MNR() 13:0-rel

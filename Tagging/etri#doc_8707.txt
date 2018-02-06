@@ -1,0 +1,7 @@
+etri#doc_8707.txt 5 꼬드기다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_8707.txt 8 하다 ----- 1:1-ARGM-EXT() 3:2-ARGM-LOC(LOC) 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_8707.txt 11 다스리다 ----- 9:1-ARGM-MNR(INS) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8707.txt 14 빼앗다 ----- 12:3-ARGM-DIS(CNT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_8707.txt 17 틀다 ----- 14:2-ARGM-DIS() 15:1-ARGM-TMP() 16:1-ARG1(THM) 17:0-rel
+etri#doc_8707.txt 18 조처하다 ----- 8:3-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel
+etri#doc_8707.txt 20 알다 ----- 18:3-ARGM-DIS() 19:1-ARGM-DIS() 20:0-rel

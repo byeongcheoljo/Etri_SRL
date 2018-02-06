@@ -1,0 +1,3 @@
+etri#doc_6645.txt 6 만들다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_6645.txt 9 일치되다 ----- 8:2-ARG2(COM) 9:0-rel
+etri#doc_6645.txt 18 구체화하다 ----- 12:2-ARG1(THM) 17:5-ARG2(LOC) 18:0-rel

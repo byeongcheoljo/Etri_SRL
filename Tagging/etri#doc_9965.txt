@@ -1,0 +1,4 @@
+etri#doc_9965.txt 3 ¼º¼÷ÇÏ´Ù ----- 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_9965.txt 7 º¸´Ù ----- 5:2-ARG1(THM) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_9965.txt 11 ´À³¢´Ù ----- 3:2-ARGM-DIS() 7:2-ARGM-DIS() 9:2-ARGM-ADV(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_9965.txt 15 ´À³¢´Ù ----- 1:1-ARGM-DIS() 11:2-ARGM-CND() 12:1-ARGM-DIS() 13:1-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

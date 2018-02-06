@@ -1,0 +1,3 @@
+etri#doc_7877.txt 4 구성하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7877.txt 11 제시되다 ----- 6:2-ARG1(THM) 10:3-ARGM-ADV(EFF) 11:0-rel
+etri#doc_7877.txt 12 발견하다 ----- 11:4-ARG1() 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6862.txt 8 극복하다 ----- 6:1-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6862.txt 9 어찌하다 ----- 9:0-rel
+etri#doc_6862.txt 10 뛰어들다 ----- 3:2-ARG0(AGT) 5:2-ARGM-INS(INS) 8:2-ARGM-PRP() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6862.txt 14 내동댕이치다 ----- 11:3-ARG2(GOL) 12:1-ARG1(THM) 13:1-ARGM-TMP() 14:0-rel

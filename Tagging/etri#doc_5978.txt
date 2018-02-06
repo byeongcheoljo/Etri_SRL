@@ -1,0 +1,2 @@
+etri#doc_5978.txt 6 비뚤어지다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5978.txt 16 오다 ----- 12:2-ARG0(THM) 13:1-ARGM-EXT() 15:2-ARG3(GOL) 16:0-rel

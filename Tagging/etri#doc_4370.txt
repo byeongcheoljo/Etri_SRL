@@ -1,0 +1,2 @@
+etri#doc_4370.txt 3 분석하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4370.txt 10 포함하다 ----- 9:1-ARG1(THM) 10:0-rel

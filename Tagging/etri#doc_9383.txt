@@ -1,0 +1,4 @@
+etri#doc_9383.txt 6 보존하다 ----- 4:2-ARG0(AGT) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_9383.txt 10 만들다 ----- 8:2-ARGM-MNR() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_9383.txt 13 씻다 ----- 13:0-rel
+etri#doc_9383.txt 16 개량하다 ----- 2:2-ARG0(AGT) 6:2-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARGM-MNR() 16:0-rel

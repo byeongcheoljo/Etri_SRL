@@ -1,0 +1,4 @@
+etri#doc_9621.txt 5 열리다 ----- 3:2-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_9621.txt 9 출전하다 ----- 7:4-ARG1(LOC) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_9621.txt 15 걸리다 ----- 14:4-ARG2(GOL) 15:0-rel
+etri#doc_9621.txt 17 당하다 ----- 1:1-() 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 15:5-ARGM-MNR() 16:1-ARG2(THM) 17:0-rel

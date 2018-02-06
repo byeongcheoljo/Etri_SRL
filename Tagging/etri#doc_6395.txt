@@ -1,0 +1,3 @@
+etri#doc_6395.txt 5 옹호하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6395.txt 9 두다 ----- 7:2-ARG2(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_6395.txt 11 지향하다 ----- 5:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel

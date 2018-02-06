@@ -1,0 +1,4 @@
+etri#doc_7492.txt 4 나오다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7492.txt 7 유지하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7492.txt 9 묻다 ----- 5:4-ARG2(COM) 8:3-ARG1(THM) 9:0-rel
+etri#doc_7492.txt 16 말하다 ----- 15:1-ARGM-ADV(EFF) 16:0-rel

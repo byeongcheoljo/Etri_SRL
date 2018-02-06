@@ -1,0 +1,6 @@
+etri#doc_2938.txt 2 보다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_2938.txt 5 사사하다 ----- 4:2-ARG2(SRC) 5:0-rel
+etri#doc_2938.txt 7 비롯되다 ----- 6:1-ARG2(SRC) 7:0-rel
+etri#doc_2938.txt 11 익히다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_2938.txt 12 지니다 ----- 2:2-ARGM-CND() 5:3-ARGM-DIS() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_2938.txt 18 따르다 ----- 12:3-ARGM-CND() 13:1-ARGM-TMP() 17:4-ARG0(AGT) 18:0-rel

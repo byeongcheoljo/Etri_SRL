@@ -1,0 +1,1 @@
+etri#doc_12031.txt 8 ¿­´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(GOL) 3:1-ARGM-LOC(LOC) 7:4-ARG1(THM) 8:0-rel

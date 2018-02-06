@@ -1,0 +1,1 @@
+etri#doc_819.txt 14 헤아리다 ----- 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

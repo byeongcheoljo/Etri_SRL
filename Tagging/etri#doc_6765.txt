@@ -1,0 +1,6 @@
+etri#doc_6765.txt 9 안되다 ----- 6:1-ARGM-MNR(COM) 8:2-ARG2() 9:0-rel
+etri#doc_6765.txt 10 자리하다 ----- 2:2-ARGM-TMP() 5:3-ARG1(THM) 9:3-ARGM-MNR() 10:0-rel
+etri#doc_6765.txt 13 제조하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6765.txt 15 들어서다 ----- 10:4-ARGM-DIS() 11:1-ARGM-TMP(LOC) 14:3-ARG1(THM) 15:0-rel
+etri#doc_6765.txt 19 두르다 ----- 18:2-ARG2(LOC) 19:0-rel
+etri#doc_6765.txt 21 되다 ----- 15:4-ARGM-CAU() 16:1-ARG1(THM) 20:4-ARG2(FNS) 21:0-rel

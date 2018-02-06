@@ -1,0 +1,3 @@
+etri#doc_618.txt 5 추진되다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_618.txt 9 나타나다 ----- 8:1-ARGM-TMP(CRT) 9:0-rel
+etri#doc_618.txt 19 지속시키다 ----- 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

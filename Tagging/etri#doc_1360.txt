@@ -1,0 +1,1 @@
+etri#doc_1360.txt 5 스며들다 ----- 4:2-ARG0(THM) 5:0-rel

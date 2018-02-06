@@ -1,0 +1,10 @@
+etri#doc_4053.txt 4 잡다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4053.txt 6 의지하다 ----- 5:1-ARGM-NEG() 6:0-rel
+etri#doc_4053.txt 8 살다 ----- 4:4-ARGM-DIS() 6:2-ARGM-DIS() 7:1-ARGM-TMP(LOC) 8:0-rel
+etri#doc_4053.txt 10 낳다 ----- 10:0-rel
+etri#doc_4053.txt 11 기르다 ----- 10:1-ARGM-DIS() 11:0-rel
+etri#doc_4053.txt 12 가르치다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_4053.txt 13 싸다 ----- 12:3-ARGM-DIS() 13:0-rel
+etri#doc_4053.txt 14 꾸미다 ----- 13:4-ARGM-DIS() 14:0-rel
+etri#doc_4053.txt 17 보내다 ----- 9:1-() 14:5-ARGM-DIS() 15:1-ARGM-TMP() 16:1-ARG1(THM) 17:0-rel
+etri#doc_4053.txt 20 헤어지다 ----- 8:2-ARGM-DIS() 18:3-ARG1(COM) 19:1-ARGM-MNR() 20:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3849.txt 6 √À±∏«œ¥Ÿ ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_3849.txt 15 √À±∏«œ¥Ÿ ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 6:4-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

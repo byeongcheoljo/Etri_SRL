@@ -1,0 +1,4 @@
+etri#doc_4804.txt 2 원하다 ----- 1:1-ARG0(MAG) 2:0-rel
+etri#doc_4804.txt 6 차지하다 ----- 4:2-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_4804.txt 9 요구하다 ----- 8:2-ARG0(AGT) 9:0-rel
+etri#doc_4804.txt 16 가하다 ----- 14:2-ARGM-ADV(EFF) 15:1-ARG1(THM) 16:0-rel

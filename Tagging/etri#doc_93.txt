@@ -1,0 +1,4 @@
+etri#doc_93.txt 8 지나다 ----- 7:1-ARGM-TMP(THM) 8:0-rel
+etri#doc_93.txt 13 떨어지다 ----- 6:3-ARGM-EXT(THM) 10:2-ARGM-DIS() 11:1-ARGM-TMP(SRC) 12:1-ARG3(GOL) 13:0-rel
+etri#doc_93.txt 15 이르다 ----- 14:1-ARGM-ADV() 15:0-rel
+etri#doc_93.txt 17 정체되다 ----- 2:2-ARG0(THM) 13:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARGM-EXT(SRC) 17:0-rel

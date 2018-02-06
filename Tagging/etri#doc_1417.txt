@@ -1,0 +1,7 @@
+etri#doc_1417.txt 3 구부러지다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_1417.txt 4 찾다 ----- 4:0-rel
+etri#doc_1417.txt 8 피하다 ----- 7:1-ARGM-DIR(DIR) 8:0-rel
+etri#doc_1417.txt 10 따라오다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_1417.txt 12 모르다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1417.txt 14 빠지다 ----- 5:2-ARGM-CAU() 6:1-ARG0(AGT) 10:4-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_1417.txt 19 피하다 ----- 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARG0(AGT) 17:1-ARGM-DIR(DIR) 18:1-ARGM-MNR() 19:0-rel

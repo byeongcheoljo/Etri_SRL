@@ -1,0 +1,4 @@
+etri#doc_11628.txt 9 갖다 ----- 8:3-ARGM-TMP() 9:0-rel
+etri#doc_11628.txt 15 하다 ----- 12:2-ARG1(THM) 13:1-ARGM-ADV(EFF) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_11628.txt 18 관련짓다 ----- 17:2-ARG2(COM) 18:0-rel
+etri#doc_11628.txt 19 고려되다 ----- 3:3-ARG1(THM) 15:2-ARGM-TMP() 18:3-ARGM-DIS() 19:0-rel

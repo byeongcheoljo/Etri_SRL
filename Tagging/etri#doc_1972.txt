@@ -1,0 +1,6 @@
+etri#doc_1972.txt 5 완성되다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:1-ARGM-EXT() 5:0-rel
+etri#doc_1972.txt 8 취하다 ----- 7:1-ARG1(EFF) 8:0-rel
+etri#doc_1972.txt 11 내리다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1972.txt 13 허물다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_1972.txt 17 쌓다 ----- 11:2-ARGM-CAU() 13:2-ARGM-DIS() 14:1-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel
+etri#doc_1972.txt 19 명령하다 ----- 5:2-ARGM-TMP() 6:1-ARG0(AGT) 17:3-ARG1() 18:1-ARGM-TMP() 19:0-rel

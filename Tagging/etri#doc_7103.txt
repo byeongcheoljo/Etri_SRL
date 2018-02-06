@@ -1,0 +1,6 @@
+etri#doc_7103.txt 3 지나다 ----- 1:1-ARGM-TMP() 2:1-ARG1(CRT) 3:0-rel
+etri#doc_7103.txt 6 풀리다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_7103.txt 8 생기다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_7103.txt 13 걸머지다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_7103.txt 16 들어오다 ----- 13:2-ARGM-MNR() 14:1-ARG2(SRC) 15:1-ARG3(GOL) 16:0-rel
+etri#doc_7103.txt 19 찾아오다 ----- 6:2-ARGM-TMP() 11:3-ARG1(AGT) 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

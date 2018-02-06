@@ -1,0 +1,4 @@
+etri#doc_8321.txt 4 내다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG2(GOL) 3:1-ARG0(AGT) 4:0-rel
+etri#doc_8321.txt 9 내다 ----- 8:1-ARGM-LOC(SRC) 9:0-rel
+etri#doc_8321.txt 15 앞두다 ----- 14:1-ARG1(LOC) 15:0-rel
+etri#doc_8321.txt 18 보다 ----- 16:3-ARG0(AGT) 17:1-ARGM-MNR() 18:0-rel

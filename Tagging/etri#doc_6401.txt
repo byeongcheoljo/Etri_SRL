@@ -1,0 +1,3 @@
+etri#doc_6401.txt 4 떨어지다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_6401.txt 11 갖다 ----- 7:3-ARGM-LOC(LOC) 10:3-ARG1(THM) 11:0-rel
+etri#doc_6401.txt 14 통일되다 ----- 2:2-ARG1(THM) 4:2-ARGM-DIS() 11:4-ARGM-ADV() 12:1-ARGM-MNR(INS) 13:1-ARG2(FNS) 14:0-rel

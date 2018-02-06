@@ -1,0 +1,4 @@
+etri#doc_6972.txt 3 비교하다 ----- 1:1-ARG1(THM) 2:1-ARG2(COM) 3:0-rel
+etri#doc_6972.txt 15 증가하다 ----- 4:1-ARG1(THM) 5:1-ARG1() 9:3-ARG1(THM) 10:1-ARGM-ADV() 14:4-ARG1() 15:0-rel
+etri#doc_6972.txt 19 감소하다 ----- 15:5-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel
+etri#doc_6972.txt 20 알다 ----- 3:2-ARGM-CND() 19:4-ARG1() 20:0-rel

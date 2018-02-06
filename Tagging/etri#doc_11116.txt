@@ -1,0 +1,3 @@
+etri#doc_11116.txt 5 넘어가다 ----- 3:1-ARG2(SRC) 4:1-ARG3(GOL) 5:0-rel
+etri#doc_11116.txt 16 탈피하다 ----- 9:1-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel
+etri#doc_11116.txt 18 등장하다 ----- 17:4-ARGM-LOC(SRC) 18:0-rel

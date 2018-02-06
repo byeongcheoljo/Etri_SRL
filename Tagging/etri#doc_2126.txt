@@ -1,0 +1,4 @@
+etri#doc_2126.txt 2 발표하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_2126.txt 5 발표하다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_2126.txt 9 부딪히다 ----- 8:1-ARGM-TMP(GOL) 9:0-rel
+etri#doc_2126.txt 12 접근하다 ----- 7:4-ARG0() 10:3-ARG2(GOL) 11:1-ARGM-MNR() 12:0-rel

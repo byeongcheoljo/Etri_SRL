@@ -1,0 +1,5 @@
+etri#doc_6209.txt 2 도망가다 ----- 2:0-rel
+etri#doc_6209.txt 4 깨닫다 ----- 3:2-ARG2(THM) 4:0-rel
+etri#doc_6209.txt 9 견디다 ----- 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_6209.txt 12 회피하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6209.txt 16 행동하다 ----- 1:1-ARGM-DIS() 5:4-ARG0(AGT) 9:2-ARGM-DIS() 10:1-ARGM-TMP() 13:3-ARGM-LOC(LOC) 15:2-ARGM-MNR(FNS) 16:0-rel

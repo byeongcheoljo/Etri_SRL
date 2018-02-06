@@ -1,0 +1,2 @@
+etri#doc_5318.txt 10 힘입다 ----- 9:5-ARG2(EFF) 10:0-rel
+etri#doc_5318.txt 14 기록하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-CND(EFF) 10:6-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

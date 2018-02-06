@@ -1,0 +1,6 @@
+etri#doc_5089.txt 3 그만두다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_5089.txt 6 시도하다 ----- 5:1-ARGM-EXT() 6:0-rel
+etri#doc_5089.txt 8 망치다 ----- 4:3-ARGM-DIS() 7:3-ARG1(THM) 8:0-rel
+etri#doc_5089.txt 11 말하다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_5089.txt 16 저지르다 ----- 13:4-ARGM-EXT(LOC) 15:2-ARG1(THM) 16:0-rel
+etri#doc_5089.txt 17 생각하다 ----- 8:4-ARGM-TMP() 9:1-ARG0(MAG) 16:3-ARGM-DIS() 17:0-rel

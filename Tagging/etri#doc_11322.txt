@@ -1,0 +1,4 @@
+etri#doc_11322.txt 6 버금가다 ----- 5:4-ARG2(CRT) 6:0-rel
+etri#doc_11322.txt 14 갖다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11322.txt 16 맞잡다 ----- 12:2-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_11322.txt 18 나타나다 ----- 8:2-ARG1(THM) 10:2-ARG2(SRC) 16:2-ARGM-TMP() 17:1-ARGM-MNR(INS) 18:0-rel

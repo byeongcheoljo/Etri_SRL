@@ -1,0 +1,5 @@
+etri#doc_4550.txt 2 지키다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4550.txt 10 받다 ----- 4:1-ARGM-TMP() 5:1-ARG2(AGT) 6:1-ARGM-INS(INS) 9:3-ARG1(THM) 10:0-rel
+etri#doc_4550.txt 11 하다 ----- 10:4-ARG1(CNT) 11:0-rel
+etri#doc_4550.txt 13 찾다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4550.txt 16 나누다 ----- 14:3-ARGM-MNR(COM) 15:1-ARG1(THM) 16:0-rel

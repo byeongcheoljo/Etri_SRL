@@ -1,0 +1,4 @@
+etri#doc_5928.txt 8 만나다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5928.txt 12 가다 ----- 3:1-ARG0(AGT) 6:3-ARGM-TMP() 8:2-ARGM-PRP() 11:2-ARG3(GOL) 12:0-rel
+etri#doc_5928.txt 15 확인되다 ----- 14:5-ARGM-DIS() 15:0-rel
+etri#doc_5928.txt 16 말하다 ----- 2:2-ARG0(AGT) 15:6-ARG1(CNT) 16:0-rel

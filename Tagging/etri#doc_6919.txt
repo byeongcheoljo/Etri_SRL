@@ -1,0 +1,2 @@
+etri#doc_6919.txt 10 갖다 ----- 2:1-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_6919.txt 16 동의하다 ----- 1:1-ARGM-DIS() 10:3-ARGM-LOC() 14:2-ARGM-ADV(CNT) 15:1-ARGM-MNR(INS) 16:0-rel

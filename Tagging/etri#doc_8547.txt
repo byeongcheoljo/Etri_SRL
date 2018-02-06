@@ -1,0 +1,8 @@
+etri#doc_8547.txt 3 영글다 ----- 2:1-ARGM-EXT() 3:0-rel
+etri#doc_8547.txt 6 뜨다 ----- 1:1-ARGM-DIS() 4:3-ARG1(THM) 5:1-ARG2(LOC) 6:0-rel
+etri#doc_8547.txt 8 씻다 ----- 7:1-ARGM-DIS() 8:0-rel
+etri#doc_8547.txt 10 하다 ----- 6:2-ARGM-CAU() 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_8547.txt 13 일다 ----- 10:2-ARGM-TMP() 11:1-ARGM-INS(INS) 12:1-ARG1(THM) 13:0-rel
+etri#doc_8547.txt 16 건지다 ----- 13:2-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel
+etri#doc_8547.txt 18 불리다 ----- 16:3-ARGM-DIS() 17:1-ARGM-TMP() 18:0-rel
+etri#doc_8547.txt 20 받치다 ----- 18:2-ARGM-TMP() 19:1-ARGM-INS(INS) 20:0-rel

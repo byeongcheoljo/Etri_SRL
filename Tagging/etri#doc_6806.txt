@@ -1,0 +1,4 @@
+etri#doc_6806.txt 3 집어삼키다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6806.txt 9 나타나다 ----- 6:3-ARG1(THM) 7:1-ARGM-LOC(LOC) 8:1-ARGM-MNR(FNS) 9:0-rel
+etri#doc_6806.txt 12 휩쓸다 ----- 9:2-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_6806.txt 15 북상하다 ----- 13:1-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4356.txt 3 속하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4356.txt 11 묶이다 ----- 10:3-ARGM-INS(INS) 11:0-rel
+etri#doc_4356.txt 19 구성하다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_4356.txt 22 등장하다 ----- 1:1-ARGM-DIS() 15:8-ARGM-DIS() 17:2-ARG2(LOC) 21:2-ARG1(THM) 22:0-rel

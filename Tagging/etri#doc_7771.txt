@@ -1,0 +1,4 @@
+etri#doc_7771.txt 7 대처하다 ----- 5:5-ARG1(LOC) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7771.txt 10 다지다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_7771.txt 14 대비하다 ----- 12:1-ARGM-TMP(LOC) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_7771.txt 18 하다 ----- 17:1-ARG0(AGT) 18:0-rel

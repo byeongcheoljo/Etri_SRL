@@ -1,0 +1,5 @@
+etri#doc_6066.txt 3 일어나다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_6066.txt 5 글쓰다 ----- 5:0-rel
+etri#doc_6066.txt 7 정리하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6066.txt 11 하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_6066.txt 14 하다 ----- 1:1-ARGM-TMP(LOC) 7:3-ARGM-DIS() 11:4-ARG1() 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel

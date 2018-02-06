@@ -1,0 +1,1 @@
+etri#doc_2076.txt 20 움직이다 ----- 15:1-ARG0(THM) 17:2-ARGM-DIS() 19:2-ARGM-MNR(EFF) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6941.txt 4 거부되다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_6941.txt 5 도래하다 ----- 4:4-ARGM-CAU() 5:0-rel
+etri#doc_6941.txt 16 귀착되다 ----- 9:4-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR(INS) 15:2-ARG2(FNS) 16:0-rel

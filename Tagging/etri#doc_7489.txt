@@ -1,0 +1,2 @@
+etri#doc_7489.txt 9 하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7489.txt 17 되다 ----- 16:1-ARGM-DIS() 17:0-rel

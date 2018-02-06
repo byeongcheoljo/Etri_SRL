@@ -1,0 +1,2 @@
+etri#doc_335.txt 15 공급하다 ----- 4:2-ARGM-CAU() 9:3-ARGM-INS(INS) 12:2-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:1-ARG2(GOL) 15:0-rel
+etri#doc_335.txt 17 동의하다 ----- 1:1-ARG0(AGT) 16:3-ARG1(THM) 17:0-rel

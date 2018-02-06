@@ -1,0 +1,1 @@
+etri#doc_1639.txt 16 го╢ы ----- 14:3-ARG1(THM) 15:1-ARGM-TMP(LOC) 16:0-rel

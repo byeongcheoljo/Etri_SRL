@@ -1,0 +1,4 @@
+etri#doc_4636.txt 4 전달되다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_4636.txt 8 전달되다 ----- 6:1-ARGM-TMP() 7:1-ARG2(GOL) 8:0-rel
+etri#doc_4636.txt 10 거르다 ----- 5:4-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4636.txt 18 전달되다 ----- 1:1-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARGM-INS(INS) 14:2-ARG1(THM) 17:2-ARGM-LOC(GOL) 18:0-rel

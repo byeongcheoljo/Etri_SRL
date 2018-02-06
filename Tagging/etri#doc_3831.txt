@@ -1,0 +1,2 @@
+etri#doc_3831.txt 13 존재하다 ----- 5:2-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_3831.txt 14 행하다 ----- 13:3-ARGM-TMP() 14:0-rel

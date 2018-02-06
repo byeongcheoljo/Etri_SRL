@@ -1,0 +1,7 @@
+etri#doc_2849.txt 5 세우다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2849.txt 7 찾다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_2849.txt 8 유지하다 ----- 1:1-ARG0(AGT) 5:4-ARGM-DIS() 7:2-ARG1() 8:0-rel
+etri#doc_2849.txt 11 연구하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2849.txt 12 깨닫다 ----- 12:0-rel
+etri#doc_2849.txt 13 알다 ----- 9:1-ARGM-TMP() 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_2849.txt 17 시키다 ----- 8:3-ARGM-CND() 13:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

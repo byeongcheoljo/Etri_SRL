@@ -1,0 +1,5 @@
+etri#doc_11180.txt 1 어찌되다 ----- 1:0-rel
+etri#doc_11180.txt 4 커지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11180.txt 8 만나다 ----- 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_11180.txt 11 주고받다 ----- 8:2-ARGM-TMP() 9:1-ARGM-EXT(CRT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_11180.txt 14 쓰이다 ----- 1:1-ARGM-DIS() 4:3-ARGM-DIS() 5:1-ARG0(AGT) 12:3-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel

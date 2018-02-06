@@ -1,0 +1,3 @@
+etri#doc_3569.txt 10 확보하다 ----- 8:1-ARGM-TMP(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_3569.txt 12 받다 ----- 6:4-ARGM-TMP() 7:1-ARG2(AGT) 11:3-ARG1(THM) 12:0-rel
+etri#doc_3569.txt 16 확인되다 ----- 1:1-ARG1(THM) 15:3-ARG1() 16:0-rel

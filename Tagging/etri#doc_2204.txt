@@ -1,0 +1,5 @@
+etri#doc_2204.txt 5 커지다 ----- 3:1-() 4:1-() 5:0-rel
+etri#doc_2204.txt 9 되다 ----- 8:3-ARG1(AGT) 9:0-rel
+etri#doc_2204.txt 12 되다 ----- 9:4-ARGM-DIS() 11:2-ARG1(AGT) 12:0-rel
+etri#doc_2204.txt 18 부어오르다 ----- 16:3-() 17:1-() 18:0-rel
+etri#doc_2204.txt 22 나타나다 ----- 2:2-ARGM-CAU(DIR) 21:2-ARG0(AGT) 22:0-rel

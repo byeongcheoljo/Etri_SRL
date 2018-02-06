@@ -1,0 +1,4 @@
+etri#doc_458.txt 8 하다 ----- 4:1-ARGM-TMP() 7:3-ARG1(THM) 8:0-rel
+etri#doc_458.txt 10 뽑다 ----- 1:1-ARGM-TMP() 3:2-ARGM-LOC(LOC) 8:4-ARGM-INS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_458.txt 14 보다 ----- 10:2-ARG1() 13:3-ARG2(FNS) 14:0-rel
+etri#doc_458.txt 18 증명하다 ----- 15:5-ARG0(AGT) 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

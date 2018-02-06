@@ -1,0 +1,4 @@
+etri#doc_61.txt 9 작용하다 ----- 5:2-ARGM-NEG() 6:1-ARGM-ADV() 7:1-ARG2(LOC) 8:1-ARGM-MNR(FNS) 9:0-rel
+etri#doc_61.txt 10 살다 ----- 10:0-rel
+etri#doc_61.txt 12 되다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_61.txt 16 되다 ----- 2:2-ARGM-TMP(SRC) 3:1-ARG0(THM) 12:3-ARGM-DIS() 15:2-ARG2(FNS) 16:0-rel

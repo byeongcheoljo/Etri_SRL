@@ -1,0 +1,3 @@
+etri#doc_2181.txt 7 공격하다 ----- 2:2-ARG1() 6:3-ARGM-PRD(EFF) 7:0-rel
+etri#doc_2181.txt 12 되다 ----- 10:1-ARG1(THM) 11:1-ARG0(MAG) 12:0-rel
+etri#doc_2181.txt 13 키우다 ----- 12:2-() 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_9600.txt 6 앉다 ----- 3:2-ARGM-TMP(LOC) 4:1-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_9600.txt 8 놀다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_9600.txt 14 들어오다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:1-ARGM-LOC(GOL) 14:0-rel
+etri#doc_9600.txt 18 밀다 ----- 15:3-ARGM-MNR() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_9600.txt 20 들어오다 ----- 6:2-ARGM-CND() 9:3-ARG0(AGT) 18:2-ARGM-MNR() 19:1-ARGM-LOC(GOL) 20:0-rel

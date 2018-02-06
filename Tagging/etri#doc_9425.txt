@@ -1,0 +1,4 @@
+etri#doc_9425.txt 3 보다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_9425.txt 7 보다 ----- 6:2-ARGM-MNR(INS) 7:0-rel
+etri#doc_9425.txt 13 고정시키다 ----- 8:4-ARG0(AGT) 10:2-ARG1(THM) 12:2-ARGM-MNR(INS) 13:0-rel
+etri#doc_9425.txt 14 비판하다 ----- 13:3-ARG1(THM) 14:0-rel

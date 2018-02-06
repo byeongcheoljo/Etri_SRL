@@ -1,0 +1,5 @@
+etri#doc_7491.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7491.txt 3 전제되다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_7491.txt 5 소개하다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_7491.txt 16 인정하다 ----- 12:2-ARG1(MAG) 15:3-ARGM-DIS() 16:0-rel
+etri#doc_7491.txt 22 하다 ----- 5:5-ARGM-DIS() 18:6-ARGM-DIS() 19:1-ARGM-TMP(LOC) 20:1-ARGM-TMP() 21:1-ARG1(THM) 22:0-rel

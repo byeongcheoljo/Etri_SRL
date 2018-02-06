@@ -1,0 +1,4 @@
+etri#doc_6399.txt 7 폭로되다 ----- 4:2-ARGM-CAU(EFF) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6399.txt 9 대응하다 ----- 8:1-ARG1(GOL) 9:0-rel
+etri#doc_6399.txt 13 선회하다 ----- 11:2-ARG1(AGT) 12:1-ARG2(DIR) 13:0-rel
+etri#doc_6399.txt 16 성립되다 ----- 7:3-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

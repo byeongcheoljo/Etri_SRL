@@ -1,0 +1,3 @@
+etri#doc_6632.txt 6 도입되다 ----- 4:3-ARG1(THM) 5:1-ARG2(LOC) 6:0-rel
+etri#doc_6632.txt 9 변화하다 ----- 7:1-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_6632.txt 17 야기시키다 ----- 6:2-ARGM-CND() 9:2-ARGM-CAU() 10:1-ARG0(EFF) 11:1-ARGM-MNR(INS) 14:3-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel

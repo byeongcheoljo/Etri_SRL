@@ -1,0 +1,1 @@
+etri#doc_8988.txt 18 제시하다 ----- 12:6-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

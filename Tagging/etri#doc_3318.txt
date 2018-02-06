@@ -1,0 +1,4 @@
+etri#doc_3318.txt 7 지향하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3318.txt 13 양립하다 ----- 8:4-ARG0(THM) 12:2-ARG2(COM) 13:0-rel
+etri#doc_3318.txt 15 인정하다 ----- 14:4-ARG1(THM) 15:0-rel
+etri#doc_3318.txt 17 괴로워하다 ----- 15:5-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

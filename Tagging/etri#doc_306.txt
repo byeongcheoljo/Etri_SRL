@@ -1,0 +1,4 @@
+etri#doc_306.txt 6 대다 ----- 4:1-ARG1(THM) 5:1-ARG2(LOC) 6:0-rel
+etri#doc_306.txt 14 쫓겨나다 ----- 12:4-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_306.txt 17 다니다 ----- 16:1-ARG1(GOL) 17:0-rel
+etri#doc_306.txt 21 하다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 6:2-ARGM-DIS() 20:3-ARG1() 21:0-rel

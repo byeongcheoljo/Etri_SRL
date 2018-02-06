@@ -1,0 +1,4 @@
+etri#doc_1488.txt 10 쓰다 ----- 7:1-ARGM-MNR() 9:2-ARG0(THM) 10:0-rel
+etri#doc_1488.txt 12 직송하다 ----- 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_1488.txt 15 취급하다 ----- 6:1-ARG0(AGT) 10:3-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel
+etri#doc_1488.txt 17 하다 ----- 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

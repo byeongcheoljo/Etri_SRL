@@ -1,0 +1,4 @@
+etri#doc_6999.txt 5 의심받다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6999.txt 8 붕괴되다 ----- 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_6999.txt 12 접어들다 ----- 10:1-ARGM-EXT() 11:1-ARG2(GOL) 12:0-rel
+etri#doc_6999.txt 16 부각되다 ----- 2:2-ARG1(THM) 9:4-ARGM-TMP() 12:2-ARGM-TMP() 15:3-ARG2(FNS) 16:0-rel

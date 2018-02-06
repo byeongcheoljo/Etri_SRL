@@ -1,0 +1,2 @@
+etri#doc_5445.txt 11 ¹ÙÄ¡´Ù ----- 3:2-ARGM-TMP(SRC) 8:2-ARGM-LOC(LOC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_5445.txt 18 ºÀÇåÇÏ´Ù ----- 1:1-ARGM-TMP() 12:4-ARG0(AGT) 13:1-ARGM-TMP() 14:1-ARGM-LOC(LOC) 17:3-ARG1(THM) 18:0-rel

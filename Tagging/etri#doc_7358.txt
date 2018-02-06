@@ -1,0 +1,3 @@
+etri#doc_7358.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_7358.txt 12 느끼다 ----- 9:3-ARG0(EXP) 11:2-ARGM-LOC(LOC) 12:0-rel
+etri#doc_7358.txt 17 예감하다 ----- 14:2-ARG1(THM) 15:1-ARG0(AGT) 16:1-ARGM-TMP() 17:0-rel

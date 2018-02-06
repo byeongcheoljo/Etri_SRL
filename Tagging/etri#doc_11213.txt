@@ -1,0 +1,4 @@
+etri#doc_11213.txt 5 되다 ----- 3:1-ARGM-TMP(LOC) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_11213.txt 7 갖다 ----- 6:3-ARG0(AGT) 7:0-rel
+etri#doc_11213.txt 16 갖다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 14:2-ARG0(AGT) 15:1-ARGM-EXT() 16:0-rel
+etri#doc_11213.txt 18 고백하다 ----- 16:2-ARGM-DIS() 17:1-ARG2(GOL) 18:0-rel

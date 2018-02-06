@@ -1,0 +1,4 @@
+etri#doc_255.txt 6 두다 ----- 2:2-ARGM-PRD(GOL) 4:2-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_255.txt 17 전복하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_255.txt 20 만들다 ----- 18:1-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel
+etri#doc_255.txt 21 강요받다 ----- 15:2-ARGM-DIS() 17:2-ARGM-PRP() 20:2-ARGM-PRP() 21:0-rel

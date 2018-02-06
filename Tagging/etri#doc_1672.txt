@@ -1,0 +1,4 @@
+etri#doc_1672.txt 4 흘러가다 ----- 2:2-ARG0(THM) 3:1-ARGM-DIR(DIR) 4:0-rel
+etri#doc_1672.txt 7 타다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1672.txt 8 가다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_1672.txt 16 내려가다 ----- 11:2-ARG0(AGT) 12:1-ARGM-INS(INS) 15:3-ARG3(DIR) 16:0-rel

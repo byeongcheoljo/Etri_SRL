@@ -1,0 +1,2 @@
+etri#doc_6556.txt 11 협의하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_6556.txt 14 말하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 13:7-ARG1() 14:0-rel

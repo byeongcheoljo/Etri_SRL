@@ -1,0 +1,4 @@
+etri#doc_5196.txt 2 채택하다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_5196.txt 5 정하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_5196.txt 7 치료하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_5196.txt 12 완성하다 ----- 11:2-ARG1(THM) 12:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7657.txt 9 타고나다 ----- 6:4-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_7657.txt 10 하다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7657.txt 21 의존하다 ----- 10:3-ARGM-DIS() 19:3-ARG1(GOL) 20:1-ARGM-EXT() 21:0-rel

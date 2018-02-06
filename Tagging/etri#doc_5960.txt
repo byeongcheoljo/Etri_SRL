@@ -1,0 +1,5 @@
+etri#doc_5960.txt 4 받다 ----- 1:1-ARGM-CAU(EFF) 2:1-ARGM-LOC(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5960.txt 6 우려하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_5960.txt 11 임하다 ----- 7:5-ARG0(AGT) 9:2-ARGM-MNR(INS) 10:1-ARG1(LOC) 11:0-rel
+etri#doc_5960.txt 15 사퇴하다 ----- 12:1-ARG0(AGT) 13:1-ARGM-TMP(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_5960.txt 20 맞이하다 ----- 11:2-ARGM-DIS() 15:2-ARGM-CAU() 16:1-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARGM-MNR(INS) 19:1-ARG1(THM) 20:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8533.txt 4 선뵈다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARG2(GOL) 4:0-rel
+etri#doc_8533.txt 15 규정하다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARG1(THM) 14:1-ARGM-EXT(FNS) 15:0-rel

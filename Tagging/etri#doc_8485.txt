@@ -1,0 +1,6 @@
+etri#doc_8485.txt 3 위하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8485.txt 5 위하다 ----- 3:2-ARGM-EXT() 4:1-ARG1(THM) 5:0-rel
+etri#doc_8485.txt 7 위하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8485.txt 10 위하다 ----- 5:2-ARGM-DIS() 7:2-ARGM-EXT() 9:2-ARG1(THM) 10:0-rel
+etri#doc_8485.txt 18 돌아오다 ----- 10:3-ARGM-CND() 13:3-ARGM-CAU() 14:1-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARG3(GOL) 18:0-rel
+etri#doc_8485.txt 19 보다 ----- 1:1-ARG0(AGT) 18:2-ARG1() 19:0-rel

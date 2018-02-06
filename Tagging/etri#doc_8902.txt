@@ -1,0 +1,6 @@
+etri#doc_8902.txt 3 묘사하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8902.txt 9 인정되다 ----- 9:0-rel
+etri#doc_8902.txt 11 피하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8902.txt 16 상응하다 ----- 14:2-ARGM-LOC(LOC) 15:1-ARG2(CRT) 16:0-rel
+etri#doc_8902.txt 19 갖다 ----- 19:0-rel
+etri#doc_8902.txt 20 붙이다 ----- 3:3-ARGM-CND() 4:1-ARG0(AGT) 11:3-ARGM-DIS() 12:1-ARGM-DIS() 18:4-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

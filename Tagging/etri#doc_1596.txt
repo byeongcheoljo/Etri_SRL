@@ -1,0 +1,4 @@
+etri#doc_1596.txt 7 높이다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_1596.txt 12 남용하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1596.txt 13 하다 ----- 7:2-ARGM-DIS() 10:3-ARG0(AGT) 12:2-ARGM-DIS() 13:0-rel
+etri#doc_1596.txt 16 전개하다 ----- 1:1-ARGM-LOC(LOC) 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

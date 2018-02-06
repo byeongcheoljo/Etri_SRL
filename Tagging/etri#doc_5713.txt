@@ -1,0 +1,6 @@
+etri#doc_5713.txt 7 사라지다 ----- 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_5713.txt 10 대표하다 ----- 5:2-ARG0(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_5713.txt 11 하다 ----- 10:3-ARG1(CNT) 11:0-rel
+etri#doc_5713.txt 14 대표하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5713.txt 17 받다 ----- 12:1-ARGM-PRD(INS) 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_5713.txt 23 말하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-LOC(LOC) 11:4-ARGM-DIS() 22:4-ARG1(CNT) 23:0-rel

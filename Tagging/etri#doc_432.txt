@@ -1,0 +1,3 @@
+etri#doc_432.txt 6 나타나다 ----- 5:1-ARGM-MNR(FNS) 6:0-rel
+etri#doc_432.txt 18 진행되다 ----- 16:2-ARGM-LOC(LOC) 17:1-ARGM-MNR(INS) 18:0-rel
+etri#doc_432.txt 22 움직이다 ----- 18:2-ARGM-DIS() 19:1-ARGM-EXT() 21:2-ARG3(DIR) 22:0-rel

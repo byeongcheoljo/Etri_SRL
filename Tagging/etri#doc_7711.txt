@@ -1,0 +1,3 @@
+etri#doc_7711.txt 7 지니다 ----- 6:3-ARG0(AGT) 7:0-rel
+etri#doc_7711.txt 13 지니다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_7711.txt 19 간주되다 ----- 15:2-ARG1(THM) 16:1-ARGM-MNR() 18:2-ARGM-MNR(INS) 19:0-rel

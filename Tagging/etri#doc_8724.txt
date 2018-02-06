@@ -1,0 +1,3 @@
+etri#doc_8724.txt 3 하옥시키다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_8724.txt 9 짓다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_8724.txt 19 못하다 ----- 18:2-ARG1() 19:0-rel

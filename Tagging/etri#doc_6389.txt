@@ -1,0 +1,4 @@
+etri#doc_6389.txt 5 선택되다 ----- 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_6389.txt 6 연속되다 ----- 6:0-rel
+etri#doc_6389.txt 13 부가시키다 ----- 9:2-ARGM-LOC(GOL) 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6389.txt 18 따르다 ----- 17:2-ARG1(THM) 18:0-rel

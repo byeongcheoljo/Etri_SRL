@@ -1,0 +1,3 @@
+etri#doc_13109.txt 10 가지다 ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_13109.txt 14 참여하다 ----- 12:2-ARG0(AGT) 13:1-ARG1(LOC) 14:0-rel
+etri#doc_13109.txt 20 추구하다 ----- 10:6-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARGM-LOC(LOC) 19:3-ARG1(THM) 20:0-rel

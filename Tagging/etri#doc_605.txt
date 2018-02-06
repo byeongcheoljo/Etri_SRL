@@ -1,0 +1,4 @@
+etri#doc_605.txt 3 구축되다 ----- 1:1-ARG0(AGT) 2:1-ARGM-INS(INS) 3:0-rel
+etri#doc_605.txt 7 담당하다 ----- 3:2-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_605.txt 11 보장하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_605.txt 17 걸치다 ----- 16:2-ARG2(LOC) 17:0-rel

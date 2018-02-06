@@ -1,0 +1,4 @@
+etri#doc_6434.txt 3 끓이다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_6434.txt 6 정리하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6434.txt 10 보다 ----- 4:3-ARG0(AGT) 7:3-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_6434.txt 16 보이다 ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 14:2-ARGM-ADV(EFF) 15:1-ARG1(THM) 16:0-rel

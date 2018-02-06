@@ -1,0 +1,2 @@
+etri#doc_4667.txt 9 유지하다 ----- 6:2-ARGM-ADV(EFF) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4667.txt 10 노력하다 ----- 2:1-ARG0(AGT) 9:3-ARG1() 10:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7786.txt 5 부합되다 ----- 2:2-ARG1(THM) 4:2-ARG2(CRT) 5:0-rel
+etri#doc_7786.txt 7 이루어지다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_7786.txt 9 놀라다 ----- 9:0-rel
+etri#doc_7786.txt 11 변하다 ----- 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_7786.txt 17 달리다 ----- 8:6-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:1-ARGM-TMP() 16:2-ARG2(LOC) 17:0-rel

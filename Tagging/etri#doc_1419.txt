@@ -1,0 +1,6 @@
+etri#doc_1419.txt 7 부르다 ----- 1:1-ARG1(THM) 4:2-ARGM-DIS() 6:2-ARGM-DIS() 7:0-rel
+etri#doc_1419.txt 10 입다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1419.txt 13 끼다 ----- 11:1-ARG1(THM) 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1419.txt 14 싸우다 ----- 10:2-ARGM-DIS() 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1419.txt 15 물러서다 ----- 8:1-ARG0(AGT) 14:3-ARGM-MNR() 15:0-rel
+etri#doc_1419.txt 18 면하다 ----- 7:3-ARGM-DIS() 15:4-ARGM-DIS() 16:1-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

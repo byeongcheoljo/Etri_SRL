@@ -1,0 +1,5 @@
+etri#doc_371.txt 7 깎다 ----- 4:1-ARG1(THM) 5:1-ARGM-EXT(EFF) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_371.txt 10 쓰다 ----- 9:2-ARG2(GOL) 10:0-rel
+etri#doc_371.txt 13 만들다 ----- 7:2-ARGM-MNR() 12:2-ARG1(THM) 13:0-rel
+etri#doc_371.txt 17 개발하다 ----- 14:4-ARG1(THM) 16:2-ARGM-INS(INS) 17:0-rel
+etri#doc_371.txt 20 나다 ----- 3:2-ARGM-DIS() 17:3-ARGM-CND() 18:1-ARG2(LOC) 19:1-ARG1(Npr) 20:0-rel

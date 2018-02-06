@@ -1,0 +1,2 @@
+etri#doc_767.txt 9 몰아내다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_767.txt 13 만들다 ----- 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel

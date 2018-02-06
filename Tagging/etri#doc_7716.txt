@@ -1,0 +1,2 @@
+etri#doc_7716.txt 7 퍼지다 ----- 2:2-ARG1(THM) 5:3-ARGM-MNR(INS) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_7716.txt 18 편승하다 ----- 10:1-ARG0(AGT) 17:3-ARG1(LOC) 18:0-rel

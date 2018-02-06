@@ -1,0 +1,5 @@
+etri#doc_2606.txt 6 맞다 ----- 5:2-ARG2(EFF) 6:0-rel
+etri#doc_2606.txt 7 토착화시키다 ----- 3:2-() 6:3-() 7:0-rel
+etri#doc_2606.txt 12 보다 ----- 11:1-() 12:0-rel
+etri#doc_2606.txt 13 변질되다 ----- 13:0-rel
+etri#doc_2606.txt 15 생기다 ----- 7:4-ARGM-DIS() 10:2-ARGM-CND() 12:2-ARGM-DIS() 14:2-ARG1(AGT) 15:0-rel

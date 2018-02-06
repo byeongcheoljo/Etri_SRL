@@ -1,0 +1,5 @@
+etri#doc_6084.txt 2 출생하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6084.txt 8 감싸다 ----- 3:3-ARGM-TMP(LOC) 5:2-ARG1(AGT) 7:2-ARG2(THM) 8:0-rel
+etri#doc_6084.txt 11 생각하다 ----- 8:3-ARGM-DIS() 9:1-ARG0(THM) 10:1-ARG1(CNT) 11:0-rel
+etri#doc_6084.txt 14 죽이다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6084.txt 16 버리다 ----- 12:3-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

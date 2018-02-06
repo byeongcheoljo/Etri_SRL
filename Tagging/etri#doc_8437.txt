@@ -1,0 +1,4 @@
+etri#doc_8437.txt 7 확정되다 ----- 4:2-ARG2(FNS) 5:1-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_8437.txt 10 놓다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_8437.txt 15 보다 ----- 7:2-ARGM-DIS() 8:1-ARGM-TMP() 10:2-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_8437.txt 17 밝히다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 16:3-ARG1(CNT) 17:0-rel

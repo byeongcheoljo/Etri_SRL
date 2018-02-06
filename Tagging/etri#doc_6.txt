@@ -1,0 +1,4 @@
+etri#doc_6.txt 5 끌다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6.txt 7 현혹시키다 ----- 5:2-ARGM-DIS() 6:1-ARG1() 7:0-rel
+etri#doc_6.txt 13 내다 ----- 7:2-ARGM-DIS() 9:2-ARGM-TMP(CRT) 11:2-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_6.txt 16 받다 ----- 3:2-ARGM-DIS() 14:3-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

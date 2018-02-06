@@ -1,0 +1,4 @@
+etri#doc_952.txt 7 보이다 ----- 4:2-ARGA(AGT) 5:1-ARG0(GOL) 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_952.txt 10 존속하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 7:2-ARGM-CND(EFF) 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_952.txt 15 상응하다 ----- 14:2-ARG2(CRT) 15:0-rel
+etri#doc_952.txt 18 정당화되다 ----- 17:2-ARGM-INS(INS) 18:0-rel

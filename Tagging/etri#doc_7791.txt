@@ -1,0 +1,3 @@
+etri#doc_7791.txt 2 강조되다 ----- 1:1-ARGM-EXT(CRT) 2:0-rel
+etri#doc_7791.txt 8 되다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_7791.txt 11 되다 ----- 5:2-ARGM-ADV(EFF) 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel

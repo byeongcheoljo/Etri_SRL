@@ -1,0 +1,1 @@
+etri#doc_2547.txt 10 µÇ´Ù ----- 6:1-ARG0() 7:1-ARGM-EXT() 9:2-ARG0(AGT) 10:0-rel

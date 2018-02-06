@@ -1,0 +1,5 @@
+etri#doc_9045.txt 2 노동하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_9045.txt 4 되다 ----- 2:2-ARGM-MNR() 3:1-ARG2(FNS) 4:0-rel
+etri#doc_9045.txt 7 되다 ----- 4:2-ARGM-DIS() 6:2-ARG2(FNS) 7:0-rel
+etri#doc_9045.txt 11 되다 ----- 7:3-ARGM-DIS() 10:3-ARG2(FNS) 11:0-rel
+etri#doc_9045.txt 13 이루어지다 ----- 13:0-rel

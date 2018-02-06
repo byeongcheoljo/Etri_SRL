@@ -1,0 +1,4 @@
+etri#doc_1385.txt 1 이리하다 ----- 1:0-rel
+etri#doc_1385.txt 5 하다 ----- 2:1-ARGM-PRD(EFF) 4:2-ARG1(THM) 5:0-rel
+etri#doc_1385.txt 8 하다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_1385.txt 12 하다 ----- 5:3-ARGM-DIS() 9:3-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel

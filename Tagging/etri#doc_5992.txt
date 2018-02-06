@@ -1,0 +1,2 @@
+etri#doc_5992.txt 7 임명하다 ----- 5:3-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_5992.txt 14 승진시키다 ----- 2:2-ARG0(AGT) 8:3-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARGM-EXT() 13:1-ARGM-LOC(FNS) 14:0-rel

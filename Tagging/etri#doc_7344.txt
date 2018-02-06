@@ -1,0 +1,4 @@
+etri#doc_7344.txt 4 하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_7344.txt 10 건설하다 ----- 5:3-ARGM-DIS() 7:2-ARGM-LOC(LOC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_7344.txt 12 세우다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7344.txt 17 가라앉히다 ----- 10:3-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARG3(GOL) 17:0-rel

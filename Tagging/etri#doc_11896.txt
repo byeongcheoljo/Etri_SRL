@@ -1,0 +1,3 @@
+etri#doc_11896.txt 10 결정하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_11896.txt 16 기능하다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_11896.txt 18 정하다 ----- 11:4-ARG0(AGT) 17:6-ARG1(THM) 18:0-rel

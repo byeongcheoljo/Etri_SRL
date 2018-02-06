@@ -1,0 +1,6 @@
+etri#doc_7886.txt 2 오다 ----- 1:1-ARG0(Npr) 2:0-rel
+etri#doc_7886.txt 4 따라다니다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_7886.txt 6 나타나다 ----- 2:2-ARGM-DIS() 5:3-ARG1(THM) 6:0-rel
+etri#doc_7886.txt 9 내밀다 ----- 6:4-ARGM-DIS() 7:1-ARGM-TMP(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7886.txt 11 치다 ----- 10:1-ARG1(Npr) 11:0-rel
+etri#doc_7886.txt 13 사라지다 ----- 9:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel

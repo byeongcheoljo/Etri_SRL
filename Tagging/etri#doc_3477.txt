@@ -1,0 +1,1 @@
+etri#doc_3477.txt 9 이루어지다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-MNR(COM) 8:5-ARG1(THM) 9:0-rel

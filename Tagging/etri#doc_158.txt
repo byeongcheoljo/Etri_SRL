@@ -1,0 +1,4 @@
+etri#doc_158.txt 4 접하다 ----- 2:1-ARGM-TMP() 3:1-ARG0(EXP) 4:0-rel
+etri#doc_158.txt 8 방지하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_158.txt 11 마련되다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_158.txt 12 방치되다 ----- 11:3-ARGM-NEG() 12:0-rel

@@ -1,0 +1,3 @@
+etri#doc_772.txt 5 듣다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV() 4:2-ARG1(THM) 5:0-rel
+etri#doc_772.txt 15 말하다 ----- 14:2-ARG2(CNT) 15:0-rel
+etri#doc_772.txt 19 당하다 ----- 5:3-ARGM-DIS() 8:2-ARG1(GOL) 15:3-ARGM-CAU() 17:2-ARG3(AGT) 18:1-ARG2(Npr) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4828.txt 3 되다 ----- 1:1-ARGM-EXT() 2:1-ARGM-NEG() 3:0-rel
+etri#doc_4828.txt 5 형상화되다 ----- 4:3-ARGM-MNR(INS) 5:0-rel
+etri#doc_4828.txt 17 주다 ----- 8:2-ARG0(AGT) 14:5-ARG2(GOL) 16:2-ARG1(THM) 17:0-rel
+etri#doc_4828.txt 18 드러나다 ----- 17:3-ARG1(THM) 18:0-rel

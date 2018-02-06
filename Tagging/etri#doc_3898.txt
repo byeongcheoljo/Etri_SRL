@@ -1,0 +1,2 @@
+etri#doc_3898.txt 9 ¸ô´Ù ----- 7:1-ARG1(THM) 8:1-ARG2(GOL) 9:0-rel
+etri#doc_3898.txt 15 Áö´Ù ----- 6:4-ARG0(EFF) 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARGM-EXT() 14:1-ARG1() 15:0-rel

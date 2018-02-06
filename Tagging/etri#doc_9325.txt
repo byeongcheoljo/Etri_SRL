@@ -1,0 +1,5 @@
+etri#doc_9325.txt 5 √¨±‚¥Ÿ ----- 1:1-ARGM-MNR(INS) 3:2-ARG1(THM) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_9325.txt 7 ∂Ÿ¥Ÿ ----- 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_9325.txt 9 ¥Î∫Ò«œ¥Ÿ ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_9325.txt 12 ¥Í¥Ÿ ----- 11:1-ARG1() 12:0-rel
+etri#doc_9325.txt 15 ¡ÿ∫Ò«œ¥Ÿ ----- 5:2-ARGM-DIS() 9:4-ARGM-MNR() 10:1-ARG1(THM) 13:3-ARGM-LOC(LOC) 14:1-ARGM-TMP() 15:0-rel

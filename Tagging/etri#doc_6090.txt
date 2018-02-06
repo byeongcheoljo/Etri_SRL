@@ -1,0 +1,4 @@
+etri#doc_6090.txt 2 이르다 ----- 1:1-ARG3(FNS) 2:0-rel
+etri#doc_6090.txt 5 동일시되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6090.txt 7 되다 ----- 5:3-ARGM-DIS() 6:1-ARG2(FNS) 7:0-rel
+etri#doc_6090.txt 11 되다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 10:2-ARG2(FNS) 11:0-rel

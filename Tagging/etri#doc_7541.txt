@@ -1,0 +1,4 @@
+etri#doc_7541.txt 10 이겨내다 ----- 5:1-ARGM-MNR() 7:2-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_7541.txt 17 만나다 ----- 15:1-ARG0(AGT) 16:1-ARGM-ADV() 17:0-rel
+etri#doc_7541.txt 20 도래하다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_7541.txt 21 의미하다 ----- 4:2-ARG1(EFF) 13:3-ARGM-DIS() 20:3-ARGM-MNR() 21:0-rel

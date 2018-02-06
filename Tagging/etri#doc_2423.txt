@@ -1,0 +1,1 @@
+etri#doc_2423.txt 18 µÇ´Ù ----- 1:1-() 9:2-() 11:2-() 14:2-ARGM-DIS() 15:1-ARGM-ADV(EFF) 16:1-ARGM-EXT() 17:1-ARG0(AGT) 18:0-rel

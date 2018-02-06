@@ -1,0 +1,1 @@
+etri#doc_1906.txt 15 ≥ı¿Ã¥Ÿ ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 13:2-ARG2(GOL) 14:1-ARGM-MNR() 15:0-rel

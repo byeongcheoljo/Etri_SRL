@@ -1,0 +1,5 @@
+etri#doc_5216.txt 5 건너다 ----- 4:1-ARG1(LOC) 5:0-rel
+etri#doc_5216.txt 7 진격하다 ----- 5:2-ARGM-MNR() 6:1-ARG2(DIR) 7:0-rel
+etri#doc_5216.txt 10 상륙하다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARG1(GOL) 10:0-rel
+etri#doc_5216.txt 15 지나다 ----- 12:2-ARGM-MNR(INS) 14:2-ARG1(LOC) 15:0-rel
+etri#doc_5216.txt 18 입성하다 ----- 3:3-ARG0(AGT) 7:2-ARGM-DIS() 10:2-ARGM-TMP() 15:3-ARGM-DIS() 16:1-ARGM-TMP(LOC) 17:1-ARG3(GOL) 18:0-rel

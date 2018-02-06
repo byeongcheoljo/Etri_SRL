@@ -1,0 +1,2 @@
+etri#doc_404.txt 11 건설하다 ----- 4:2-ARGM-TMP(SRC) 6:2-ARGM-DIS() 9:3-ARG1(THM) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_404.txt 14 올리다 ----- 2:2-ARG0(AGT) 11:2-ARGM-CAU() 13:2-ARG1(THM) 14:0-rel

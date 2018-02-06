@@ -1,0 +1,4 @@
+etri#doc_5154.txt 6 강조되다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5154.txt 8 도외시하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5154.txt 14 바뀌다 ----- 12:3-ARGM-EXT() 13:1-ARG1(THM) 14:0-rel
+etri#doc_5154.txt 15 감지하다 ----- 6:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

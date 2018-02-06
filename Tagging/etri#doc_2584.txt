@@ -1,0 +1,5 @@
+etri#doc_2584.txt 2 앉다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_2584.txt 7 놓다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_2584.txt 10 나누다 ----- 4:2-ARG1() 7:3-ARGM-DIS() 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2584.txt 14 죽이다 ----- 12:1-() 13:1-() 14:0-rel
+etri#doc_2584.txt 18 기울이다 ----- 10:2-() 11:1-() 14:2-() 16:2-() 17:1-() 18:0-rel

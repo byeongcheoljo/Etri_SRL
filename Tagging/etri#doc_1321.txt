@@ -1,0 +1,1 @@
+etri#doc_1321.txt 23 µÇ´Ù ----- 11:5-ARGM-DIS() 17:3-ARG1(THM) 22:4-ARGM-DIS() 23:0-rel

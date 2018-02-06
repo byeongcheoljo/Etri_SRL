@@ -1,0 +1,6 @@
+etri#doc_11035.txt 3 보다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_11035.txt 4 기뻐하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_11035.txt 9 들어가다 ----- 8:2-ARG3(GOL) 9:0-rel
+etri#doc_11035.txt 11 발작하다 ----- 6:2-ARG0(EXP) 9:3-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_11035.txt 17 하다 ----- 13:1-ARGM-CAU(EFF) 16:3-ARG1(THM) 17:0-rel
+etri#doc_11035.txt 20 보이다 ----- 18:5-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

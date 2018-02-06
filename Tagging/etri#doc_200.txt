@@ -1,0 +1,2 @@
+etri#doc_200.txt 13 이르다 ----- 7:1-ARG2(SRC) 12:4-ARG3(GOL) 13:0-rel
+etri#doc_200.txt 17 수행하다 ----- 6:2-ARGM-MNR() 15:2-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel

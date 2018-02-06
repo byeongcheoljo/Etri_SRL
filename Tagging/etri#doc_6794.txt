@@ -1,0 +1,4 @@
+etri#doc_6794.txt 6 하다 ----- 3:3-ARGM-TMP(LOC) 4:1-ARGM-DIS() 5:1-ARG1(Npr) 6:0-rel
+etri#doc_6794.txt 9 관여하다 ----- 7:1-ARG0(AGT) 8:1-ARG1(LOC) 9:0-rel
+etri#doc_6794.txt 10 협박하다 ----- 6:2-ARGM-DIS() 9:2-ARG1() 10:0-rel
+etri#doc_6794.txt 18 일관되다 ----- 18:0-rel

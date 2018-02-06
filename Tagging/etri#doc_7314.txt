@@ -1,0 +1,3 @@
+etri#doc_7314.txt 11 시찰하다 ----- 10:5-ARG1(LOC) 11:0-rel
+etri#doc_7314.txt 13 제공하다 ----- 4:3-ARGM-DIS() 5:1-ARG2(GOL) 12:7-ARG1(THM) 13:0-rel
+etri#doc_7314.txt 15 보다 ----- 14:1-ARGM-MNR() 15:0-rel

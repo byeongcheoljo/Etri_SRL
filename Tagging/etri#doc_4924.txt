@@ -1,0 +1,3 @@
+etri#doc_4924.txt 6 기록하다 ----- 2:2-ARG0(THM) 3:1-ARGM-TMP() 5:2-ARG1(FNS) 6:0-rel
+etri#doc_4924.txt 15 자리잡다 ----- 14:2-ARG1(LOC) 15:0-rel
+etri#doc_4924.txt 20 하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-TMP() 8:1-ARG0(AGT) 11:2-ARGM-LOC(SRC) 18:2-ARGM-LOC(GOL) 19:1-ARG1(THM) 20:0-rel

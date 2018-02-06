@@ -1,0 +1,5 @@
+etri#doc_4566.txt 4 은퇴하다 ----- 4:0-rel
+etri#doc_4566.txt 11 찾아오다 ----- 3:1-ARGM-TMP(LOC) 9:6-ARG1(AGT) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_4566.txt 21 꺼내다 ----- 21:0-rel
+etri#doc_4566.txt 22 선물하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARG0(AGT) 19:2-ARG1(THM) 20:1-ARGM-EXT() 21:1-ARGM-DIS() 22:0-rel
+etri#doc_4566.txt 23 하다 ----- 2:2-ARGM-ADV(EFF) 22:2-ARG1() 23:0-rel

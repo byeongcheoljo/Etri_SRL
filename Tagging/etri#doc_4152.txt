@@ -1,0 +1,3 @@
+etri#doc_4152.txt 4 입건되다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_4152.txt 10 기소하다 ----- 1:1-ARG0() 2:1-ARGM-DIS() 6:4-ARGM-EXT() 9:3-ARG1(THM) 10:0-rel
+etri#doc_4152.txt 16 나타나다 ----- 10:4-ARGM-DIS() 15:2-ARG1() 16:0-rel

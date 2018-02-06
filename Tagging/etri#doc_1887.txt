@@ -1,0 +1,1 @@
+etri#doc_1887.txt 6 ½ÅºÀÇÏ´Ù ----- 2:2-ARG0(COM) 3:1-ARGM-LOC(LOC) 4:1-ARGM-MNR(INS) 5:1-ARG1(THM) 6:0-rel

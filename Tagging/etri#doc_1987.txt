@@ -1,0 +1,3 @@
+etri#doc_1987.txt 9 앞지르다 ----- 4:3-ARG0(AGT) 7:2-ARG1(CRT) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1987.txt 10 돈벌다 ----- 10:0-rel
+etri#doc_1987.txt 17 부인하다 ----- 1:1-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel

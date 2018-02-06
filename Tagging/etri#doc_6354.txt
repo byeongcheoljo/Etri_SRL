@@ -1,0 +1,3 @@
+etri#doc_6354.txt 5 확립하다 ----- 3:2-ARGM-PRD(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_6354.txt 8 의거하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6354.txt 16 비판하다 ----- 1:1-ARG0(AGT) 13:3-ARG1(THM) 15:2-ARGM-EXT(CRT) 16:0-rel

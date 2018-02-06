@@ -1,0 +1,6 @@
+etri#doc_690.txt 5 부어오르다 ----- 5:0-rel
+etri#doc_690.txt 6 부풀다 ----- 6:0-rel
+etri#doc_690.txt 7 빠져나가다 ----- 4:1-ARG0(AGT) 5:1-ARGM-DIS() 6:1-ARGM-ADV() 7:0-rel
+etri#doc_690.txt 9 가라앉히다 ----- 2:1-ARGM-MNR(COM) 3:1-ARGM-INS(INS) 8:3-ARG1(THM) 9:0-rel
+etri#doc_690.txt 13 하다 ----- 9:4-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-TMP(CRT) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_690.txt 15 없어지다 ----- 1:1-ARGM-LOC(LOC) 13:2-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

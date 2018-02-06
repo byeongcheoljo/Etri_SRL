@@ -1,0 +1,2 @@
+etri#doc_1043.txt 10 설계되다 ----- 6:6-ARG1(THM) 7:1-ARGM-INS(INS) 9:2-ARGM-INS(INS) 10:0-rel
+etri#doc_1043.txt 15 지도하다 ----- 12:1-ARG0(AGT) 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_2145.txt 2 말하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2145.txt 11 돌리다 ----- 9:2-ARGM-ADV(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_2145.txt 14 더듬다 ----- 11:2-() 13:2-() 14:0-rel
+etri#doc_2145.txt 16 논하다 ----- 6:2-ARGM-ADV(EFF) 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_2145.txt 19 생각하다 ----- 2:2-ARGM-DIS() 18:4-ARGM-ADV() 19:0-rel

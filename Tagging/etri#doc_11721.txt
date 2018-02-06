@@ -1,0 +1,3 @@
+etri#doc_11721.txt 7 바꾸다 ----- 3:1-ARGM-INS(INS) 5:2-ARGM-MNR(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_11721.txt 12 나타나다 ----- 11:2-ARG2(LOC) 12:0-rel
+etri#doc_11721.txt 15 지니다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARGM-EXT(CRT) 12:3-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel

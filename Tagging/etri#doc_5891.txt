@@ -1,0 +1,4 @@
+etri#doc_5891.txt 3 의하다 ----- 2:2-ARG2(GOL) 3:0-rel
+etri#doc_5891.txt 4 배치되다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_5891.txt 11 일깨우다 ----- 8:4-ARG1(THM) 10:2-ARGM-MNR(COM) 11:0-rel
+etri#doc_5891.txt 17 잊혀지다 ----- 13:2-ARG1(THM) 16:3-ARGM-PRD(INS) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1882.txt 13 ÇÏ´Ù ----- 9:2-ARG0(AGT) 12:2-ARG2(CNT) 13:0-rel
+etri#doc_1882.txt 16 ³º´Ù ----- 5:3-ARGM-DIS() 7:2-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7183.txt 2 기하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7183.txt 5 밀어내다 ----- 3:1-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7183.txt 10 끝나다 ----- 9:2-ARG1(THM) 10:0-rel

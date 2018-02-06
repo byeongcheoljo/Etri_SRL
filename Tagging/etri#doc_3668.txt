@@ -1,0 +1,5 @@
+etri#doc_3668.txt 5 속하다 ----- 4:3-ARG2(LOC) 5:0-rel
+etri#doc_3668.txt 8 놓다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3668.txt 11 존재하다 ----- 9:4-ARGM-CAU() 10:1-ARG1(THM) 11:0-rel
+etri#doc_3668.txt 16 걷다 ----- 13:2-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel
+etri#doc_3668.txt 20 전하다 ----- 11:2-() 17:4-ARG1(THM) 19:2-ARGM-MNR(INS) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8107.txt 4 하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8107.txt 7 놓이다 ----- 7:0-rel
+etri#doc_8107.txt 9 놓이다 ----- 5:1-ARGM-LOC() 6:1-ARGM-EXT() 8:2-ARG2(GOL) 9:0-rel
+etri#doc_8107.txt 13 버리다 ----- 1:1-ARGM-DIS(CNT) 4:3-ARGM-DIS() 9:3-ARGM-DIS() 11:2-ARGM-EXT() 12:1-ARGM-MNR() 13:0-rel

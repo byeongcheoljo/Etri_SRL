@@ -1,0 +1,4 @@
+etri#doc_3783.txt 5 앞세우다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3783.txt 7 고집하다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 6:3-ARG1(THM) 7:0-rel
+etri#doc_3783.txt 11 접근하다 ----- 10:1-() 11:0-rel
+etri#doc_3783.txt 15 가져오다 ----- 1:1-ARGM-EXT() 7:4-ARGM-TMP() 9:2-ARGM-DIS() 12:3-ARG3(GOL) 14:2-ARG1(THM) 15:0-rel

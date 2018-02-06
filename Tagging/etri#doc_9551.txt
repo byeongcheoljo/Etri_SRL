@@ -1,0 +1,5 @@
+etri#doc_9551.txt 7 미치다 ----- 6:1-ARG2(GOL) 7:0-rel
+etri#doc_9551.txt 9 미치다 ----- 7:2-ARGM-DIS() 8:1-ARG2(GOL) 9:0-rel
+etri#doc_9551.txt 16 미치다 ----- 9:2-ARGM-DIS() 15:2-ARG2(GOL) 16:0-rel
+etri#doc_9551.txt 18 빠지다 ----- 17:1-ARG2() 18:0-rel
+etri#doc_9551.txt 20 하다 ----- 5:5-ARG0(AGT) 16:3-ARGM-MNR() 18:2-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

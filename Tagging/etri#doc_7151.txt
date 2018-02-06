@@ -1,0 +1,2 @@
+etri#doc_7151.txt 9 유포되다 ----- 7:3-ARGM-MNR(INS) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_7151.txt 13 지탱하다 ----- 2:2-ARGM-ADV(EFF) 10:3-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

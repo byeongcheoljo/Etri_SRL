@@ -1,0 +1,6 @@
+etri#doc_8510.txt 3 아끼다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8510.txt 4 사랑하다 ----- 1:1-ARGM-EXT(EFF) 3:2-ARGM-DIS() 4:0-rel
+etri#doc_8510.txt 7 감사하다 ----- 5:4-ARG1() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_8510.txt 13 바치다 ----- 10:1-ARGM-PRP(PUR) 12:2-ARG1(THM) 13:0-rel
+etri#doc_8510.txt 14 속죄하다 ----- 13:3-ARGM-MNR() 14:0-rel
+etri#doc_8510.txt 15 결심하다 ----- 7:2-ARGM-DIS() 8:1-ARG0(MAG) 9:1-ARGM-TMP() 14:4-ARG2() 15:0-rel

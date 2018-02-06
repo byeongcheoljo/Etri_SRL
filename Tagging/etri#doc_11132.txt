@@ -1,0 +1,5 @@
+etri#doc_11132.txt 2 발생하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11132.txt 5 벌어지다 ----- 2:2-ARGM-MNR() 4:2-ARG1(THM) 5:0-rel
+etri#doc_11132.txt 8 끝나다 ----- 7:1-ARGM-TMP() 8:0-rel
+etri#doc_11132.txt 14 계속되다 ----- 6:1-ARG1(THM) 8:2-ARGM-DIS() 13:5-ARGM-TMP() 14:0-rel
+etri#doc_11132.txt 16 모르다 ----- 5:3-ARGM-CND() 14:6-ARGM-DIS() 15:1-ARG0(EXP) 16:0-rel

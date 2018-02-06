@@ -1,0 +1,2 @@
+etri#doc_5467.txt 6 하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5467.txt 16 밝히다 ----- 1:1-ARG0() 2:1-ARGM-ADV() 6:3-ARGM-DIS() 11:5-ARGM-INS(INS) 15:3-ARG1(THM) 16:0-rel

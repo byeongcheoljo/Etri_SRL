@@ -1,0 +1,7 @@
+etri#doc_11491.txt 5 일으키다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11491.txt 9 빼앗기다 ----- 7:1-ARGM-CND(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_11491.txt 12 보충하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11491.txt 13 남다 ----- 13:0-rel
+etri#doc_11491.txt 16 주고받다 ----- 12:3-ARGM-PRP() 14:2-ARG1(THM) 15:1-ARGM-ADV() 16:0-rel
+etri#doc_11491.txt 17 결합하다 ----- 6:3-ARG0(AGT) 9:2-ARGM-TMP() 16:2-ARGM-DIS() 17:0-rel
+etri#doc_11491.txt 18 발생하다 ----- 1:1-ARG0(THM) 17:3-ARGM-CAU() 18:0-rel

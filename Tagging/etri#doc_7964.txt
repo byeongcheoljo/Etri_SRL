@@ -1,0 +1,5 @@
+etri#doc_7964.txt 2 태어나다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_7964.txt 4 성장하다 ----- 4:0-rel
+etri#doc_7964.txt 5 사멸하다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_7964.txt 9 국한되다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_7964.txt 13 일어나다 ----- 5:2-ARG1() 9:3-ARGM-DIS() 10:1-ARGM-ADV(EFF) 12:2-ARG1(THM) 13:0-rel

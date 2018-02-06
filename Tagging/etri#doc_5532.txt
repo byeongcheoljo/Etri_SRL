@@ -1,0 +1,1 @@
+etri#doc_5532.txt 10 ¹àÈ÷´Ù ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:1-ARGM-MNR(INS) 9:1-ARGM-MNR() 10:0-rel

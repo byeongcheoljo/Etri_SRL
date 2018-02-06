@@ -1,0 +1,2 @@
+etri#doc_2117.txt 9 수행하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_2117.txt 15 분리되다 ----- 14:3-() 15:0-rel

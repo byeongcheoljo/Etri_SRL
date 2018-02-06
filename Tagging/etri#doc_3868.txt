@@ -1,0 +1,3 @@
+etri#doc_3868.txt 5 베다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3868.txt 9 제한되다 ----- 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_3868.txt 12 지키다 ----- 11:2-ARG1(THM) 12:0-rel

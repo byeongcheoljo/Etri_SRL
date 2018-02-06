@@ -1,0 +1,4 @@
+etri#doc_6295.txt 7 하다 ----- 3:2-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6295.txt 10 대다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6295.txt 12 정복당하다 ----- 12:0-rel
+etri#doc_6295.txt 14 살다 ----- 13:2-ARG2(LOC) 14:0-rel

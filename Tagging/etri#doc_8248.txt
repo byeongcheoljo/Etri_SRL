@@ -1,0 +1,4 @@
+etri#doc_8248.txt 8 합치다 ----- 5:1-ARGM-TMP() 7:2-ARG1(THM) 8:0-rel
+etri#doc_8248.txt 11 거치다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8248.txt 14 의식화되다 ----- 14:0-rel
+etri#doc_8248.txt 17 경주하다 ----- 2:2-ARGM-TMP() 4:2-ARG0(AGT) 13:2-ARGM-DIS() 16:3-ARGM-PRP(PUR) 17:0-rel

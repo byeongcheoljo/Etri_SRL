@@ -1,0 +1,4 @@
+etri#doc_7202.txt 4 활동하다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7202.txt 9 임하다 ----- 1:1-ARGM-DIS() 6:2-ARG0(AGT) 8:2-ARGM-MNR(INS) 9:0-rel
+etri#doc_7202.txt 12 제거되다 ----- 9:3-ARGM-DIS() 11:2-ARG0(THM) 12:0-rel
+etri#doc_7202.txt 16 몰락하다 ----- 13:4-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARG0(THM) 16:0-rel

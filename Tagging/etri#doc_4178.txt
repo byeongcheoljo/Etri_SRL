@@ -1,0 +1,6 @@
+etri#doc_4178.txt 7 고심하다 ----- 5:3-ARG0(MAG) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4178.txt 9 듣다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_4178.txt 13 보내다 ----- 9:4-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_4178.txt 14 하다 ----- 13:4-ARG1(CNT) 14:0-rel
+etri#doc_4178.txt 18 계속하다 ----- 15:1-ARGM-TMP() 17:2-ARG1(THM) 18:0-rel
+etri#doc_4178.txt 19 밝히다 ----- 2:2-ARG0(AGT) 14:5-ARGM-DIS() 18:3-ARG1(CNT) 19:0-rel

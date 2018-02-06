@@ -1,0 +1,4 @@
+etri#doc_5391.txt 6 ¿À´Ù ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5391.txt 9 ¿ô´Ù ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5391.txt 10 µè´Ù ----- 4:2-ARGM-ADV(EFF) 7:3-ARG0(MAG) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_5391.txt 19 ÇÏ´Ù ----- 1:1-ARGM-DIS() 10:3-ARGM-DIS() 11:1-ARG0(AGT) 18:3-ARG1(THM) 19:0-rel

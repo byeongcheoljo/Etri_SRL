@@ -1,0 +1,4 @@
+etri#doc_7253.txt 6 둘러싸다 ----- 2:2-ARG1(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_7253.txt 13 일다 ----- 6:4-ARGM-DIS() 11:5-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_7253.txt 16 빠뜨리다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARG2(GOL) 16:0-rel
+etri#doc_7253.txt 20 되새기다 ----- 19:5-ARG1(THM) 20:0-rel

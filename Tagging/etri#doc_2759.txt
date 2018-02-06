@@ -1,0 +1,2 @@
+etri#doc_2759.txt 6 주워담다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP() 6:0-rel
+etri#doc_2759.txt 11 빠지다 ----- 9:2-ARGM-DIR(DIR) 10:1-ARGM-TMP() 11:0-rel

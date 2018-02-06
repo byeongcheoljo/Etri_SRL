@@ -1,0 +1,5 @@
+etri#doc_7108.txt 4 말하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_7108.txt 5 모르다 ----- 5:0-rel
+etri#doc_7108.txt 8 하다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 8:0-rel
+etri#doc_7108.txt 10 짓다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7108.txt 16 되다 ----- 8:4-ARGM-DIS() 12:4-ARG1(THM) 15:2-ARG2(FNS) 16:0-rel

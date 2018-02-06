@@ -1,0 +1,3 @@
+etri#doc_6006.txt 5 정비례하다 ----- 4:2-ARG0(THM) 5:0-rel
+etri#doc_6006.txt 9 입증하다 ----- 2:2-ARGM-CAU(EFF) 6:4-ARG1(THM) 8:2-ARGM-INS(INS) 9:0-rel
+etri#doc_6006.txt 12 입증하다 ----- 11:1-ARG2(THM) 12:0-rel

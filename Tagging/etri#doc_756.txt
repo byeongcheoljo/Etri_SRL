@@ -1,0 +1,2 @@
+etri#doc_756.txt 9 ±ª¥Ÿ ----- 2:1-ARG1(THM) 4:2-ARGM-DIS() 8:3-ARGM-DIS() 9:0-rel
+etri#doc_756.txt 14 ∫∏¿Ã¥Ÿ ----- 12:2-ARGM-CAU() 13:1-ARG2(EXP) 14:0-rel

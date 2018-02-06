@@ -1,0 +1,5 @@
+etri#doc_1231.txt 9 포기하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_1231.txt 10 떠나다 ----- 9:3-ARGM-DIS() 10:0-rel
+etri#doc_1231.txt 14 파묻히다 ----- 14:0-rel
+etri#doc_1231.txt 15 살다 ----- 5:1-ARG0(AGT) 11:5-ARGM-TMP(LOC) 13:2-ARGM-MNR() 14:1-ARGM-DIS() 15:0-rel
+etri#doc_1231.txt 17 암시하다 ----- 4:3-ARG1(THM) 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_6666.txt 8 살다 ----- 5:3-ARGM-EXT(CRT) 6:1-ARGM-TMP() 7:1-ARG2(LOC) 8:0-rel
+etri#doc_6666.txt 17 보다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 13:3-ARGM-CND() 14:1-ARG0(AGT) 16:2-ARGM-MNR(INS) 17:0-rel

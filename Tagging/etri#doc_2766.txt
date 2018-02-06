@@ -1,0 +1,3 @@
+etri#doc_2766.txt 3 파괴하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_2766.txt 9 건설하다 ----- 3:2-ARGM-DIS() 5:2-ARGM-LOC(LOC) 8:3-ARG1(THM) 9:0-rel
+etri#doc_2766.txt 17 허물다 ----- 9:4-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG0(AGT) 15:2-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel

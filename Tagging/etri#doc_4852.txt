@@ -1,0 +1,2 @@
+etri#doc_4852.txt 11 탕진하다 ----- 6:5-ARG0(AGT) 9:2-ARGM-PRP(PUR) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4852.txt 16 조성하다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8577.txt 3 이용하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8577.txt 6 수용하다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_8577.txt 13 기여하다 ----- 12:2-ARG1(GOL) 13:0-rel
+etri#doc_8577.txt 16 변화시키다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_8577.txt 17 기여하다 ----- 10:1-ARG0(AGT) 14:4-ARGM-DIS() 16:2-ARG1() 17:0-rel

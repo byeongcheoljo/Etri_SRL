@@ -1,0 +1,6 @@
+etri#doc_1241.txt 4 잉태하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1241.txt 6 구하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_1241.txt 7 나타나다 ----- 6:5-ARGM-PRP(PUR) 7:0-rel
+etri#doc_1241.txt 12 알다 ----- 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_1241.txt 14 묻다 ----- 12:2-ARGM-DIS() 13:1-ARGM-DIR(GOL) 14:0-rel
+etri#doc_1241.txt 17 기울이다 ----- 1:1-ARGM-CND(FNS) 8:7-ARGM-INS(INS) 14:2-ARGM-DIS() 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7379.txt 9 깨우다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7379.txt 11 조심하다 ----- 9:2-ARGM-DIS() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_7379.txt 15 쓰다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

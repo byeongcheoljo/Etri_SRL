@@ -1,0 +1,5 @@
+etri#doc_2845.txt 7 배척하다 ----- 7:0-rel
+etri#doc_2845.txt 8 반대하다 ----- 2:1-ARGM-MNR(INS) 6:3-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_2845.txt 15 주장하다 ----- 15:0-rel
+etri#doc_2845.txt 16 승인하다 ----- 13:1-ARGM-TMP() 14:1-ARGM-MNR(INS) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_2845.txt 19 갖다 ----- 12:4-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

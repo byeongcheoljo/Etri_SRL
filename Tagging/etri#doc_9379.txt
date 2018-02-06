@@ -1,0 +1,1 @@
+etri#doc_9379.txt 11 ³»´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 7:5-ARG0(AGT) 8:1-ARGM-EXT() 10:2-ARG1(THM) 11:0-rel

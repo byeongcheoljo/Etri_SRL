@@ -1,0 +1,5 @@
+etri#doc_6312.txt 4 반항하다 ----- 3:1-ARG1(GOL) 4:0-rel
+etri#doc_6312.txt 6 되다 ----- 4:2-ARGM-DIS() 5:1-ARG2(FNS) 6:0-rel
+etri#doc_6312.txt 13 믿다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6312.txt 17 바치다 ----- 13:2-ARGM-DIS() 14:1-ARG2(GOL) 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel
+etri#doc_6312.txt 18 주장하다 ----- 2:2-ARGM-TMP(LOC) 7:3-ARG0(AGT) 11:2-ARGM-PRD() 17:2-ARG1(CNT) 18:0-rel

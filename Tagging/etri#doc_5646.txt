@@ -1,0 +1,4 @@
+etri#doc_5646.txt 4 Ω«Ω√«œ¥Ÿ ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5646.txt 7 ¿Á√À«œ¥Ÿ ----- 4:4-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5646.txt 11 ∏‘¥Ÿ ----- 9:1-ARG0(AGT) 10:1-ARG1() 11:0-rel
+etri#doc_5646.txt 14 ªÃ¥Ÿ ----- 11:2-ARGM-CAU() 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

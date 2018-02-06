@@ -1,0 +1,2 @@
+etri#doc_4074.txt 7 말하다 ----- 2:2-ARG1(THM) 3:1-ARG0() 6:2-ARG1(THM) 7:0-rel
+etri#doc_4074.txt 17 만들다 ----- 16:1-ARG1() 17:0-rel

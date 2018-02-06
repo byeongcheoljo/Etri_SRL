@@ -1,0 +1,4 @@
+etri#doc_9400.txt 6 선호하다 ----- 2:2-ARG0(AGT) 5:3-ARG1(THM) 6:0-rel
+etri#doc_9400.txt 9 느끼다 ----- 7:1-ARGM-INS(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_9400.txt 13 어울리다 ----- 12:1-ARG2(COM) 13:0-rel
+etri#doc_9400.txt 15 줄어들다 ----- 6:4-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARGM-MNR(INS) 14:3-ARG1(THM) 15:0-rel

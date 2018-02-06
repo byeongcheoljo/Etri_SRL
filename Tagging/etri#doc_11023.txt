@@ -1,0 +1,3 @@
+etri#doc_11023.txt 3 준비하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11023.txt 11 사용하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 10:3-ARGM-LOC(SRC) 11:0-rel
+etri#doc_11023.txt 14 갖추다 ----- 1:1-ARG0(AGT) 11:4-ARGM-DIS() 12:1-ARGM-TMP(SRC) 13:1-ARGM-MNR(INS) 14:0-rel

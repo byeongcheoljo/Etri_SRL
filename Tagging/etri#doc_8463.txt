@@ -1,0 +1,7 @@
+etri#doc_8463.txt 3 쓰다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_8463.txt 8 되다 ----- 5:1-ARG1(THM) 7:2-ARG2(FNS) 8:0-rel
+etri#doc_8463.txt 12 쓰다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_8463.txt 14 사다 ----- 14:0-rel
+etri#doc_8463.txt 15 보다 ----- 13:3-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_8463.txt 18 적다 ----- 16:3-ARG0(AGT) 17:1-ARGM-CND() 18:0-rel
+etri#doc_8463.txt 21 얻다 ----- 10:5-ARGM-DIS() 18:2-ARGM-CND() 20:2-ARG1(THM) 21:0-rel

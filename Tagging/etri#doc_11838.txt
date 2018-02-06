@@ -1,0 +1,2 @@
+etri#doc_11838.txt 12 마비되다 ----- 9:3-ARGM-CAU() 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_11838.txt 14 버티다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-TMP() 14:0-rel

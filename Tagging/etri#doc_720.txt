@@ -1,0 +1,7 @@
+etri#doc_720.txt 8 삼다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_720.txt 9 살다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARGM-PRP(EFF) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_720.txt 13 내놓다 ----- 13:0-rel
+etri#doc_720.txt 14 이야기하다 ----- 13:1-ARGM-DIS() 14:0-rel
+etri#doc_720.txt 17 일어나다 ----- 12:3-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_720.txt 18 보다 ----- 18:0-rel
+etri#doc_720.txt 19 듣다 ----- 9:3-ARGM-CND() 17:2-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel

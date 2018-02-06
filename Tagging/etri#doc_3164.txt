@@ -1,0 +1,3 @@
+etri#doc_3164.txt 10 되다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_3164.txt 20 어울리다 ----- 20:0-rel
+etri#doc_3164.txt 23 생각하다 ----- 14:6-ARGM-DIS() 22:3-ARG1() 23:0-rel

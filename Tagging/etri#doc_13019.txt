@@ -1,0 +1,4 @@
+etri#doc_13019.txt 5 논의하다 ----- 2:1-ARGM-TMP() 4:2-ARG1(THM) 5:0-rel
+etri#doc_13019.txt 10 변경하다 ----- 6:1-ARG1(THM) 8:2-ARG2(SRC) 9:1-ARG3(FNS) 10:0-rel
+etri#doc_13019.txt 13 모으다 ----- 5:3-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_13019.txt 18 제출하다 ----- 1:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-INS(INS) 15:1-ARGM-TMP() 16:1-ARG1(THM) 17:1-ARG2(GOL) 18:0-rel

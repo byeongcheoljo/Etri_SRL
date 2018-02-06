@@ -1,0 +1,5 @@
+etri#doc_4599.txt 4 완화하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4599.txt 6 정하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 5:3-ARG1(THM) 6:0-rel
+etri#doc_4599.txt 11 입다 ----- 7:1-ARGM-TMP() 9:2-ARGM-CAU(EFF) 10:1-ARG1(Npr) 11:0-rel
+etri#doc_4599.txt 16 돌아오다 ----- 12:3-ARG3(GOL) 15:3-ARG1(THM) 16:0-rel
+etri#doc_4599.txt 17 하다 ----- 6:4-ARGM-EXT() 16:4-ARGM-DIS() 17:0-rel

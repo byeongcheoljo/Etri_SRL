@@ -1,0 +1,1 @@
+etri#doc_11080.txt 5 참여하다 ----- 4:2-ARG1(LOC) 5:0-rel

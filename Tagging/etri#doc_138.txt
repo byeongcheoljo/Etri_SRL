@@ -1,0 +1,1 @@
+etri#doc_138.txt 16 확대되다 ----- 9:4-ARGM-DIS() 10:1-ARG1(THM) 14:2-ARG3(GOL) 15:1-ARGM-EXT() 16:0-rel

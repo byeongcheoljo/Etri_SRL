@@ -1,0 +1,4 @@
+etri#doc_11323.txt 4 일컬어지다 ----- 3:3-ARG2() 4:0-rel
+etri#doc_11323.txt 10 파묻히다 ----- 8:2-ARGM-MNR(INS) 9:1-ARG2(LOC) 10:0-rel
+etri#doc_11323.txt 16 안정되다 ----- 16:0-rel
+etri#doc_11323.txt 18 변화되다 ----- 6:2-ARG2(FNS) 13:3-ARG1(THM) 15:2-ARGM-INS(INS) 17:2-ARG2(FNS) 18:0-rel

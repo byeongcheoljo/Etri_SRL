@@ -1,0 +1,4 @@
+etri#doc_6652.txt 7 계속되다 ----- 4:2-ARGM-TMP(SRC) 6:2-ARGM-TMP(GOL) 7:0-rel
+etri#doc_6652.txt 13 구성되다 ----- 12:2-ARG2(INS) 13:0-rel
+etri#doc_6652.txt 20 메다 ----- 19:2-ARG1(THM) 20:0-rel
+etri#doc_6652.txt 21 거행되다 ----- 2:2-ARG1(THM) 7:3-ARGM-DIS() 8:1-ARGM-TMP() 15:2-ARGM-ADV(EFF) 17:2-ARGM-MNR(INS) 20:3-ARGM-DIS() 21:0-rel

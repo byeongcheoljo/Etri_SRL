@@ -1,0 +1,4 @@
+etri#doc_11987.txt 6 구성되다 ----- 5:5-ARG2(INS) 6:0-rel
+etri#doc_11987.txt 12 등장하다 ----- 7:7-ARG0(AGT) 11:4-ARGM-MNR() 12:0-rel
+etri#doc_11987.txt 16 구경하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_11987.txt 17 모이다 ----- 12:5-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARGM-PRP() 17:0-rel

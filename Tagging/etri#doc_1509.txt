@@ -1,0 +1,3 @@
+etri#doc_1509.txt 9 짚다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1509.txt 12 금하다 ----- 10:3-ARGM-ADV(EFF) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1509.txt 18 하다 ----- 1:1-ARG0(AGT) 12:2-ARGM-DIS() 14:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

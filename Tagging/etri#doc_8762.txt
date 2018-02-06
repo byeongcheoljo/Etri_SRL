@@ -1,0 +1,4 @@
+etri#doc_8762.txt 1 물러나다 ----- 1:0-rel
+etri#doc_8762.txt 6 굴다 ----- 3:2-ARGM-TMP() 5:2-ARGM-EXT() 6:0-rel
+etri#doc_8762.txt 9 헤치다 ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_8762.txt 11 알다 ----- 9:3-ARGM-DIS() 10:1-ARG0(MAG) 11:0-rel

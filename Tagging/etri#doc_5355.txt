@@ -1,0 +1,4 @@
+etri#doc_5355.txt 9 태어나다 ----- 5:4-ARG1(THM) 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5355.txt 12 어긋나다 ----- 10:5-ARG1(THM) 11:1-ARG2(CRT) 12:0-rel
+etri#doc_5355.txt 19 변형시키다 ----- 17:4-ARGM-CAU(EFF) 18:1-ARGM-MNR(INS) 19:0-rel
+etri#doc_5355.txt 20 보이다 ----- 1:1-ARGM-DIS() 19:2-ARGM-DIS() 20:0-rel

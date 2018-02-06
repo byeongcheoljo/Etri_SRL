@@ -1,0 +1,3 @@
+etri#doc_11130.txt 8 지니다 ----- 6:4-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11130.txt 11 투쟁하다 ----- 11:0-rel
+etri#doc_11130.txt 13 패배하다 ----- 13:0-rel

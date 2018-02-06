@@ -1,0 +1,9 @@
+etri#doc_3703.txt 2 보다 ----- 2:0-rel
+etri#doc_3703.txt 5 때리다 ----- 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_3703.txt 7 가다 ----- 6:1-ARG3(GOL) 7:0-rel
+etri#doc_3703.txt 8 자다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_3703.txt 9 하다 ----- 8:3-ARG1() 9:0-rel
+etri#doc_3703.txt 10 말씀하다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 9:4-ARG1() 10:0-rel
+etri#doc_3703.txt 13 자다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_3703.txt 15 보다 ----- 10:5-ARGM-CAU() 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_3703.txt 18 끼다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_5620.txt 6 ¶³Ä¡´Ù ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5620.txt 8 Á¡·ÉÇÏ´Ù ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5620.txt 13 ²ø´Ù ----- 6:3-ARGM-PRP() 8:2-ARGM-DIS() 10:2-ARG1(THM) 12:2-ARGM-INS(INS) 13:0-rel

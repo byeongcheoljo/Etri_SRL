@@ -1,0 +1,3 @@
+etri#doc_2108.txt 3 비틀다 ----- 2:1-() 3:0-rel
+etri#doc_2108.txt 8 터지다 ----- 5:2-ARG1(AGT) 6:1-ARGM-MNR() 7:1-ARG2(THM) 8:0-rel
+etri#doc_2108.txt 13 몰리다 ----- 8:2-ARGM-DIS() 10:2-ARG0(AGT) 11:1-ARGM-MNR() 12:1-ARGM-LOC(LOC) 13:0-rel

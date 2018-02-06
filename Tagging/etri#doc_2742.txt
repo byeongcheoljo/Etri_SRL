@@ -1,0 +1,5 @@
+etri#doc_2742.txt 5 보다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2742.txt 9 돌보다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_2742.txt 10 주다 ----- 6:5-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_2742.txt 11 먹다 ----- 11:0-rel
+etri#doc_2742.txt 12 사다 ----- 11:1-ARGM-DIS() 12:0-rel

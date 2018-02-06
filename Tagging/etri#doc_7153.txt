@@ -1,0 +1,7 @@
+etri#doc_7153.txt 2 타락하다 ----- 2:0-rel
+etri#doc_7153.txt 3 막히다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_7153.txt 7 순종하다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARG1(GOL) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_7153.txt 15 모르다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_7153.txt 16 하다 ----- 15:2-ARGM-MNR() 16:0-rel
+etri#doc_7153.txt 17 도피하다 ----- 13:2-ARG1(SRC) 16:3-ARGM-DIS() 17:0-rel
+etri#doc_7153.txt 24 참여하다 ----- 22:1-ARGM-MNR(INS) 23:1-ARG1(LOC) 24:0-rel

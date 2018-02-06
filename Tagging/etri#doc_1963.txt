@@ -1,0 +1,2 @@
+etri#doc_1963.txt 5 창설하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_1963.txt 19 되다 ----- 1:1-ARG0(AGT) 3:2-ARGM-TMP() 6:3-ARGM-DIS() 16:5-ARG0(COM) 18:2-ARG2(FNS) 19:0-rel

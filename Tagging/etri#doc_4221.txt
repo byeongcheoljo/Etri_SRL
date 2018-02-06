@@ -1,0 +1,4 @@
+etri#doc_4221.txt 7 벌이다 ----- 5:2-ARGM-ADV(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4221.txt 10 말하다 ----- 9:4-ARG1(CNT) 10:0-rel
+etri#doc_4221.txt 16 두다 ----- 12:2-ARG0(AGT) 13:1-ARGM-DIS() 14:1-ARG2(LOC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_4221.txt 17 시사하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 10:5-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

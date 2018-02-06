@@ -1,0 +1,2 @@
+etri#doc_1359.txt 4 제기하다 ----- 3:2-ARG0(THM) 4:0-rel
+etri#doc_1359.txt 16 담다 ----- 7:3-ARG0(THM) 9:2-ARG0(THM) 10:1-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

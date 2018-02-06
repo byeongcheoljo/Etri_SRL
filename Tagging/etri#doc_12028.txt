@@ -1,0 +1,2 @@
+etri#doc_12028.txt 6 걸리다 ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_12028.txt 9 오르내리다 ----- 3:3-ARG1(THM) 6:3-ARGM-DIS() 7:1-ARGM-DIS() 8:1-ARGM-LOC(LOC) 9:0-rel

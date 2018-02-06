@@ -1,0 +1,5 @@
+etri#doc_3603.txt 7 증가하다 ----- 1:1-ARGM-ADV(EFF) 2:1-ARG1(THM) 5:2-ARGM-EXT(CRT) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3603.txt 11 증가하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-ADV(EFF) 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3603.txt 15 증가하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-ADV(EFF) 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_3603.txt 17 주도하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_3603.txt 18 분석되다 ----- 15:2-ARGM-CAU() 17:2-ARG1() 18:0-rel

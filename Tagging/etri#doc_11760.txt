@@ -1,0 +1,4 @@
+etri#doc_11760.txt 10 모이다 ----- 8:1-ARG1(THM) 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_11760.txt 11 이루다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_11760.txt 15 해결하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_11760.txt 17 생겨나다 ----- 1:1-ARGM-DIS() 3:2-ARGM-MNR() 4:1-ARG1(THM) 7:3-ARGM-DIS() 16:5-ARG2(SRC) 17:0-rel

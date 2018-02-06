@@ -1,0 +1,2 @@
+etri#doc_11453.txt 10 종사하다 ----- 8:3-ARGM-LOC(LOC) 9:1-ARG1(LOC) 10:0-rel
+etri#doc_11453.txt 12 찾다 ----- 1:1-ARGM-TMP(LOC) 4:3-ARGM-TMP() 5:1-ARG0(AGT) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

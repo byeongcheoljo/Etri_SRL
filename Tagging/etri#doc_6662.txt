@@ -1,0 +1,4 @@
+etri#doc_6662.txt 7 ÇÏ´Ù ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_6662.txt 16 »ç¶ûÇÏ´Ù ----- 16:0-rel
+etri#doc_6662.txt 17 ÂùÅºÇÏ´Ù ----- 15:5-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel
+etri#doc_6662.txt 21 ´À³¢´Ù ----- 1:1-ARG0(EXP) 3:2-ARGM-LOC(LOC) 20:3-ARG1(THM) 21:0-rel

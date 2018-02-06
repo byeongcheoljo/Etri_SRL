@@ -1,0 +1,2 @@
+etri#doc_1560.txt 13 디자인하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1560.txt 17 선보이다 ----- 7:3-ARGM-ADV(EFF) 16:5-ARG0(THM) 17:0-rel

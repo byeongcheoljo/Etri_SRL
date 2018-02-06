@@ -1,0 +1,4 @@
+etri#doc_232.txt 1 실행하다 ----- 1:0-rel
+etri#doc_232.txt 6 갖다 ----- 4:1-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_232.txt 10 지다 ----- 6:2-ARGM-CND() 9:3-ARG1(THM) 10:0-rel
+etri#doc_232.txt 12 낭패하다 ----- 3:2-ARGM-CAU() 10:4-ARGM-CAU() 11:1-ARG1(THM) 12:0-rel

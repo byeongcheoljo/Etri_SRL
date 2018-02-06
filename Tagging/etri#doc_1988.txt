@@ -1,0 +1,8 @@
+etri#doc_1988.txt 11 누르다 ----- 9:4-ARGM-INS(INS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1988.txt 13 차지하다 ----- 2:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1988.txt 16 붙다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_1988.txt 17 안심하다 ----- 17:0-rel
+etri#doc_1988.txt 18 사다 ----- 17:1-ARGM-DIS() 18:0-rel
+etri#doc_1988.txt 19 되다 ----- 16:2-ARGM-DIS() 18:2-ARGM-DIS() 19:0-rel
+etri#doc_1988.txt 20 하다 ----- 19:3-ARG1(THM) 20:0-rel
+etri#doc_1988.txt 22 낳다 ----- 1:1-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG0(EFF) 21:5-ARG1(THM) 22:0-rel

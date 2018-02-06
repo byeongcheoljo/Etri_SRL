@@ -1,0 +1,4 @@
+etri#doc_6625.txt 5 망설이다 ----- 3:2-ARGM-EXT() 4:1-ARGM-EXT() 5:0-rel
+etri#doc_6625.txt 11 기르다 ----- 7:2-ARGM-ADV(EFF) 10:3-ARG1(THM) 11:0-rel
+etri#doc_6625.txt 14 결심하다 ----- 13:6-ARGM-DIS() 14:0-rel
+etri#doc_6625.txt 16 이기다 ----- 5:2-ARGM-DIS() 14:7-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

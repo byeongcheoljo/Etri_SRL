@@ -1,0 +1,4 @@
+etri#doc_4135.txt 8 보다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4135.txt 13 내려가다 ----- 10:2-ARG0(THM) 12:2-ARGM-EXT() 13:0-rel
+etri#doc_4135.txt 14 동사하다 ----- 13:3-ARGM-DIS() 14:0-rel
+etri#doc_4135.txt 17 나오다 ----- 8:3-ARGM-DIS() 16:6-ARG0(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7782.txt 7 채택하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-TMP(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_7782.txt 11 품다 ----- 9:2-ARGM-MNR(COM) 10:1-ARG0(AGT) 11:0-rel

@@ -1,0 +1,1 @@
+etri#doc_268.txt 10 주도되다 ----- 1:1-ARG1(THM) 9:2-ARG0(EFF) 10:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8270.txt 7 놓이다 ----- 3:3-ARG2(GOL) 5:2-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_8270.txt 16 놓이다 ----- 7:2-ARGM-DIS() 14:7-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7074.txt 11 ²ø´Ù ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7074.txt 13 ³»³õ´Ù ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 12:4-ARG1(THM) 13:0-rel

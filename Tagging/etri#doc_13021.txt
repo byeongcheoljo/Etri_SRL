@@ -1,0 +1,1 @@
+etri#doc_13021.txt 10 제기하다 ----- 4:4-ARG0(AGT) 5:1-ARGM-TMP() 6:1-ARGM-DIR(DIR) 7:1-ARG2(GOL) 9:2-ARG1(THM) 10:0-rel

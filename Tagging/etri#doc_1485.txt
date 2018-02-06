@@ -1,0 +1,2 @@
+etri#doc_1485.txt 5 나누어지다 ----- 2:2-ARG1(THM) 3:1-ARG2(FNS) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_1485.txt 19 모르다 ----- 18:2-ARGM-DIS() 19:0-rel

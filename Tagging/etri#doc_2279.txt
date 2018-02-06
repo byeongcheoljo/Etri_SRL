@@ -1,0 +1,5 @@
+etri#doc_2279.txt 5 거두다 ----- 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_2279.txt 10 보다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2279.txt 16 반대하다 ----- 16:0-rel
+etri#doc_2279.txt 18 폐지하다 ----- 11:1-() 15:2-() 17:2-() 18:0-rel
+etri#doc_2279.txt 19 두려워하다 ----- 2:2-ARG0() 10:3-ARGM-DIS() 18:3-ARGM-DIS() 19:0-rel

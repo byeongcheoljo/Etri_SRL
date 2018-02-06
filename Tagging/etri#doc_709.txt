@@ -1,0 +1,5 @@
+etri#doc_709.txt 3 마치다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_709.txt 5 돌아가다 ----- 3:2-ARGM-DIS() 4:1-ARG3(FNS) 5:0-rel
+etri#doc_709.txt 8 빠지다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_709.txt 10 쓰다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_709.txt 15 무너지다 ----- 8:3-ARGM-DIS() 13:3-ARGM-CAU(EFF) 14:1-ARG1(THM) 15:0-rel

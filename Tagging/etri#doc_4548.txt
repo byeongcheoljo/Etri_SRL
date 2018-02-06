@@ -1,0 +1,4 @@
+etri#doc_4548.txt 3 태어나다 ----- 3:0-rel
+etri#doc_4548.txt 9 피하다 ----- 7:3-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_4548.txt 15 만들다 ----- 9:2-ARGM-DIS() 10:1-ARGM-CND() 14:4-ARG1(THM) 15:0-rel
+etri#doc_4548.txt 16 애쓰다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 15:5-ARGM-PRP() 16:0-rel

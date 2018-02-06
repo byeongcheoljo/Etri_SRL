@@ -1,0 +1,2 @@
+etri#doc_9679.txt 4 ºØ±«½ÃÅ°´Ù ----- 2:2-ARGM-INS(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_9679.txt 9 ½ÇÇöµÇ´Ù ----- 6:1-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel

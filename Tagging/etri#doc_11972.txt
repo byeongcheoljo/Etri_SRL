@@ -1,0 +1,5 @@
+etri#doc_11972.txt 5 수행하다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_11972.txt 8 나무라다 ----- 8:0-rel
+etri#doc_11972.txt 10 접어들다 ----- 6:6-ARGM-INS(INS) 7:1-ARGM-DIS() 9:2-ARG2(GOL) 10:0-rel
+etri#doc_11972.txt 11 지나치다 ----- 11:0-rel
+etri#doc_11972.txt 13 발전하다 ----- 10:3-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel

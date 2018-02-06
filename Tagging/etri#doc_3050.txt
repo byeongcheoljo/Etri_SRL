@@ -1,0 +1,4 @@
+etri#doc_3050.txt 7 도전하다 ----- 4:1-ARGM-MNR() 6:2-ARGM-LOC(GOL) 7:0-rel
+etri#doc_3050.txt 11 돌다 ----- 8:1-ARG0(AGT) 10:2-ARG1(LOC) 11:0-rel
+etri#doc_3050.txt 13 주장하다 ----- 7:3-ARGM-DIS() 12:4-ARG1(THM) 13:0-rel
+etri#doc_3050.txt 18 확립하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 13:5-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

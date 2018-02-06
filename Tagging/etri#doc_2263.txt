@@ -1,0 +1,2 @@
+etri#doc_2263.txt 16 결정하다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_2263.txt 19 되다 ----- 3:2-ARG1() 9:2-ARG1() 18:2-ARG2(AGT) 19:0-rel

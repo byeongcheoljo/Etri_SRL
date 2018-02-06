@@ -1,0 +1,4 @@
+etri#doc_6865.txt 5 쓰다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6865.txt 9 늘어놓다 ----- 5:3-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_6865.txt 11 쓰다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_6865.txt 14 하다 ----- 9:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

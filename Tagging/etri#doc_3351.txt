@@ -1,0 +1,5 @@
+etri#doc_3351.txt 5 갖다 ----- 3:2-ARG1(THM) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3351.txt 8 대하다 ----- 6:1-ARG0(AGT) 7:1-ARG2(THM) 8:0-rel
+etri#doc_3351.txt 11 대하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARG2(THM) 11:0-rel
+etri#doc_3351.txt 12 하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_3351.txt 16 하다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4491.txt 3 걷다 ----- 1:1-ARG1(THM) 2:1-ARGM-NEG() 3:0-rel
+etri#doc_4491.txt 6 가다 ----- 4:3-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_4491.txt 7 집히다 ----- 7:0-rel
+etri#doc_4491.txt 11 열다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

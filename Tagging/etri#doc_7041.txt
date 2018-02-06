@@ -1,0 +1,6 @@
+etri#doc_7041.txt 2 기르다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7041.txt 5 삼다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_7041.txt 11 닦다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7041.txt 15 가꾸다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_7041.txt 16 가르치다 ----- 15:3-ARG1() 16:0-rel
+etri#doc_7041.txt 19 드러나다 ----- 18:2-ARG1(THM) 19:0-rel

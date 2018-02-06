@@ -1,0 +1,5 @@
+etri#doc_4603.txt 3 맞다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4603.txt 6 되다 ----- 4:4-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_4603.txt 8 나다 ----- 7:1-ARG1() 8:0-rel
+etri#doc_4603.txt 10 하다 ----- 6:2-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel
+etri#doc_4603.txt 19 모으다 ----- 11:5-ARGM-PRP(PUR) 17:5-ARG0(AGT) 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_330.txt 1 흘려버리다 ----- 1:0-rel
+etri#doc_330.txt 14 미치다 ----- 14:0-rel
+etri#doc_330.txt 19 남기다 ----- 6:5-ARGM-DIS() 10:4-ARGM-CAU() 16:3-ARG0(EFF) 18:2-ARG1() 19:0-rel

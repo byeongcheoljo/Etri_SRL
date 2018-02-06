@@ -1,0 +1,4 @@
+etri#doc_9506.txt 6 달다 ----- 3:2-ARG0(AGT) 4:1-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_9506.txt 7 말하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_9506.txt 9 지원하다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_9506.txt 16 지적하다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 15:5-ARGM-DIS() 16:0-rel

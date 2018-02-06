@@ -1,0 +1,8 @@
+etri#doc_7471.txt 2 내리다 ----- 1:1-ARGM-TMP(SRC) 2:0-rel
+etri#doc_7471.txt 4 그치다 ----- 4:0-rel
+etri#doc_7471.txt 7 내리다 ----- 5:2-ARGM-MNR() 6:1-ARGM-TMP() 7:0-rel
+etri#doc_7471.txt 8 그치다 ----- 8:0-rel
+etri#doc_7471.txt 11 내리다 ----- 7:2-ARGM-DIS() 9:2-ARGM-MNR() 10:1-ARGM-TMP() 11:0-rel
+etri#doc_7471.txt 13 계속되다 ----- 3:3-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-TMP(GOL) 13:0-rel
+etri#doc_7471.txt 15 계시다 ----- 14:1-ARG0(AGT) 15:0-rel
+etri#doc_7471.txt 19 짓눌리다 ----- 13:2-ARGM-DIS() 16:3-ARG1(THM) 18:2-ARGM-ADV(EFF) 19:0-rel

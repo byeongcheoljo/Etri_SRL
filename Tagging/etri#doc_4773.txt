@@ -1,0 +1,5 @@
+etri#doc_4773.txt 7 준비하다 ----- 4:3-ARG1(THM) 6:2-ARGM-EXT(CRT) 7:0-rel
+etri#doc_4773.txt 10 씻다 ----- 7:3-ARGM-DIS() 8:1-ARGM-INS(INS) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4773.txt 12 빠지다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4773.txt 15 담다 ----- 10:2-ARGM-DIS() 12:2-ARGM-CND() 14:2-ARG2(GOL) 15:0-rel
+etri#doc_4773.txt 20 붓다 ----- 1:1-ARGM-TMP() 15:3-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

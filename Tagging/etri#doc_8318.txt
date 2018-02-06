@@ -1,0 +1,4 @@
+etri#doc_8318.txt 4 줄이다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT(CRT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8318.txt 12 보이다 ----- 5:1-ARGM-EXT() 8:3-ARGM-EXT(EFF) 9:1-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel
+etri#doc_8318.txt 16 배치하다 ----- 4:2-ARGM-DIS() 13:4-ARG2(CRT) 14:1-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_8318.txt 18 지적되다 ----- 17:3-ARG1(FNS) 18:0-rel

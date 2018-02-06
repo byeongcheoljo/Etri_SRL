@@ -1,0 +1,3 @@
+etri#doc_1170.txt 5 치료하다 ----- 2:2-() 4:2-ARGM-TMP(SRC) 5:0-rel
+etri#doc_1170.txt 10 선행되다 ----- 5:3-() 9:2-() 10:0-rel
+etri#doc_1170.txt 12 두다 ----- 10:3-ARGM-DIS() 11:1-ARG2(GOL) 12:0-rel

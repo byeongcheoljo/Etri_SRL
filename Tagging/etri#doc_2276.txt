@@ -1,0 +1,5 @@
+etri#doc_2276.txt 5 얻다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2276.txt 8 확보하다 ----- 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_2276.txt 10 지원하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_2276.txt 14 동원하다 ----- 5:3-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_2276.txt 19 개입하다 ----- 1:1-ARG0() 18:4-ARGM-PRP() 19:0-rel

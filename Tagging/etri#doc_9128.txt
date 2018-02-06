@@ -1,0 +1,6 @@
+etri#doc_9128.txt 8 남다 ----- 4:1-ARGM-EXT() 6:2-ARG1(THM) 7:1-ARGM-TMP() 8:0-rel
+etri#doc_9128.txt 9 맞다 ----- 9:0-rel
+etri#doc_9128.txt 11 걸치다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_9128.txt 13 헤매다 ----- 8:2-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_9128.txt 15 전진하다 ----- 13:2-ARGM-DIS() 14:1-ARGM-TMP() 15:0-rel
+etri#doc_9128.txt 18 앞서다 ----- 1:1-ARGM-DIS() 3:2-ARG0(THM) 15:2-ARGM-MNR() 17:2-ARGM-LOC(LOC) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8023.txt 6 하다 ----- 5:2-ARG1() 6:0-rel
+etri#doc_8023.txt 8 말하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_8023.txt 12 하다 ----- 11:3-ARG1() 12:0-rel
+etri#doc_8023.txt 18 하다 ----- 17:1-ARG1() 18:0-rel

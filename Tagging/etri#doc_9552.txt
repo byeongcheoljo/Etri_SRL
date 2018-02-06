@@ -1,0 +1,7 @@
+etri#doc_9552.txt 4 죽다 ----- 3:1-ARGM-EXT() 4:0-rel
+etri#doc_9552.txt 6 못하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_9552.txt 9 쓰다 ----- 9:0-rel
+etri#doc_9552.txt 10 퍼뜨리다 ----- 8:2-ARG0(AGT) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_9552.txt 13 압도하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_9552.txt 15 움직이다 ----- 14:1-ARGM-MNR() 15:0-rel
+etri#doc_9552.txt 16 지배하다 ----- 6:2-ARGM-DIS() 11:3-ARG0(AGT) 13:2-ARGM-MNR() 15:2-ARGM-DIS() 16:0-rel

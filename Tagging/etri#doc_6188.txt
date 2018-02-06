@@ -1,0 +1,2 @@
+etri#doc_6188.txt 3 제작하다 ----- 2:2-ARG0(AGT) 3:0-rel
+etri#doc_6188.txt 10 결산하다 ----- 9:3-ARG1(THM) 10:0-rel

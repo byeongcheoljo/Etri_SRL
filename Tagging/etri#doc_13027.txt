@@ -1,0 +1,3 @@
+etri#doc_13027.txt 2 Å¸´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13027.txt 3 Èå¸£´Ù ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_13027.txt 5 ¼Ú´Ù ----- 3:3-ARGM-DIS() 4:1-ARGM-MNR() 5:0-rel

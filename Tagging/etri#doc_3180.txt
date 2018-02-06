@@ -1,0 +1,5 @@
+etri#doc_3180.txt 3 읽다 ----- 1:1-ARGM-TMP() 2:1-ARGM-PRP(PUR) 3:0-rel
+etri#doc_3180.txt 8 빨려들다 ----- 4:3-ARG1(THM) 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:1-ARGM-LOC(GOL) 8:0-rel
+etri#doc_3180.txt 10 잠들다 ----- 9:1-ARG0(EXP) 10:0-rel
+etri#doc_3180.txt 13 읽다 ----- 10:2-ARGM-TMP() 11:1-ARGM-MNR() 12:1-ARGM-EXT() 13:0-rel
+etri#doc_3180.txt 16 새다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

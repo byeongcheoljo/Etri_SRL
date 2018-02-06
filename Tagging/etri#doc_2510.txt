@@ -1,0 +1,5 @@
+etri#doc_2510.txt 5 세우다 ----- 3:2-() 4:1-() 5:0-rel
+etri#doc_2510.txt 8 도망치다 ----- 7:1-() 8:0-rel
+etri#doc_2510.txt 10 반격하다 ----- 9:3-ARG0(AGT) 10:0-rel
+etri#doc_2510.txt 12 손질하다 ----- 1:1-ARG0(AGT) 6:3-ARGM-ADV(EFF) 10:4-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_2510.txt 13 세우다 ----- 12:2-() 13:0-rel

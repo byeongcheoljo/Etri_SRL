@@ -1,0 +1,4 @@
+etri#doc_11880.txt 7 들어오다 ----- 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_11880.txt 10 뜨다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_11880.txt 14 보다 ----- 8:1-ARGM-DIS() 10:2-ARGM-TMP() 11:1-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel
+etri#doc_11880.txt 17 보다 ----- 1:1-ARG0(AGT) 15:4-ARG1() 16:1-ARGM-MNR(INS) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6518.txt 8 이해하다 ----- 1:1-ARGM-MNR() 2:1-ARG0(MAG) 7:2-ARG1(CNT) 8:0-rel
+etri#doc_6518.txt 11 갖다 ----- 10:2-ARG0(AGT) 11:0-rel
+etri#doc_6518.txt 14 놓치다 ----- 8:3-ARGM-CND() 13:2-ARG0(EXP) 14:0-rel

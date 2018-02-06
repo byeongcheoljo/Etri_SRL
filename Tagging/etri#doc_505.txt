@@ -1,0 +1,2 @@
+etri#doc_505.txt 6 헤아리다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_505.txt 15 선택하다 ----- 14:2-ARG1(THM) 15:0-rel

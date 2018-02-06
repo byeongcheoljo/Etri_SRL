@@ -1,0 +1,4 @@
+etri#doc_4496.txt 5 탐내다 ----- 5:0-rel
+etri#doc_4496.txt 6 성내다 ----- 5:1-ARGM-DIS() 6:0-rel
+etri#doc_4496.txt 21 모으다 ----- 20:1-ARG1(THM) 21:0-rel
+etri#doc_4496.txt 22 말씀하다 ----- 17:2-ARGM-DIS() 19:2-ARG0(AGT) 21:2-ARGM-DIS() 22:0-rel

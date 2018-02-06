@@ -1,0 +1,2 @@
+etri#doc_25.txt 12 ³ª¿À´Ù ----- 9:1-ARGM-TMP(GOL) 10:1-ARGM-TMP(GOL) 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_25.txt 14 µ½´Ù ----- 5:3-ARG0(AGT) 7:2-ARGM-NEG() 8:1-ARGM-MNR(GOL) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

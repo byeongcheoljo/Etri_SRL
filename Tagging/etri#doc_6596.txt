@@ -1,0 +1,3 @@
+etri#doc_6596.txt 10 경험되다 ----- 4:2-ARG1(THM) 6:2-ARGM-LOC(LOC) 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_6596.txt 15 가지다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6596.txt 19 생성하다 ----- 1:1-ARGM-MNR() 10:4-ARGM-DIS() 11:1-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

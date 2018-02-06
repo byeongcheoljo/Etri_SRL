@@ -1,0 +1,1 @@
+etri#doc_7680.txt 9 생각하다 ----- 5:2-ARGM-ADV(EFF) 7:2-ARG0(MAG) 8:1-ARGM-MNR() 9:0-rel

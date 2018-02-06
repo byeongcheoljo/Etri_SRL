@@ -1,0 +1,4 @@
+etri#doc_4065.txt 7 출세하다 ----- 2:1-ARGM-EXT(CRT) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_4065.txt 10 출세하다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_4065.txt 12 매장시키다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_4065.txt 19 하다 ----- 1:1-ARGM-DIS() 17:2-ARGM-CAU() 18:1-ARGM-CAU() 19:0-rel

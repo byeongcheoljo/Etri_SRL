@@ -1,0 +1,4 @@
+etri#doc_576.txt 5 거듭하다 ----- 1:1-ARGM-TMP() 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_576.txt 10 들이다 ----- 5:2-ARGM-DIS() 7:2-ARGM-LOC(GOL) 8:1-ARGM-TMP() 9:1-ARG1(THM) 10:0-rel
+etri#doc_576.txt 13 전하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_576.txt 15 돋우다 ----- 13:3-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

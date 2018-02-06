@@ -1,0 +1,2 @@
+etri#doc_103.txt 7 보이다 ----- 3:2-ARG0(COM) 4:1-ARG0(THM) 5:1-ARGM-ADV() 6:1-ARG1(THM) 7:0-rel
+etri#doc_103.txt 9 들다 ----- 8:1-ARG2(LOC) 9:0-rel

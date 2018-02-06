@@ -1,0 +1,3 @@
+etri#doc_6363.txt 4 검증하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_6363.txt 6 검색하다 ----- 4:4-ARGM-PRP() 5:1-ARG1(AGT) 6:0-rel
+etri#doc_6363.txt 11 발행되다 ----- 9:2-ARGM-LOC(LOC) 10:1-ARGM-TMP() 11:0-rel

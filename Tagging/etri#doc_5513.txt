@@ -1,0 +1,3 @@
+etri#doc_5513.txt 4 발전되다 ----- 4:0-rel
+etri#doc_5513.txt 6 고려하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5513.txt 18 조정하다 ----- 9:3-ARG0(AGT) 14:3-ARG1(THM) 16:2-ARGM-DIS() 17:1-ARGM-TMP() 18:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4264.txt 2 존재하다 ----- 2:0-rel
+etri#doc_4264.txt 5 생성하다 ----- 3:2-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4264.txt 7 존재하다 ----- 7:0-rel
+etri#doc_4264.txt 9 존재하다 ----- 9:0-rel
+etri#doc_4264.txt 14 존재하다 ----- 14:0-rel
+etri#doc_4264.txt 19 하다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 8:2-ARG1(THM) 18:5-ARG1() 19:0-rel

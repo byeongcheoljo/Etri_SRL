@@ -1,0 +1,3 @@
+etri#doc_7411.txt 10 쌓이다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_7411.txt 12 보다 ----- 11:3-ARG1() 12:0-rel
+etri#doc_7411.txt 15 드리우다 ----- 14:1-ARG1(THM) 15:0-rel

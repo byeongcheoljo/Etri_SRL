@@ -1,0 +1,4 @@
+etri#doc_8598.txt 5 불리다 ----- 2:1-ARGM-LOC(LOC) 4:2-ARG3() 5:0-rel
+etri#doc_8598.txt 12 정복하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8598.txt 14 수립하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_8598.txt 15 지배하다 ----- 6:4-ARG0(AGT) 9:2-ARGM-PRD(INS) 10:1-ARG0(AGT) 14:2-ARGM-MNR() 15:0-rel

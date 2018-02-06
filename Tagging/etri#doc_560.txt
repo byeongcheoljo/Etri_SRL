@@ -1,0 +1,2 @@
+etri#doc_560.txt 10 지적하다 ----- 8:3-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_560.txt 19 지니다 ----- 11:3-ARGM-DIS() 13:2-ARG0(AGT) 15:2-ARGM-EXT() 18:2-ARG1(THM) 19:0-rel

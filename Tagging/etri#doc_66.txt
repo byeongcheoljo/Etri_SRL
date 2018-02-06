@@ -1,0 +1,1 @@
+etri#doc_66.txt 8 전진시키다 ----- 6:2-ARG0(THM) 7:1-ARGM-EXT() 8:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9479.txt 5 어긋나다 ----- 4:1-ARG2(CRT) 5:0-rel
+etri#doc_9479.txt 7 하다 ----- 3:1-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_9479.txt 11 생각하다 ----- 7:4-ARGM-DIS() 9:2-ARG0(MAG) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_9479.txt 13 만족하다 ----- 12:1-ARGM-MNR() 13:0-rel

@@ -1,0 +1,1 @@
+etri#doc_9399.txt 20 µÚ¹Ù²î´Ù ----- 1:1-ARGM-DIS() 19:4-ARG1(THM) 20:0-rel

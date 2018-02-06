@@ -1,0 +1,5 @@
+etri#doc_5576.txt 4 제안하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5576.txt 11 거부하다 ----- 10:2-ARG0(AGT) 11:0-rel
+etri#doc_5576.txt 14 부결하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5576.txt 15 희망하다 ----- 6:1-ARG0(MAG) 7:1-ARG0(MAG) 14:3-ARG1() 15:0-rel
+etri#doc_5576.txt 16 전하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 5:3-ARG2(GOL) 15:4-ARG1(CNT) 16:0-rel

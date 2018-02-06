@@ -1,0 +1,4 @@
+etri#doc_4048.txt 5 서두르다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4048.txt 8 확대되다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_4048.txt 14 마련하다 ----- 9:3-ARGM-DIS() 10:1-ARGM-PRP(PUR) 11:1-ARGM-TMP() 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_4048.txt 16 풀이되다 ----- 6:3-ARG0(THM) 15:3-ARG2(FNS) 16:0-rel

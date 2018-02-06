@@ -1,0 +1,3 @@
+etri#doc_7442.txt 4 가져오다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_7442.txt 11 맞다 ----- 10:2-ARG2(THM) 11:0-rel
+etri#doc_7442.txt 13 대하다 ----- 12:4-ARG2() 13:0-rel

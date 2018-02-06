@@ -1,0 +1,5 @@
+etri#doc_2925.txt 3 고정되다 ----- 1:1-ARG2(LOC) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_2925.txt 5 사용하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2925.txt 11 경과하다 ----- 10:1-ARGM-TMP(THM) 11:0-rel
+etri#doc_2925.txt 16 가지다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_2925.txt 18 그리다 ----- 5:4-ARGM-CND() 7:2-ARG0(AGT) 9:2-ARGM-INS(CRT) 12:3-ARGM-TMP() 17:5-ARG1(THM) 18:0-rel

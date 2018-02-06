@@ -1,0 +1,2 @@
+etri#doc_1046.txt 9 하다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_1046.txt 21 하다 ----- 9:6-ARGM-DIS() 20:3-ARG1(THM) 21:0-rel

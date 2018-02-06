@@ -1,0 +1,5 @@
+etri#doc_6978.txt 4 끝나다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:1-ARGM-MNR(FNS) 4:0-rel
+etri#doc_6978.txt 9 살다 ----- 8:2-ARG2(LOC) 9:0-rel
+etri#doc_6978.txt 11 깨치다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_6978.txt 13 극복하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6978.txt 16 만들다 ----- 5:3-ARG0(AGT) 6:1-ARGM-INS(INS) 11:5-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3159.txt 7 주어지다 ----- 3:1-ARG1(THM) 5:2-ARGM-PRD(CNT) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_3159.txt 13 이르다 ----- 9:2-ARG1(THM) 11:2-ARGM-INS(INS) 12:1-ARG3(FNS) 13:0-rel
+etri#doc_3159.txt 15 밟다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

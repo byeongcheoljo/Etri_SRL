@@ -1,0 +1,6 @@
+etri#doc_1610.txt 5 전하다 ----- 4:1-ARG1(INS) 5:0-rel
+etri#doc_1610.txt 6 내려오다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_1610.txt 9 출판되다 ----- 2:1-ARGM-TMP() 3:1-ARGM-TMP() 7:4-ARG0(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1610.txt 11 출판하다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1610.txt 13 떨어지다 ----- 9:2-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_1610.txt 21 기다리다 ----- 1:1-ARGM-DIS() 13:4-ARGM-DIS() 17:2-ARG0(THM) 19:2-ARG1(THM) 20:1-ARGM-MNR() 21:0-rel

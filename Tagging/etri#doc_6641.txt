@@ -1,0 +1,5 @@
+etri#doc_6641.txt 5 하다 ----- 3:2-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_6641.txt 9 빠지다 ----- 8:1-ARG2(SRC) 9:0-rel
+etri#doc_6641.txt 11 부르다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_6641.txt 13 맞이하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6641.txt 14 나가다 ----- 5:2-ARGM-CND() 7:2-ARG0(AGT) 9:2-ARGM-DIS() 11:2-ARGM-DIS() 13:2-ARGM-CAU() 14:0-rel

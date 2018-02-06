@@ -1,0 +1,5 @@
+etri#doc_7635.txt 4 걱정하다 ----- 3:1-ARG0(MAG) 4:0-rel
+etri#doc_7635.txt 8 물리치다 ----- 6:4-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_7635.txt 13 꾸미다 ----- 10:2-ARG1(THM) 12:2-ARGM-MNR(FNS) 13:0-rel
+etri#doc_7635.txt 14 성공하다 ----- 8:2-ARGM-DIS() 13:3-ARGM-DIS() 14:0-rel
+etri#doc_7635.txt 17 축하하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 14:4-ARG1() 16:2-ARGM-INS(INS) 17:0-rel

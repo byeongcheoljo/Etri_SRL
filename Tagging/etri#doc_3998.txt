@@ -1,0 +1,2 @@
+etri#doc_3998.txt 8 시키다 ----- 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_3998.txt 19 받다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 17:4-ARGM-CND() 18:1-ARGM-MNR() 19:0-rel

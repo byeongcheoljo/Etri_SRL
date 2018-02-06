@@ -1,0 +1,1 @@
+etri#doc_8751.txt 11 태어나다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 4:2-ARGM-LOC(LOC) 7:3-ARGM-LOC(LOC) 10:3-ARGM-PRD(INS) 11:0-rel

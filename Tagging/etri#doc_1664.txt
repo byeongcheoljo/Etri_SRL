@@ -1,0 +1,6 @@
+etri#doc_1664.txt 2 시달리다 ----- 1:1-ARG0(LOC) 2:0-rel
+etri#doc_1664.txt 3 지치다 ----- 2:2-ARGM-MNR() 3:0-rel
+etri#doc_1664.txt 8 잠들다 ----- 4:4-ARG0(AGT) 5:1-ARGM-LOC(LOC) 6:1-ARGM-DIS() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_1664.txt 12 하다 ----- 10:1-ARGM-DIR(DIR) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1664.txt 13 깜박거리다 ----- 13:0-rel
+etri#doc_1664.txt 16 바라보다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

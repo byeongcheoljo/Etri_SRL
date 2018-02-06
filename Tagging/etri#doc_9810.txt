@@ -1,0 +1,5 @@
+etri#doc_9810.txt 1 주지하다 ----- 1:0-rel
+etri#doc_9810.txt 9 맺다 ----- 8:2-ARG0(AGT) 9:0-rel
+etri#doc_9810.txt 13 논하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_9810.txt 16 맡다 ----- 15:2-ARG0(AGT) 16:0-rel
+etri#doc_9810.txt 18 강조하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:4-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

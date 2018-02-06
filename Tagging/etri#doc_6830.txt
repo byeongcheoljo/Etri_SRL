@@ -1,0 +1,5 @@
+etri#doc_6830.txt 7 설명하다 ----- 4:2-ARG0(AGT) 5:1-ARGM-LOC(SRC) 6:1-ARGM-LOC(GOL) 7:0-rel
+etri#doc_6830.txt 13 연속하다 ----- 13:0-rel
+etri#doc_6830.txt 14 나타내다 ----- 10:2-ARG0(EFF) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_6830.txt 15 이해하다 ----- 14:2-ARG1() 15:0-rel
+etri#doc_6830.txt 16 만족하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-LOC(LOC) 15:3-ARGM-CND() 16:0-rel

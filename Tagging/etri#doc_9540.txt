@@ -1,0 +1,5 @@
+etri#doc_9540.txt 3 인용하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9540.txt 13 연결하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_9540.txt 15 놓다 ----- 11:3-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:0-rel
+etri#doc_9540.txt 18 회고하다 ----- 17:6-ARGM-DIS() 18:0-rel
+etri#doc_9540.txt 20 적다 ----- 3:3-ARGM-DIS() 6:3-ARG0(AGT) 18:7-ARGM-DIS() 19:1-ARGM-MNR(INS) 20:0-rel

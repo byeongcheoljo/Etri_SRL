@@ -1,0 +1,6 @@
+etri#doc_5812.txt 2 기다리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5812.txt 5 이루다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 5:0-rel
+etri#doc_5812.txt 7 개선되다 ----- 5:3-ARGM-PRP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_5812.txt 9 드러나다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5812.txt 14 다하다 ----- 11:1-ARG0(AGT) 13:2-ARG1(THM) 14:0-rel
+etri#doc_5812.txt 16 생기다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 15:4-ARG2(LOC) 16:0-rel

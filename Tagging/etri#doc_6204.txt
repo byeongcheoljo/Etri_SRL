@@ -1,0 +1,5 @@
+etri#doc_6204.txt 4 좋아하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6204.txt 6 좋아하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_6204.txt 10 하다 ----- 8:2-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_6204.txt 13 하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_6204.txt 14 망설이다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS(CNT) 6:2-ARGM-DIS() 10:2-ARGM-CAU() 13:3-ARG1(CNT) 14:0-rel

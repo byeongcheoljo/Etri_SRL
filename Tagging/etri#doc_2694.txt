@@ -1,0 +1,3 @@
+etri#doc_2694.txt 6 붙이다 ----- 4:3-() 5:1-() 6:0-rel
+etri#doc_2694.txt 11 업다 ----- 8:1-ARGM-EXT() 9:1-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_2694.txt 16 되다 ----- 7:3-ARG0() 11:2-ARGM-DIS() 15:3-ARG0() 16:0-rel

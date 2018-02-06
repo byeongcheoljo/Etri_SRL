@@ -1,0 +1,2 @@
+etri#doc_3935.txt 8 참여하다 ----- 6:5-ARG0(AGT) 7:1-ARG1(LOC) 8:0-rel
+etri#doc_3935.txt 12 예상하다 ----- 1:1-ARG0(MAG) 11:2-ARG1() 12:0-rel

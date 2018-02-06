@@ -1,0 +1,2 @@
+etri#doc_7651.txt 6 인정되다 ----- 3:2-ARGM-PRD(EFF) 5:2-ARG0(THM) 6:0-rel
+etri#doc_7651.txt 15 파악하다 ----- 14:1-ARG1(THM) 15:0-rel

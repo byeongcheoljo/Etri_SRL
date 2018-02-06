@@ -1,0 +1,5 @@
+etri#doc_5688.txt 3 찔리다 ----- 1:1-ARG0(EFF) 2:1-ARG1(THM) 3:0-rel
+etri#doc_5688.txt 4 쓰러지다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_5688.txt 10 뜨다 ----- 7:2-ARGM-MNR(INS) 8:1-ARGM-TMP() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5688.txt 17 벌이다 ----- 16:1-ARG0(AGT) 17:0-rel
+etri#doc_5688.txt 26 연출하다 ----- 22:3-ARG0(AGT) 25:3-ARG1(THM) 26:0-rel

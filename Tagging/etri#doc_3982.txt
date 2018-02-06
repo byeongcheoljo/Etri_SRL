@@ -1,0 +1,6 @@
+etri#doc_3982.txt 5 꼬다 ----- 3:1-ARGM-INS(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3982.txt 6 쓰다 ----- 2:2-ARG2(LOC) 5:2-ARGM-MNR() 6:0-rel
+etri#doc_3982.txt 8 지내다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3982.txt 11 치다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3982.txt 19 꼬다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_3982.txt 20 쓰다 ----- 6:3-ARGM-DIS() 17:2-ARG2(LOC) 19:2-ARGM-MNR() 20:0-rel

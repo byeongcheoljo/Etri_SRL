@@ -1,0 +1,5 @@
+etri#doc_11434.txt 6 가리키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11434.txt 8 그리다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11434.txt 10 지시하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_11434.txt 16 공격하다 ----- 10:2-ARGM-CAU() 11:1-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel
+etri#doc_11434.txt 17 논평하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 4:2-ARG0(AGT) 6:2-ARGM-MNR() 16:3-ARGM-DIS() 17:0-rel

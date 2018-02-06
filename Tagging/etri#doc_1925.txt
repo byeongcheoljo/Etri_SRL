@@ -1,0 +1,4 @@
+etri#doc_1925.txt 2 말하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_1925.txt 4 불리다 ----- 3:1-ARG3(FNS) 4:0-rel
+etri#doc_1925.txt 11 주지하다 ----- 10:3-ARG0(MAG) 11:0-rel
+etri#doc_1925.txt 22 받아들이다 ----- 2:2-ARGM-DIS() 14:2-ARGM-DIS() 18:4-ARG0(AGT) 19:1-ARG2(COM) 20:1-ARGM-MNR() 21:1-ARG1(THM) 22:0-rel

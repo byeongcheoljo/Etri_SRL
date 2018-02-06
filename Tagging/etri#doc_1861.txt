@@ -1,0 +1,4 @@
+etri#doc_1861.txt 4 보다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR(CNT) 4:0-rel
+etri#doc_1861.txt 5 돕다 ----- 5:0-rel
+etri#doc_1861.txt 8 머무르다 ----- 8:0-rel
+etri#doc_1861.txt 10 머무르다 ----- 9:2-ARG0(COM) 10:0-rel

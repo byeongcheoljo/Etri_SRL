@@ -1,0 +1,4 @@
+etri#doc_7362.txt 7 감복하다 ----- 4:2-ARGM-CAU(EFF) 6:2-ARGM-EXT() 7:0-rel
+etri#doc_7362.txt 16 공감하다 ----- 7:3-ARGM-DIS() 11:3-ARG1(THM) 13:2-ARG1(THM) 15:2-ARGM-EXT() 16:0-rel
+etri#doc_7362.txt 18 누그러지다 ----- 17:1-ARGM-EXT() 18:0-rel
+etri#doc_7362.txt 20 보이다 ----- 1:1-ARG0(AGT) 16:3-ARGM-DIS() 19:3-ARG1(THM) 20:0-rel

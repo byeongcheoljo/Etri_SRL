@@ -1,0 +1,2 @@
+etri#doc_4810.txt 7 튀기다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4810.txt 14 부르다 ----- 11:2-ARG1(THM) 12:1-ARGM-LOC(LOC) 13:1-ARG1(FNS) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4022.txt 7 되다 ----- 4:3-ARGM-PRD(COM) 5:1-ARG2(FNS) 6:1-ARGM-NEG() 7:0-rel
+etri#doc_4022.txt 15 받아들이다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_4022.txt 18 드리다 ----- 16:1-ARGM-TMP() 17:1-ARG1(THM) 18:0-rel
+etri#doc_4022.txt 22 찾아가다 ----- 9:4-ARGM-DIS() 15:3-ARGM-DIS() 18:2-ARGM-DIS() 20:2-ARGM-INS(INS) 21:1-ARG1(DIR) 22:0-rel

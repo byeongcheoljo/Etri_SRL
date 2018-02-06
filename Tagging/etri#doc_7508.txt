@@ -1,0 +1,6 @@
+etri#doc_7508.txt 5 입다 ----- 4:1-ARG1() 5:0-rel
+etri#doc_7508.txt 9 갈다 ----- 9:0-rel
+etri#doc_7508.txt 10 입다 ----- 8:1-ARG1() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_7508.txt 11 재촉하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7508.txt 17 묶다 ----- 14:3-ARGM-DIS(COM) 15:1-ARGM-INS(SRC) 16:1-ARGM-INS(GOL) 17:0-rel
+etri#doc_7508.txt 20 주다 ----- 2:2-ARG0(AGT) 7:4-ARGM-DIS() 11:3-ARGM-MNR() 17:2-ARGM-MNR() 18:1-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

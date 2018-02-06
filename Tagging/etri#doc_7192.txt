@@ -1,0 +1,3 @@
+etri#doc_7192.txt 5 갖다 ----- 4:2-ARG0(AGT) 5:0-rel
+etri#doc_7192.txt 9 띠다 ----- 8:2-ARG0(LOC) 9:0-rel
+etri#doc_7192.txt 12 생각하다 ----- 2:2-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel

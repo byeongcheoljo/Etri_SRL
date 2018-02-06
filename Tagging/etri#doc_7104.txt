@@ -1,0 +1,5 @@
+etri#doc_7104.txt 4 잡다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7104.txt 6 치켜들다 ----- 4:3-ARGM-DIS() 5:1-ARGM-DIR(DIR) 6:0-rel
+etri#doc_7104.txt 10 떠받다 ----- 1:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(INS) 9:2-ARG2(THM) 10:0-rel
+etri#doc_7104.txt 11 터지다 ----- 11:0-rel
+etri#doc_7104.txt 13 나오다 ----- 12:2-ARG2(SRC) 13:0-rel

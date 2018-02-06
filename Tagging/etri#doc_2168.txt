@@ -1,0 +1,4 @@
+etri#doc_2168.txt 3 결혼하다 ----- 2:1-ARG1(COM) 3:0-rel
+etri#doc_2168.txt 10 갖다 ----- 5:1-ARG2(EFF) 8:2-ARGM-ADV(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2168.txt 16 막히다 ----- 15:1-() 16:0-rel
+etri#doc_2168.txt 17 죽다 ----- 13:3-ARGM-CND() 14:1-ARG0() 16:2-ARGM-DIS() 17:0-rel

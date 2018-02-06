@@ -1,0 +1,7 @@
+etri#doc_5120.txt 3 피하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5120.txt 5 꽂히다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5120.txt 7 떨어지다 ----- 6:1-ARG3(LOC) 7:0-rel
+etri#doc_5120.txt 9 줍다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5120.txt 11 떨다 ----- 9:4-ARGM-PRP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5120.txt 14 바라보다 ----- 12:3-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_5120.txt 18 젖다 ----- 5:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(EXP) 17:1-ARG0(EFF) 18:0-rel

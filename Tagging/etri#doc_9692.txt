@@ -1,0 +1,4 @@
+etri#doc_9692.txt 9 ½ÇÆÐÇÏ´Ù ----- 5:2-ARGM-DIS() 7:2-ARG1() 8:1-ARGM-EXT() 9:0-rel
+etri#doc_9692.txt 11 ºô´Ù ----- 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_9692.txt 13 ºô´Ù ----- 3:1-ARG0(AGT) 9:2-ARG1(THM) 12:3-ARGM-DIS() 13:0-rel
+etri#doc_9692.txt 15 µÇ´Ù ----- 2:2-ARGM-ADV(EFF) 14:5-ARG2(FNS) 15:0-rel

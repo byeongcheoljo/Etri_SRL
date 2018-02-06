@@ -1,0 +1,4 @@
+etri#doc_8706.txt 6 나누다 ----- 2:1-ARG0(AGT) 4:2-ARGM-MNR(COM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_8706.txt 11 가다 ----- 1:1-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:0-rel
+etri#doc_8706.txt 13 알다 ----- 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_8706.txt 17 전해지다 ----- 13:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

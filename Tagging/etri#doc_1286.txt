@@ -1,0 +1,4 @@
+etri#doc_1286.txt 2 들다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_1286.txt 4 시사하다 ----- 3:3-ARG0(THM) 4:0-rel
+etri#doc_1286.txt 16 자르다 ----- 16:0-rel
+etri#doc_1286.txt 17 말하다 ----- 15:3-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

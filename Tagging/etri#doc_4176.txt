@@ -1,0 +1,1 @@
+etri#doc_4176.txt 9 보내오다 ----- 2:1-ARGM-LOC(LOC) 4:2-ARGM-PRP(PUR) 5:1-ARG1(THM) 6:1-ARGM-TMP() 7:1-ARGM-INS(INS) 8:1-ARG2(GOL) 9:0-rel

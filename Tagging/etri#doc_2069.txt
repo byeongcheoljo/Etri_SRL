@@ -1,0 +1,1 @@
+etri#doc_2069.txt 10 ¼ÓÇÏ´Ù ----- 4:3-ARG1(AGT) 6:2-ARG1(AGT) 9:3-ARGM-LOC(EFF) 10:0-rel

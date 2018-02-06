@@ -1,0 +1,6 @@
+etri#doc_4652.txt 8 들어가다 ----- 5:1-ARG2(SRC) 6:1-ARG3(GOL) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4652.txt 10 들어가다 ----- 8:2-ARGM-TMP() 9:1-ARG3(GOL) 10:0-rel
+etri#doc_4652.txt 13 빠져나가다 ----- 11:1-ARG2(SRC) 12:1-ARG0(AGT) 13:0-rel
+etri#doc_4652.txt 15 지연시키다 ----- 10:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_4652.txt 16 손실되다 ----- 16:0-rel
+etri#doc_4652.txt 18 보충하다 ----- 4:4-ARG0(AGT) 15:4-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

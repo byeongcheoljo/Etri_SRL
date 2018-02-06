@@ -1,0 +1,5 @@
+etri#doc_8542.txt 6 흔들리다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_8542.txt 8 흐리다 ----- 4:3-ARGM-CAU(EFF) 6:2-ARGM-DIS() 7:1-ARG0(AGT) 8:0-rel
+etri#doc_8542.txt 15 느끼다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS() 12:3-ARGM-CAU(EFF) 13:1-ARG0(EXP) 14:1-ARG1(Npr) 15:0-rel
+etri#doc_8542.txt 17 가지다 ----- 16:1-ARG0(LOC) 17:0-rel
+etri#doc_8542.txt 21 받아들이다 ----- 15:2-ARGM-DIS() 18:3-ARG1(THM) 20:2-ARGM-MNR() 21:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9161.txt 4 이해하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_9161.txt 11 떼다 ----- 4:3-ARGM-MNR() 10:4-ARG1(THM) 11:0-rel
+etri#doc_9161.txt 12 규정하다 ----- 11:5-ARGM-DIS() 12:0-rel
+etri#doc_9161.txt 15 놓치다 ----- 12:6-ARGM-CND() 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_3063.txt 4 벗다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3063.txt 7 드러내다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_3063.txt 13 물다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_3063.txt 14 이루어지다 ----- 11:2-ARG1(THM) 13:2-ARGM-DIS() 14:0-rel
+etri#doc_3063.txt 18 잇달다 ----- 14:3-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel
+etri#doc_3063.txt 21 고대하다 ----- 9:2-ARGM-DIS() 18:4-ARGM-DIS() 20:2-ARG1(THM) 21:0-rel

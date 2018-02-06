@@ -1,0 +1,4 @@
+etri#doc_5176.txt 4 완치되다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5176.txt 7 입력하다 ----- 5:3-ARG1(THM) 6:1-ARGM-LOC(GOL) 7:0-rel
+etri#doc_5176.txt 11 나타나다 ----- 2:1-ARG2(LOC) 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_5176.txt 14 하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel

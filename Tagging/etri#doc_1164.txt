@@ -1,0 +1,4 @@
+etri#doc_1164.txt 7 버리다 ----- 1:1-ARG1(THM) 5:4-ARGM-CND() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_1164.txt 12 죽다 ----- 12:0-rel
+etri#doc_1164.txt 15 적출하다 ----- 11:3-ARGM-DIS() 13:2-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_1164.txt 17 느끼다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

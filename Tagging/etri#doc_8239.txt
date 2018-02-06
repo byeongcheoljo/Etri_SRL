@@ -1,0 +1,6 @@
+etri#doc_8239.txt 5 눕다 ----- 3:1-ARGM-MNR() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_8239.txt 8 뒤집어쓰다 ----- 6:1-ARG1(THM) 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_8239.txt 10 울다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8239.txt 11 잠들다 ----- 1:1-ARG0(EXP) 2:1-ARGM-TMP() 5:2-ARGM-MNR() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_8239.txt 14 두드리다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8239.txt 19 구출하다 ----- 11:3-ARGM-DIS() 12:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(THM) 18:2-ARGM-LOC(LOC) 19:0-rel

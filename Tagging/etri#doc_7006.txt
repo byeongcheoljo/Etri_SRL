@@ -1,0 +1,4 @@
+etri#doc_7006.txt 1 알다 ----- 1:0-rel
+etri#doc_7006.txt 4 논의하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_7006.txt 11 등장하다 ----- 8:2-ARG1(THM) 10:2-ARG3(FNS) 11:0-rel
+etri#doc_7006.txt 12 만들다 ----- 11:3-ARGM-PRP() 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4510.txt 7 뒤흔들다 ----- 3:3-ARG0(AGT) 4:1-ARGM-EXT() 6:2-ARG1(THM) 7:0-rel
+etri#doc_4510.txt 9 들리다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4510.txt 14 번갈다 ----- 14:0-rel
+etri#doc_4510.txt 16 달라붙다 ----- 7:3-ARGM-DIS() 10:3-ARG1(AGT) 13:3-ARG2(GOL) 14:1-ARGM-DIS() 15:1-ARGM-EXT(EFF) 16:0-rel

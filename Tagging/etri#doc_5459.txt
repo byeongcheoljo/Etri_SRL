@@ -1,0 +1,5 @@
+etri#doc_5459.txt 6 막론하다 ----- 5:2-ARG2(THM) 6:0-rel
+etri#doc_5459.txt 9 되다 ----- 3:1-ARG1(THM) 6:3-ARGM-DIS() 8:2-ARG2(FNS) 9:0-rel
+etri#doc_5459.txt 12 멀어지다 ----- 11:2-ARG2(SRC) 12:0-rel
+etri#doc_5459.txt 17 의미하다 ----- 16:2-ARG2(THM) 17:0-rel
+etri#doc_5459.txt 18 받아들이다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 9:3-ARGM-DIS() 13:4-ARG1(THM) 14:1-ARGM-TMP() 17:3-ARGM-DIS() 18:0-rel

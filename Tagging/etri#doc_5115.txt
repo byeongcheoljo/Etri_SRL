@@ -1,0 +1,4 @@
+etri#doc_5115.txt 3 알다 ----- 2:1-ARG0(MAG) 3:0-rel
+etri#doc_5115.txt 9 남다 ----- 9:0-rel
+etri#doc_5115.txt 14 잘리다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5115.txt 17 되다 ----- 11:3-ARGM-DIS() 14:3-ARGM-TMP() 16:2-ARG2(Npr) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11536.txt 9 갖추다 ----- 2:1-ARG0(AGT) 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11536.txt 14 살아오다 ----- 12:1-ARG2(LOC) 13:1-ARGM-TMP() 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3741.txt 8 수행하다 ----- 4:4-ARGM-CAU(EFF) 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3741.txt 13 이기다 ----- 11:3-ARGM-LOC(THM) 12:1-ARGM-NEG() 13:0-rel
+etri#doc_3741.txt 15 묵인하다 ----- 8:2-ARGM-DIS() 13:2-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel
+etri#doc_3741.txt 17 존립하다 ----- 16:3-ARG1(THM) 17:0-rel

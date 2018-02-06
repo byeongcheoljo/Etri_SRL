@@ -1,0 +1,7 @@
+etri#doc_7011.txt 3 생각하다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_7011.txt 5 표현하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7011.txt 8 침해하다 ----- 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7011.txt 10 규제하다 ----- 5:2-ARGM-DIS() 8:2-ARGM-CAU() 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_7011.txt 14 생각하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_7011.txt 17 이해하다 ----- 17:0-rel
+etri#doc_7011.txt 18 납득되다 ----- 1:1-ARGM-DIS() 3:2-ARGM-CND() 11:3-ARG1(THM) 14:3-ARGM-TMP() 15:1-ARGM-MNR() 16:1-ARGM-MNR() 17:1-ARGM-DIS() 18:0-rel

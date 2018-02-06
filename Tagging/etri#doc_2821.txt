@@ -1,0 +1,2 @@
+etri#doc_2821.txt 9 성장하다 ----- 1:1-ARG0(THM) 2:1-ARGM-DIS() 6:3-ARGM-INS(INS) 8:2-ARG3(FNS) 9:0-rel
+etri#doc_2821.txt 17 확보하다 ----- 9:3-ARGM-PRP(PUR) 11:2-ARGM-DIS() 14:3-ARGM-TMP(LOC) 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_3350.txt 19 결정하다 ----- 10:2-ARG0(AGT) 18:2-ARG1(THM) 19:0-rel

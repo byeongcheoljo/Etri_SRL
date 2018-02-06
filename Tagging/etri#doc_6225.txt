@@ -1,0 +1,5 @@
+etri#doc_6225.txt 3 제시되다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_6225.txt 5 수용되다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_6225.txt 10 차지하다 ----- 6:3-ARG0(AGT) 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_6225.txt 16 수용되다 ----- 15:2-ARGM-TMP() 16:0-rel
+etri#doc_6225.txt 18 밀어내다 ----- 3:3-ARGM-EXT() 10:2-ARGM-DIS() 11:1-ARGM-TMP() 13:2-ARG0(AGT) 17:4-ARG1(THM) 18:0-rel

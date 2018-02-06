@@ -1,0 +1,4 @@
+etri#doc_805.txt 3 유지시키다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_805.txt 5 무력화시키다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_805.txt 11 차단시키다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_805.txt 13 주력하다 ----- 3:2-ARGM-PRP(PUR) 5:2-ARGM-DIS() 8:2-ARG0(AGT) 12:4-ARG1() 13:0-rel

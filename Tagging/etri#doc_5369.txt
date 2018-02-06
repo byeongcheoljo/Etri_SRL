@@ -1,0 +1,2 @@
+etri#doc_5369.txt 10 누리다 ----- 1:1-ARG0(AGT) 3:2-ARGM-MNR(INS) 4:1-ARGM-EXT(CRT) 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5369.txt 17 입증되다 ----- 15:5-ARG2(THM) 16:1-ARGM-MNR(INS) 17:0-rel

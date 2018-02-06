@@ -1,0 +1,2 @@
+etri#doc_3508.txt 8 연기하다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 6:3-ARG1(THM) 7:1-ARGM-TMP(FNS) 8:0-rel
+etri#doc_3508.txt 9 보도되다 ----- 8:2-ARG1() 9:0-rel

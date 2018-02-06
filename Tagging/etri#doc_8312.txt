@@ -1,0 +1,4 @@
+etri#doc_8312.txt 6 늘어놓다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV() 5:3-ARG1(THM) 6:0-rel
+etri#doc_8312.txt 7 들다 ----- 6:4-ARG1() 7:0-rel
+etri#doc_8312.txt 17 주다 ----- 10:2-ARG0(EFF) 11:1-ARGM-DIS() 13:2-ARG2(GOL) 14:1-ARGM-EXT() 16:2-ARG1(THM) 17:0-rel
+etri#doc_8312.txt 20 들다 ----- 7:5-ARGM-DIS() 8:1-ARG0(EXP) 18:4-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

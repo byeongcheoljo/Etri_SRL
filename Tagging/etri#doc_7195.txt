@@ -1,0 +1,2 @@
+etri#doc_7195.txt 10 힘쓰다 ----- 9:3-ARGM-MNR(LOC) 10:0-rel
+etri#doc_7195.txt 15 마련하다 ----- 10:4-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

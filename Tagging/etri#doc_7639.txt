@@ -1,0 +1,6 @@
+etri#doc_7639.txt 3 ²Þ²Ù´Ù ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7639.txt 5 ´¯´Ù ----- 3:3-ARGM-MNR() 4:1-ARG1(LOC) 5:0-rel
+etri#doc_7639.txt 11 °¡´Ù ----- 10:1-ARG3(GOL) 11:0-rel
+etri#doc_7639.txt 13 ´çÇÏ´Ù ----- 11:2-ARGM-DIS() 12:1-ARG2(THM) 13:0-rel
+etri#doc_7639.txt 14 ¸öÁ®´¯´Ù ----- 13:2-ARGM-MNR() 14:0-rel
+etri#doc_7639.txt 16 ±â¾ïÇÏ´Ù ----- 8:3-ARGM-DIS() 15:4-ARG0(MAG) 16:0-rel

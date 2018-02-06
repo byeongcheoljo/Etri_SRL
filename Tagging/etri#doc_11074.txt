@@ -1,0 +1,5 @@
+etri#doc_11074.txt 3 저축하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_11074.txt 6 되다 ----- 4:3-ARG2(FNS) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_11074.txt 12 죽다 ----- 12:0-rel
+etri#doc_11074.txt 13 살다 ----- 12:1-ARGM-DIS() 13:0-rel
+etri#doc_11074.txt 14 모으다 ----- 8:2-ARG0(AGT) 11:3-ARGM-TMP(LOC) 13:2-ARGM-DIS() 14:0-rel

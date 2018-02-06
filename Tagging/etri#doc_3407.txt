@@ -1,0 +1,5 @@
+etri#doc_3407.txt 5 고민하다 ----- 2:1-ARGM-ADV(CNT) 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_3407.txt 8 참석하다 ----- 5:3-ARGM-PRP() 7:2-ARG1(LOC) 8:0-rel
+etri#doc_3407.txt 13 하다 ----- 11:3-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_3407.txt 16 참여하다 ----- 13:2-ARGM-DIS() 15:2-ARG1(GOL) 16:0-rel
+etri#doc_3407.txt 19 말하다 ----- 1:1-ARG0(AGT) 18:5-ARG1() 19:0-rel

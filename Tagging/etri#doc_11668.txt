@@ -1,0 +1,2 @@
+etri#doc_11668.txt 11 행하다 ----- 9:1-ARG0(AGT) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_11668.txt 18 이루어지다 ----- 8:2-ARG1(THM) 13:4-ARGM-LOC(LOC) 17:3-ARGM-INS(INS) 18:0-rel

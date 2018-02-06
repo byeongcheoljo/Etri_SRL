@@ -1,0 +1,5 @@
+etri#doc_1082.txt 5 변색하다 ----- 3:3-ARG1(FNS) 4:1-ARGM-EXT(FNS) 5:0-rel
+etri#doc_1082.txt 10 치다 ----- 9:1-ARGM-INS() 10:0-rel
+etri#doc_1082.txt 14 붓다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_1082.txt 15 오르다 ----- 5:2-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARG1(LOC) 12:4-ARGM-MNR(CRT) 14:2-ARGM-MNR() 15:0-rel
+etri#doc_1082.txt 17 나타내다 ----- 16:4-ARG1(THM) 17:0-rel

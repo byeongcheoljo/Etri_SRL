@@ -1,0 +1,5 @@
+etri#doc_4238.txt 3 제출하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4238.txt 6 하다 ----- 5:4-ARG1(CNT) 6:0-rel
+etri#doc_4238.txt 12 되다 ----- 10:4-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_4238.txt 17 하다 ----- 12:2-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel
+etri#doc_4238.txt 18 지적하다 ----- 1:1-ARG0(AGT) 6:5-ARGM-DIS() 17:2-ARG1() 18:0-rel

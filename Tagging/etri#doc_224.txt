@@ -1,0 +1,4 @@
+etri#doc_224.txt 7 이용하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_224.txt 12 진전되다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_224.txt 15 만들다 ----- 7:3-ARGM-MNR() 10:3-ARGM-MNR() 14:4-ARG1(THM) 15:0-rel
+etri#doc_224.txt 16 말하다 ----- 4:4-ARG0(AGT) 15:5-ARG1() 16:0-rel

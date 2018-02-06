@@ -1,0 +1,2 @@
+etri#doc_82.txt 4 마치다 ----- 2:1-ARGM-TMP(GOL) 3:1-ARG0(THM) 4:0-rel
+etri#doc_82.txt 16 거치다 ----- 7:3-ARGM-DIS() 8:1-ARGM-CND() 12:4-ARGM-TMP(GOL) 15:3-ARG1(LOC) 16:0-rel

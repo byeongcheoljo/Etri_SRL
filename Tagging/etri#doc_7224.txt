@@ -1,0 +1,9 @@
+etri#doc_7224.txt 3 파괴되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7224.txt 5 갈리다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7224.txt 7 끊어지다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7224.txt 9 잘리다 ----- 7:2-ARGM-DIS() 8:1-ARG1(GOL) 9:0-rel
+etri#doc_7224.txt 11 부서지다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7224.txt 14 떨어지다 ----- 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_7224.txt 18 뒹굴다 ----- 14:3-ARGM-DIS() 16:2-ARGM-LOC(LOC) 17:1-ARGM-DIS() 18:0-rel
+etri#doc_7224.txt 21 처박히다 ----- 19:1-ARG1(THM) 20:1-ARGM-MNR() 21:0-rel
+etri#doc_7224.txt 23 마주보다 ----- 3:3-ARGM-DIS() 18:2-ARGM-DIS() 21:2-ARGM-MNR() 22:1-ARGM-LOC(LOC) 23:0-rel

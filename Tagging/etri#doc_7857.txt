@@ -1,0 +1,5 @@
+etri#doc_7857.txt 9 자라다 ----- 7:1-ARG0(THM) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_7857.txt 16 계속되다 ----- 14:3-ARGM-TMP(LOC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_7857.txt 18 맺다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_7857.txt 20 적어지다 ----- 11:4-ARG1(THM) 16:2-ARGM-CND() 19:3-ARG1(THM) 20:0-rel
+etri#doc_7857.txt 23 증명하다 ----- 21:5-ARG0(AGT) 22:1-ARG1(THM) 23:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3197.txt 11 설명하다 ----- 2:2-ARGM-TMP() 4:2-ARGM-LOC(LOC) 10:4-ARG1(THM) 11:0-rel
+etri#doc_3197.txt 14 경청하다 ----- 11:5-ARGM-TMP() 12:1-ARG0(MAG) 13:1-ARGM-MNR() 14:0-rel

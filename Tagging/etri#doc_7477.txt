@@ -1,0 +1,4 @@
+etri#doc_7477.txt 5 연결되다 ----- 2:2-ARGM-DIR(DIR) 4:2-ARG1(THM) 5:0-rel
+etri#doc_7477.txt 8 하다 ----- 7:1-ARG1(CNT) 8:0-rel
+etri#doc_7477.txt 15 포함하다 ----- 10:2-ARGM-ADV(COM) 13:2-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_7477.txt 16 말하다 ----- 6:1-ARGM-DIS() 8:2-ARGM-DIS() 15:2-ARGM-MNR() 16:0-rel

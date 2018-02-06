@@ -1,0 +1,4 @@
+etri#doc_11659.txt 4 놀다 ----- 2:1-ARGM-INS(INS) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_11659.txt 6 두다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11659.txt 8 노력하다 ----- 4:2-ARGM-CND() 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11659.txt 14 즐기다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG0() 11:1-ARGM-EXT() 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

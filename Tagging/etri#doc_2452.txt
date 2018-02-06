@@ -1,0 +1,2 @@
+etri#doc_2452.txt 7 방치되다 ----- 7:0-rel
+etri#doc_2452.txt 13 걸치다 ----- 12:2-ARG2(LOC) 13:0-rel

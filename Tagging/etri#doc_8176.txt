@@ -1,0 +1,3 @@
+etri#doc_8176.txt 8 입각하다 ----- 3:3-ARG0(AGT) 7:2-ARG2(LOC) 8:0-rel
+etri#doc_8176.txt 13 기반하다 ----- 8:3-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-TMP(LOC) 12:2-ARGM-LOC(LOC) 13:0-rel
+etri#doc_8176.txt 16 생각하다 ----- 14:4-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1087.txt 3 발표하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_1087.txt 15 초래하다 ----- 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_288.txt 5 ¹¯´Ù ----- 3:1-ARG2(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_288.txt 7 ±ú´Ù ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_288.txt 9 ¹¯´Ù ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_288.txt 18 ¹¯´Ù ----- 15:5-ARGM-CAU() 16:1-ARGM-TMP() 17:1-ARG1(THM) 18:0-rel

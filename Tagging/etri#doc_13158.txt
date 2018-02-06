@@ -1,0 +1,7 @@
+etri#doc_13158.txt 2 재연되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13158.txt 4 없애다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_13158.txt 5 위하다 ----- 4:4-ARGM-DIS() 5:0-rel
+etri#doc_13158.txt 9 구분하다 ----- 5:5-ARGM-PRP() 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_13158.txt 14 침범하다 ----- 11:2-ARGM-EXT(EFF) 13:2-ARG1(LOC) 14:0-rel
+etri#doc_13158.txt 16 되다 ----- 9:2-ARGM-DIS() 15:4-ARG2(FNS) 16:0-rel
+etri#doc_13158.txt 19 강구하다 ----- 16:5-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

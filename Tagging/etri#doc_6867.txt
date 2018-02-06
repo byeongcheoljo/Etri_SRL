@@ -1,0 +1,4 @@
+etri#doc_6867.txt 8 보이다 ----- 4:4-ARG0(AGT) 6:2-ARG2(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_6867.txt 11 받다 ----- 8:2-ARGM-CAU() 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6867.txt 14 살리다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6867.txt 18 하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-MNR() 14:2-ARGM-PRP() 17:3-ARG1(THM) 18:0-rel

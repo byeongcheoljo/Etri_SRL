@@ -1,0 +1,3 @@
+etri#doc_8978.txt 9 얻다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_8978.txt 12 촉진시키다 ----- 4:1-ARGM-MNR() 9:4-ARGM-PRP() 11:2-ARG1(THM) 12:0-rel
+etri#doc_8978.txt 15 속하다 ----- 3:3-ARG1(THM) 13:4-ARG1(THM) 14:1-ARG2(LOC) 15:0-rel

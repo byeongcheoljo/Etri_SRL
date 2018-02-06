@@ -1,0 +1,5 @@
+etri#doc_8189.txt 2 목놓다 ----- 2:0-rel
+etri#doc_8189.txt 3 부르다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8189.txt 14 보내다 ----- 10:1-ARG0(AGT) 12:2-ARGM-MNR(INS) 13:1-ARG1() 14:0-rel
+etri#doc_8189.txt 18 흐르다 ----- 9:3-ARG2(SRC) 16:2-ARG3(LOC) 17:1-ARGM-EXT(EFF) 18:0-rel
+etri#doc_8189.txt 22 남다 ----- 1:1-ARGM-DIS() 5:2-ARG1(THM) 18:2-ARGM-DIS() 21:3-ARG2(FNS) 22:0-rel

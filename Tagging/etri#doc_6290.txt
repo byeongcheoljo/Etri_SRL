@@ -1,0 +1,4 @@
+etri#doc_6290.txt 2 ¶ß´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6290.txt 7 ¹à´Ù ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6290.txt 13 Áö´Ù ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6290.txt 20 ºÎ¸£´Ù ----- 11:7-ARGM-EXT(CRT) 18:4-ARG1(THM) 19:1-ARG1(CNT) 20:0-rel

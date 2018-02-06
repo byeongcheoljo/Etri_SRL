@@ -1,0 +1,5 @@
+etri#doc_6259.txt 2 들어서다 ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_6259.txt 12 하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6259.txt 14 주다 ----- 9:2-ARG0(AGT) 10:1-ARGM-MNR() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_6259.txt 15 설명하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6259.txt 18 제시하다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 15:3-ARGM-PRP() 17:2-ARG1(THM) 18:0-rel

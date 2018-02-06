@@ -1,0 +1,3 @@
+etri#doc_506.txt 4 조작하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_506.txt 9 처리하다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_506.txt 15 지급하다 ----- 2:2-ARGM-CND(EFF) 4:2-ARGM-DIS() 6:2-ARGM-LOC(LOC) 9:2-ARGM-DIS() 10:1-ARG2(GOL) 14:3-ARG1(THM) 15:0-rel

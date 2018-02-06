@@ -1,0 +1,2 @@
+etri#doc_4904.txt 10 ´Ùµë´Ù ----- 8:2-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_4904.txt 16 ½Æ´Ù ----- 2:2-ARG0(AGT) 5:3-ARGM-TMP(LOC) 10:2-ARGM-DIS() 13:3-ARG2(GOL) 15:2-ARG1(THM) 16:0-rel

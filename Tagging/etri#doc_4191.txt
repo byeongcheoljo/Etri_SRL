@@ -1,0 +1,4 @@
+etri#doc_4191.txt 7 사용하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4191.txt 10 통보하다 ----- 3:1-ARGM-TMP() 7:2-ARG1(CNT) 9:2-ARG2(GOL) 10:0-rel
+etri#doc_4191.txt 14 열다 ----- 12:2-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_4191.txt 16 결정하다 ----- 2:2-ARG0(AGT) 10:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5722.txt 5 °Þ´Ù ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_5722.txt 16 ´ã±â´Ù ----- 1:1-ARGM-DIS() 14:5-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

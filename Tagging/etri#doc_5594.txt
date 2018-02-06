@@ -1,0 +1,5 @@
+etri#doc_5594.txt 6 옮기다 ----- 5:3-ARG3(DIR) 6:0-rel
+etri#doc_5594.txt 7 퇴직하다 ----- 2:1-ARG0(AGT) 6:4-ARGM-PRP() 7:0-rel
+etri#doc_5594.txt 8 환영하다 ----- 7:5-ARGM-CND() 8:0-rel
+etri#doc_5594.txt 14 보다 ----- 8:6-ARGM-DIS() 11:2-ARGM-CND() 12:1-ARG1(THM) 13:1-ARGM-DIS(EFF) 14:0-rel
+etri#doc_5594.txt 15 결론짓다 ----- 1:1-ARG0(AGT) 14:2-ARG1(CNT) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_363.txt 3 노력하다 ----- 2:1-ARGM-TMP(SRC) 3:0-rel
+etri#doc_363.txt 5 들어가다 ----- 1:1-ARG0(AGT) 3:2-ARGM-CND() 4:1-ARG3(GOL) 5:0-rel
+etri#doc_363.txt 8 흘리다 ----- 7:4-ARG1(EFF) 8:0-rel
+etri#doc_363.txt 9 들어가다 ----- 8:5-ARGM-CND() 9:0-rel

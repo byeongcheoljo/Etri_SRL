@@ -1,0 +1,2 @@
+etri#doc_2226.txt 7 알다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_2226.txt 14 검토하다 ----- 7:3-ARGM-PRP(PUR) 8:1-ARG2(DIR) 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8741.txt 2 태어나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8741.txt 10 빠지다 ----- 8:2-ARGM-DIS() 9:1-ARG2(DIR) 10:0-rel
+etri#doc_8741.txt 12 되찾다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8741.txt 14 바뀌다 ----- 5:2-ARG1(THM) 10:2-ARGM-DIS() 13:3-ARG2(FNS) 14:0-rel

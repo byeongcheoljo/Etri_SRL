@@ -1,0 +1,5 @@
+etri#doc_7136.txt 4 일어나다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_7136.txt 7 쓰다 ----- 4:2-ARGM-DIS() 5:1-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7136.txt 8 합법화하다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_7136.txt 15 일으키다 ----- 10:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_7136.txt 18 공격하다 ----- 15:2-ARGM-DIS() 16:1-ARGM-INS(INS) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1058.txt 4 돌리다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_1058.txt 5 돌리다 ----- 4:2-ARGM-MNR() 5:0-rel
+etri#doc_1058.txt 9 닿다 ----- 5:3-ARGM-MNR() 6:1-ARG1(THM) 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_1058.txt 12 닿다 ----- 9:3-ARGM-TMP() 11:2-ARG1(THM) 12:0-rel
+etri#doc_1058.txt 16 위치하다 ----- 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8877.txt 6 되다 ----- 3:1-ARG1(THM) 5:2-ARG2(FNS) 6:0-rel
+etri#doc_8877.txt 7 시사하다 ----- 6:3-ARGM-EXT() 7:0-rel
+etri#doc_8877.txt 14 이루어지다 ----- 9:2-ARG1(THM) 13:2-ARGM-CAU(EFF) 14:0-rel
+etri#doc_8877.txt 17 배치되다 ----- 2:2-ARG1(THM) 7:4-ARGM-CAU() 16:2-ARGM-MNR(COM) 17:0-rel

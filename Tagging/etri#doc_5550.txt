@@ -1,0 +1,4 @@
+etri#doc_5550.txt 7 결혼하다 ----- 6:3-ARG0(AGT) 7:0-rel
+etri#doc_5550.txt 11 지배하다 ----- 7:4-ARGM-DIS() 9:2-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_5550.txt 16 받다 ----- 12:3-ARGM-CAU(EFF) 13:1-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel
+etri#doc_5550.txt 17 얘기하다 ----- 16:3-ARG1() 17:0-rel

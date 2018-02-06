@@ -1,0 +1,2 @@
+etri#doc_1289.txt 5 하다 ----- 2:2-ARG0(LOC) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_1289.txt 16 지니다 ----- 5:3-ARGM-TMP() 6:1-ARG1(THM) 7:1-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_3376.txt 3 잘못되다 ----- 1:1-ARG0(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_3376.txt 8 살다 ----- 7:1-ARG2(LOC) 8:0-rel
+etri#doc_3376.txt 12 하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3376.txt 13 사다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_3376.txt 18 파다 ----- 15:5-ARGM-CAU() 16:1-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,7 @@
+etri#doc_5155.txt 1 들어오다 ----- 1:0-rel
+etri#doc_5155.txt 4 하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-LOC() 3:1-ARG1(THM) 4:0-rel
+etri#doc_5155.txt 5 하다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_5155.txt 9 들어가다 ----- 7:1-ARG0(AGT) 8:1-ARG3(GOL) 9:0-rel
+etri#doc_5155.txt 10 하다 ----- 9:2-ARG1() 10:0-rel
+etri#doc_5155.txt 13 보다 ----- 11:1-ARGM-TMP(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5155.txt 14 하다 ----- 5:3-ARGM-DIS() 6:1-ARG0(AGT) 10:3-ARGM-DIS() 13:2-ARG1() 14:0-rel

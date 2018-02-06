@@ -1,0 +1,5 @@
+etri#doc_585.txt 1 모르다 ----- 1:0-rel
+etri#doc_585.txt 7 실시하다 ----- 5:2-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_585.txt 9 박다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_585.txt 12 떼다 ----- 11:1-ARG1() 12:0-rel
+etri#doc_585.txt 14 깎이다 ----- 12:2-ARGM-DIS() 13:1-ARG1() 14:0-rel

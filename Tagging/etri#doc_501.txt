@@ -1,0 +1,5 @@
+etri#doc_501.txt 3 오다 ----- 2:1-ARG3(LOC) 3:0-rel
+etri#doc_501.txt 11 쓰이다 ----- 3:2-ARGM-DIS() 5:2-ARG0(THM) 10:5-ARG1(FNS) 11:0-rel
+etri#doc_501.txt 15 대조되다 ----- 14:3-ARGM-EXT(COM) 15:0-rel
+etri#doc_501.txt 18 하다 ----- 16:1-ARG1(THM) 17:1-ARG2(FNS) 18:0-rel
+etri#doc_501.txt 21 쓰이다 ----- 1:1-() 11:6-() 20:4-() 21:0-rel

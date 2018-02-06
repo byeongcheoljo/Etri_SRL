@@ -1,0 +1,5 @@
+etri#doc_11981.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11981.txt 5 떨어지다 ----- 2:2-ARGM-TMP() 4:2-ARG1(THM) 5:0-rel
+etri#doc_11981.txt 6 유찰되다 ----- 6:0-rel
+etri#doc_11981.txt 8 보다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_11981.txt 13 노력하다 ----- 8:2-ARGM-CAU() 12:2-ARGM-MNR() 13:0-rel

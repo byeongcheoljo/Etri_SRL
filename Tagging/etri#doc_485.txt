@@ -1,0 +1,2 @@
+etri#doc_485.txt 5 되살아나다 ----- 4:3-ARGM-EXT() 5:0-rel
+etri#doc_485.txt 9 알다 ----- 7:1-ARG0(AGT) 8:1-ARGM-TMP() 9:0-rel

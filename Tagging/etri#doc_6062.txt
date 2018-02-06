@@ -1,0 +1,4 @@
+etri#doc_6062.txt 4 묻다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6062.txt 7 뒤지다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARG1() 7:0-rel
+etri#doc_6062.txt 18 보충하다 ----- 11:3-ARGM-DIS() 15:4-ARG1(THM) 17:2-ARGM-LOC(LOC) 18:0-rel
+etri#doc_6062.txt 19 하다 ----- 1:1-ARGM-DIS() 7:2-ARGM-DIS() 18:3-ARG1(CNT) 19:0-rel

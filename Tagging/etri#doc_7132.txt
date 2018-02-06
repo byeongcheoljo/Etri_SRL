@@ -1,0 +1,5 @@
+etri#doc_7132.txt 3 깨닫다 ----- 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_7132.txt 4 확인하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:0-rel
+etri#doc_7132.txt 7 도와주다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7132.txt 15 되다 ----- 14:1-ARG1(FNS) 15:0-rel
+etri#doc_7132.txt 17 방해하다 ----- 13:1-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

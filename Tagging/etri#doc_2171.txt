@@ -1,0 +1,5 @@
+etri#doc_2171.txt 3 선택하다 ----- 2:2-ARG0(THM) 3:0-rel
+etri#doc_2171.txt 11 결혼하다 ----- 10:1-ARG1(COM) 11:0-rel
+etri#doc_2171.txt 14 하다 ----- 9:1-ARG0(AGT) 12:3-ARG1(THM) 13:1-ARGM-MNR(EFF) 14:0-rel
+etri#doc_2171.txt 15 하다 ----- 15:0-rel
+etri#doc_2171.txt 16 걱정하다 ----- 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:0-rel

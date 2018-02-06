@@ -1,0 +1,1 @@
+etri#doc_9547.txt 11 포함하다 ----- 9:2-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel

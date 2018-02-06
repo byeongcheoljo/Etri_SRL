@@ -1,0 +1,6 @@
+etri#doc_3568.txt 4 되풀이되다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_3568.txt 11 보다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3568.txt 13 놀라다 ----- 9:2-ARGM-CAU() 11:2-ARGM-DIS() 12:1-ARGM-ADV() 13:0-rel
+etri#doc_3568.txt 16 뛰쳐나오다 ----- 6:4-ARGM-DIS() 13:2-ARGM-CAU() 14:1-ARG0(COM) 15:1-ARGM-DIR(DIR) 16:0-rel
+etri#doc_3568.txt 17 하다 ----- 16:2-ARG1(CNT) 17:0-rel
+etri#doc_3568.txt 20 탓하다 ----- 2:2-ARG0(AGT) 17:3-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

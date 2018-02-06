@@ -1,0 +1,4 @@
+etri#doc_3353.txt 9 삼다 ----- 6:1-ARG1(THM) 8:2-ARG2(FNS) 9:0-rel
+etri#doc_3353.txt 12 발달시키다 ----- 3:2-ARG0(AGT) 5:2-ARG2(LOC) 11:2-ARG1(THM) 12:0-rel
+etri#doc_3353.txt 13 가정하다 ----- 12:3-ARG1(CNT) 13:0-rel
+etri#doc_3353.txt 19 다루다 ----- 1:1-ARG0(AGT) 13:4-ARGM-DIS() 14:1-ARG0(AGT) 16:2-ARG1(THM) 17:1-ARGM-DIS() 18:1-ARGM-MNR() 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8157.txt 8 극복하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8157.txt 10 서다 ----- 9:3-ARG1(LOC) 10:0-rel
+etri#doc_8157.txt 12 고집하다 ----- 11:5-ARG1(THM) 12:0-rel
+etri#doc_8157.txt 14 모색하다 ----- 12:6-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

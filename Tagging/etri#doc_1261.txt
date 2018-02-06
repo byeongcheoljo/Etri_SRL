@@ -1,0 +1,4 @@
+etri#doc_1261.txt 1 도달하다 ----- 1:0-rel
+etri#doc_1261.txt 2 추구하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1261.txt 4 획득되다 ----- 2:2-ARGM-DIS() 3:1-ARG0(THM) 4:0-rel
+etri#doc_1261.txt 7 오다 ----- 4:2-ARGM-TMP() 5:1-ARGM-TMP() 6:1-ARG0(EXP) 7:0-rel

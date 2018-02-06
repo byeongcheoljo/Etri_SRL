@@ -1,0 +1,4 @@
+etri#doc_11129.txt 3 돌이키다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11129.txt 11 비약하다 ----- 9:5-ARGM-MNR(INS) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_11129.txt 15 빛나다 ----- 4:1-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_11129.txt 16 발견하다 ----- 3:3-ARGM-CND() 15:2-ARG1() 16:0-rel

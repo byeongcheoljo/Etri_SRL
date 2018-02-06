@@ -1,0 +1,3 @@
+etri#doc_343.txt 6 듣다 ----- 1:1-ARG0(GOL) 3:2-ARGM-MNR() 5:2-ARG2(AGT) 6:0-rel
+etri#doc_343.txt 10 세우다 ----- 8:1-ARGM-DIS(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_343.txt 19 바라보다 ----- 11:3-ARGM-DIS() 16:3-ARGM-CND() 17:1-ARGM-MNR() 18:1-ARG0(AGT) 19:0-rel

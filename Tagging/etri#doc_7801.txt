@@ -1,0 +1,3 @@
+etri#doc_7801.txt 10 적용되다 ----- 5:4-ARG1(THM) 8:2-ARGM-LOC(LOC) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_7801.txt 13 일반화되다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7801.txt 17 적용되다 ----- 1:1-ARGM-DIS() 10:2-ARGM-CAU() 13:3-ARGM-PRP() 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11402.txt 6 극복하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_11402.txt 8 시작되다 ----- 3:1-ARG1(THM) 7:4-ARGM-LOC(LOC) 8:0-rel
+etri#doc_11402.txt 12 말하다 ----- 11:1-ARG0(AGT) 12:0-rel

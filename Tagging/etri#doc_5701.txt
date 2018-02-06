@@ -1,0 +1,4 @@
+etri#doc_5701.txt 2 피하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5701.txt 4 형성되다 ----- 3:3-ARGM-CAU(EFF) 4:0-rel
+etri#doc_5701.txt 13 찾아가다 ----- 12:5-ARG1(THM) 13:0-rel
+etri#doc_5701.txt 17 살펴보다 ----- 13:6-ARGM-DIS() 14:1-ARGM-MNR(INS) 16:2-ARG1(THM) 17:0-rel

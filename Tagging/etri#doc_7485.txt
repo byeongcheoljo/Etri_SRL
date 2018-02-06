@@ -1,0 +1,3 @@
+etri#doc_7485.txt 5 견디다 ----- 4:2-ARG1(EFF) 5:0-rel
+etri#doc_7485.txt 6 자라다 ----- 1:1-ARGM-LOC(LOC) 5:3-ARGM-MNR() 6:0-rel
+etri#doc_7485.txt 14 다니다 ----- 7:5-ARG0(AGT) 8:1-ARGM-DIS() 11:3-ARGM-CAU(EFF) 12:1-ARG1(GOL) 13:1-ARGM-MNR() 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11969.txt 6 일으키다 ----- 3:1-ARG0(AGT) 4:1-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_11969.txt 10 멈추다 ----- 7:1-ARGM-MNR(INS) 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_11969.txt 13 맞추다 ----- 12:1-ARG1(CRT) 13:0-rel
+etri#doc_11969.txt 15 부리다 ----- 6:2-ARGM-DIS() 11:3-ARGM-LOC(LOC) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

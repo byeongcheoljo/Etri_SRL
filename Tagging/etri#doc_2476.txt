@@ -1,0 +1,3 @@
+etri#doc_2476.txt 5 가하다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(AGT) 5:0-rel
+etri#doc_2476.txt 13 받다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_2476.txt 17 입다 ----- 10:3-ARGM-DIS() 11:1-ARGM-EXT() 13:2-ARGM-DIS() 14:1-ARG0() 16:2-ARG1(THM) 17:0-rel

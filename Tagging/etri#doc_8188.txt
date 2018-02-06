@@ -1,0 +1,5 @@
+etri#doc_8188.txt 7 받다 ----- 3:2-ARG0(GOL) 4:1-ARGM-EXT(CRT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_8188.txt 11 떠나다 ----- 7:3-ARGM-DIS() 8:1-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARG1(LOC) 11:0-rel
+etri#doc_8188.txt 13 잇다 ----- 12:1-ARG2(THM) 13:0-rel
+etri#doc_8188.txt 16 부임하다 ----- 13:2-ARGM-DIS() 14:1-ARG0(THM) 15:1-ARG1(FNS) 16:0-rel
+etri#doc_8188.txt 20 되찾다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 16:2-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

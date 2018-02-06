@@ -1,0 +1,2 @@
+etri#doc_7440.txt 7 생각하다 ----- 4:2-ARG1() 6:2-ARGM-TMP() 7:0-rel
+etri#doc_7440.txt 13 유의하다 ----- 12:3-ARG1() 13:0-rel

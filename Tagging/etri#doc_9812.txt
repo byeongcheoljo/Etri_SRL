@@ -1,0 +1,4 @@
+etri#doc_9812.txt 7 알다 ----- 3:1-ARGM-DIS() 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_9812.txt 9 앞지르다 ----- 8:1-ARG1(CRT) 9:0-rel
+etri#doc_9812.txt 12 늘어놓다 ----- 2:2-ARG0(AGT) 7:2-ARGM-MNR(INS) 9:2-ARGM-DIS() 11:2-ARG1(Npr) 12:0-rel
+etri#doc_9812.txt 15 사로잡히다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARG0(EFF) 15:0-rel

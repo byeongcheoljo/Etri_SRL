@@ -1,0 +1,3 @@
+etri#doc_8310.txt 4 늘어나다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_8310.txt 6 가지다 ----- 1:1-ARGM-LOC() 2:1-ARGM-DIS() 4:2-ARGM-CND() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8310.txt 15 열다 ----- 7:3-ARGM-MNR(FNS) 9:2-ARGM-TMP(SRC) 11:2-ARGM-TMP() 14:3-ARG1(THM) 15:0-rel

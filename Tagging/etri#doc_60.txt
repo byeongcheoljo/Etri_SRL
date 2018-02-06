@@ -1,0 +1,4 @@
+etri#doc_60.txt 7 제공하다 ----- 4:2-ARG2(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_60.txt 10 보장하다 ----- 7:3-ARGM-PRD() 9:2-ARG1(THM) 10:0-rel
+etri#doc_60.txt 16 제시하다 ----- 11:1-ARG2(GOL) 14:2-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_60.txt 19 제고시키다 ----- 1:1-ARGM-DIS() 2:1-ARG0(THM) 10:3-ARGM-DIS() 16:2-ARGM-PRD() 18:2-ARG1(THM) 19:0-rel

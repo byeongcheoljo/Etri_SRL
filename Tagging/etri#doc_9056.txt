@@ -1,0 +1,5 @@
+etri#doc_9056.txt 3 돌다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_9056.txt 6 이르다 ----- 3:2-ARGM-MNR() 5:2-ARG1(CNT) 6:0-rel
+etri#doc_9056.txt 13 걸리다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_9056.txt 17 뒤떨어지다 ----- 15:2-ARGM-DIS() 16:1-ARGM-EXT() 17:0-rel
+etri#doc_9056.txt 18 따라가다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 17:2-ARGM-MNR() 18:0-rel

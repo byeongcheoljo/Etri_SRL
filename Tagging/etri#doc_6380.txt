@@ -1,0 +1,4 @@
+etri#doc_6380.txt 11 맡기다 ----- 10:4-ARG0(GOL) 11:0-rel
+etri#doc_6380.txt 13 제작하다 ----- 6:3-ARG0(AGT) 11:5-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6380.txt 17 하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_6380.txt 19 맡기다 ----- 3:2-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARGM-CND() 17:2-ARGM-DIS() 18:1-ARG0(GOL) 19:0-rel

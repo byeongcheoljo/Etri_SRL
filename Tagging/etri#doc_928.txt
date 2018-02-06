@@ -1,0 +1,4 @@
+etri#doc_928.txt 2 단절되다 ----- 2:0-rel
+etri#doc_928.txt 7 구하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_928.txt 11 가다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_928.txt 16 선도하다 ----- 12:4-ARG1(THM) 14:2-ARGM-INS(INS) 15:1-ARGM-DIR(DIR) 16:0-rel

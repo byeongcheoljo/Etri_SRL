@@ -1,0 +1,4 @@
+etri#doc_7249.txt 5 배회하다 ----- 4:1-ARG1(LOC) 5:0-rel
+etri#doc_7249.txt 7 단속하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_7249.txt 12 당하다 ----- 11:1-ARG2(Npr) 12:0-rel
+etri#doc_7249.txt 14 빼앗기다 ----- 8:5-ARG2(SRC) 9:1-ARG0(AGT) 10:1-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

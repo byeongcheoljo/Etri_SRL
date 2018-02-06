@@ -1,0 +1,8 @@
+etri#doc_4044.txt 3 참다 ----- 1:1-ARGM-MNR() 2:1-ARGM-NEG() 3:0-rel
+etri#doc_4044.txt 8 하다 ----- 5:4-ARGM-CND() 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4044.txt 10 들어오다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4044.txt 14 들어오다 ----- 11:3-ARGM-DIS() 12:1-ARG0(THM) 13:1-ARG3(GOL) 14:0-rel
+etri#doc_4044.txt 15 이해하다 ----- 15:0-rel
+etri#doc_4044.txt 16 격려하다 ----- 15:1-ARGM-DIS() 16:0-rel
+etri#doc_4044.txt 19 맞대다 ----- 17:1-ARGM-MNR() 18:1-ARG1(THM) 19:0-rel
+etri#doc_4044.txt 21 풀다 ----- 14:2-ARGM-CND() 16:2-ARGM-DIS() 19:2-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

@@ -1,0 +1,7 @@
+etri#doc_5442.txt 3 시작하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5442.txt 5 가누다 ----- 5:0-rel
+etri#doc_5442.txt 10 싣다 ----- 8:1-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5442.txt 12 누비다 ----- 11:1-ARG1(LOC) 12:0-rel
+etri#doc_5442.txt 13 장사하다 ----- 4:4-ARG0(AGT) 7:3-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_5442.txt 16 하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_5442.txt 20 꾸리다 ----- 13:3-ARGM-DIS() 14:1-ARG0(AGT) 16:2-ARGM-DIS() 19:3-ARG1(THM) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3093.txt 4 허용하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3093.txt 11 보장하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_3093.txt 15 허용하다 ----- 11:4-ARGM-PRP() 14:2-ARG1(THM) 15:0-rel

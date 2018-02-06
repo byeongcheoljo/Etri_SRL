@@ -1,0 +1,4 @@
+etri#doc_11028.txt 2 ´Þ´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11028.txt 7 °¨½Î´Ù ----- 5:2-ARGM-CND() 6:1-ARGM-LOC(SRC) 7:0-rel
+etri#doc_11028.txt 9 ¾²´Ù ----- 8:1-ARGM-EXT() 9:0-rel
+etri#doc_11028.txt 11 °¨½Î´Ù ----- 3:3-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARGM-TMP() 10:1-ARG2(THM) 11:0-rel

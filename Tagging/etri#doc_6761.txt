@@ -1,0 +1,4 @@
+etri#doc_6761.txt 3 대체하다 ----- 1:1-ARG1(THM) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_6761.txt 10 바뀌다 ----- 9:1-ARG2(FNS) 10:0-rel
+etri#doc_6761.txt 15 완화되다 ----- 11:1-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel
+etri#doc_6761.txt 16 보다 ----- 7:2-ARGM-DIS() 8:1-ARGM-EXT() 10:2-ARGM-DIS() 15:3-ARG1() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_3850.txt 4 검거하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_3850.txt 6 저지르다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3850.txt 7 체포되다 ----- 7:0-rel
+etri#doc_3850.txt 8 처벌되다 ----- 6:2-ARGM-CND() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3850.txt 11 갖다 ----- 9:3-ARG1(THM) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_3850.txt 15 기대하다 ----- 4:4-ARGM-CND() 11:2-ARGM-MNR() 14:3-ARG1(THM) 15:0-rel

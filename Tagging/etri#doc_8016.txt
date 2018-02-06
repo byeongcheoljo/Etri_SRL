@@ -1,0 +1,9 @@
+etri#doc_8016.txt 2 치다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8016.txt 4 하다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_8016.txt 6 하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8016.txt 10 가장하다 ----- 9:2-ARG1(FNS) 10:0-rel
+etri#doc_8016.txt 12 찾아오다 ----- 11:4-ARG1(AGT) 12:0-rel
+etri#doc_8016.txt 15 미혹하다 ----- 15:0-rel
+etri#doc_8016.txt 17 놓다 ----- 15:1-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_8016.txt 19 사로잡다 ----- 7:3-ARGM-LOC(LOC) 12:5-ARGM-DIS() 14:2-ARGM-INS(INS) 17:2-ARGM-DIS() 18:1-ARGM-MNR(INS) 19:0-rel
+etri#doc_8016.txt 20 알다 ----- 19:2-ARG1(THM) 20:0-rel

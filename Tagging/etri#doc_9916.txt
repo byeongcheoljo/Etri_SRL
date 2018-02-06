@@ -1,0 +1,1 @@
+etri#doc_9916.txt 4 비교하다 ----- 2:2-ARG1(THM) 3:1-ARG2(COM) 4:0-rel

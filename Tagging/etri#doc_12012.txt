@@ -1,0 +1,4 @@
+etri#doc_12012.txt 3 구성되다 ----- 2:2-ARG2(INS) 3:0-rel
+etri#doc_12012.txt 12 흡수하다 ----- 5:2-ARGM-LOC(LOC) 11:6-ARG1(THM) 12:0-rel
+etri#doc_12012.txt 14 포괄하다 ----- 13:1-ARG2(THM) 14:0-rel
+etri#doc_12012.txt 18 표방하다 ----- 12:7-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2702.txt 4 Å»ÅðÇÏ´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 3:1-ARG1(SRC) 4:0-rel
+etri#doc_2702.txt 15 ¸Ó¹«¸£´Ù ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 6:1-ARGM-DIS() 14:2-ARGM-LOC(LOC) 15:0-rel

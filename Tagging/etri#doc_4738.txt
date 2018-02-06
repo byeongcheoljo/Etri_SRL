@@ -1,0 +1,5 @@
+etri#doc_4738.txt 3 끝내다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4738.txt 7 걸리다 ----- 5:2-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_4738.txt 11 성숙하다 ----- 11:0-rel
+etri#doc_4738.txt 14 끝내다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4738.txt 18 양보하다 ----- 10:2-ARGM-CAU() 12:2-ARG0(AGT) 16:2-ARG3(GOL) 17:1-ARG1(THM) 18:0-rel

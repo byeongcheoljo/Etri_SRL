@@ -1,0 +1,4 @@
+etri#doc_7772.txt 7 유지하다 ----- 7:0-rel
+etri#doc_7772.txt 8 높이다 ----- 5:1-ARGM-MNR() 6:1-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_7772.txt 14 유지시키다 ----- 14:0-rel
+etri#doc_7772.txt 17 거두다 ----- 15:2-ARGM-PRD() 16:1-ARGM-MNR() 17:0-rel

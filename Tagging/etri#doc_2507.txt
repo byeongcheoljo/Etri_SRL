@@ -1,0 +1,4 @@
+etri#doc_2507.txt 4 나오다 ----- 4:0-rel
+etri#doc_2507.txt 6 전시하다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_2507.txt 13 설명하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_2507.txt 15 적히다 ----- 8:5-() 14:6-() 15:0-rel

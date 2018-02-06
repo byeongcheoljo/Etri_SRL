@@ -1,0 +1,4 @@
+etri#doc_5308.txt 4 장만하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-MNR() 3:1-ARG1(THM) 4:0-rel
+etri#doc_5308.txt 7 꾸미다 ----- 4:2-ARGM-CND() 5:1-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_5308.txt 10 되다 ----- 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_5308.txt 16 생각하다 ----- 7:2-ARGM-DIS() 14:2-ARG1() 15:1-ARG0(AGT) 16:0-rel

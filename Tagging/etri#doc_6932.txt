@@ -1,0 +1,5 @@
+etri#doc_6932.txt 6 되다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:1-ARGM-EXT() 5:1-ARG2(FNS) 6:0-rel
+etri#doc_6932.txt 8 따라가다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6932.txt 14 먹다 ----- 11:2-ARGM-DIS() 12:1-ARG1() 13:1-ARGM-EXT() 14:0-rel
+etri#doc_6932.txt 17 입다 ----- 6:2-ARGM-CAU() 8:2-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_6932.txt 18 하다 ----- 1:1-ARGM-DIS(CNT) 17:3-ARG1() 18:0-rel

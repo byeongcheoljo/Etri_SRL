@@ -1,0 +1,1 @@
+etri#doc_1900.txt 14 µÇ´Ù ----- 5:2-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:1-ARGM-MNR() 14:0-rel

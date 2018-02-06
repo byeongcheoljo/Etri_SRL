@@ -1,0 +1,5 @@
+etri#doc_2825.txt 5 흐르다 ----- 2:1-ARG1(LOC) 3:1-ARG0(THM) 4:1-() 5:0-rel
+etri#doc_2825.txt 12 서다 ----- 10:3-ARG1(LOC) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_2825.txt 13 넋나가다 ----- 13:0-rel
+etri#doc_2825.txt 17 바라보다 ----- 12:2-ARGM-DIS() 14:2-ARGM-EXT(CRT) 16:2-ARG1(THM) 17:0-rel
+etri#doc_2825.txt 18 서다 ----- 1:1-ARG0(AGT) 5:2-ARGM-MNR() 17:3-ARGM-DIS() 18:0-rel

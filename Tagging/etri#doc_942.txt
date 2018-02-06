@@ -1,0 +1,2 @@
+etri#doc_942.txt 6 마감하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_942.txt 13 열다 ----- 6:4-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-TMP(CRT) 11:2-ARG1(THM) 12:1-ARGM-LOC(LOC) 13:0-rel

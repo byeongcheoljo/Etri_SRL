@@ -1,0 +1,5 @@
+etri#doc_2206.txt 6 침범하다 ----- 2:2-ARG0() 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_2206.txt 8 잘못하다 ----- 7:1-ARGM-EXT() 8:0-rel
+etri#doc_2206.txt 11 남다 ----- 9:1-ARG1(AGT) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_2206.txt 14 구부러지다 ----- 11:2-ARGM-DIS() 13:2-ARG0(AGT) 14:0-rel
+etri#doc_2206.txt 17 되다 ----- 15:4-ARGM-EXT() 16:1-ARG1(AGT) 17:0-rel

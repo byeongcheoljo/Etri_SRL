@@ -1,0 +1,5 @@
+etri#doc_1734.txt 2 임하다 ----- 1:1-ARG1(LOC) 2:0-rel
+etri#doc_1734.txt 7 하다 ----- 4:2-ARGM-CND() 6:2-ARGM-MNR(DIR) 7:0-rel
+etri#doc_1734.txt 10 벌어지다 ----- 9:2-ARG0(THM) 10:0-rel
+etri#doc_1734.txt 12 깎다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_1734.txt 18 가지다 ----- 2:2-ARGM-CND() 13:3-ARG0(THM) 17:3-ARG1(THM) 18:0-rel

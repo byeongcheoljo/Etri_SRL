@@ -1,0 +1,2 @@
+etri#doc_5486.txt 9 하다 ----- 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_5486.txt 13 열다 ----- 6:2-ARGM-CAU() 10:3-ARGM-MNR(COM) 12:2-ARG1(THM) 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_13156.txt 4 달래다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_13156.txt 6 흐르다 ----- 2:1-ARGM-TMP(LOC) 5:3-ARGM-DIR(DIR) 6:0-rel
+etri#doc_13156.txt 10 하다 ----- 9:3-ARGM-DIR(GOL) 10:0-rel

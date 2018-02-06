@@ -1,0 +1,4 @@
+etri#doc_11803.txt 9 되다 ----- 7:2-ARG2(CRT) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_11803.txt 13 보다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11803.txt 15 보다 ----- 9:2-ARGM-DIS() 11:2-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11803.txt 18 알다 ----- 5:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-NEG() 18:0-rel

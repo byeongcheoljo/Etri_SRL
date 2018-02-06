@@ -1,0 +1,5 @@
+etri#doc_7215.txt 3 ½ò¸®´Ù ----- 1:1-ARGM-TMP(LOC) 2:1-ARG2(GOL) 3:0-rel
+etri#doc_7215.txt 4 ¾Ö²÷´Ù ----- 4:0-rel
+etri#doc_7215.txt 7 µ¹¾Æ°¡´Ù ----- 5:2-ARG0(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7215.txt 10 ÀØ´Ù ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_7215.txt 17 °¡¸®´Ù ----- 8:3-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

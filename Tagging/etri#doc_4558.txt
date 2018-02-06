@@ -1,0 +1,4 @@
+etri#doc_4558.txt 3 언급하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4558.txt 10 하다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4558.txt 15 나오다 ----- 14:2-ARGM-LOC(LOC) 15:0-rel
+etri#doc_4558.txt 21 정해지다 ----- 19:2-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

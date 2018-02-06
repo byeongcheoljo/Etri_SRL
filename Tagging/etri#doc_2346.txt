@@ -1,0 +1,4 @@
+etri#doc_2346.txt 4 차지하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_2346.txt 9 나타나다 ----- 5:1-ARG0(AGT) 6:1-ARGM-ADV() 7:1-ARG0(AGT) 8:1-ARGM-MNR(EFF) 9:0-rel
+etri#doc_2346.txt 14 벌이다 ----- 11:2-ARG0(AGT) 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_2346.txt 15 조사되다 ----- 4:2-() 9:2-() 14:2-() 15:0-rel

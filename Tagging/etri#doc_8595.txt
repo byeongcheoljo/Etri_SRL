@@ -1,0 +1,4 @@
+etri#doc_8595.txt 4 갖다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:0-rel
+etri#doc_8595.txt 6 놓다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_8595.txt 9 여기다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8595.txt 18 인식되다 ----- 16:2-ARG1(THM) 17:1-ARG1(FNS) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9361.txt 7 »ç´Ù ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_9361.txt 8 ¸Ô´Ù ----- 2:1-ARG0(AGT) 4:2-ARGM-MNR() 5:1-ARGM-PRD(INS) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_9361.txt 12 ¶Õ¸®´Ù ----- 11:1-ARG1() 12:0-rel
+etri#doc_9361.txt 15 ³»´Ù ----- 1:1-ARGM-TMP() 8:3-ARGM-DIS() 9:1-ARG2(GOL) 14:2-ARG1(THM) 15:0-rel

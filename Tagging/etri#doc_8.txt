@@ -1,0 +1,4 @@
+etri#doc_8.txt 4 듣다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8.txt 9 회복하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8.txt 12 벗어나다 ----- 6:2-ARG0(AGT) 9:3-ARGM-CND() 11:2-ARGM-ADV(SRC) 12:0-rel
+etri#doc_8.txt 14 해보다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 13:4-ARG1(THM) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_13113.txt 7 하다 ----- 3:1-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:1-ARGM-EXT(CRT) 7:0-rel
+etri#doc_13113.txt 9 졸업하다 ----- 8:1-ARG1(SRC) 9:0-rel
+etri#doc_13113.txt 15 받다 ----- 13:2-ARGM-EXT(CRT) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_13113.txt 16 나타나다 ----- 2:2-ARGM-PRD(EFF) 7:2-ARGM-TMP() 10:3-ARG1(THM) 11:1-ARGM-EXT(CRT) 15:2-ARGM-MNR() 16:0-rel

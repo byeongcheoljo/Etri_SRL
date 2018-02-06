@@ -1,0 +1,3 @@
+etri#doc_1351.txt 4 종합하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1351.txt 8 동요하다 ----- 4:3-ARGM-CND() 6:2-ARG0(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1351.txt 14 동화되다 ----- 8:2-ARGM-DIS() 9:1-ARG0(THM) 10:1-ARGM-MNR() 12:2-ARGM-EXT(COM) 13:1-ARGM-MNR() 14:0-rel

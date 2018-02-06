@@ -1,0 +1,3 @@
+etri#doc_537.txt 11 지우다 ----- 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_537.txt 14 제약하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_537.txt 15 작용하다 ----- 11:2-ARGM-DIS() 14:3-ARG2() 15:0-rel

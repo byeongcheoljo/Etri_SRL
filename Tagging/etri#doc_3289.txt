@@ -1,0 +1,4 @@
+etri#doc_3289.txt 3 갖추다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3289.txt 8 갖추다 ----- 3:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_3289.txt 12 포용하다 ----- 12:0-rel
+etri#doc_3289.txt 15 간직하다 ----- 13:2-ARG1(THM) 14:1-ARG2(LOC) 15:0-rel

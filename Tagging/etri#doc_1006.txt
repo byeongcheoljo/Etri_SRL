@@ -1,0 +1,4 @@
+etri#doc_1006.txt 5 ∫”æÓ¡ˆ¥Ÿ ----- 3:1-ARGM-EXT() 4:1-ARG1(THM) 5:0-rel
+etri#doc_1006.txt 9 æ…¥Ÿ ----- 2:1-ARG1(GOL) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_1006.txt 14 ¥Ÿ≈ı¥Ÿ ----- 9:3-ARGM-DIS() 13:2-ARGM-CAU() 14:0-rel
+etri#doc_1006.txt 17 º∂±‚¥Ÿ ----- 1:1-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARGM-MNR() 17:0-rel

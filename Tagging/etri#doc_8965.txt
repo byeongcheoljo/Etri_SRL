@@ -1,0 +1,6 @@
+etri#doc_8965.txt 7 받아들이다 ----- 7:0-rel
+etri#doc_8965.txt 9 협력하다 ----- 8:2-ARG1(COM) 9:0-rel
+etri#doc_8965.txt 12 맺다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_8965.txt 15 되다 ----- 14:2-ARG2(FNS) 15:0-rel
+etri#doc_8965.txt 18 드러내다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_8965.txt 20 되다 ----- 6:3-ARG1(THM) 15:3-ARGM-DIS() 19:4-ARG2(FNS) 20:0-rel

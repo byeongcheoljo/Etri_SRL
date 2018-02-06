@@ -1,0 +1,3 @@
+etri#doc_904.txt 4 거두다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_904.txt 9 울리다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 6:1-ARG1(THM) 8:2-ARGM-LOC() 9:0-rel
+etri#doc_904.txt 13 하다 ----- 9:3-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel

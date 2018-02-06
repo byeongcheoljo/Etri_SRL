@@ -1,0 +1,5 @@
+etri#doc_4911.txt 3 가다 ----- 2:1-ARG3(GOL) 3:0-rel
+etri#doc_4911.txt 9 어기다 ----- 5:4-ARGM-ADV(EFF) 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_4911.txt 10 간주하다 ----- 9:2-ARG1() 10:0-rel
+etri#doc_4911.txt 12 지키다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4911.txt 15 느끼다 ----- 1:1-ARG0(EXP) 10:3-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

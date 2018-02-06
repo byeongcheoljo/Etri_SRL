@@ -1,0 +1,5 @@
+etri#doc_13049.txt 9 반전시키다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_13049.txt 10 위하다 ----- 9:2-ARG1() 10:0-rel
+etri#doc_13049.txt 14 건네다 ----- 7:2-ARGM-TMP() 10:3-ARGM-PRP() 12:2-ARG2(GOL) 13:1-ARG1(THM) 14:0-rel
+etri#doc_13049.txt 15 진술하다 ----- 4:1-ARG0(AGT) 14:2-ARG1() 15:0-rel
+etri#doc_13049.txt 16 밝히다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 15:3-ARG1() 16:0-rel

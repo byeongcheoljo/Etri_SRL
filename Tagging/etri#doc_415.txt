@@ -1,0 +1,2 @@
+etri#doc_415.txt 9 인수하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_415.txt 21 밝히다 ----- 6:5-ARG0(AGT) 7:1-ARGM-TMP() 20:2-ARG1() 21:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4417.txt 8 되다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_4417.txt 13 격파하다 ----- 10:1-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_4417.txt 14 돌아오다 ----- 13:3-ARGM-DIS() 14:0-rel
+etri#doc_4417.txt 17 즐기다 ----- 5:2-ARGM-DIS() 8:2-ARGM-DIS() 9:1-ARG0(AGT) 14:4-ARGM-DIS() 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel
+etri#doc_4417.txt 19 듣다 ----- 18:1-ARG0(MAG) 19:0-rel

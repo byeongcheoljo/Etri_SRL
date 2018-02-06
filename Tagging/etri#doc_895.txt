@@ -1,0 +1,5 @@
+etri#doc_895.txt 6 들다 ----- 2:1-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_895.txt 9 출항하다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_895.txt 13 들다 ----- 7:5-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-INS(INS) 13:0-rel
+etri#doc_895.txt 16 처박히다 ----- 15:1-ARG2(LOC) 16:0-rel
+etri#doc_895.txt 18 일구다 ----- 1:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-MNR() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

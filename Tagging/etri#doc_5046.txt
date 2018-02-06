@@ -1,0 +1,4 @@
+etri#doc_5046.txt 4 예측하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_5046.txt 7 느끼다 ----- 1:1-ARG0(EXP) 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5046.txt 10 보다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5046.txt 18 드러내다 ----- 8:4-ARG0(EFF) 12:2-ARGM-LOC(LOC) 17:3-ARG1(THM) 18:0-rel

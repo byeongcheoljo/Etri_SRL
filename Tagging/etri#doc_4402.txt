@@ -1,0 +1,6 @@
+etri#doc_4402.txt 7 하다 ----- 2:1-ARG0(AGT) 4:2-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4402.txt 9 보다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_4402.txt 11 정성들이다 ----- 11:0-rel
+etri#doc_4402.txt 12 준비하다 ----- 10:1-ARGM-TMP(LOC) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4402.txt 18 서두르다 ----- 18:0-rel
+etri#doc_4402.txt 19 끝내다 ----- 1:1-ARG0(AGT) 15:5-ARGM-DIS() 17:2-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel

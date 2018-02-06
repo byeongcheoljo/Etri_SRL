@@ -1,0 +1,5 @@
+etri#doc_7366.txt 4 나서다 ----- 4:0-rel
+etri#doc_7366.txt 6 벌다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG0(AGT) 4:1-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7366.txt 11 되다 ----- 8:1-ARG1(THM) 10:2-ARGM-MNR() 11:0-rel
+etri#doc_7366.txt 15 되다 ----- 7:3-ARGM-CAU(EFF) 11:3-ARGM-DIS() 12:1-ARG0(EXP) 14:2-ARGM-MNR() 15:0-rel
+etri#doc_7366.txt 19 설명하다 ----- 15:3-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

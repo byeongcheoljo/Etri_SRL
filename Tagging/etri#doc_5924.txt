@@ -1,0 +1,4 @@
+etri#doc_5924.txt 13 파악하다 ----- 12:2-ARG1() 13:0-rel
+etri#doc_5924.txt 14 전하다 ----- 13:3-ARG1(CNT) 14:0-rel
+etri#doc_5924.txt 17 만나다 ----- 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel
+etri#doc_5924.txt 22 말하다 ----- 14:4-ARGM-DIS() 18:3-ARGM-ADV(CNT) 21:2-ARG1(CNT) 22:0-rel

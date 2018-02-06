@@ -1,0 +1,3 @@
+etri#doc_4451.txt 5 체재하다 ----- 3:1-ARG0(AGT) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4451.txt 7 들다 ----- 6:3-ARGM-DIS() 7:0-rel
+etri#doc_4451.txt 17 부담하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

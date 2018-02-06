@@ -1,0 +1,6 @@
+etri#doc_5091.txt 4 갖다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:0-rel
+etri#doc_5091.txt 7 하다 ----- 4:3-ARG1() 5:1-ARG1(THM) 6:1-ARGM-NEG() 7:0-rel
+etri#doc_5091.txt 9 하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5091.txt 11 잘못되다 ----- 11:0-rel
+etri#doc_5091.txt 15 모르다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel
+etri#doc_5091.txt 18 되다 ----- 16:6-ARG1(THM) 17:1-ARG2(FNS) 18:0-rel

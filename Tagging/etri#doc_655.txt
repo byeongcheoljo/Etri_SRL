@@ -1,0 +1,1 @@
+etri#doc_655.txt 14 ³ª´©´Ù ----- 3:2-ARG0(AGT) 6:3-ARGM-DIS() 8:2-ARG0(AGT) 10:2-ARGM-INS(INS) 11:1-ARGM-MNR() 12:1-ARGM-ADV(PUR) 13:1-ARG1(Npr) 14:0-rel

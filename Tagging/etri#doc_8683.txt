@@ -1,0 +1,4 @@
+etri#doc_8683.txt 6 참다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8683.txt 7 절규하다 ----- 3:3-ARG0(AGT) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_8683.txt 12 잠들다 ----- 11:1-ARGM-TMP() 12:0-rel
+etri#doc_8683.txt 15 눕다 ----- 8:5-ARGM-TMP() 10:2-ARGM-LOC(LOC) 13:3-ARG0(AGT) 14:1-ARG1() 15:0-rel

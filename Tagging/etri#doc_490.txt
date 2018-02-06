@@ -1,0 +1,4 @@
+etri#doc_490.txt 3 타고나다 ----- 3:0-rel
+etri#doc_490.txt 8 어찌하다 ----- 8:0-rel
+etri#doc_490.txt 14 싫어하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_490.txt 16 되다 ----- 1:1-ARGM-DIS() 6:2-ARG0(AGT) 7:1-ARG1(THM) 15:5-ARG2(FNS) 16:0-rel

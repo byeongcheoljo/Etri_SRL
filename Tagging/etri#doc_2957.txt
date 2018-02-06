@@ -1,0 +1,2 @@
+etri#doc_2957.txt 9 가지다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_2957.txt 22 하다 ----- 18:6-ARGM-ADV() 19:1-ARG0(AGT) 21:2-() 22:0-rel

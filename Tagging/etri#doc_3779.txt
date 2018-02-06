@@ -1,0 +1,2 @@
+etri#doc_3779.txt 4 경청하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3779.txt 10 전달하다 ----- 8:2-ARG1(THM) 9:1-ARG2(GOL) 10:0-rel

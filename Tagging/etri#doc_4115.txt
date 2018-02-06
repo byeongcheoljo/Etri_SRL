@@ -1,0 +1,4 @@
+etri#doc_4115.txt 3 추다 ----- 1:1-ARG1() 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4115.txt 10 하다 ----- 6:2-ARGM-EXT() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_4115.txt 13 간행하다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_4115.txt 15 하다 ----- 4:3-ARGM-DIS() 10:2-ARGM-DIS() 14:3-ARG1(CNT) 15:0-rel

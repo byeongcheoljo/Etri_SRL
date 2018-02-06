@@ -1,0 +1,2 @@
+etri#doc_1291.txt 8 말려들다 ----- 6:2-ARG2(EFF) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1291.txt 10 요망되다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel

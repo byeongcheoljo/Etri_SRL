@@ -1,0 +1,5 @@
+etri#doc_1510.txt 4 접다 ----- 1:1-ARGM-TMP() 2:1-ARGM-DIS() 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_1510.txt 5 들다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_1510.txt 10 재촉하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1510.txt 13 피하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_1510.txt 15 훔치다 ----- 8:2-ARGM-EXT(EFF) 10:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

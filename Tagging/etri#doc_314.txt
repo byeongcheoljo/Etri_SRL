@@ -1,0 +1,3 @@
+etri#doc_314.txt 6 지키다 ----- 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_314.txt 8 안다 ----- 3:2-ARG0(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_314.txt 10 모르다 ----- 1:1-ARGM-DIS() 9:5-ARG1(THM) 10:0-rel

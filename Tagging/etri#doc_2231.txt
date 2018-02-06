@@ -1,0 +1,2 @@
+etri#doc_2231.txt 13 갖다 ----- 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_2231.txt 15 심화되다 ----- 14:5-() 15:0-rel

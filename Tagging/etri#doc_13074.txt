@@ -1,0 +1,4 @@
+etri#doc_13074.txt 3 그을리다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_13074.txt 6 하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_13074.txt 10 드러나다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_13074.txt 16 모자라다 ----- 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

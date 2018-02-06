@@ -1,0 +1,1 @@
+etri#doc_6251.txt 8 예언하다 ----- 7:2-ARG1(THM) 8:0-rel

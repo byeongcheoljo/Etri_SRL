@@ -1,0 +1,4 @@
+etri#doc_6795.txt 8 동원하다 ----- 5:1-ARG2(GOL) 6:1-ARGM-CAU() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6795.txt 10 간여하다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_6795.txt 12 보복하다 ----- 8:2-ARGM-DIS() 10:2-ARGM-CND() 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_6795.txt 14 협박하다 ----- 2:2-ARGM-LOC(GOL) 4:2-ARG0(AGT) 12:2-ARG1(CNT) 13:1-ARGM-TMP() 14:0-rel

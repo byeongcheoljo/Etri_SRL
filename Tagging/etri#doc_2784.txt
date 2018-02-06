@@ -1,0 +1,4 @@
+etri#doc_2784.txt 7 거주하다 ----- 5:3-ARG1(LOC) 6:1-ARG0(AGT) 7:0-rel
+etri#doc_2784.txt 10 제외하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2784.txt 14 먹다 ----- 11:1-ARGM-EXT() 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2784.txt 15 살다 ----- 2:2-ARGM-LOC(LOC) 7:2-ARGM-DIS() 10:3-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4162.txt 7 제작하다 ----- 7:0-rel
+etri#doc_4162.txt 10 배포하다 ----- 3:1-ARGM-TMP(LOC) 5:2-ARGM-TMP(LOC) 6:1-ARG1(THM) 7:1-ARGM-DIS() 9:2-ARG2(GOL) 10:0-rel
+etri#doc_4162.txt 12 받다 ----- 1:1-ARGM-ADV(EFF) 2:1-ARG0(AGT) 11:4-ARG1(THM) 12:0-rel

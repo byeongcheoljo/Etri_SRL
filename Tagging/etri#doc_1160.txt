@@ -1,0 +1,2 @@
+etri#doc_1160.txt 5 널리다 ----- 4:4-ARG0(THM) 5:0-rel
+etri#doc_1160.txt 14 받다 ----- 7:2-ARGM-LOC(LOC) 10:3-ARGM-MNR() 11:1-ARGM-INS(INS) 13:2-ARG1(THM) 14:0-rel

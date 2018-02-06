@@ -1,0 +1,6 @@
+etri#doc_4413.txt 3 대다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_4413.txt 4 놓다 ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 4:0-rel
+etri#doc_4413.txt 9 밝히다 ----- 6:1-ARGM-MNR() 8:2-ARG1(THM) 9:0-rel
+etri#doc_4413.txt 10 돌아서다 ----- 9:3-ARGM-DIS() 10:0-rel
+etri#doc_4413.txt 13 신다 ----- 12:1-ARG1() 13:0-rel
+etri#doc_4413.txt 16 올려다보다 ----- 4:3-ARGM-DIS() 5:1-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

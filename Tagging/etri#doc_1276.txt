@@ -1,0 +1,3 @@
+etri#doc_1276.txt 7 진출하다 ----- 6:1-ARGM-DIR(GOL) 7:0-rel
+etri#doc_1276.txt 10 진출하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-DIS() 9:1-ARGM-DIR(GOL) 10:0-rel
+etri#doc_1276.txt 18 구축하다 ----- 13:5-ARGM-DIS() 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

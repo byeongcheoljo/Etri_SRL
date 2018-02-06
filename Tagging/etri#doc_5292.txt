@@ -1,0 +1,4 @@
+etri#doc_5292.txt 4 지나다 ----- 3:2-ARG1(CRT) 4:0-rel
+etri#doc_5292.txt 13 탕진시키다 ----- 10:4-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_5292.txt 15 생각하다 ----- 4:3-ARG1(THM) 13:3-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_5292.txt 17 하다 ----- 1:1-ARG0(AGT) 16:3-ARG1(THM) 17:0-rel

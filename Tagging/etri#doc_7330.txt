@@ -1,0 +1,4 @@
+etri#doc_7330.txt 3 적응하다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_7330.txt 4 성공하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_7330.txt 8 남기다 ----- 7:1-ARG1(AGT) 8:0-rel
+etri#doc_7330.txt 12 알다 ----- 1:1-ARGM-TMP() 6:2-ARG1(THM) 9:3-ARGM-MNR(INS) 11:2-ARG1(THM) 12:0-rel

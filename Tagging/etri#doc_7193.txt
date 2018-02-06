@@ -1,0 +1,4 @@
+etri#doc_7193.txt 7 보고하다 ----- 4:1-ARG2(GOL) 6:2-ARGM-EXT(CRT) 7:0-rel
+etri#doc_7193.txt 8 잘하다 ----- 7:3-ARGM-DIS() 8:0-rel
+etri#doc_7193.txt 9 여기다 ----- 1:1-ARGM-TMP() 3:2-ARG0(MAG) 8:4-ARGM-MNR() 9:0-rel
+etri#doc_7193.txt 15 보이다 ----- 9:5-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-MNR(INS) 12:1-ARG2(GOL) 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11151.txt 4 뽐내다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11151.txt 7 뻗다 ----- 4:3-ARGM-DIS() 5:1-ARGM-LOC(LOC) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_11151.txt 9 보다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_11151.txt 12 보다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11151.txt 14 어울리다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_11151.txt 16 이루다 ----- 9:4-ARGM-CND() 12:3-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

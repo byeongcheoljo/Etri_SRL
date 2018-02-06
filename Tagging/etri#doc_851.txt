@@ -1,0 +1,5 @@
+etri#doc_851.txt 5 말리다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_851.txt 9 집다 ----- 2:2-ARGM-TMP(CRT) 3:1-ARGM-MNR() 8:3-ARG1(THM) 9:0-rel
+etri#doc_851.txt 11 내놓다 ----- 10:1-ARGM-PRP() 11:0-rel
+etri#doc_851.txt 15 되다 ----- 14:1-ARG2() 15:0-rel
+etri#doc_851.txt 18 집다 ----- 9:4-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARGM-DIS() 16:3-ARG1(THM) 17:1-ARGM-MNR(INS) 18:0-rel

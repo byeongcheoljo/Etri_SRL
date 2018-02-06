@@ -1,0 +1,5 @@
+etri#doc_8974.txt 5 가다 ----- 3:1-ARG3(GOL) 4:1-ARG1() 5:0-rel
+etri#doc_8974.txt 9 알다 ----- 2:1-ARGM-LOC(LOC) 7:4-ARG1(THM) 8:1-ARGM-LOC(SRC) 9:0-rel
+etri#doc_8974.txt 12 나오다 ----- 10:1-ARG3(GOL) 11:1-ARG1() 12:0-rel
+etri#doc_8974.txt 13 만나다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_8974.txt 15 치다 ----- 1:1-ARGM-TMP() 9:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

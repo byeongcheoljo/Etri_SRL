@@ -1,0 +1,2 @@
+etri#doc_9786.txt 4 함유되다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_9786.txt 16 되다 ----- 14:1-ARGM-LOC(LOC) 15:1-ARGM-ADV(EFF) 16:0-rel

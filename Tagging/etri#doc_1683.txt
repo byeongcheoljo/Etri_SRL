@@ -1,0 +1,2 @@
+etri#doc_1683.txt 18 떠나다 ----- 17:1-ARG0(AGT) 18:0-rel
+etri#doc_1683.txt 21 끝나다 ----- 16:2-ARGM-CAU() 18:2-ARGM-TMP() 19:1-ARGM-TMP() 20:1-ARG1(THM) 21:0-rel

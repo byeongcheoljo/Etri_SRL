@@ -1,0 +1,4 @@
+etri#doc_731.txt 2 내려다보이다 ----- 1:1-ARG2(SRC) 2:0-rel
+etri#doc_731.txt 10 날아오다 ----- 10:0-rel
+etri#doc_731.txt 12 찾다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARGM-EXT(EFF) 9:2-ARG0(AGT) 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_731.txt 19 시작되다 ----- 12:2-ARGM-DIS() 13:1-ARGM-TMP() 14:1-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7883.txt 5 구성되다 ----- 1:1-ARGM-CAU(EFF) 4:3-ARG1(THM) 5:0-rel
+etri#doc_7883.txt 18 가리키다 ----- 17:2-ARG1(THM) 18:0-rel

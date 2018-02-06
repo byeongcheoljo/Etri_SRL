@@ -1,0 +1,3 @@
+etri#doc_2247.txt 10 조정되다 ----- 9:1-() 10:0-rel
+etri#doc_2247.txt 12 이용하다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_2247.txt 16 찍다 ----- 7:3-ARGM-DIR(DIR) 8:1-ARGM-TMP() 12:4-ARGM-DIS() 13:1-ARGM-ADV(EFF) 15:2-ARG1(THM) 16:0-rel

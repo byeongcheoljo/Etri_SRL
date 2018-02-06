@@ -1,0 +1,4 @@
+etri#doc_2167.txt 4 되다 ----- 1:1-ARGM-TMP() 2:1-ARGM-TMP() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_2167.txt 6 말하다 ----- 5:3-ARGM-INS(INS) 6:0-rel
+etri#doc_2167.txt 12 호소하다 ----- 7:1-ARG0(AGT) 11:3-ARG2(GOL) 12:0-rel
+etri#doc_2167.txt 15 벌리다 ----- 6:4-ARGM-CND() 12:4-ARGM-TMP() 13:1-ARG0() 14:1-ARG1(THM) 15:0-rel

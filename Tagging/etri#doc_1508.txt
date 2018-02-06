@@ -1,0 +1,5 @@
+etri#doc_1508.txt 2 넘다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_1508.txt 4 줄어지다 ----- 4:0-rel
+etri#doc_1508.txt 6 깨닫다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_1508.txt 10 보다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-INS(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1508.txt 11 마음먹다 ----- 10:2-ARGM-DIS() 11:0-rel

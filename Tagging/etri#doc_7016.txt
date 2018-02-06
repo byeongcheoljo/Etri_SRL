@@ -1,0 +1,5 @@
+etri#doc_7016.txt 3 쓰다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7016.txt 5 알다 ----- 5:0-rel
+etri#doc_7016.txt 11 바꾸다 ----- 7:3-ARG1(THM) 8:1-ARGM-MNR(EFF) 10:2-ARG1(THM) 11:0-rel
+etri#doc_7016.txt 17 조정하다 ----- 17:0-rel
+etri#doc_7016.txt 18 조화하다 ----- 11:3-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARGM-DIS() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7558.txt 6 손상당하다 ----- 3:2-ARGM-ADV(EFF) 5:2-ARG1(EXP) 6:0-rel
+etri#doc_7558.txt 9 사용하다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7558.txt 12 제어하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7558.txt 15 판별하다 ----- 6:3-ARGM-DIS() 9:2-ARGM-PRD() 10:1-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-LOC(SRC) 14:1-ARG1(THM) 15:0-rel

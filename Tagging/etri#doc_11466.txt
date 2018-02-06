@@ -1,0 +1,2 @@
+etri#doc_11466.txt 8 하다 ----- 4:1-ARGM-DIS() 7:3-ARG1(THM) 8:0-rel
+etri#doc_11466.txt 13 드러나다 ----- 10:2-ARGM-DIS() 11:1-ARGM-LOC(LOC) 12:1-ARGM-TMP() 13:0-rel

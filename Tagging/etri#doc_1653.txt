@@ -1,0 +1,5 @@
+etri#doc_1653.txt 7 절단하다 ----- 5:2-ARG1() 6:1-ARGM-MNR(DIR) 7:0-rel
+etri#doc_1653.txt 13 개의하다 ----- 12:3-ARGM-DIS() 13:0-rel
+etri#doc_1653.txt 16 추구하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_1653.txt 19 유지하다 ----- 16:3-ARGM-DIS() 18:2-() 19:0-rel
+etri#doc_1653.txt 20 노력하다 ----- 2:2-ARG0(THM) 13:4-ARGM-DIS() 19:3-ARGM-DIS() 20:0-rel

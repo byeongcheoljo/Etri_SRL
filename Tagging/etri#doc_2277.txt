@@ -1,0 +1,4 @@
+etri#doc_2277.txt 1 진전되다 ----- 1:0-rel
+etri#doc_2277.txt 11 받다 ----- 9:2-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_2277.txt 15 달하다 ----- 14:1-ARG2(LOC) 15:0-rel
+etri#doc_2277.txt 17 주다 ----- 13:2-ARG2(LOC) 16:3-ARG1(THM) 17:0-rel

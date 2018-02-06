@@ -1,0 +1,5 @@
+etri#doc_6644.txt 5 돌아가다 ----- 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_6644.txt 7 하다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_6644.txt 12 만들다 ----- 10:2-ARGM-EXT() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6644.txt 13 쓰다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT() 5:3-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel
+etri#doc_6644.txt 15 쓰다 ----- 13:3-ARGM-MNR() 14:1-ARG0(AGT) 15:0-rel

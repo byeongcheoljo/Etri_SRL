@@ -1,0 +1,3 @@
+etri#doc_8223.txt 11 감싸안다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8223.txt 12 충돌시키다 ----- 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:0-rel
+etri#doc_8223.txt 15 더하다 ----- 1:1-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

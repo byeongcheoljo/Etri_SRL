@@ -1,0 +1,4 @@
+etri#doc_4605.txt 3 무너지다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:0-rel
+etri#doc_4605.txt 6 오르다 ----- 3:2-ARGM-TMP() 4:1-ARGM-TMP() 5:1-ARG2(LOC) 6:0-rel
+etri#doc_4605.txt 11 오르다 ----- 6:2-ARGM-DIS() 7:1-ARGM-CAU(EFF) 8:1-ARGM-DIS() 10:2-ARG2(LOC) 11:0-rel
+etri#doc_4605.txt 19 쌓다 ----- 12:4-ARG0(AGT) 16:3-ARGM-MNR() 17:1-ARGM-MNR(COM) 18:1-ARG1(THM) 19:0-rel

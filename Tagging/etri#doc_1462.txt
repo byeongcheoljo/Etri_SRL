@@ -1,0 +1,5 @@
+etri#doc_1462.txt 4 나다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_1462.txt 5 숨다 ----- 5:0-rel
+etri#doc_1462.txt 6 피하다 ----- 4:2-ARGM-CND() 5:1-ARGM-DIS() 6:0-rel
+etri#doc_1462.txt 13 나아가다 ----- 12:1-ARG2(GOL) 13:0-rel
+etri#doc_1462.txt 18 살다 ----- 17:1-ARGM-LOC(LOC) 18:0-rel

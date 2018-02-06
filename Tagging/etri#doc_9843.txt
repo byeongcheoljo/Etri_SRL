@@ -1,0 +1,4 @@
+etri#doc_9843.txt 3 차단되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_9843.txt 7 끝나다 ----- 6:3-ARGM-LOC(LOC) 7:0-rel
+etri#doc_9843.txt 12 지키다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_9843.txt 19 상대하다 ----- 9:6-ARGM-DIS() 10:1-ARG0(AGT) 17:3-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel

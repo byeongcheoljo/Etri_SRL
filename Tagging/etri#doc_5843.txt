@@ -1,0 +1,5 @@
+etri#doc_5843.txt 2 정해지다 ----- 2:0-rel
+etri#doc_5843.txt 6 선발하다 ----- 3:2-ARGM-DIS(EFF) 5:2-ARGM-MNR(INS) 6:0-rel
+etri#doc_5843.txt 9 없어지다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5843.txt 15 날뛰다 ----- 14:1-ARG0(AGT) 15:0-rel
+etri#doc_5843.txt 17 무너지다 ----- 1:1-ARGM-DIS() 6:3-ARGM-CND() 13:4-ARGM-CAU() 16:3-ARG1(THM) 17:0-rel

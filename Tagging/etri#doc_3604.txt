@@ -1,0 +1,5 @@
+etri#doc_3604.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3604.txt 4 하다 ----- 3:2-ARG1(CNT) 4:0-rel
+etri#doc_3604.txt 5 들어가다 ----- 4:3-ARGM-DIS() 5:0-rel
+etri#doc_3604.txt 9 만나다 ----- 1:1-ARGM-TMP() 6:5-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_3604.txt 14 나서다 ----- 9:3-ARGM-DIS() 10:1-ARGM-ADV() 11:1-ARG0(AGT) 12:1-ARGM-MNR() 13:1-ARG1(Npr) 14:0-rel

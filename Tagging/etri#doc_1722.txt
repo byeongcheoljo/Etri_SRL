@@ -1,0 +1,2 @@
+etri#doc_1722.txt 4 도달하다 ----- 2:2-ARG1(THM) 3:1-ARG2(GOL) 4:0-rel
+etri#doc_1722.txt 11 속하다 ----- 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:1-ARG2(LOC) 11:0-rel

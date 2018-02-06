@@ -1,0 +1,3 @@
+etri#doc_7634.txt 14 되다 ----- 7:4-ARG1(THM) 9:2-ARGM-LOC(LOC) 12:3-ARGM-DIS(EFF) 13:1-ARG2(FNS) 14:0-rel
+etri#doc_7634.txt 15 벌이다 ----- 2:2-ARG0(AGT) 14:2-ARGM-DIS() 15:0-rel
+etri#doc_7634.txt 18 끝나다 ----- 16:4-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel

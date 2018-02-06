@@ -1,0 +1,1 @@
+etri#doc_3431.txt 5 나타내다 ----- 1:1-ARGM-ADV(EFF) 3:2-ARG0(EFF) 4:1-ARG1(THM) 5:0-rel

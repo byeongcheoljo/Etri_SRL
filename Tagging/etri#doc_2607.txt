@@ -1,0 +1,5 @@
+etri#doc_2607.txt 4 힘입다 ----- 3:1-ARG2(EFF) 4:0-rel
+etri#doc_2607.txt 6 휘두르다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_2607.txt 10 두다 ----- 8:1-ARG2(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2607.txt 13 거두다 ----- 11:3-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_2607.txt 18 되다 ----- 6:2-ARGM-DIS() 7:1-ARG1() 13:2-ARGM-DIS() 14:1-ARG1() 15:1-ARG1() 17:2-ARG1() 18:0-rel

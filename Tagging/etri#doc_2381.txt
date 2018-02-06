@@ -1,0 +1,1 @@
+etri#doc_2381.txt 21 ¿Ã∑Á¥Ÿ ----- 1:1-ARGM-DIS() 18:4-ARG0(AGT) 20:2-ARG1(THM) 21:0-rel

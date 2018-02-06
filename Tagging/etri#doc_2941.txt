@@ -1,0 +1,6 @@
+etri#doc_2941.txt 3 걸리다 ----- 1:1-ARG2(LOC) 2:1-ARG1() 3:0-rel
+etri#doc_2941.txt 8 하다 ----- 6:1-ARGM-INS(INS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_2941.txt 10 만들다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2941.txt 12 수정하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_2941.txt 15 찢다 ----- 14:2-ARGM-CND() 15:0-rel
+etri#doc_2941.txt 20 회고하다 ----- 18:2-ARG1() 19:1-ARG0(AGT) 20:0-rel

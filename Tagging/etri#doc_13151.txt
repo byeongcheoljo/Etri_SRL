@@ -1,0 +1,4 @@
+etri#doc_13151.txt 3 침투시키다 ----- 1:1-ARG1(THM) 2:1-ARGM-INS(INS) 3:0-rel
+etri#doc_13151.txt 6 운운하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-DIS(EFF) 5:1-ARG1() 6:0-rel
+etri#doc_13151.txt 10 종식시키다 ----- 9:5-ARG1(THM) 10:0-rel
+etri#doc_13151.txt 20 갖추다 ----- 19:3-ARG1(THM) 20:0-rel

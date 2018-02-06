@@ -1,0 +1,4 @@
+etri#doc_3698.txt 8 °É¾î¿À´Ù ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 7:2-ARGM-DIR(DIR) 8:0-rel
+etri#doc_3698.txt 11 ¹­´Ù ----- 9:1-ARG1(THM) 10:1-ARG2(LOC) 11:0-rel
+etri#doc_3698.txt 13 ²ø´Ù ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_3698.txt 15 ¹Ð´Ù ----- 8:3-ARGM-CAU() 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9670.txt 4 극복하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9670.txt 6 열다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_9670.txt 13 나아가다 ----- 13:0-rel
+etri#doc_9670.txt 17 이끌다 ----- 13:1-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

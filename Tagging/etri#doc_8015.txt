@@ -1,0 +1,6 @@
+etri#doc_8015.txt 4 알다 ----- 2:1-ARG0(MAG) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_8015.txt 5 넘어가다 ----- 1:1-ARG2(SRC) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_8015.txt 9 사로잡다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8015.txt 11 이끌다 ----- 11:0-rel
+etri#doc_8015.txt 12 미혹하다 ----- 9:3-ARGM-DIS() 10:1-ARGM-MNR(INS) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_8015.txt 18 활동하다 ----- 6:4-ARG0(AGT) 14:2-ARG0(AGT) 16:2-ARGM-LOC(LOC) 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8324.txt 9 보내다 ----- 6:1-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8324.txt 13 말하다 ----- 1:1-ARG0(AGT) 12:2-ARG1(CNT) 13:0-rel

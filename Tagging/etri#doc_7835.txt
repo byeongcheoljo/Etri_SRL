@@ -1,0 +1,3 @@
+etri#doc_7835.txt 2 빼앗기다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7835.txt 4 없어지다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_7835.txt 16 구하다 ----- 13:3-ARG0() 14:1-ARGM-LOC(LOC) 15:1-ARGM-EXT() 16:0-rel

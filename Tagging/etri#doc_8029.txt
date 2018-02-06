@@ -1,0 +1,5 @@
+etri#doc_8029.txt 3 되다 ----- 1:1-ARGM-LOC() 2:1-ARG2(FNS) 3:0-rel
+etri#doc_8029.txt 5 되다 ----- 3:2-ARGM-DIS() 4:1-ARG2(FNS) 5:0-rel
+etri#doc_8029.txt 6 내려오다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_8029.txt 11 설명하다 ----- 9:2-ARG1(THM) 10:1-ARG1(CNT) 11:0-rel
+etri#doc_8029.txt 14 쓰다 ----- 7:4-ARGM-PRD(EFF) 11:2-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARGM-EXT() 14:0-rel

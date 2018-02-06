@@ -1,0 +1,2 @@
+etri#doc_8219.txt 11 당하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:1-ARG3(AGT) 10:1-ARG2(Npr) 11:0-rel
+etri#doc_8219.txt 16 보다 ----- 14:2-ARGM-LOC(LOC) 15:1-ARGM-EXT() 16:0-rel

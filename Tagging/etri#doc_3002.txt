@@ -1,0 +1,3 @@
+etri#doc_3002.txt 11 확보하다 ----- 6:4-ARGM-LOC(LOC) 10:4-ARG1(THM) 11:0-rel
+etri#doc_3002.txt 21 다루다 ----- 20:1-ARGM-MNR() 21:0-rel
+etri#doc_3002.txt 22 무시하다 ----- 12:6-ARGM-DIS() 19:4-ARG1(THM) 21:2-ARGM-DIS() 22:0-rel

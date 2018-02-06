@@ -1,0 +1,2 @@
+etri#doc_3928.txt 8 철수하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3928.txt 13 검토하다 ----- 3:2-ARG0(MAG) 8:3-ARGM-DIS() 10:2-ARGM-TMP(LOC) 12:2-ARG1(THM) 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2747.txt 5 녹다 ----- 5:0-rel
+etri#doc_2747.txt 15 일으키다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_2747.txt 18 감속하다 ----- 18:0-rel
+etri#doc_2747.txt 19 조절하다 ----- 11:1-ARGM-DIS() 12:1-ARGM-LOC(LOC) 17:5-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_301.txt 4 치다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_301.txt 5 입학하다 ----- 2:1-ARG1(GOL) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_301.txt 13 치르다 ----- 11:2-ARG2(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_301.txt 17 살다 ----- 13:2-ARGM-PRP() 16:3-ARG2(LOC) 17:0-rel

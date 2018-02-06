@@ -1,0 +1,2 @@
+etri#doc_3388.txt 8 되다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 7:3-ARG2(FNS) 8:0-rel
+etri#doc_3388.txt 12 예상되다 ----- 8:4-ARGM-DIS() 11:2-ARG1() 12:0-rel

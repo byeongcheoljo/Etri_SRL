@@ -1,0 +1,4 @@
+etri#doc_6846.txt 3 치르다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6846.txt 8 생기다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6846.txt 13 투입되다 ----- 3:2-ARGM-CND() 8:2-ARGM-DIS() 9:1-ARG1(THM) 12:3-ARG2(GOL) 13:0-rel
+etri#doc_6846.txt 18 하다 ----- 13:4-ARG1() 15:2-ARG0(AGT) 16:1-ARGM-TMP() 17:1-ARG1() 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11750.txt 13 사용되다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11750.txt 19 갖다 ----- 1:1-ARGM-DIS() 8:5-ARGM-DIS() 11:3-ARG0(AGT) 15:2-ARGM-CAU(EFF) 16:1-ARGM-EXT() 18:2-ARG1(THM) 19:0-rel

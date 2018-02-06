@@ -1,0 +1,2 @@
+etri#doc_4972.txt 11 가지다 ----- 7:1-ARGM-ADV() 10:2-ARG1(THM) 11:0-rel
+etri#doc_4972.txt 17 말하다 ----- 16:4-ARG1() 17:0-rel

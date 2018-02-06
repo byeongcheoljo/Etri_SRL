@@ -1,0 +1,4 @@
+etri#doc_5421.txt 4 보이다 ----- 3:3-ARGM-LOC(LOC) 4:0-rel
+etri#doc_5421.txt 8 살아가다 ----- 8:0-rel
+etri#doc_5421.txt 10 배우다 ----- 8:1-ARGM-DIS() 9:1-ARG2(SRC) 10:0-rel
+etri#doc_5421.txt 16 말하다 ----- 15:2-ARG1() 16:0-rel

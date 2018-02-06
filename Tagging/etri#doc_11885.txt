@@ -1,0 +1,3 @@
+etri#doc_11885.txt 6 두다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 5:2-ARG2(LOC) 6:0-rel
+etri#doc_11885.txt 13 보좌하다 ----- 10:1-ARG1(THM) 12:2-ARGM-LOC(LOC) 13:0-rel
+etri#doc_11885.txt 15 임명되다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 7:1-ARGM-DIS() 8:1-ARG0(AGT) 9:1-ARGM-TMP() 14:4-ARG2(FNS) 15:0-rel

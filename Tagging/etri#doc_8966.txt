@@ -1,0 +1,3 @@
+etri#doc_8966.txt 4 맞이하다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8966.txt 11 돌아오다 ----- 4:2-ARGM-DIS() 8:4-ARG3(GOL) 9:1-ARGM-PRD(INS) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8966.txt 14 개최하다 ----- 1:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:0-rel

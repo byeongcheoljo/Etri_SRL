@@ -1,0 +1,4 @@
+etri#doc_6601.txt 2 말하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_6601.txt 11 감지되다 ----- 7:3-ARGM-LOC(LOC) 10:3-ARGM-PRD(INS) 11:0-rel
+etri#doc_6601.txt 18 감지되다 ----- 11:4-ARGM-DIS() 15:3-ARGM-LOC(GOL) 17:2-ARGM-MNR() 18:0-rel
+etri#doc_6601.txt 22 감지되다 ----- 2:2-ARGM-CND() 4:2-ARGM-DIS(CNT) 18:3-ARGM-DIS() 19:1-ARGM-LOC(GOL) 21:2-ARGM-MNR() 22:0-rel

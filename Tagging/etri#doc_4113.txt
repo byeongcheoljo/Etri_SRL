@@ -1,0 +1,6 @@
+etri#doc_4113.txt 2 휘두르다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4113.txt 4 나오다 ----- 2:2-ARGM-CND() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_4113.txt 6 갖다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_4113.txt 8 하다 ----- 8:0-rel
+etri#doc_4113.txt 11 쓰다 ----- 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_4113.txt 14 내다 ----- 6:4-ARGM-DIS() 7:1-ARG0(AGT) 8:1-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2852.txt 6 ¾Ë´Ù ----- 6:0-rel
+etri#doc_2852.txt 7 ±ú´Ù ----- 5:2-ARGM-LOC(LOC) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_2852.txt 12 ´øÁö´Ù ----- 9:2-ARG2(GOL) 11:2-ARG1(THM) 12:0-rel
+etri#doc_2852.txt 16 ³¬´Ù ----- 2:2-ARG0(AGT) 12:3-ARGM-INS() 15:2-ARG1(THM) 16:0-rel

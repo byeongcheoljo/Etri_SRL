@@ -1,0 +1,3 @@
+etri#doc_7603.txt 4 통하다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7603.txt 11 되다 ----- 9:3-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_7603.txt 12 주장하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV() 11:2-ARGM-DIS() 12:0-rel

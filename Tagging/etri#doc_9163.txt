@@ -1,0 +1,5 @@
+etri#doc_9163.txt 4 둘러싸다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9163.txt 6 보다 ----- 5:3-ARGM-MNR(INS) 6:0-rel
+etri#doc_9163.txt 12 보다 ----- 2:2-ARG1(THM) 6:4-ARGM-DIS() 11:3-ARGM-MNR(INS) 12:0-rel
+etri#doc_9163.txt 19 주장하다 ----- 12:4-ARGM-DIS() 18:4-ARGM-DIS() 19:0-rel
+etri#doc_9163.txt 21 벗어나다 ----- 19:5-ARGM-DIS() 20:1-ARGM-LOC(SRC) 21:0-rel

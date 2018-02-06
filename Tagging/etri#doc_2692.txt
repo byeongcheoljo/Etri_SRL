@@ -1,0 +1,6 @@
+etri#doc_2692.txt 4 나오다 ----- 3:2-ARG2(EFF) 4:0-rel
+etri#doc_2692.txt 7 믿다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_2692.txt 8 되다 ----- 7:2-ARGM-CND() 8:0-rel
+etri#doc_2692.txt 10 모르다 ----- 5:4-ARGM-ADV(EFF) 9:4-ARG1(EFF) 10:0-rel
+etri#doc_2692.txt 14 박다 ----- 13:1-ARG2(EFF) 14:0-rel
+etri#doc_2692.txt 17 생각하다 ----- 11:1-ARG1(THM) 12:1-ARGM-ADV(EFF) 15:3-ARGM-EXT() 16:1-ARGM-EXT() 17:0-rel

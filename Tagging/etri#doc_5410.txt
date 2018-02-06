@@ -1,0 +1,5 @@
+etri#doc_5410.txt 3 보다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_5410.txt 5 깜짝하다 ----- 4:1-ARG1() 5:0-rel
+etri#doc_5410.txt 7 하다 ----- 3:3-ARGM-CND() 6:3-ARG1(CNT) 7:0-rel
+etri#doc_5410.txt 10 보다 ----- 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_5410.txt 14 찾아내다 ----- 11:1-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel

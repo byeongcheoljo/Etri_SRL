@@ -1,0 +1,5 @@
+etri#doc_8969.txt 2 책임지다 ----- 2:0-rel
+etri#doc_8969.txt 5 찢다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 4:2-ARG1(THM) 5:0-rel
+etri#doc_8969.txt 10 먹다 ----- 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_8969.txt 11 가다 ----- 5:3-ARGM-DIS() 7:2-ARG0(AGT) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_8969.txt 15 끝마치다 ----- 11:3-ARGM-CAU() 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

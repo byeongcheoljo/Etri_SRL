@@ -1,0 +1,4 @@
+etri#doc_4947.txt 7 돕다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4947.txt 12 비난하다 ----- 10:3-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4947.txt 16 피하다 ----- 16:0-rel
+etri#doc_4947.txt 18 옹호하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-CND(EFF) 12:2-ARGM-DIS() 15:2-ARG1(THM) 17:2-ARG1(CND) 18:0-rel

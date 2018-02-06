@@ -1,0 +1,2 @@
+etri#doc_9120.txt 6 출발하다 ----- 1:1-ARG0(AGT) 5:2-ARG2(SRC) 6:0-rel
+etri#doc_9120.txt 11 하다 ----- 8:2-ARG0(AGT) 10:2-ARGM-MNR(INS) 11:0-rel

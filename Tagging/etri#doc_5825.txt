@@ -1,0 +1,4 @@
+etri#doc_5825.txt 7 저촉되다 ----- 6:2-ARG2(CRT) 7:0-rel
+etri#doc_5825.txt 11 막론하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_5825.txt 13 엄단하다 ----- 8:4-ARG1(THM) 9:1-ARGM-DIS(CNT) 11:2-ARGM-DIS() 12:1-ARGM-DIS(EFF) 13:0-rel
+etri#doc_5825.txt 15 지시하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 4:2-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:0-rel

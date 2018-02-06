@@ -1,0 +1,6 @@
+etri#doc_5625.txt 3 타다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:0-rel
+etri#doc_5625.txt 7 흔들리다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5625.txt 9 올라가다 ----- 5:1-ARGM-TMP() 7:2-ARGM-DIS() 8:1-ARG3(GOL) 9:0-rel
+etri#doc_5625.txt 11 일어나다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_5625.txt 14 질리다 ----- 13:1-ARG2(EFF) 14:0-rel
+etri#doc_5625.txt 16 지르다 ----- 4:3-ARG0(AGT) 9:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-EXT() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_841.txt 2 잠들다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_841.txt 6 싣다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_841.txt 9 깔다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_841.txt 12 지나가다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(AGT) 6:2-ARGM-DIS() 10:3-ARG1(LOC) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_841.txt 15 날리다 ----- 13:1-ARGM-MNR() 14:1-ARGM-INS(INS) 15:0-rel
+etri#doc_841.txt 18 하다 ----- 18:0-rel

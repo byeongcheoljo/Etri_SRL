@@ -1,0 +1,4 @@
+etri#doc_7416.txt 3 느끼다 ----- 1:1-ARG2(GOL) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7416.txt 6 떠나오다 ----- 4:1-ARG2(COM) 5:1-ARG1(THM) 6:0-rel
+etri#doc_7416.txt 7 떠나오다 ----- 7:0-rel
+etri#doc_7416.txt 14 맞아들이다 ----- 3:2-ARGM-DIS() 6:2-ARGM-DIS() 8:2-ARG1(THM) 13:2-ARGM-INS(INS) 14:0-rel

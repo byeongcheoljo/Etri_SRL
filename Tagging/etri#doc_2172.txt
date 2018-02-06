@@ -1,0 +1,4 @@
+etri#doc_2172.txt 4 받다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_2172.txt 7 짓다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_2172.txt 13 입다 ----- 9:4-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_2172.txt 17 되다 ----- 2:2-ARG2(LOC) 5:3-ARG0() 13:3-ARGM-DIS() 15:2-ARG2(LOC) 16:1-ARG1(AGT) 17:0-rel

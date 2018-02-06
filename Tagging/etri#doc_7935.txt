@@ -1,0 +1,4 @@
+etri#doc_7935.txt 3 ´À³¢´Ù ----- 2:2-ARGM-TMP(SRC) 3:0-rel
+etri#doc_7935.txt 10 ÇÏ´Ù ----- 9:2-ARG1(FNS) 10:0-rel
+etri#doc_7935.txt 12 ³¢¾ñ´Ù ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_7935.txt 14 ¾²ÀÌ´Ù ----- 6:2-ARGM-ADV(EFF) 7:1-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel

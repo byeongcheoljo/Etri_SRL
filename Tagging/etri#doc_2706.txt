@@ -1,0 +1,4 @@
+etri#doc_2706.txt 4 열리다 ----- 3:1-ARGM-TMP(Npr) 4:0-rel
+etri#doc_2706.txt 11 반대하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2706.txt 14 밝히다 ----- 2:2-ARG0(AGT) 6:2-ARGM-TMP(LOC) 7:1-ARGM-TMP() 13:4-ARG1(THM) 14:0-rel
+etri#doc_2706.txt 18 얻다 ----- 14:5-ARGM-CAU(EFF) 15:1-ARG0(AGT) 16:1-ARGM-EXT() 17:1-ARG1(THM) 18:0-rel

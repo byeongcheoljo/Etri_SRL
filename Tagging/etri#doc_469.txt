@@ -1,0 +1,2 @@
+etri#doc_469.txt 3 ¹Ï´Ù ----- 3:0-rel
+etri#doc_469.txt 16 Áö²¬ÀÌ´Ù ----- 13:3-ARGM-DIS() 14:1-ARGM-LOC(LOC) 15:1-ARGM-MNR() 16:0-rel

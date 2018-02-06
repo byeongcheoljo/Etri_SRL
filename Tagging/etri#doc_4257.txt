@@ -1,0 +1,4 @@
+etri#doc_4257.txt 8 논하다 ----- 3:2-ARGM-LOC(LOC) 5:2-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_4257.txt 11 말하다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_4257.txt 13 믿다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_4257.txt 17 갖다 ----- 1:1-ARGM-DIS() 8:3-ARGM-DIS() 9:1-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

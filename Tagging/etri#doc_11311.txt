@@ -1,0 +1,4 @@
+etri#doc_11311.txt 8 이루다 ----- 3:2-ARGM-LOC(LOC) 6:3-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_11311.txt 15 따지다 ----- 15:0-rel
+etri#doc_11311.txt 18 시작되다 ----- 8:2-ARGM-DIS() 14:5-ARG1(THM) 15:1-ARGM-CND() 17:2-ARGM-LOC(SRC) 18:0-rel
+etri#doc_11311.txt 19 생각되다 ----- 1:1-ARGM-DIS() 18:3-ARG1() 19:0-rel

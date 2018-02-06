@@ -1,0 +1,4 @@
+etri#doc_2269.txt 5 가져오다 ----- 2:2-ARG0(AGT) 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_2269.txt 9 수용되다 ----- 7:2-() 8:1-() 9:0-rel
+etri#doc_2269.txt 12 끼치다 ----- 9:2-ARGM-TMP() 10:1-ARGM-ADV(EFF) 11:1-ARG1(THM) 12:0-rel
+etri#doc_2269.txt 14 가지다 ----- 12:2-ARG0() 13:1-ARG1(THM) 14:0-rel

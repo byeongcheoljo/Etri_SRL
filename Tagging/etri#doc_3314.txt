@@ -1,0 +1,4 @@
+etri#doc_3314.txt 4 전제하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_3314.txt 11 움직이다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3314.txt 17 돌아오다 ----- 15:1-ARG2(SRC) 16:1-ARG3(GOL) 17:0-rel
+etri#doc_3314.txt 21 극대화하다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 14:3-ARG0(AGT) 20:3-ARG1(THM) 21:0-rel

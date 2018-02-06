@@ -1,0 +1,2 @@
+etri#doc_11833.txt 5 앞서다 ----- 4:1-ARGM-EXT(CRT) 5:0-rel
+etri#doc_11833.txt 12 증명하다 ----- 9:2-ARG0(AGT) 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:0-rel

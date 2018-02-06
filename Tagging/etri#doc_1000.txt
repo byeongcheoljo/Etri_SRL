@@ -1,0 +1,2 @@
+etri#doc_1000.txt 5 ¶³¾îÁö´Ù ----- 3:1-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_1000.txt 14 ±ú´Ý´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 12:3-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel

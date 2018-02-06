@@ -1,0 +1,3 @@
+etri#doc_2745.txt 3 나오다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_2745.txt 5 보다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2745.txt 8 존재하다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel

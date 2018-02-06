@@ -1,0 +1,3 @@
+etri#doc_11731.txt 9 하다 ----- 9:0-rel
+etri#doc_11731.txt 11 하다 ----- 11:0-rel
+etri#doc_11731.txt 13 구별되다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

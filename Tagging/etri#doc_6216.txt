@@ -1,0 +1,3 @@
+etri#doc_6216.txt 6 어울리다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR(COM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6216.txt 14 나누다 ----- 9:3-ARGM-LOC(LOC) 10:1-ARG0(AGT) 11:1-ARGM-MNR(COM) 13:2-ARG1(THM) 14:0-rel
+etri#doc_6216.txt 16 상상하다 ----- 15:4-ARG1(THM) 16:0-rel

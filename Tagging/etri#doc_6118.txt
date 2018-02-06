@@ -1,0 +1,5 @@
+etri#doc_6118.txt 5 받다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6118.txt 8 힘들이다 ----- 8:0-rel
+etri#doc_6118.txt 9 만들다 ----- 5:3-ARGM-EXT() 7:2-ARG1(THM) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_6118.txt 11 설익다 ----- 11:0-rel
+etri#doc_6118.txt 19 얽다 ----- 1:1-ARG0(AGT) 9:2-ARGM-DIS() 10:1-ARGM-DIS() 14:2-ARGM-INS(INS) 18:4-ARG1(THM) 19:0-rel

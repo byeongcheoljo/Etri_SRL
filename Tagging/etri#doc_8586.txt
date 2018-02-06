@@ -1,0 +1,5 @@
+etri#doc_8586.txt 10 다지다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_8586.txt 11 넣다 ----- 8:3-ARG2(GOL) 10:2-ARGM-MNR() 11:0-rel
+etri#doc_8586.txt 12 굽다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_8586.txt 16 쓰다 ----- 4:3-ARGM-EXT() 5:1-ARGM-TMP(LOC) 12:4-ARGM-DIS() 15:3-ARG2(FNS) 16:0-rel
+etri#doc_8586.txt 19 구전되다 ----- 17:5-ARG1(THM) 18:1-ARGM-LOC(LOC) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_2175.txt 5 시작하다 ----- 3:3-ARG0(THM) 4:1-ARGM-PRD(EFF) 5:0-rel
+etri#doc_2175.txt 9 쓰다 ----- 8:2-ARGM-TMP() 9:0-rel
+etri#doc_2175.txt 11 보다 ----- 5:2-() 6:1-() 10:4-() 11:0-rel
+etri#doc_2175.txt 14 걸식하다 ----- 14:0-rel
+etri#doc_2175.txt 15 쓰다 ----- 14:1-ARGM-TMP() 15:0-rel

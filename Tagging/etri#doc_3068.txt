@@ -1,0 +1,4 @@
+etri#doc_3068.txt 6 뒤떨어지다 ----- 4:2-ARGM-TMP() 5:1-ARGM-DIS() 6:0-rel
+etri#doc_3068.txt 10 움직이다 ----- 7:1-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3068.txt 13 다지다 ----- 10:3-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel
+etri#doc_3068.txt 16 평가하다 ----- 2:2-ARG0(EFF) 6:2-ARGM-DIS() 14:4-ARGM-ADV(LOC) 15:1-ARGM-EXT() 16:0-rel

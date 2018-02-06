@@ -1,0 +1,6 @@
+etri#doc_4070.txt 3 사다 ----- 3:0-rel
+etri#doc_4070.txt 4 신기다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4070.txt 9 사다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4070.txt 13 어루만지다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_4070.txt 18 알다 ----- 17:2-ARG1(FNS) 18:0-rel
+etri#doc_4070.txt 19 신다 ----- 11:5-ARGM-DIS() 15:2-ARG1(THM) 18:3-ARGM-DIS() 19:0-rel

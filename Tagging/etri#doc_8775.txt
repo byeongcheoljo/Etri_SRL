@@ -1,0 +1,5 @@
+etri#doc_8775.txt 4 위하다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8775.txt 5 겪다 ----- 4:2-ARGM-PRP() 5:0-rel
+etri#doc_8775.txt 12 위하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8775.txt 13 겪다 ----- 12:3-ARGM-PRP() 13:0-rel
+etri#doc_8775.txt 20 남기다 ----- 16:2-ARGM-CND() 17:1-ARG1(AGT) 19:2-ARG1(THM) 20:0-rel

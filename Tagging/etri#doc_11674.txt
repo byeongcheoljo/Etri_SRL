@@ -1,0 +1,4 @@
+etri#doc_11674.txt 3 따르다 ----- 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_11674.txt 5 넘다 ----- 4:1-ARGM-EXT(CRT) 5:0-rel
+etri#doc_11674.txt 11 이루어지다 ----- 9:2-ARG1() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11674.txt 16 진행되다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3008.txt 9 구분하다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 4:1-ARGM-LOC(LOC) 8:4-ARG2(FNS) 9:0-rel
+etri#doc_3008.txt 13 일컫다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_3008.txt 15 달성하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_3008.txt 16 협동하다 ----- 15:2-ARGM-PRP() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5566.txt 2 출판되다 ----- 2:0-rel
+etri#doc_5566.txt 4 읽히다 ----- 2:1-ARGM-TMP() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_5566.txt 12 짓밟다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_5566.txt 17 심다 ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 15:6-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel

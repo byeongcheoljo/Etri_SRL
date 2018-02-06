@@ -1,0 +1,7 @@
+etri#doc_6805.txt 2 예상되다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_6805.txt 5 보다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6805.txt 6 매립되다 ----- 6:0-rel
+etri#doc_6805.txt 9 하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6805.txt 11 짓다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6805.txt 13 짓다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6805.txt 15 하다 ----- 7:2-ARGM-INS(INS) 14:3-ARG1(THM) 15:0-rel

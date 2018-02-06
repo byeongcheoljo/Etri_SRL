@@ -1,0 +1,1 @@
+etri#doc_727.txt 16 °®´Ù ----- 7:3-ARGM-DIS() 13:5-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8970.txt 7 구금되다 ----- 4:3-ARG1(THM) 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_8970.txt 11 터놓다 ----- 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_8970.txt 13 하다 ----- 11:2-ARGM-DIS() 12:1-ARG1() 13:0-rel
+etri#doc_8970.txt 14 꺼리다 ----- 8:1-ARG0(EXP) 13:2-ARG1(THM) 14:0-rel
+etri#doc_8970.txt 15 긴장되다 ----- 15:0-rel

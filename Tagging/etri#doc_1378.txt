@@ -1,0 +1,2 @@
+etri#doc_1378.txt 15 두절되다 ----- 13:2-ARGM-CAU(EFF) 14:1-ARG0(THM) 15:0-rel
+etri#doc_1378.txt 18 일어나다 ----- 17:1-ARGM-MNR() 18:0-rel

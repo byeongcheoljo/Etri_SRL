@@ -1,0 +1,3 @@
+etri#doc_8081.txt 10 은폐하다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_8081.txt 13 관철하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_8081.txt 16 형성하다 ----- 1:1-ARGM-DIS() 5:2-ARG0(THM) 6:1-ARGM-TMP() 15:2-ARG1(FNS) 16:0-rel

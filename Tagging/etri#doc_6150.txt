@@ -1,0 +1,6 @@
+etri#doc_6150.txt 2 제시되다 ----- 1:1-ARG2(LOC) 2:0-rel
+etri#doc_6150.txt 6 보다 ----- 4:2-ARG1(SRC) 5:1-ARG2(FNS) 6:0-rel
+etri#doc_6150.txt 8 나타나다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6150.txt 12 보다 ----- 10:2-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_6150.txt 14 보다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_6150.txt 17 나타나다 ----- 2:2-ARGM-EXT() 8:2-ARGM-DIS() 12:2-ARGM-CND() 16:4-ARG1(THM) 17:0-rel

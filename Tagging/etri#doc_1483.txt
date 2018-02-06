@@ -1,0 +1,7 @@
+etri#doc_1483.txt 6 들썩이다 ----- 6:0-rel
+etri#doc_1483.txt 7 굽다 ----- 3:2-ARGM-EXT() 4:1-ARGM-MNR() 5:1-ARG1(THM) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_1483.txt 9 익다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1483.txt 10 집어먹다 ----- 7:2-ARGM-DIS() 9:2-ARGM-MNR() 10:0-rel
+etri#doc_1483.txt 13 말다 ----- 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1483.txt 14 들다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1483.txt 15 권하다 ----- 1:1-ARG0() 10:3-ARGM-TMP() 11:1-ARGM-TMP() 14:3-ARG1(THM) 15:0-rel

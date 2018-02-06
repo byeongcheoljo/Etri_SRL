@@ -1,0 +1,2 @@
+etri#doc_11382.txt 7 발견되다 ----- 6:4-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11382.txt 10 경작되다 ----- 9:1-ARGM-INS(INS) 10:0-rel

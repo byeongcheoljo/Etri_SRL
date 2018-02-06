@@ -1,0 +1,6 @@
+etri#doc_5.txt 2 이해하다 ----- 2:0-rel
+etri#doc_5.txt 8 알다 ----- 7:1-ARG0(MAG) 8:0-rel
+etri#doc_5.txt 12 가지다 ----- 12:0-rel
+etri#doc_5.txt 13 주다 ----- 11:1-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_5.txt 15 시키다 ----- 10:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(GOL) 15:0-rel
+etri#doc_5.txt 16 하다 ----- 8:2-() 9:1-ARG0(AGT) 15:2-ARGM-MNR() 16:0-rel

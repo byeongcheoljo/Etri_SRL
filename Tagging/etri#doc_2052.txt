@@ -1,0 +1,1 @@
+etri#doc_2052.txt 15 일어나다 ----- 14:2-ARGM-DIS(DIR) 15:0-rel

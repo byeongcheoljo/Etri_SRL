@@ -1,0 +1,2 @@
+etri#doc_1643.txt 6 끌다 ----- 5:2-ARG1(Npr) 6:0-rel
+etri#doc_1643.txt 10 증명하다 ----- 2:2-ARG0(THM) 9:6-ARG1(THM) 10:0-rel

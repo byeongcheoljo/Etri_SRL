@@ -1,0 +1,4 @@
+etri#doc_3803.txt 3 이해하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3803.txt 8 회귀하다 ----- 4:1-ARG0(AGT) 6:2-ARGM-LOC(DIR) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3803.txt 14 하다 ----- 3:3-ARGM-DIS() 10:4-ARGM-PRP(PUR) 13:3-ARG1(THM) 14:0-rel
+etri#doc_3803.txt 17 발견하다 ----- 15:5-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

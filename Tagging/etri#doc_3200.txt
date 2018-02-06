@@ -1,0 +1,1 @@
+etri#doc_3200.txt 14 제시되다 ----- 2:2-ARGM-CND() 13:5-ARG1() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8386.txt 5 이르다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_8386.txt 18 되다 ----- 11:4-ARGM-CND() 12:1-ARG1(THM) 17:3-ARG2(FNS) 18:0-rel

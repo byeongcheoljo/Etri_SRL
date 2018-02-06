@@ -1,0 +1,5 @@
+etri#doc_6071.txt 5 밀리다 ----- 4:2-ARG2(AGT) 5:0-rel
+etri#doc_6071.txt 7 감수하다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_6071.txt 11 공개하다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6071.txt 12 맞받아치다 ----- 7:5-ARGM-DIS() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_6071.txt 14 갖다 ----- 1:1-ARG0(AGT) 13:4-ARG1(THM) 14:0-rel

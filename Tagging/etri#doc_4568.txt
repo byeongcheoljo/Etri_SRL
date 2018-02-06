@@ -1,0 +1,2 @@
+etri#doc_4568.txt 9 알려지다 ----- 1:1-ARG1(THM) 3:2-ARG2(MAG) 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_4568.txt 14 다물다 ----- 10:1-ARGM-ADV(CNT) 11:1-ARGM-EXT() 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

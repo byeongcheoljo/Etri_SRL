@@ -1,0 +1,1 @@
+etri#doc_3026.txt 22 공존하다 ----- 13:2-ARGM-CND() 18:3-ARG0(THM) 21:3-ARG2(COM) 22:0-rel

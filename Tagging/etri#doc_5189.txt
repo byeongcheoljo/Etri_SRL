@@ -1,0 +1,4 @@
+etri#doc_5189.txt 3 생각하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5189.txt 8 마시다 ----- 5:2-ARG1(THM) 7:2-ARGM-EXT() 8:0-rel
+etri#doc_5189.txt 14 만들다 ----- 8:3-ARGM-MNR() 9:1-ARG1(THM) 11:2-ARGM-MNR() 13:2-ARG2(FNS) 14:0-rel
+etri#doc_5189.txt 17 전이하다 ----- 3:3-ARGM-DIS() 14:3-ARGM-CAU() 16:2-ARGM-TMP(LOC) 17:0-rel

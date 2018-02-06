@@ -1,0 +1,4 @@
+etri#doc_7328.txt 4 수집되다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7328.txt 6 놓다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_7328.txt 12 대화하다 ----- 6:4-ARGM-DIS() 9:3-ARGM-LOC(LOC) 11:2-ARGM-ADV(CNT) 12:0-rel
+etri#doc_7328.txt 14 제시되다 ----- 2:2-ARGM-TMP() 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

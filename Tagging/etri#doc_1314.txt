@@ -1,0 +1,3 @@
+etri#doc_1314.txt 9 되다 ----- 8:5-ARG0() 9:0-rel
+etri#doc_1314.txt 11 지탱하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1314.txt 15 충전하다 ----- 9:6-ARGM-CAU() 11:2-ARGM-EXT() 14:2-ARG1(THM) 15:0-rel

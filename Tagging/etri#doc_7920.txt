@@ -1,0 +1,4 @@
+etri#doc_7920.txt 2 두려워하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7920.txt 10 따르다 ----- 8:1-ARG0(AGT) 9:1-ARG2(THM) 10:0-rel
+etri#doc_7920.txt 13 관철시키다 ----- 11:3-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_7920.txt 19 확립하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:1-ARGM-TMP(LOC) 13:2-ARGM-MNR() 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

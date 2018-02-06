@@ -1,0 +1,2 @@
+etri#doc_8169.txt 4 µÇ´Ù ----- 3:3-ARG2(FNS) 4:0-rel
+etri#doc_8169.txt 10 ¹Ù²î´Ù ----- 5:5-ARG1(THM) 8:3-ARGM-LOC(LOC) 9:1-ARGM-MNR() 10:0-rel

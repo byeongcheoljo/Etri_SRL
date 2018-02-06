@@ -1,0 +1,2 @@
+etri#doc_5675.txt 5 안되다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:1-ARG2(LOC) 5:0-rel
+etri#doc_5675.txt 7 흡수하다 ----- 6:3-ARG1(THM) 7:0-rel

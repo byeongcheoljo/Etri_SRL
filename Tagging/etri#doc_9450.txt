@@ -1,0 +1,4 @@
+etri#doc_9450.txt 3 µÇ´Ù ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_9450.txt 7 ¸Ô´Ù ----- 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_9450.txt 9 Âî´Ù ----- 7:2-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9450.txt 15 ³ª´Ù ----- 1:1-ARG1(EXP) 4:3-ARGM-PRD(INS) 13:3-ARGM-CAU(EFF) 14:1-ARG1(Npr) 15:0-rel

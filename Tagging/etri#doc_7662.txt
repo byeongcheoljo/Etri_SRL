@@ -1,0 +1,4 @@
+etri#doc_7662.txt 3 졸업하다 ----- 2:1-ARG1(SRC) 3:0-rel
+etri#doc_7662.txt 5 일하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_7662.txt 12 되다 ----- 9:1-ARGM-EXT(CRT) 11:2-ARG2(FNS) 12:0-rel
+etri#doc_7662.txt 14 가지다 ----- 8:1-ARGM-DIS() 13:4-ARG1(THM) 14:0-rel

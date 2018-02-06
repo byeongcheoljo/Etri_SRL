@@ -1,0 +1,4 @@
+etri#doc_2106.txt 3 하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2106.txt 10 출렁거리다 ----- 10:0-rel
+etri#doc_2106.txt 11 흔들리다 ----- 9:1-() 10:1-() 11:0-rel
+etri#doc_2106.txt 15 지치다 ----- 4:4-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARG0() 14:2-ARG1(THM) 15:0-rel

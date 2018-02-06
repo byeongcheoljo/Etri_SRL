@@ -1,0 +1,4 @@
+etri#doc_7722.txt 8 확인되다 ----- 4:2-ARGM-TMP(LOC) 6:2-ARG1(THM) 7:1-ARG1(FNS) 8:0-rel
+etri#doc_7722.txt 11 허용하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7722.txt 13 백지화하다 ----- 8:2-ARGM-CND() 12:4-ARG1(THM) 13:0-rel
+etri#doc_7722.txt 15 밝히다 ----- 1:1-ARG0(AGT) 14:6-ARG1(CNT) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7033.txt 11 뜻하다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-TMP() 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_7033.txt 14 그리다 ----- 12:1-ARG1(THM) 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_7033.txt 18 갖다 ----- 11:2-ARGM-CAU() 15:3-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

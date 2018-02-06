@@ -1,0 +1,5 @@
+etri#doc_4961.txt 3 그치다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4961.txt 8 뒤뚱거리다 ----- 8:0-rel
+etri#doc_4961.txt 10 되다 ----- 9:1-ARG1(FNS) 10:0-rel
+etri#doc_4961.txt 12 물러나다 ----- 7:2-ARG0(AGT) 8:1-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG2(DIR) 12:0-rel
+etri#doc_4961.txt 15 비추다 ----- 3:2-ARGM-DIS() 5:2-ARG0(EFF) 13:3-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

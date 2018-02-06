@@ -1,0 +1,4 @@
+etri#doc_1266.txt 6 차다 ----- 5:2-ARG2(LOC) 6:0-rel
+etri#doc_1266.txt 8 다양화되다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1266.txt 10 조성시키다 ----- 6:3-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel
+etri#doc_1266.txt 17 경합하다 ----- 10:4-ARGM-DIS() 13:3-ARGM-CND() 14:1-ARGM-LOC(LOC) 15:1-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

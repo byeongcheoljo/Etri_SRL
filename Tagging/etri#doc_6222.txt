@@ -1,0 +1,6 @@
+etri#doc_6222.txt 2 제시되다 ----- 1:1-ARG2(LOC) 2:0-rel
+etri#doc_6222.txt 7 하락하다 ----- 4:2-ARGM-ADV(EFF) 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_6222.txt 9 가다 ----- 8:1-ARGM-TMP(LOC) 9:0-rel
+etri#doc_6222.txt 11 지나다 ----- 10:1-ARG1(CRT) 11:0-rel
+etri#doc_6222.txt 12 사라지다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARGM-TMP() 12:0-rel
+etri#doc_6222.txt 13 알다 ----- 2:2-ARGM-EXT() 12:3-ARG1() 13:0-rel

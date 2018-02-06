@@ -1,0 +1,3 @@
+etri#doc_7077.txt 7 ªÔ¥Ÿ ----- 3:1-ARG1(THM) 6:3-ARG2(FNS) 7:0-rel
+etri#doc_7077.txt 11 ªÔ¥Ÿ ----- 9:2-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_7077.txt 16 ∞≥πÊ«œ¥Ÿ ----- 14:2-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

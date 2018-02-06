@@ -1,0 +1,4 @@
+etri#doc_444.txt 3 들다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_444.txt 12 미치다 ----- 7:2-ARG0(AGT) 9:2-ARG2(GOL) 11:2-ARG1(THM) 12:0-rel
+etri#doc_444.txt 13 검토하다 ----- 12:3-ARG1() 13:0-rel
+etri#doc_444.txt 19 읽다 ----- 1:1-ARG0(AGT) 13:4-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

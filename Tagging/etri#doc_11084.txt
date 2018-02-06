@@ -1,0 +1,5 @@
+etri#doc_11084.txt 3 찾다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_11084.txt 7 거치다 ----- 6:2-ARG2(LOC) 7:0-rel
+etri#doc_11084.txt 9 돕다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11084.txt 13 세우다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_11084.txt 15 적다 ----- 3:3-ARGM-DIS() 4:1-ARGM-CND(EFF) 7:3-ARGM-TMP() 14:4-ARG1(THM) 15:0-rel

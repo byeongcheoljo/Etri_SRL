@@ -1,0 +1,2 @@
+etri#doc_4203.txt 9 태어나다 ----- 3:2-ARGM-TMP() 6:3-ARGM-LOC(LOC) 7:1-ARGM-PRD(COM) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4203.txt 12 졸업하다 ----- 1:1-ARG0(THM) 9:2-ARGM-DIS() 10:1-ARGM-DIS(INS) 11:1-ARG1(SRC) 12:0-rel

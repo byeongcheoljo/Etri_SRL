@@ -1,0 +1,3 @@
+etri#doc_3352.txt 5 이해하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3352.txt 11 의식하다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3352.txt 14 알다 ----- 5:3-ARGM-DIS() 8:3-ARGM-DIS() 9:1-ARG2(LOC) 13:4-ARG1(THM) 14:0-rel

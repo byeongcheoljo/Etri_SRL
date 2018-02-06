@@ -1,0 +1,6 @@
+etri#doc_11087.txt 3 인수하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11087.txt 10 하다 ----- 5:4-ARGM-CND() 7:2-ARGM-CAU(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_11087.txt 12 관례화되다 ----- 1:1-ARGM-TMP(CRT) 11:4-ARG1(THM) 12:0-rel
+etri#doc_11087.txt 16 뿌리치다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_11087.txt 18 좋아하다 ----- 17:1-ARG1(MAG) 18:0-rel
+etri#doc_11087.txt 20 결혼하다 ----- 12:5-ARGM-DIS() 13:1-ARG0(AGT) 16:3-ARGM-DIS() 19:3-ARG1(COM) 20:0-rel

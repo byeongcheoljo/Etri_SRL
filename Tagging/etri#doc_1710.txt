@@ -1,0 +1,2 @@
+etri#doc_1710.txt 10 거부하다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_1710.txt 21 하다 ----- 2:2-ARG0(AGT) 3:1-ARG0(AGT) 10:5-ARGM-DIS() 20:4-ARGM-DIS() 21:0-rel

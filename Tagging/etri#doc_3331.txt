@@ -1,0 +1,2 @@
+etri#doc_3331.txt 9 의미하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(EFF) 5:3-ARGM-MNR(COM) 8:3-ARG2(THM) 9:0-rel
+etri#doc_3331.txt 19 추가되다 ----- 9:4-ARGM-DIS() 10:1-ARG0(EFF) 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:1-ARGM-DIS() 14:1-ARG0(EFF) 18:2-ARG1(THM) 19:0-rel

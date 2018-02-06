@@ -1,0 +1,2 @@
+etri#doc_6717.txt 7 달다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_6717.txt 15 흘러나오다 ----- 8:6-ARGM-LOC(SRC) 9:1-ARG1(THM) 13:4-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

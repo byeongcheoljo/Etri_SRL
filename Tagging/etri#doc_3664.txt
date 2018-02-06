@@ -1,0 +1,2 @@
+etri#doc_3664.txt 6 출연하다 ----- 5:5-ARG0(AGT) 6:0-rel
+etri#doc_3664.txt 14 꾸미다 ----- 6:6-ARGM-DIS() 13:7-ARG1(THM) 14:0-rel

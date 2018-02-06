@@ -1,0 +1,5 @@
+etri#doc_1857.txt 4 전전하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1857.txt 6 해결하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1857.txt 10 제시하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 8:2-ARGM-INS(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1857.txt 12 받아들이다 ----- 11:1-ARGM-ADV(FNS) 12:0-rel
+etri#doc_1857.txt 13 실행되다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel

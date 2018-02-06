@@ -1,0 +1,6 @@
+etri#doc_13001.txt 3 끼다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_13001.txt 7 에워싸다 ----- 6:1-ARG2(THM) 7:0-rel
+etri#doc_13001.txt 8 보호하다 ----- 4:3-ARG0(AGT) 5:1-ARGM-TMP() 7:2-ARGM-MNR() 8:0-rel
+etri#doc_13001.txt 12 대비하다 ----- 11:2-ARG1(GOL) 12:0-rel
+etri#doc_13001.txt 14 동원하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_13001.txt 16 봉쇄하다 ----- 8:3-ARGM-DIS() 9:1-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARGM-LOC(LOC) 16:0-rel

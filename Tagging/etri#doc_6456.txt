@@ -1,0 +1,6 @@
+etri#doc_6456.txt 1 그러다 ----- 1:0-rel
+etri#doc_6456.txt 6 버리다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6456.txt 9 변하다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:1-ARGM-TMP() 6:3-ARGM-DIS() 8:2-ARG3(FNS) 9:0-rel
+etri#doc_6456.txt 12 찍다 ----- 11:2-ARGM-INS(SRC) 12:0-rel
+etri#doc_6456.txt 14 불다 ----- 12:3-ARGM-DIS() 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_6456.txt 18 만들다 ----- 9:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

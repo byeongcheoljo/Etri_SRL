@@ -1,0 +1,4 @@
+etri#doc_8773.txt 8 끄덕이다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8773.txt 13 피하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8773.txt 16 낙향하다 ----- 10:2-ARG0(AGT) 13:3-ARGM-DIS() 15:2-ARG2(DIR) 16:0-rel
+etri#doc_8773.txt 18 생각하다 ----- 8:2-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

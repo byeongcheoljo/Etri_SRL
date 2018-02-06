@@ -1,0 +1,5 @@
+etri#doc_8443.txt 3 뚫다 ----- 1:1-ARGM-EXT(CRT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_8443.txt 5 연결하다 ----- 3:2-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_8443.txt 7 취하다 ----- 5:2-ARGM-MNR() 6:1-ARG1(THM) 7:0-rel
+etri#doc_8443.txt 12 막다 ----- 8:1-ARGM-TMP() 9:1-ARG1(THM) 11:2-ARGM-INS(INS) 12:0-rel
+etri#doc_8443.txt 14 줄이다 ----- 7:2-ARGM-CAU() 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

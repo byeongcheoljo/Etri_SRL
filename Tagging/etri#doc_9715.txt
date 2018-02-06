@@ -1,0 +1,2 @@
+etri#doc_9715.txt 5 조정하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_9715.txt 18 응용하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 9:4-ARGM-CAU() 12:3-ARGM-TMP(LOC) 17:3-ARGM-TMP(LOC) 18:0-rel

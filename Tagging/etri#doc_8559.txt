@@ -1,0 +1,1 @@
+etri#doc_8559.txt 4 들어서다 ----- 3:3-ARG1(THM) 4:0-rel

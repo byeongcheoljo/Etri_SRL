@@ -1,0 +1,7 @@
+etri#doc_3588.txt 4 타다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3588.txt 5 달아나다 ----- 2:1-ARGM-TMP() 4:2-ARGM-MNR() 5:0-rel
+etri#doc_3588.txt 8 마주치다 ----- 5:3-ARGM-DIS() 7:2-ARGM-MNR(COM) 8:0-rel
+etri#doc_3588.txt 11 조르다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_3588.txt 12 살해하다 ----- 8:3-ARGM-CAU() 11:3-ARGM-MNR() 12:0-rel
+etri#doc_3588.txt 15 버리다 ----- 12:4-ARGM-MNR() 14:2-ARG2(LOC) 15:0-rel
+etri#doc_3588.txt 16 달아나다 ----- 1:1-ARG0(AGT) 15:3-ARGM-DIS() 16:0-rel

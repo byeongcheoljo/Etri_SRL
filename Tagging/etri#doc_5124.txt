@@ -1,0 +1,4 @@
+etri#doc_5124.txt 5 평준화되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5124.txt 9 나타나다 ----- 7:2-ARG1(THM) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_5124.txt 14 가다 ----- 11:2-ARG2(SRC) 12:1-ARG1(GOL) 13:1-ARG0(AGT) 14:0-rel
+etri#doc_5124.txt 17 보이다 ----- 1:1-ARGM-TMP() 5:3-ARGM-DIS() 9:2-ARGM-CAU() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

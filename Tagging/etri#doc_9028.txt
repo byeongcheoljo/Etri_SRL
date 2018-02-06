@@ -1,0 +1,2 @@
+etri#doc_9028.txt 10 독점하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_9028.txt 16 되다 ----- 5:5-ARG1(THM) 10:4-ARGM-CAU() 15:4-ARG2(FNS) 16:0-rel

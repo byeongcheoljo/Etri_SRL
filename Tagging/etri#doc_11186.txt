@@ -1,0 +1,3 @@
+etri#doc_11186.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11186.txt 8 목격하다 ----- 1:1-ARGM-DIS() 4:3-ARG0(MAG) 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11186.txt 13 제기하다 ----- 8:2-ARGM-CND() 12:3-ARG1(THM) 13:0-rel

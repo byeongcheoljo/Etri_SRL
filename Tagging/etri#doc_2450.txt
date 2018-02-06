@@ -1,0 +1,1 @@
+etri#doc_2450.txt 7 ¿À¸£´Ù ----- 2:2-ARGM-ADV(EFF) 5:3-ARG1() 6:1-ARG3(EFF) 7:0-rel

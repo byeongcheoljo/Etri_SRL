@@ -1,0 +1,4 @@
+etri#doc_6183.txt 3 구분하다 ----- 1:1-ARG1(THM) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_6183.txt 7 이르다 ----- 4:1-ARG2(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6183.txt 14 마비시키다 ----- 11:2-ARG0(AGT) 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_6183.txt 16 이르다 ----- 3:2-ARGM-DIS() 7:3-ARGM-DIS() 9:2-ARG2(GOL) 14:2-ARG1() 15:1-ARGM-MNR(INS) 16:0-rel

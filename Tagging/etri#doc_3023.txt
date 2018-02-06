@@ -1,0 +1,5 @@
+etri#doc_3023.txt 7 이루다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_3023.txt 11 구성하다 ----- 7:5-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3023.txt 15 독립되다 ----- 12:1-ARGM-ADV() 13:1-ARGM-MNR(INS) 14:1-() 15:0-rel
+etri#doc_3023.txt 16 존재하다 ----- 2:1-ARG1(THM) 11:4-ARGM-DIS() 15:2-ARGM-MNR() 16:0-rel
+etri#doc_3023.txt 17 말하다 ----- 16:3-ARG1(THM) 17:0-rel

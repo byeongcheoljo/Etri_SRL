@@ -1,0 +1,6 @@
+etri#doc_4778.txt 2 담그다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_4778.txt 8 넣다 ----- 5:3-ARG2(GOL) 7:2-ARG1(THM) 8:0-rel
+etri#doc_4778.txt 9 보관하다 ----- 2:2-ARGM-TMP() 8:3-ARGM-DIS() 9:0-rel
+etri#doc_4778.txt 11 먹다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_4778.txt 14 내다 ----- 12:1-ARG1(THM) 13:1-ARGM-EXT(FNS) 14:0-rel
+etri#doc_4778.txt 15 담다 ----- 9:4-ARGM-DIS() 11:2-ARGM-TMP() 14:2-ARGM-DIS() 15:0-rel

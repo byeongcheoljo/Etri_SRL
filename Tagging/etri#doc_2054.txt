@@ -1,0 +1,5 @@
+etri#doc_2054.txt 2 둘러싸다 ----- 1:1-ARG1(LOC) 2:0-rel
+etri#doc_2054.txt 8 경시하다 ----- 4:1-() 7:2-() 8:0-rel
+etri#doc_2054.txt 12 처리하다 ----- 9:1-ARGM-TMP() 10:1-ARG2(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_2054.txt 13 대하다 ----- 12:2-ARG2() 13:0-rel
+etri#doc_2054.txt 17 제시하다 ----- 3:3-ARG0() 8:3-ARGM-DIS() 13:3-ARGM-ADV() 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

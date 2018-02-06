@@ -1,0 +1,1 @@
+etri#doc_392.txt 4 ¿À´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0() 3:1-ARG3(LOC) 4:0-rel

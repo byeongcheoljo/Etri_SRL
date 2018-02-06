@@ -1,0 +1,4 @@
+etri#doc_4087.txt 4 하다 ----- 2:2-ARGM-CND() 3:1-ARG1(CNT) 4:0-rel
+etri#doc_4087.txt 9 달다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARGM-EXT(CRT) 7:1-ARG1(THM) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4087.txt 15 쓰다 ----- 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_4087.txt 16 달다 ----- 4:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-TMP() 11:1-ARGM-TMP() 12:1-ARG0(AGT) 15:2-ARGM-DIS() 16:0-rel

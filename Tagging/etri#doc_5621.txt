@@ -1,0 +1,4 @@
+etri#doc_5621.txt 6 보다 ----- 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_5621.txt 9 느끼다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5621.txt 12 일으키다 ----- 7:1-ARG0(AGT) 9:2-ARGM-CAU() 11:2-ARG1(THM) 12:0-rel
+etri#doc_5621.txt 17 건너다 ----- 12:3-ARGM-EXT() 14:2-ARG0(AGT) 15:1-ARGM-TMP() 16:1-ARGM-LOC(LOC) 17:0-rel

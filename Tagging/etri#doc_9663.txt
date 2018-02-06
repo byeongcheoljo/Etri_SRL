@@ -1,0 +1,2 @@
+etri#doc_9663.txt 12 설정하다 ----- 8:1-ARGM-TMP() 9:1-ARGM-LOC(LOC) 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_9663.txt 15 보이다 ----- 7:3-ARG0(AGT) 12:2-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_135.txt 6 명하다 ----- 4:1-ARG0(AGT) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_135.txt 13 고르다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_135.txt 17 곁들이다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_135.txt 18 엮다 ----- 3:1-ARGM-TMP() 6:2-ARGM-DIS() 13:3-ARGM-DIS() 15:2-ARG1(THM) 17:2-ARGM-DIS() 18:0-rel

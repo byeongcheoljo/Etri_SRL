@@ -1,0 +1,7 @@
+etri#doc_6205.txt 2 보다 ----- 2:0-rel
+etri#doc_6205.txt 5 되다 ----- 3:2-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_6205.txt 8 보다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_6205.txt 10 보다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6205.txt 12 하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6205.txt 13 나돌다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_6205.txt 15 내다 ----- 10:2-ARGM-CND() 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

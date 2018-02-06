@@ -1,0 +1,2 @@
+etri#doc_898.txt 3 되다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_898.txt 6 구하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-TMP(CRT) 6:0-rel

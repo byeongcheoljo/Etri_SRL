@@ -1,0 +1,4 @@
+etri#doc_11856.txt 2 맞다 ----- 1:1-ARG2(THM) 2:0-rel
+etri#doc_11856.txt 6 이르다 ----- 5:1-ARG3(FNS) 6:0-rel
+etri#doc_11856.txt 8 알려지다 ----- 7:1-ARG0(MAG) 8:0-rel
+etri#doc_11856.txt 13 말하다 ----- 11:2-ARGM-MNR() 12:1-ARG0(AGT) 13:0-rel

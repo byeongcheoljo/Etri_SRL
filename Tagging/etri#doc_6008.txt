@@ -1,0 +1,5 @@
+etri#doc_6008.txt 4 극복하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6008.txt 7 조화하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6008.txt 11 노력하다 ----- 7:3-ARGM-DIS() 10:3-ARGM-MNR() 11:0-rel
+etri#doc_6008.txt 14 보장되다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6008.txt 17 트이다 ----- 4:3-ARGM-DIS() 11:4-ARGM-TMP() 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

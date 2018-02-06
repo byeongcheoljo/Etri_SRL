@@ -1,0 +1,2 @@
+etri#doc_5147.txt 8 구가하다 ----- 5:5-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_5147.txt 15 이기다 ----- 11:1-ARGM-CAU(EFF) 12:1-ARGM-TMP() 14:2-ARGM-LOC(LOC) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3736.txt 2 벗어나다 ----- 1:1-ARG1(SRC) 2:0-rel
+etri#doc_3736.txt 9 변화하다 ----- 8:1-ARGM-MNR() 9:0-rel

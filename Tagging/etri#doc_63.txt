@@ -1,0 +1,2 @@
+etri#doc_63.txt 5 갖다 ----- 4:2-ARG0(AGT) 5:0-rel
+etri#doc_63.txt 20 주다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 19:3-ARG1(THM) 20:0-rel

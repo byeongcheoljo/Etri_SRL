@@ -1,0 +1,5 @@
+etri#doc_7221.txt 6 도착하다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:1-ARG3(LOC) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_7221.txt 15 보내다 ----- 10:4-ARGM-TMP(LOC) 11:1-ARG0(AGT) 12:1-ARG1(THM) 13:1-ARG2(GOL) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_7221.txt 19 탈취하다 ----- 18:3-ARG1(THM) 19:0-rel
+etri#doc_7221.txt 21 함락시키다 ----- 19:4-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel
+etri#doc_7221.txt 24 이르다 ----- 6:2-ARGM-DIS() 15:2-ARGM-DIS() 21:2-ARGM-DIS() 23:2-ARGM-LOC(GOL) 24:0-rel

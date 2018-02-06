@@ -1,0 +1,2 @@
+etri#doc_4006.txt 3 발견하다 ----- 1:1-ARGM-MNR() 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_4006.txt 15 씌우다 ----- 10:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

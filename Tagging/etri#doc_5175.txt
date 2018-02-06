@@ -1,0 +1,4 @@
+etri#doc_5175.txt 5 ¶Ù´Ù ----- 1:1-ARGM-TMP(CRT) 4:3-ARGM-EXT() 5:0-rel
+etri#doc_5175.txt 10 ±ú´Ù ----- 10:0-rel
+etri#doc_5175.txt 12 ½¬´Ù ----- 9:3-ARG0(AGT) 10:1-ARGM-DIS() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5175.txt 16 ³ªÅ¸³ª´Ù ----- 6:5-ARGM-PRD(INS) 12:2-ARGM-TMP() 13:1-ARGM-DIS() 15:2-ARGM-DIR(DIR) 16:0-rel

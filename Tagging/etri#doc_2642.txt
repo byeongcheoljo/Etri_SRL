@@ -1,0 +1,3 @@
+etri#doc_2642.txt 4 내려오다 ----- 1:1-ARG2(EFF) 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2642.txt 13 되다 ----- 4:3-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG2(AGT) 12:1-ARG1(AGT) 13:0-rel
+etri#doc_2642.txt 19 지니다 ----- 15:4-ARGM-TMP() 17:2-ARG0() 18:1-ARG1(THM) 19:0-rel

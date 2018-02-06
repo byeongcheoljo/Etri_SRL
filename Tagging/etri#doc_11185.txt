@@ -1,0 +1,2 @@
+etri#doc_11185.txt 9 넘다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 5:2-ARGM-DIS() 8:3-ARG1(CRT) 9:0-rel
+etri#doc_11185.txt 18 되다 ----- 9:4-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARG1() 17:3-ARG2(CRT) 18:0-rel

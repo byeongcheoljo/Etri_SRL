@@ -1,0 +1,5 @@
+etri#doc_1007.txt 7 맞추다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1007.txt 8 개다 ----- 5:4-ARGM-EXT() 7:2-ARGM-MNR() 8:0-rel
+etri#doc_1007.txt 11 갈아입다 ----- 11:0-rel
+etri#doc_1007.txt 12 벗다 ----- 8:3-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_1007.txt 15 나서다 ----- 12:2-ARGM-DIS() 13:1-ARG1(LOC) 14:1-ARGM-MNR() 15:0-rel

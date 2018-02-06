@@ -1,0 +1,2 @@
+etri#doc_6439.txt 6 보이다 ----- 3:1-ARGM-TMP() 5:2-ARG0(AGT) 6:0-rel
+etri#doc_6439.txt 13 느끼다 ----- 10:2-ARGM-ADV(EFF) 11:1-ARG0(EXP) 12:1-ARGM-EXT() 13:0-rel

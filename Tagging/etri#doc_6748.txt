@@ -1,0 +1,1 @@
+etri#doc_6748.txt 10 물러서다 ----- 3:2-ARGM-CAU(EFF) 4:1-ARG1(THM) 8:3-ARG2(DIR) 9:1-ARGM-EXT() 10:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5465.txt 5 ∞ﬁ¥Ÿ ----- 1:1-ARGM-TMP() 2:1-ARG0(EXP) 3:1-ARGM-MNR(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5465.txt 17 √Î«œ¥Ÿ ----- 12:2-ARGM-ADV(CNT) 13:1-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:0-rel

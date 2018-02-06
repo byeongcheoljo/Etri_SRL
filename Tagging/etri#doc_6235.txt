@@ -1,0 +1,3 @@
+etri#doc_6235.txt 10 근접하다 ----- 3:2-ARG1(THM) 6:2-ARGM-CAU() 8:2-ARGM-LOC(LOC) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_6235.txt 14 찾다 ----- 12:2-ARG1(THM) 13:1-ARGM-LOC(SRC) 14:0-rel
+etri#doc_6235.txt 18 뒤지다 ----- 1:1-ARGM-DIS() 10:2-ARGM-DIS() 14:2-ARGM-CND() 17:2-ARG1(THM) 18:0-rel

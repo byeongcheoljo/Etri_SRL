@@ -1,0 +1,5 @@
+etri#doc_5019.txt 2 들어오다 ----- 1:1-ARGM-LOC(GOL) 2:0-rel
+etri#doc_5019.txt 5 하다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5019.txt 11 당하다 ----- 10:2-ARG3(EFF) 11:0-rel
+etri#doc_5019.txt 15 오다 ----- 14:1-ARGM-LOC(GOL) 15:0-rel
+etri#doc_5019.txt 17 다물다 ----- 13:5-ARGM-CAU(EFF) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

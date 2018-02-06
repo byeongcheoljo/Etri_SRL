@@ -1,0 +1,5 @@
+etri#doc_1423.txt 7 받아들이다 ----- 3:2-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_1423.txt 11 소개하다 ----- 7:4-ARGM-DIS() 8:1-ARGM-TMP() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_1423.txt 14 엿보다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_1423.txt 15 읽다 ----- 15:0-rel
+etri#doc_1423.txt 17 맛보다 ----- 1:1-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

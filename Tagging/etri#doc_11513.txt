@@ -1,0 +1,4 @@
+etri#doc_11513.txt 5 걸다 ----- 2:1-ARG2(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_11513.txt 10 녹다 ----- 5:3-ARGM-MNR() 6:1-ARG(THM) 8:2-ARGM-LOC(LOC) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_11513.txt 16 하다 ----- 11:3-ARG0(AGT) 12:1-ARGM-CAU() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_11513.txt 19 검토하다 ----- 1:1-ARG0(MAG) 16:2-ARG1() 17:1-ARGM-TMP() 18:1-ARGM-TMP() 19:0-rel

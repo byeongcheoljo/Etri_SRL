@@ -1,0 +1,4 @@
+etri#doc_2556.txt 8 시도되다 ----- 7:4-() 8:0-rel
+etri#doc_2556.txt 10 오다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_2556.txt 13 바라보다 ----- 12:2-() 13:0-rel
+etri#doc_2556.txt 18 나타나다 ----- 3:2-ARG0() 8:5-ARGM-DIS() 10:2-ARGM-CND() 17:2-ARGM-INS(INS) 18:0-rel

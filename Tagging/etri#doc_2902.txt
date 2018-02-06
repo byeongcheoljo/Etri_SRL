@@ -1,0 +1,4 @@
+etri#doc_2902.txt 6 나타나다 ----- 3:2-ARG1(THM) 4:1-ARGM-EXT(CRT) 5:1-ARG2(LOC) 6:0-rel
+etri#doc_2902.txt 13 잡다 ----- 10:1-ARGM-INS(INS) 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_2902.txt 16 부르다 ----- 9:2-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_2902.txt 18 돌아가다 ----- 1:1-ARG1(LOC) 6:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel

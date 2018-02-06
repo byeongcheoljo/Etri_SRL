@@ -1,0 +1,2 @@
+etri#doc_784.txt 12 좋아하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_784.txt 16 따지다 ----- 15:2-ARG1() 16:0-rel

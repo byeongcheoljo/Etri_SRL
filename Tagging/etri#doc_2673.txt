@@ -1,0 +1,3 @@
+etri#doc_2673.txt 3 보다 ----- 1:1-ARGM-EXT() 2:1-ARG1(THM) 3:0-rel
+etri#doc_2673.txt 6 넘다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_2673.txt 16 침입하다 ----- 10:6-ARGM-DIS() 11:1-ARGM-EXT() 13:2-ARGM-EXT() 14:1-ARG0() 15:1-ARG1(EFF) 16:0-rel

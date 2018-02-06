@@ -1,0 +1,2 @@
+etri#doc_279.txt 11 말미암다 ----- 10:1-ARG2(EFF) 11:0-rel
+etri#doc_279.txt 16 밝다 ----- 15:1-ARG1(THM) 16:0-rel

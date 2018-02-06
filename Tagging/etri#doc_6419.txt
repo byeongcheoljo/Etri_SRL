@@ -1,0 +1,2 @@
+etri#doc_6419.txt 7 결합되다 ----- 6:2-ARGM-CAU(EFF) 7:0-rel
+etri#doc_6419.txt 9 존재하다 ----- 8:1-ARGM-TMP() 9:0-rel

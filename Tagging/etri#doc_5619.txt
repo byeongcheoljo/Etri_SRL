@@ -1,0 +1,5 @@
+etri#doc_5619.txt 4 바치다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_5619.txt 5 감사하다 ----- 5:0-rel
+etri#doc_5619.txt 8 봉헌하다 ----- 1:1-ARG0(AGT) 6:2-ARGM-MNR(INS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_5619.txt 14 이루다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5619.txt 16 보내다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 11:2-ARGM-MNR(INS) 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

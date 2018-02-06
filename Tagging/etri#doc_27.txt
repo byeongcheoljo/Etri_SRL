@@ -1,0 +1,7 @@
+etri#doc_27.txt 4 구하다 ----- 3:3-ARG1() 4:0-rel
+etri#doc_27.txt 5 부탁하다 ----- 4:4-ARGM-DIS() 5:0-rel
+etri#doc_27.txt 6 귀먹다 ----- 6:0-rel
+etri#doc_27.txt 9 데리다 ----- 5:5-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARGM-ADV() 9:0-rel
+etri#doc_27.txt 10 하다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_27.txt 14 가지다 ----- 13:2-ARG1() 14:0-rel
+etri#doc_27.txt 18 하다 ----- 16:5-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

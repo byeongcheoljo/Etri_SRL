@@ -1,0 +1,4 @@
+etri#doc_2979.txt 3 선용되다 ----- 3:0-rel
+etri#doc_2979.txt 4 악용되다 ----- 2:1-ARG1(THM) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_2979.txt 16 내재하다 ----- 11:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel
+etri#doc_2979.txt 18 의미하다 ----- 1:1-ARG1(EFF) 8:4-ARGM-TMP(LOC) 10:2-ARG1(EFF) 17:4-ARG2(THM) 18:0-rel

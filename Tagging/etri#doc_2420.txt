@@ -1,0 +1,4 @@
+etri#doc_2420.txt 2 빌리다 ----- 2:0-rel
+etri#doc_2420.txt 8 무너지다 ----- 4:3-ARGM-DIS() 7:3-ARG0(AGT) 8:0-rel
+etri#doc_2420.txt 10 어려워지다 ----- 9:1-() 10:0-rel
+etri#doc_2420.txt 14 보충하다 ----- 13:2-ARG1(THM) 14:0-rel

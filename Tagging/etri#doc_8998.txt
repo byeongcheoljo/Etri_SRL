@@ -1,0 +1,2 @@
+etri#doc_8998.txt 13 동원하다 ----- 11:6-ARGM-ADV(EFF) 12:1-ARG1(THM) 13:0-rel
+etri#doc_8998.txt 15 활성화하다 ----- 3:1-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

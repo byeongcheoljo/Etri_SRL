@@ -1,0 +1,5 @@
+etri#doc_9465.txt 2 초대되다 ----- 1:1-ARG2(LOC) 2:0-rel
+etri#doc_9465.txt 11 소개하다 ----- 9:1-ARGM-ADV() 10:1-ARG2(GOL) 11:0-rel
+etri#doc_9465.txt 16 받다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_9465.txt 20 나누다 ----- 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:1-ARGM-EXT() 20:0-rel
+etri#doc_9465.txt 22 익히다 ----- 14:2-ARGM-DIS() 20:2-ARGM-MNR() 21:1-ARG1(THM) 22:0-rel

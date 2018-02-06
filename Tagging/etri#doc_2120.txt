@@ -1,0 +1,2 @@
+etri#doc_2120.txt 7 °É¸®´Ù ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_2120.txt 21 ²ø´Ù ----- 20:2-ARG1(THM) 21:0-rel

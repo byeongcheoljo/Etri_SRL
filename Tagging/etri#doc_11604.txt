@@ -1,0 +1,3 @@
+etri#doc_11604.txt 5 ³ª¿À´Ù ----- 4:3-ARG3(GOL) 5:0-rel
+etri#doc_11604.txt 8 ¸ô¸®´Ù ----- 7:1-ARG2(GOL) 8:0-rel
+etri#doc_11604.txt 13 µè´Ù ----- 1:1-ARGM-DIS() 6:5-ARG0(MAG) 8:2-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

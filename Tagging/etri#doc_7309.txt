@@ -1,0 +1,4 @@
+etri#doc_7309.txt 6 보다 ----- 3:2-ARGM-ADV(EFF) 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_7309.txt 10 유래하다 ----- 8:1-ARGM-MNR() 9:1-ARG2(SRC) 10:0-rel
+etri#doc_7309.txt 13 거치다 ----- 12:2-ARG2(THM) 13:0-rel
+etri#doc_7309.txt 17 생겨나다 ----- 6:3-ARGM-DIS() 16:6-ARG1(THM) 17:0-rel

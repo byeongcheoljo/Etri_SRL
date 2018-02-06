@@ -1,0 +1,3 @@
+etri#doc_6516.txt 9 서다 ----- 1:1-ARGM-TMP() 6:3-ARGM-CND() 8:2-ARG0(THM) 9:0-rel
+etri#doc_6516.txt 11 끼치다 ----- 10:1-ARG2(GOL) 11:0-rel
+etri#doc_6516.txt 17 부인하다 ----- 9:3-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

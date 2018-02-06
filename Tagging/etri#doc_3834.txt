@@ -1,0 +1,3 @@
+etri#doc_3834.txt 3 재임하다 ----- 2:1-ARGM-PRD(FNS) 3:0-rel
+etri#doc_3834.txt 6 흔들리다 ----- 3:2-ARGM-TMP() 4:1-ARGM-CAU(EFF) 5:1-ARG1(THM) 6:0-rel
+etri#doc_3834.txt 10 받다 ----- 1:1-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel

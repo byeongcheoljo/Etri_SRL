@@ -1,0 +1,4 @@
+etri#doc_7105.txt 11 오다 ----- 8:1-ARG0(AGT) 10:2-ARGM-NEG() 11:0-rel
+etri#doc_7105.txt 15 보다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_7105.txt 16 사정하다 ----- 16:0-rel
+etri#doc_7105.txt 19 내려오다 ----- 3:3-ARGM-TMP() 15:2-ARGM-DIS() 16:1-ARGM-DIS() 17:1-ARG2(SRC) 18:1-ARG3(GOL) 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_7981.txt 2 설립되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7981.txt 7 공격하다 ----- 2:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_7981.txt 13 일치하다 ----- 10:3-ARG1(THM) 12:2-ARG2(COM) 13:0-rel
+etri#doc_7981.txt 14 주장하다 ----- 13:3-ARGM-DIS() 14:0-rel
+etri#doc_7981.txt 16 나타나다 ----- 7:3-ARGM-DIS() 15:5-ARG1(THM) 16:0-rel
+etri#doc_7981.txt 17 시작하다 ----- 16:6-ARGM-MNR() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7775.txt 1 창간하다 ----- 1:0-rel
+etri#doc_7775.txt 9 쓰다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7775.txt 12 사다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_7775.txt 14 받다 ----- 4:3-ARGM-TMP(LOC) 5:1-ARG0(AGT) 9:4-ARGM-MNR() 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

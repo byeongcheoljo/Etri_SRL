@@ -1,0 +1,1 @@
+etri#doc_7825.txt 11 го╢ы ----- 4:2-ARG0(AGT) 9:2-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel

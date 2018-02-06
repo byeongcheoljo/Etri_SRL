@@ -1,0 +1,4 @@
+etri#doc_5050.txt 3 시도하다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_5050.txt 8 시작하다 ----- 7:1-ARGM-TMP(SRC) 8:0-rel
+etri#doc_5050.txt 11 거스르다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIR(DIR) 11:0-rel
+etri#doc_5050.txt 16 느끼다 ----- 12:4-ARG1(THM) 13:1-ARGM-LOC(LOC) 15:2-ARGM-MNR() 16:0-rel

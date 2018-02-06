@@ -1,0 +1,2 @@
+etri#doc_5263.txt 11 도모하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_5263.txt 17 강화하다 ----- 11:4-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

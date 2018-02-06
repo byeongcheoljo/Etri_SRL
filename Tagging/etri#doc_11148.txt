@@ -1,0 +1,4 @@
+etri#doc_11148.txt 6 만들다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_11148.txt 7 쏟다 ----- 2:1-ARG0(AGT) 6:3-ARG2() 7:0-rel
+etri#doc_11148.txt 11 목표하다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_11148.txt 18 이루다 ----- 9:6-ARGM-MNR() 13:2-ARG0(AGT) 17:3-ARGM-MNR(INS) 18:0-rel

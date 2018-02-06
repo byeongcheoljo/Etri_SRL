@@ -1,0 +1,4 @@
+etri#doc_6106.txt 3 붙이다 ----- 1:1-ARG0(AGT) 2:1-ARG1(GOL) 3:0-rel
+etri#doc_6106.txt 6 맞닿다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_6106.txt 9 뜨다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_6106.txt 11 면하다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

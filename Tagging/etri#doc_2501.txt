@@ -1,0 +1,5 @@
+etri#doc_2501.txt 5 계속하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2501.txt 8 들다 ----- 6:4-ARG0(AGT) 7:1-ARGM-ADV(EFF) 8:0-rel
+etri#doc_2501.txt 10 정벌하다 ----- 2:2-() 8:2-() 9:1-() 10:0-rel
+etri#doc_2501.txt 14 구축하다 ----- 12:2-ARG1(THM) 13:1-ARGM-ADV(EFF) 14:0-rel
+etri#doc_2501.txt 17 침공하다 ----- 10:2-ARGM-EXT() 15:3-ARGM-ADV(EFF) 16:1-ARG1(THM) 17:0-rel

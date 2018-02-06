@@ -1,0 +1,3 @@
+etri#doc_13013.txt 9 내다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_13013.txt 14 몸바치다 ----- 11:1-ARG1(THM) 13:2-ARGM-LOC(GOL) 14:0-rel
+etri#doc_13013.txt 17 받다 ----- 2:2-ARG0(AGT) 15:4-ARGM-PRD(EFF) 16:1-ARG1(THM) 17:0-rel

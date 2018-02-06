@@ -1,0 +1,4 @@
+etri#doc_1819.txt 1 Á×´Ù ----- 1:0-rel
+etri#doc_1819.txt 4 ´ú´Ù ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_1819.txt 6 ±ÇÇÏ´Ù ----- 4:4-ARGM-PRP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1819.txt 14 µÇ´Ù ----- 9:1-ARGM-EXT(EFF) 13:2-ARG2(FNS) 14:0-rel

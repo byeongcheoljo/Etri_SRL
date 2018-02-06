@@ -1,0 +1,6 @@
+etri#doc_4583.txt 4 개항하다 ----- 3:2-ARGM-TMP() 4:0-rel
+etri#doc_4583.txt 6 사용되다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_4583.txt 9 폐지되다 ----- 6:2-ARGM-DIS() 8:2-ARGM-DIS() 9:0-rel
+etri#doc_4583.txt 11 관리하다 ----- 9:3-ARGM-TMP() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4583.txt 13 거치다 ----- 11:2-ARGM-TMP() 12:1-ARG2(THM) 13:0-rel
+etri#doc_4583.txt 18 취항하다 ----- 1:1-ARGM-CND(EFF) 13:2-ARGM-DIS() 15:2-ARGM-TMP(LOC) 16:1-ARGM-TMP() 17:1-ARG0(THM) 18:0-rel

@@ -1,0 +1,8 @@
+etri#doc_2101.txt 5 매다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_2101.txt 7 흘리다 ----- 2:2-ARG0() 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_2101.txt 11 하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_2101.txt 15 신다 ----- 14:2-() 15:0-rel
+etri#doc_2101.txt 17 받치다 ----- 12:4-() 15:3-() 16:1-() 17:0-rel
+etri#doc_2101.txt 18 거들먹거리다 ----- 18:0-rel
+etri#doc_2101.txt 19 휘젓다 ----- 19:0-rel
+etri#doc_2101.txt 20 다니다 ----- 8:3-ARGM-LOC(LOC) 17:2-ARGM-DIS() 18:1-ARGM-DIS() 19:1-ARGM-DIS() 20:0-rel

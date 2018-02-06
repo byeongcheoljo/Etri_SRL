@@ -1,0 +1,4 @@
+etri#doc_8954.txt 8 되다 ----- 7:1-ARG2(CRT) 8:0-rel
+etri#doc_8954.txt 10 익히다 ----- 6:4-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel
+etri#doc_8954.txt 13 바치다 ----- 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_8954.txt 14 모자라다 ----- 14:0-rel

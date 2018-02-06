@@ -1,0 +1,4 @@
+etri#doc_787.txt 3 발동되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_787.txt 7 억압하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_787.txt 12 되다 ----- 10:1-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_787.txt 18 형성되다 ----- 14:2-ARGM-DIS() 16:2-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel

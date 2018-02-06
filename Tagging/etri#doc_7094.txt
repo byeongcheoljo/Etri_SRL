@@ -1,0 +1,1 @@
+etri#doc_7094.txt 10 시집보내다 ----- 2:2-ARGM-DIS() 7:3-ARG2(GOL) 9:2-ARG1(THM) 10:0-rel

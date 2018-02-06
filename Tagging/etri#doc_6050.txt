@@ -1,0 +1,7 @@
+etri#doc_6050.txt 4 취하다 ----- 3:1-ARGM-INS(EFF) 4:0-rel
+etri#doc_6050.txt 5 들어오다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_6050.txt 7 앉다 ----- 5:3-ARGM-DIS() 6:1-ARG1(GOL) 7:0-rel
+etri#doc_6050.txt 8 회의하다 ----- 8:0-rel
+etri#doc_6050.txt 11 말하다 ----- 10:1-ARG0() 11:0-rel
+etri#doc_6050.txt 16 되다 ----- 12:3-ARG1(THM) 13:1-ARGM-EXT() 14:1-ARG2(FNS) 15:1-ARGM-NEG() 16:0-rel
+etri#doc_6050.txt 17 하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARG2(GOL) 16:2-ARG1(CNT) 17:0-rel

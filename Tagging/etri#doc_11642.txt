@@ -1,0 +1,6 @@
+etri#doc_11642.txt 3 위하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11642.txt 5 통하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_11642.txt 8 보장하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_11642.txt 11 접어두다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11642.txt 14 보호하다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11642.txt 17 결집하다 ----- 8:3-ARGM-PRP() 14:3-ARGM-MNR() 16:2-ARG1(THM) 17:0-rel

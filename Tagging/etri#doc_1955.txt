@@ -1,0 +1,4 @@
+etri#doc_1955.txt 4 유지하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1955.txt 5 위하다 ----- 4:3-ARG1(PUR) 5:0-rel
+etri#doc_1955.txt 14 집중화되다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_1955.txt 18 요구되다 ----- 1:1-ARGM-DIS() 5:4-ARGM-DIS() 14:2-ARGM-MNR() 17:3-ARG1(THM) 18:0-rel

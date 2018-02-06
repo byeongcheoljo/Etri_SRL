@@ -1,0 +1,1 @@
+etri#doc_8738.txt 11 구분하다 ----- 1:1-ARG0(AGT) 4:2-ARGM-LOC(LOC) 7:2-ARG1(THM) 10:3-ARG2(FNS) 11:0-rel

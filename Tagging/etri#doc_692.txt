@@ -1,0 +1,2 @@
+etri#doc_692.txt 6 나누다 ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_692.txt 17 제공하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-LOC(LOC) 14:2-ARGM-INS(INS) 15:1-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel

@@ -1,0 +1,7 @@
+etri#doc_704.txt 2 실성하다 ----- 1:1-ARG0(EXP) 2:0-rel
+etri#doc_704.txt 4 되다 ----- 3:1-ARG2(FNS) 4:0-rel
+etri#doc_704.txt 6 되다 ----- 2:2-ARGM-CAU() 5:3-ARG2(FNS) 6:0-rel
+etri#doc_704.txt 11 느끼다 ----- 6:4-ARGM-DIS() 7:1-ARG0(EXP) 8:1-ARGM-NEG() 9:1-ARG1(THM) 10:1-ARGM-NEG() 11:0-rel
+etri#doc_704.txt 13 듣다 ----- 13:0-rel
+etri#doc_704.txt 17 하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_704.txt 18 웃다 ----- 18:0-rel

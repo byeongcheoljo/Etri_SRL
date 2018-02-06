@@ -1,0 +1,4 @@
+etri#doc_11794.txt 4 오르다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARGM-LOC(GOL) 4:0-rel
+etri#doc_11794.txt 9 부르다 ----- 8:1-ARG0(COM) 9:0-rel
+etri#doc_11794.txt 12 받다 ----- 10:3-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_11794.txt 15 유지하다 ----- 1:1-ARGM-DIS() 7:3-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

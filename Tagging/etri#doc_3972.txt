@@ -1,0 +1,5 @@
+etri#doc_3972.txt 2 가다 ----- 1:1-ARG3(GOL) 2:0-rel
+etri#doc_3972.txt 11 하다 ----- 2:2-ARGM-DIS() 5:2-ARGM-MNR(COM) 6:1-ARGM-MNR() 9:2-ARGM-CAU() 10:1-ARG1(THM) 11:0-rel
+etri#doc_3972.txt 13 하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_3972.txt 15 대하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_3972.txt 21 들다 ----- 17:2-ARG1(THM) 19:2-ARGM-TMP(LOC) 20:1-ARGM-MNR() 21:0-rel

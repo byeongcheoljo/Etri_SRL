@@ -1,0 +1,3 @@
+etri#doc_1715.txt 7 매장되다 ----- 2:2-ARGM-LOC(LOC) 6:3-ARG1(LOC) 7:0-rel
+etri#doc_1715.txt 15 해결하다 ----- 13:2-ARGM-TMP(LOC) 14:1-ARG2(THM) 15:0-rel
+etri#doc_1715.txt 18 되다 ----- 11:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

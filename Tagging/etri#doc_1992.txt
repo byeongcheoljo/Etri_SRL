@@ -1,0 +1,4 @@
+etri#doc_1992.txt 3 피신시키다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_1992.txt 9 보내다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:1-ARG2(FNS) 7:2-ARGM-TMP(LOC) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_1992.txt 11 나가다 ----- 10:1-ARG2(FNS) 11:0-rel
+etri#doc_1992.txt 14 망명하다 ----- 1:1-ARG0(AGT) 9:2-ARGM-DIS() 11:2-ARGM-TMP() 12:1-ARG0(AGT) 13:1-ARG1(GOL) 14:0-rel

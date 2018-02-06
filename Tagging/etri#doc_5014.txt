@@ -1,0 +1,5 @@
+etri#doc_5014.txt 6 들려주다 ----- 5:2-ARGM-LOC(GOL) 6:0-rel
+etri#doc_5014.txt 7 하다 ----- 6:3-ARG1(CNT) 7:0-rel
+etri#doc_5014.txt 10 부르다 ----- 7:4-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5014.txt 13 만족하다 ----- 12:2-ARG1(EXP) 13:0-rel
+etri#doc_5014.txt 18 이해하다 ----- 3:3-ARGM-CND() 10:3-ARGM-CND() 13:3-ARGM-DIS() 15:2-ARG0(MAG) 17:2-ARG1(THM) 18:0-rel

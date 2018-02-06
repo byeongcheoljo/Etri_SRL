@@ -1,0 +1,5 @@
+etri#doc_8134.txt 2 찾아오다 ----- 1:1-ARG1(AGT) 2:0-rel
+etri#doc_8134.txt 4 알리다 ----- 2:2-ARG1() 3:1-ARGM-INS(INS) 4:0-rel
+etri#doc_8134.txt 8 오다 ----- 7:1-ARGM-LOC() 8:0-rel
+etri#doc_8134.txt 10 하다 ----- 5:3-ARG0(AGT) 6:1-ARGM-LOC(LOC) 9:3-ARG1(Npr) 10:0-rel
+etri#doc_8134.txt 16 들다 ----- 10:4-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARGM-LOC(SRC) 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

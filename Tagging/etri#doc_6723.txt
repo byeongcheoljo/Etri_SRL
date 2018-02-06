@@ -1,0 +1,5 @@
+etri#doc_6723.txt 7 제시하다 ----- 4:3-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6723.txt 9 무마하다 ----- 1:1-ARGM-LOC(LOC) 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6723.txt 13 기대하다 ----- 13:0-rel
+etri#doc_6723.txt 16 되다 ----- 12:1-ARGM-EXT() 14:2-ARG2(FNS) 15:1-ARGM-NEG() 16:0-rel
+etri#doc_6723.txt 17 나타나다 ----- 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG1(THM) 16:2-ARG2() 17:0-rel

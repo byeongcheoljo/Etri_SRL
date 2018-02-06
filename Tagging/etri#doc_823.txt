@@ -1,0 +1,3 @@
+etri#doc_823.txt 9 읽다 ----- 1:1-ARGM-DIS() 5:3-ARGM-CAU() 8:3-ARGM-CND() 9:0-rel
+etri#doc_823.txt 15 박히다 ----- 13:3-ARGM-INS(INS) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_823.txt 17 읽다 ----- 16:3-ARG1(THM) 17:0-rel

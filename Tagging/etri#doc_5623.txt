@@ -1,0 +1,3 @@
+etri#doc_5623.txt 4 쓰다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5623.txt 8 직역하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5623.txt 13 타협하다 ----- 9:1-ARG0(AGT) 10:1-ARGM-TMP() 12:2-ARGM-MNR(COM) 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6638.txt 3 말하다 ----- 2:1-ARGM-EXT(EFF) 3:0-rel
+etri#doc_6638.txt 9 제시하다 ----- 4:1-ARGM-EXT(CRT) 8:3-ARG1(THM) 9:0-rel
+etri#doc_6638.txt 14 말하다 ----- 3:2-ARGM-DIS() 13:4-ARGM-MNR() 14:0-rel
+etri#doc_6638.txt 17 가지다 ----- 1:1-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8468.txt 2 침몰하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8468.txt 7 이끌다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8468.txt 9 올라오다 ----- 7:2-ARGM-DIS() 8:1-ARG3(GOL) 9:0-rel
+etri#doc_8468.txt 11 꿇다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8468.txt 15 살리다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_8468.txt 16 기도하다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 5:2-ARGM-LOC(LOC) 9:2-ARGM-DIS() 11:2-ARGM-DIS() 15:4-ARG1(CNT) 16:0-rel

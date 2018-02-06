@@ -1,0 +1,4 @@
+etri#doc_1597.txt 8 느끼다 ----- 6:2-ARG3(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1597.txt 12 부응하다 ----- 8:2-ARGM-DIS() 11:3-ARG3(GOL) 12:0-rel
+etri#doc_1597.txt 15 위하다 ----- 12:4-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_1597.txt 18 바치다 ----- 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6868.txt 2 나오다 ----- 1:1-ARG2(SRC) 2:0-rel
+etri#doc_6868.txt 6 가리다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6868.txt 8 하다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6868.txt 13 잡다 ----- 8:2-ARGM-TMP() 9:1-() 10:1-ARGM-TMP(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_6868.txt 15 떠나다 ----- 14:1-ARG0(AGT) 15:0-rel

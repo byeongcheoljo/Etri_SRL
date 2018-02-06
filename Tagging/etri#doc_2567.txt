@@ -1,0 +1,5 @@
+etri#doc_2567.txt 4 쓰다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_2567.txt 8 스치다 ----- 6:2-() 7:1-() 8:0-rel
+etri#doc_2567.txt 11 시작하다 ----- 9:1-ARGM-ADV(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_2567.txt 14 찾아오다 ----- 13:1-ARG0(AGT) 14:0-rel
+etri#doc_2567.txt 18 끊다 ----- 1:1-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

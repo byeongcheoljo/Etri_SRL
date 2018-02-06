@@ -1,0 +1,4 @@
+etri#doc_7067.txt 6 다가오다 ----- 6:0-rel
+etri#doc_7067.txt 12 넓히다 ----- 7:2-ARGM-TMP(LOC) 8:1-ARG0(AGT) 9:1-ARGM-MNR() 11:2-ARG1(THM) 12:0-rel
+etri#doc_7067.txt 14 읽다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_7067.txt 17 평가하다 ----- 5:2-ARG1(THM) 16:2-ARGM-PRD(INS) 17:0-rel

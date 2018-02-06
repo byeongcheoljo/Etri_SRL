@@ -1,0 +1,2 @@
+etri#doc_7039.txt 9 쌓이다 ----- 6:5-ARG2(LOC) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7039.txt 16 막히다 ----- 13:1-ARGM-EXT(EFF) 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

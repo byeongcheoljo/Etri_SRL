@@ -1,0 +1,4 @@
+etri#doc_4838.txt 5 무릅쓰다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4838.txt 10 성공시키다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_4838.txt 15 채택하다 ----- 12:2-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel
+etri#doc_4838.txt 20 하다 ----- 10:2-ARGM-DIS() 15:3-ARGM-DIS() 17:2-ARGM-LOC(LOC) 18:1-ARG0(AGT) 19:1-ARG1(THM) 20:0-rel

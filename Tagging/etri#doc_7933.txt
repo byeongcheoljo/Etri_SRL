@@ -1,0 +1,4 @@
+etri#doc_7933.txt 4 왕복하다 ----- 4:0-rel
+etri#doc_7933.txt 9 지내다 ----- 2:2-ARG2(COM) 3:1-ARGM-TMP() 4:1-ARGM-TMP() 5:1-ARGM-MNR(INS) 6:1-ARGM-TMP() 7:1-ARGM-EXT() 8:1-ARGM-ADV() 9:0-rel
+etri#doc_7933.txt 11 하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_7933.txt 18 밀리다 ----- 11:4-ARGM-DIS() 15:4-ARG2(AGT) 17:2-ARG1(THM) 18:0-rel

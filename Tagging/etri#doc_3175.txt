@@ -1,0 +1,5 @@
+etri#doc_3175.txt 7 하다 ----- 6:3-ARGM-DIS() 7:0-rel
+etri#doc_3175.txt 9 넘다 ----- 8:1-() 9:0-rel
+etri#doc_3175.txt 10 쏟아지다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_3175.txt 13 금하다 ----- 3:1-ARGM-DIS() 7:4-ARGM-DIS() 11:4-ARGM-ADV() 12:1-ARG1(THM) 13:0-rel
+etri#doc_3175.txt 15 떠들다 ----- 2:2-ARGM-ADV() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:0-rel

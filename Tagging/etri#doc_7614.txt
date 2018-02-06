@@ -1,0 +1,5 @@
+etri#doc_7614.txt 4 타다 ----- 2:1-ARG0(AGT) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_7614.txt 7 타다 ----- 5:3-ARG1(THM) 6:1-ARGM-NEG() 7:0-rel
+etri#doc_7614.txt 11 타다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7614.txt 16 타다 ----- 14:2-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_7614.txt 17 걸어다니다 ----- 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11293.txt 5 성장하다 ----- 2:1-ARG0(THM) 3:1-ARGM-TMP() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_11293.txt 8 증가하다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:1-ARGM-TMP() 8:0-rel

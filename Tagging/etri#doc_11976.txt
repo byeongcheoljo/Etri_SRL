@@ -1,0 +1,2 @@
+etri#doc_11976.txt 11 극복하다 ----- 4:2-ARGM-DIS() 8:2-ARGM-INS(INS) 10:2-ARG1(THM) 11:0-rel
+etri#doc_11976.txt 12 주장하다 ----- 1:1-ARG0(AGT) 11:3-ARG1() 12:0-rel

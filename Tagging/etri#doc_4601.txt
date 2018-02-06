@@ -1,0 +1,5 @@
+etri#doc_4601.txt 4 떨어지다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4601.txt 6 떨어지다 ----- 4:4-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_4601.txt 10 나돌다 ----- 7:3-ARG1(Npr) 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4601.txt 13 품다 ----- 11:1-ARG2(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4601.txt 16 기하다 ----- 10:3-ARGM-EXT() 13:2-ARGM-DIS() 14:1-ARG2(LOC) 15:1-ARG1(THM) 16:0-rel

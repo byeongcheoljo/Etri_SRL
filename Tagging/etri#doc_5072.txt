@@ -1,0 +1,5 @@
+etri#doc_5072.txt 6 바꾸다 ----- 4:1-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5072.txt 8 흐르다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_5072.txt 14 상징하다 ----- 12:1-ARGM-MNR(INS) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_5072.txt 19 병들다 ----- 19:0-rel
+etri#doc_5072.txt 20 썩다 ----- 11:3-ARGM-DIS() 15:3-ARG1() 16:1-ARGM-DIS() 18:2-ARGM-CND() 19:1-ARGM-DIS() 20:0-rel

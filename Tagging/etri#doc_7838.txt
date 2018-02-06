@@ -1,0 +1,4 @@
+etri#doc_7838.txt 2 즐기다 ----- 2:0-rel
+etri#doc_7838.txt 4 출입하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7838.txt 9 만들다 ----- 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7838.txt 10 하다 ----- 5:3-ARG0(AGT) 9:2-ARGM-MNR(INS) 10:0-rel

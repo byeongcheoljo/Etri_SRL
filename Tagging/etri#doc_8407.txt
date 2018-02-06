@@ -1,0 +1,2 @@
+etri#doc_8407.txt 8 체크하다 ----- 8:0-rel
+etri#doc_8407.txt 9 비판하다 ----- 1:1-ARGM-EXT() 2:1-ARG1(THM) 7:5-ARGM-INS(INS) 8:1-ARGM-DIS() 9:0-rel

@@ -1,0 +1,6 @@
+etri#doc_628.txt 1 춤추다 ----- 1:0-rel
+etri#doc_628.txt 6 서다 ----- 5:1-ARGM-EXT(EFF) 6:0-rel
+etri#doc_628.txt 8 비틀거리다 ----- 8:0-rel
+etri#doc_628.txt 10 바꾸다 ----- 4:2-ARGM-DIS() 7:3-ARG1(THM) 9:2-ARG2(FNS) 10:0-rel
+etri#doc_628.txt 13 내다 ----- 11:1-ARGM-MNR() 12:1-ARG1() 13:0-rel
+etri#doc_628.txt 14 빨아들이다 ----- 10:3-ARGM-CAU() 13:2-ARGM-DIS() 14:0-rel

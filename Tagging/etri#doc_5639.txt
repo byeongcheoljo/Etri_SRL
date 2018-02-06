@@ -1,0 +1,5 @@
+etri#doc_5639.txt 3 받다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5639.txt 12 생각하다 ----- 7:3-ARGM-DIS() 8:1-ARG0(MAG) 9:1-ARGM-ADV(EFF) 10:1-ARGM-TMP() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5639.txt 15 헤어지다 ----- 15:0-rel
+etri#doc_5639.txt 18 만나다 ----- 14:1-ARGM-MNR() 16:2-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel
+etri#doc_5639.txt 19 충고하다 ----- 4:4-ARG0(AGT) 13:3-ARGM-DIS(CNT) 18:2-ARG1(CNT) 19:0-rel

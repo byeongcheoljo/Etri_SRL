@@ -1,0 +1,4 @@
+etri#doc_3325.txt 6 유도하다 ----- 3:2-ARG0(EFF) 5:2-ARG1(THM) 6:0-rel
+etri#doc_3325.txt 14 변화하다 ----- 6:3-ARGM-DIS() 8:2-ARG1(COM) 12:4-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3325.txt 15 예측하다 ----- 1:1-ARG0(MAG) 14:2-ARGM-MNR() 15:0-rel
+etri#doc_3325.txt 19 변화하다 ----- 15:3-ARGM-DIS() 16:1-ARGM-MNR() 18:2-ARGM-MNR(CNT) 19:0-rel

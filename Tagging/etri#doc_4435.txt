@@ -1,0 +1,5 @@
+etri#doc_4435.txt 4 받들다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4435.txt 6 하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_4435.txt 7 가다 ----- 1:1-ARG0(AGT) 6:5-ARGM-PRP() 7:0-rel
+etri#doc_4435.txt 12 돕다 ----- 10:2-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4435.txt 14 파견되다 ----- 7:6-ARGM-DIS() 8:1-ARG0(THM) 13:3-ARGM-MNR(INS) 14:0-rel

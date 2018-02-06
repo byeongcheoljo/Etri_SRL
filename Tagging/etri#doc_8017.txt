@@ -1,0 +1,7 @@
+etri#doc_8017.txt 4 깨다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_8017.txt 9 다니다 ----- 8:1-ARGM-EXT() 9:0-rel
+etri#doc_8017.txt 10 삼키다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_8017.txt 12 찾다 ----- 5:1-ARG0(AGT) 7:2-ARGM-EXT(EFF) 11:4-ARG1(THM) 12:0-rel
+etri#doc_8017.txt 16 하다 ----- 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_8017.txt 18 대적하다 ----- 4:2-ARGM-DIS() 12:5-ARGM-DIS() 13:1-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_8017.txt 19 일러주다 ----- 1:1-ARGM-DIS() 2:1-ARG1(AGT) 18:2-ARG1(CNT) 19:0-rel

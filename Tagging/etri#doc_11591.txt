@@ -1,0 +1,2 @@
+etri#doc_11591.txt 7 보호하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-MNR(INS) 4:1-ARGM-EXT() 6:2-ARG1(THM) 7:0-rel
+etri#doc_11591.txt 12 발표하다 ----- 7:3-ARG1() 10:3-ARG0(AGT) 11:1-ARGM-TMP() 12:0-rel

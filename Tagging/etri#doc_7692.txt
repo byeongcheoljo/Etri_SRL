@@ -1,0 +1,3 @@
+etri#doc_7692.txt 6 ¹Ï´Ù ----- 5:1-ARG1(FNS) 6:0-rel
+etri#doc_7692.txt 10 »ý»êÇÏ´Ù ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7692.txt 16 »ï´Ù ----- 2:2-ARG0(AGT) 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 6:2-ARGM-DIS() 12:4-ARGM-DIS() 15:3-ARG2(FNS) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4316.txt 5 판단하다 ----- 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_4316.txt 9 회피하다 ----- 5:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_4316.txt 13 방어하다 ----- 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_4316.txt 15 전개되다 ----- 2:1-ARG1(THM) 14:5-ARGM-LOC(LOC) 15:0-rel
+etri#doc_4316.txt 18 유념하다 ----- 1:1-ARGM-DIS() 16:7-ARGM-DIS() 17:1-ARGM-DIS() 18:0-rel

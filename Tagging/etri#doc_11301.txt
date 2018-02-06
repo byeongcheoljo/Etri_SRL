@@ -1,0 +1,5 @@
+etri#doc_11301.txt 3 창제되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11301.txt 6 거스르다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_11301.txt 7 드러나다 ----- 6:5-ARGM-TMP() 7:0-rel
+etri#doc_11301.txt 10 연결되다 ----- 8:7-ARG2(COM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11301.txt 12 언급하다 ----- 1:1-ARG0(AGT) 10:2-ARGM-DIS() 11:1-ARGM-TMP() 12:0-rel

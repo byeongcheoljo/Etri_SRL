@@ -1,0 +1,6 @@
+etri#doc_8570.txt 4 증가하다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_8570.txt 6 관련되다 ----- 5:1-ARG2(COM) 6:0-rel
+etri#doc_8570.txt 10 제공되다 ----- 10:0-rel
+etri#doc_8570.txt 12 이용하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8570.txt 14 충족시키다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_8570.txt 19 보이다 ----- 9:2-ARGM-DIS() 15:6-ARG0(AGT) 16:1-ARGM-DIS(EFF) 18:2-ARG1(THM) 19:0-rel

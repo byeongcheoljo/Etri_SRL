@@ -1,0 +1,7 @@
+etri#doc_512.txt 2 감독하다 ----- 2:0-rel
+etri#doc_512.txt 3 규제하다 ----- 1:1-ARG1(THM) 2:1-ARGM-DIS() 3:0-rel
+etri#doc_512.txt 9 설치하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_512.txt 12 뽑다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_512.txt 14 마련하다 ----- 7:6-ARGM-LOC(LOC) 9:2-ARGM-DIS() 13:4-ARGM-DIS(THM) 14:0-rel
+etri#doc_512.txt 18 갖다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_512.txt 19 칼질하다 ----- 18:2-ARGM-DIS() 19:0-rel

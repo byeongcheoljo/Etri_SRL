@@ -1,0 +1,4 @@
+etri#doc_2989.txt 4 교류하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_2989.txt 7 하다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_2989.txt 16 맺다 ----- 12:2-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel
+etri#doc_2989.txt 18 열다 ----- 4:2-ARGM-DIS() 9:4-ARG0(AGT) 17:5-ARG1(THM) 18:0-rel

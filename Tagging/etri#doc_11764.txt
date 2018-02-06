@@ -1,0 +1,2 @@
+etri#doc_11764.txt 11 무르익다 ----- 11:0-rel
+etri#doc_11764.txt 20 넘치다 ----- 8:5-ARGM-DIS() 9:1-ARGM-LOC(LOC) 14:3-ARGM-DIS() 15:1-ARGM-LOC() 19:4-ARG1(THM) 20:0-rel

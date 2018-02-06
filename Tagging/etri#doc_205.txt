@@ -1,0 +1,3 @@
+etri#doc_205.txt 5 신장하다 ----- 1:1-ARGM-EXT() 2:1-ARG0(AGT) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_205.txt 12 잇다 ----- 11:5-ARG3(GOL) 12:0-rel
+etri#doc_205.txt 17 확대되다 ----- 6:4-ARGM-CND(FNS) 12:6-ARGM-DIS() 13:1-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:1-() 17:0-rel

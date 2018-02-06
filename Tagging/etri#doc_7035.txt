@@ -1,0 +1,4 @@
+etri#doc_7035.txt 2 침입하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_7035.txt 8 강화하다 ----- 5:1-ARG0(AGT) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7035.txt 13 예언하다 ----- 12:3-ARG1() 13:0-rel
+etri#doc_7035.txt 15 적히다 ----- 4:4-ARG2(LOC) 8:2-ARGM-DIS() 14:5-ARG1(THM) 15:0-rel

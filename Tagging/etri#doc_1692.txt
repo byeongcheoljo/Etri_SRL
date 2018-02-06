@@ -1,0 +1,2 @@
+etri#doc_1692.txt 10 일어나다 ----- 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_1692.txt 15 알리다 ----- 6:2-ARGA(AGT) 11:4-ARG1(THM) 12:1-ARGM-TMP() 13:1-ARG0(GOL) 14:1-ARGM-TMP() 15:0-rel

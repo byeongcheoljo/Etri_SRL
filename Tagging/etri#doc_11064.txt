@@ -1,0 +1,5 @@
+etri#doc_11064.txt 5 나가다 ----- 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_11064.txt 7 들어오다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP() 7:0-rel
+etri#doc_11064.txt 10 내다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11064.txt 11 벌다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-TMP() 7:2-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_11064.txt 14 벌다 ----- 12:4-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

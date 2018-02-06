@@ -1,0 +1,6 @@
+etri#doc_6463.txt 2 모르다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6463.txt 8 건너다 ----- 6:2-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_6463.txt 11 되다 ----- 10:1-ARG2(FNS) 11:0-rel
+etri#doc_6463.txt 13 건너다 ----- 2:2-ARGM-DIS() 3:1-ARGM-DIS() 8:2-ARGM-CAU() 9:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARG1(LOC) 13:0-rel
+etri#doc_6463.txt 17 되다 ----- 16:1-ARG2(FNS) 17:0-rel
+etri#doc_6463.txt 20 건너다 ----- 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARGM-DIS() 18:3-ARGM-TMP(LOC) 19:1-ARG1(LOC) 20:0-rel

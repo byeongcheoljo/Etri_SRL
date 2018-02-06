@@ -1,0 +1,4 @@
+etri#doc_4824.txt 12 웅크리다 ----- 2:2-ARGM-LOC(LOC) 8:2-ARG0(AGT) 11:3-ARGM-LOC(LOC) 12:0-rel
+etri#doc_4824.txt 14 보다 ----- 13:5-ARG1(THM) 14:0-rel
+etri#doc_4824.txt 17 재잘거리다 ----- 16:1-ARGM-ADV(EFF) 17:0-rel
+etri#doc_4824.txt 19 싸우다 ----- 15:7-ARG0(AGT) 17:2-ARGM-DIS() 18:1-ARGM-MNR() 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2065.txt 16 거부하다 ----- 8:1-ARG0(AGT) 9:1-ARGM-DIS() 11:2-ARGM-ADV(EFF) 12:1-ARGM-PRD(EFF) 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:0-rel
+etri#doc_2065.txt 19 투덜거리다 ----- 19:0-rel

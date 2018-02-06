@@ -1,0 +1,2 @@
+etri#doc_7918.txt 6 해체되다 ----- 3:2-ARGM-DIS() 4:1-ARGM-DIS() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_7918.txt 14 뛰다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-PRD(EFF) 13:2-ARGM-PRP() 14:0-rel

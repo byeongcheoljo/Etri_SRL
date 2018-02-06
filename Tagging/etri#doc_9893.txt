@@ -1,0 +1,2 @@
+etri#doc_9893.txt 6 출발하다 ----- 5:2-ARG2(SRC) 6:0-rel
+etri#doc_9893.txt 17 추출하다 ----- 1:1-ARGM-ADV(EFF) 2:1-ARG0(AGT) 6:3-ARGM-DIS() 7:1-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel

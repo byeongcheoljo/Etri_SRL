@@ -1,0 +1,4 @@
+etri#doc_6343.txt 7 종결짓다 ----- 5:1-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_6343.txt 12 얼어붙다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6343.txt 14 남다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_6343.txt 16 떨다 ----- 14:2-ARGM-DIS() 15:1-ARGM-CAU(EFF) 16:0-rel

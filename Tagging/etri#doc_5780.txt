@@ -1,0 +1,4 @@
+etri#doc_5780.txt 2 표방하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_5780.txt 10 활용하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_5780.txt 13 참여시키다 ----- 10:4-ARGM-DIS() 11:1-ARG0(THM) 12:1-ARG1(LOC) 13:0-rel
+etri#doc_5780.txt 16 모색되다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

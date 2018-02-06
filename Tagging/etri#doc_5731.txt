@@ -1,0 +1,2 @@
+etri#doc_5731.txt 5 이루다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG0(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5731.txt 13 입다 ----- 6:3-ARGM-LOC(LOC) 10:4-ARG1(GOL) 11:1-ARGM-CAU(EFF) 12:1-ARG2(Npr) 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5503.txt 5 적다 ----- 3:2-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_5503.txt 11 사역하다 ----- 11:0-rel
+etri#doc_5503.txt 14 감독하다 ----- 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_5503.txt 18 이용하다 ----- 17:2-ARG1(THM) 18:0-rel

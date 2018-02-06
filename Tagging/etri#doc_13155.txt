@@ -1,0 +1,4 @@
+etri#doc_13155.txt 6 선언하다 ----- 2:1-ARGM-TMP(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_13155.txt 9 맞대다 ----- 7:1-ARGM-ADV(COM) 8:1-ARG1(THM) 9:0-rel
+etri#doc_13155.txt 13 대응하다 ----- 9:2-ARGM-DIS() 11:2-ARG1(GOL) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_13155.txt 17 강구하다 ----- 1:1-ARG0(AGT) 6:4-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_5939.txt 9 하다 ----- 1:1-ARG1(THM) 7:5-ARG0(AGT) 8:1-ARGM-TMP(CRT) 9:0-rel
+etri#doc_5939.txt 14 지지하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5939.txt 15 당부하다 ----- 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-MNR() 14:3-ARG1() 15:0-rel

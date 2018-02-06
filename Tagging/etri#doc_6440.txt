@@ -1,0 +1,1 @@
+etri#doc_6440.txt 8 자행하다 ----- 3:2-ARGM-TMP() 7:2-ARG0(AGT) 8:0-rel

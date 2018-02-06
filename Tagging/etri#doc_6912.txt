@@ -1,0 +1,2 @@
+etri#doc_6912.txt 14 받다 ----- 9:3-ARGM-PRD(EFF) 11:2-ARG0(GOL) 13:2-ARG1(THM) 14:0-rel
+etri#doc_6912.txt 16 후회하다 ----- 6:4-ARGM-DIS() 14:3-ARGM-CAU() 15:1-ARGM-EXT() 16:0-rel

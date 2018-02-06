@@ -1,0 +1,4 @@
+etri#doc_8674.txt 6 고생하다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARGM-TMP() 4:1-ARG0(EXP) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_8674.txt 13 아파하다 ----- 6:2-ARGM-DIS() 8:2-ARG0(EXP) 10:2-ARGM-CAU(EFF) 11:1-ARGM-EXT() 12:1-ARG1() 13:0-rel
+etri#doc_8674.txt 15 모르다 ----- 14:1-ARG0(EXP) 15:0-rel
+etri#doc_8674.txt 16 묻다 ----- 13:2-ARGM-DIS() 15:2-ARGM-CAU() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_814.txt 4 ³º´Ù ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_814.txt 9 Âö´Ù ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_814.txt 12 ÇÏ´Ù ----- 9:2-ARGM-DIS() 10:1-ARGM-INS(INS) 11:1-ARG1(Npr) 12:0-rel
+etri#doc_814.txt 13 ±è¸Å´Ù ----- 13:0-rel
+etri#doc_814.txt 17 ÀÌ´Ù ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_814.txt 18 °¡´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:5-ARGM-TMP(CRT) 12:2-ARGM-DIS() 14:2-ARGM-LOC(GOL) 15:1-ARGM-EXT() 17:2-ARGM-DIS() 18:0-rel

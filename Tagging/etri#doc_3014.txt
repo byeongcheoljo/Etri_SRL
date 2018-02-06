@@ -1,0 +1,4 @@
+etri#doc_3014.txt 5 허용되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3014.txt 9 해결하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3014.txt 11 속하다 ----- 10:4-ARG2(LOC) 11:0-rel
+etri#doc_3014.txt 15 대응하다 ----- 14:3-ARG1(GOL) 15:0-rel

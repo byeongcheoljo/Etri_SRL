@@ -1,0 +1,4 @@
+etri#doc_6076.txt 2 닦다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6076.txt 7 일으키다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6076.txt 10 발하다 ----- 3:3-ARG0(EFF) 4:1-ARGM-DIS() 5:1-ARGM-MNR() 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_6076.txt 14 나아가다 ----- 14:0-rel

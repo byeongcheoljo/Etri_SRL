@@ -1,0 +1,2 @@
+etri#doc_3391.txt 10 예상되다 ----- 4:2-ARGM-CND() 6:2-ARG1(THM) 8:2-ARGM-DIR(DIR) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_3391.txt 16 배제하다 ----- 2:2-ARGM-ADV(CNT) 10:2-ARGM-DIS() 12:2-ARGM-ADV(CNT) 15:3-ARG1(THM) 16:0-rel

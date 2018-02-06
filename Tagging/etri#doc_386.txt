@@ -1,0 +1,4 @@
+etri#doc_386.txt 10 이동하다 ----- 4:1-ARG2(SRC) 7:3-ARG3(DIR) 8:1-ARG0(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_386.txt 14 낮아지다 ----- 3:3-ARG1(THM) 10:2-ARGM-CAU(EFF) 12:2-ARG2(SRC) 13:1-ARG3(FNS) 14:0-rel
+etri#doc_386.txt 18 그치다 ----- 16:2-ARGM-TMP(LOC) 17:1-ARG2(FNS) 18:0-rel
+etri#doc_386.txt 21 둔화되다 ----- 14:2-ARGM-DIS() 18:2-ARGM-CAU() 19:1-ARG1(THM) 20:1-ARGM-EXT() 21:0-rel

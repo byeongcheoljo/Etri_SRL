@@ -1,0 +1,4 @@
+etri#doc_844.txt 4 가담하다 ----- 3:1-ARG1(LOC) 4:0-rel
+etri#doc_844.txt 6 닫다 ----- 2:1-ARG0(AGT) 4:2-ARGM-CAU() 5:1-ARG1(THM) 6:0-rel
+etri#doc_844.txt 9 사다 ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_844.txt 12 모이다 ----- 11:1-ARG1(THM) 12:0-rel

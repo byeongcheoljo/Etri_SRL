@@ -1,0 +1,1 @@
+etri#doc_8660.txt 14 µÎ´Ù ----- 5:3-ARG0(AGT) 6:1-ARGM-TMP() 11:3-ARG2(LOC) 13:2-ARG1(THM) 14:0-rel

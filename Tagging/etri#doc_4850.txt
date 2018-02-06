@@ -1,0 +1,6 @@
+etri#doc_4850.txt 4 억압되다 ----- 4:0-rel
+etri#doc_4850.txt 5 착취되다 ----- 4:1-ARGM-DIS() 5:0-rel
+etri#doc_4850.txt 9 위하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4850.txt 12 주다 ----- 3:2-ARG0(AGT) 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_4850.txt 16 봉사하다 ----- 15:2-ARG1(GOL) 16:0-rel
+etri#doc_4850.txt 18 개탄하다 ----- 1:1-ARG0(AGT) 17:4-ARG1() 18:0-rel

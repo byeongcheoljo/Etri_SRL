@@ -1,0 +1,3 @@
+etri#doc_1278.txt 10 진출하다 ----- 9:1-ARGM-DIR(GOL) 10:0-rel
+etri#doc_1278.txt 12 어찌하다 ----- 12:0-rel
+etri#doc_1278.txt 15 철수하다 ----- 8:3-ARGM-CAU() 11:3-ARG0(AGT) 12:1-ARGM-DIS() 14:2-ARGM-DIR(DIR) 15:0-rel

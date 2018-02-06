@@ -1,0 +1,4 @@
+etri#doc_8883.txt 4 만들다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_8883.txt 5 말하다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_8883.txt 12 만들다 ----- 7:2-ARGM-EXT(EFF) 11:3-ARGM-MNR() 12:0-rel
+etri#doc_8883.txt 14 이해하다 ----- 5:3-ARG1() 13:5-ARGM-MNR(FNS) 14:0-rel

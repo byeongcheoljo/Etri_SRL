@@ -1,0 +1,5 @@
+etri#doc_6725.txt 4 완화하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6725.txt 8 인상하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6725.txt 10 강화하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_6725.txt 13 동결하다 ----- 6:1-ARGM-CND() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARG2(FNS) 13:0-rel
+etri#doc_6725.txt 14 되다 ----- 1:1-ARGM-LOC(LOC) 5:4-ARGM-CAU(EFF) 13:2-ARG1() 14:0-rel

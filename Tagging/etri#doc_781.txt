@@ -1,0 +1,2 @@
+etri#doc_781.txt 7 말다 ----- 6:2-() 7:0-rel
+etri#doc_781.txt 12 넘기다 ----- 9:2-ARGM-LOC(LOC) 10:1-ARGM-MNR() 11:1-ARGM-MNR() 12:0-rel

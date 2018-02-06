@@ -1,0 +1,5 @@
+etri#doc_11135.txt 8 이기다 ----- 6:2-ARG1(THM) 7:1-ARGM-NEG() 8:0-rel
+etri#doc_11135.txt 14 내뱉다 ----- 2:2-ARGM-LOC(LOC) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11135.txt 17 끝나다 ----- 15:1-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_11135.txt 23 보이다 ----- 18:1-ARGM-CAU() 19:1-ARGM-TMP() 22:2-ARG1(THM) 23:0-rel
+etri#doc_11135.txt 24 후회하다 ----- 14:3-ARGM-DIS() 17:2-ARGM-TMP() 23:3-ARGM-DIS() 24:0-rel

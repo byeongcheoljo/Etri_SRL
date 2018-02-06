@@ -1,0 +1,4 @@
+etri#doc_7983.txt 5 가지다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7983.txt 9 향하다 ----- 8:2-ARGM-DIR(DIR) 9:0-rel
+etri#doc_7983.txt 11 정진하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-TMP() 9:3-ARGM-DIR() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_7983.txt 18 실천하다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARG0(AGT) 11:2-ARGM-DIS() 15:2-ARGM-MNR(INS) 17:2-ARG1(THM) 18:0-rel

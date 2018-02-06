@@ -1,0 +1,5 @@
+etri#doc_7206.txt 5 하다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:1-ARGM-MNR(FNS) 5:0-rel
+etri#doc_7206.txt 7 지나치다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7206.txt 11 저해되다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_7206.txt 14 빠지다 ----- 12:1-ARG1(THM) 13:1-ARG2(GOL) 14:0-rel
+etri#doc_7206.txt 17 나타나다 ----- 5:2-ARGM-DIS() 11:4-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel

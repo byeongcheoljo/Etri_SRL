@@ -1,0 +1,4 @@
+etri#doc_1832.txt 6 내다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-DIR(DIR) 4:2-ARGM-DIS(DIR) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1832.txt 8 주다 ----- 6:2-ARGM-DIS(DIR) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1832.txt 13 만나다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1832.txt 17 하다 ----- 11:3-ARGM-DIS(CNT) 14:3-ARG0(AGT) 16:2-ARG0(CNT) 17:0-rel

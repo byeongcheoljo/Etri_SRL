@@ -1,0 +1,5 @@
+etri#doc_2994.txt 2 자다 ----- 2:0-rel
+etri#doc_2994.txt 3 죽다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_2994.txt 7 되다 ----- 4:1-ARG1(THM) 6:2-ARG2(CRT) 7:0-rel
+etri#doc_2994.txt 10 감기다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_2994.txt 12 눕다 ----- 1:1-ARG1(LOC) 3:2-ARGM-DIS() 8:4-ARG0(THM) 10:2-ARGM-MNR() 11:1-ARGM-MNR() 12:0-rel

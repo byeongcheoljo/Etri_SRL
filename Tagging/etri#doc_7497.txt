@@ -1,0 +1,4 @@
+etri#doc_7497.txt 10 나타나다 ----- 6:4-ARG1(THM) 9:3-ARGM-MNR(INS) 10:0-rel
+etri#doc_7497.txt 14 서다 ----- 14:0-rel
+etri#doc_7497.txt 16 잃다 ----- 13:2-ARG0(EXP) 15:2-ARG1(THM) 16:0-rel
+etri#doc_7497.txt 20 무너지다 ----- 1:1-ARGM-DIS() 10:4-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-MNR() 19:2-ARG1(THM) 20:0-rel

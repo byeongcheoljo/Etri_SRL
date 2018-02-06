@@ -1,0 +1,1 @@
+etri#doc_592.txt 14 ¾Æ¶û°÷ÇÏ´Ù ----- 3:1-ARGM-PRP(PUR) 13:4-ARG1(THM) 14:0-rel

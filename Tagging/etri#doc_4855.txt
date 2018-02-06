@@ -1,0 +1,2 @@
+etri#doc_4855.txt 9 Èçµé´Ù ----- 3:2-ARGM-CAU(EFF) 6:2-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4855.txt 14 º¸´Ù ----- 13:1-ARG1(THM) 14:0-rel

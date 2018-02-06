@@ -1,0 +1,5 @@
+etri#doc_1816.txt 5 하다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_1816.txt 6 위하다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_1816.txt 10 이루다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1816.txt 16 보다 ----- 8:2-ARGM-LOC(LOC) 11:3-ARG1(THM) 15:4-ARG3(GOL) 16:0-rel
+etri#doc_1816.txt 20 넘어가다 ----- 19:2-ARGM-DIS() 20:0-rel

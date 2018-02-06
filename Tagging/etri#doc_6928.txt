@@ -1,0 +1,4 @@
+etri#doc_6928.txt 3 솟다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_6928.txt 8 켜지다 ----- 5:1-ARG0(AGT) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6928.txt 13 가리다 ----- 12:2-ARG0(EFF) 13:0-rel
+etri#doc_6928.txt 18 엿보이다 ----- 13:3-ARGM-CAU() 14:1-ARGM-EXT() 15:1-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

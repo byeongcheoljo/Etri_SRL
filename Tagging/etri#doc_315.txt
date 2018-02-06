@@ -1,0 +1,5 @@
+etri#doc_315.txt 3 쓰다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_315.txt 9 먹이다 ----- 8:1-ARG0() 9:0-rel
+etri#doc_315.txt 10 어쩌다 ----- 7:2-ARGM-CND() 9:2-ARGM-CND() 10:0-rel
+etri#doc_315.txt 12 어쩌다 ----- 12:0-rel
+etri#doc_315.txt 18 길들이다 ----- 4:3-ARGM-CND(CNT) 11:4-ARGM-CND(INS) 12:1-ARGM-CND() 16:3-ARG2(LOC) 17:1-ARGM-MNR() 18:0-rel

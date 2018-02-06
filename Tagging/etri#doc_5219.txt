@@ -1,0 +1,5 @@
+etri#doc_5219.txt 4 쇠퇴하다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_5219.txt 7 등장하다 ----- 4:2-ARGM-DIS() 6:2-ARG3(FNS) 7:0-rel
+etri#doc_5219.txt 16 차지하다 ----- 15:4-ARG0(AGT) 16:0-rel
+etri#doc_5219.txt 18 커지다 ----- 11:4-ARGM-LOC(LOC) 17:6-ARG1(THM) 18:0-rel
+etri#doc_5219.txt 19 감안하다 ----- 1:1-ARGM-MNR(INS) 18:7-ARG1() 19:0-rel

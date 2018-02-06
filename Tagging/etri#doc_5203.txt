@@ -1,0 +1,7 @@
+etri#doc_5203.txt 3 주의하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5203.txt 7 시키다 ----- 3:2-ARG1() 4:1-ARGM-TMP(SRC) 5:1-ARGM-EXT() 6:1-ARG1(THM) 7:0-rel
+etri#doc_5203.txt 10 오다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_5203.txt 17 찾아가다 ----- 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_5203.txt 19 참석하다 ----- 17:2-ARGM-DIS() 18:1-ARG1(LOC) 19:0-rel
+etri#doc_5203.txt 20 오다 ----- 11:3-ARGM-TMP() 12:1-ARG0(AGT) 13:1-ARGM-MNR() 19:2-ARGM-DIS() 20:0-rel
+etri#doc_5203.txt 23 걸리다 ----- 7:2-ARGM-DIS() 21:4-ARGM-TMP(SRC) 22:1-ARG1(GOL) 23:0-rel

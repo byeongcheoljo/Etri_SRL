@@ -1,0 +1,2 @@
+etri#doc_990.txt 10 두다 ----- 6:4-ARG1(THM) 9:2-ARG2(LOC) 10:0-rel
+etri#doc_990.txt 15 간추리다 ----- 1:1-ARG0(AGT) 10:3-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

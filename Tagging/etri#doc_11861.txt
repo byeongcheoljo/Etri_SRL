@@ -1,0 +1,5 @@
+etri#doc_11861.txt 2 기어가다 ----- 1:1-ARGM-MNR(DIR) 2:0-rel
+etri#doc_11861.txt 7 놓다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_11861.txt 10 주다 ----- 2:2-ARGM-DIS() 5:3-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_11861.txt 14 잊다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_11861.txt 16 떠나다 ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 14:3-ARGM-DIS() 15:1-ARG2(SRC) 16:0-rel

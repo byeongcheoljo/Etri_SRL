@@ -1,0 +1,2 @@
+etri#doc_6605.txt 17 결정되다 ----- 12:3-ARG1(THM) 15:3-ARG0(EFF) 16:1-ARGM-LOC(LOC) 17:0-rel
+etri#doc_6605.txt 18 이야기하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 17:2-ARGM-DIS() 18:0-rel

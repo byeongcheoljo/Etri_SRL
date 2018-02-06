@@ -1,0 +1,4 @@
+etri#doc_8294.txt 5 ¸¸µé´Ù ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_8294.txt 7 °Þ´Ù ----- 5:2-ARGM-TMP() 6:1-ARG0(EXP) 7:0-rel
+etri#doc_8294.txt 11 ÀÏÇÏ´Ù ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_8294.txt 13 ¸Â´Ú¶ß¸®´Ù ----- 12:3-ARG1(EXP) 13:0-rel

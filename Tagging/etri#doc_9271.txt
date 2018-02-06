@@ -1,0 +1,2 @@
+etri#doc_9271.txt 3 단절되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_9271.txt 6 놓이다 ----- 5:2-ARG2(GOL) 6:0-rel

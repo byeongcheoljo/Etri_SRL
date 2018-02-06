@@ -1,0 +1,3 @@
+etri#doc_5243.txt 3 확정되다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_5243.txt 10 전환하다 ----- 8:4-ARG1(THM) 9:1-ARG3(FNS) 10:0-rel
+etri#doc_5243.txt 14 유지하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-LOC(LOC) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARGM-ADV(EFF) 13:1-ARG1(THM) 14:0-rel

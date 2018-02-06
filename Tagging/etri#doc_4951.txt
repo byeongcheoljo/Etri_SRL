@@ -1,0 +1,4 @@
+etri#doc_4951.txt 4 배우다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4951.txt 11 보다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_4951.txt 14 보다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_4951.txt 18 오인하다 ----- 1:1-ARGM-DIS() 5:3-ARG0(MAG) 9:2-ARGM-CAU(EFF) 11:2-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG1(THM) 17:2-ARG1(FNS) 18:0-rel

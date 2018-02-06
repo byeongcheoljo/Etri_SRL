@@ -1,0 +1,3 @@
+etri#doc_6572.txt 5 일으키다 ----- 3:1-() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6572.txt 12 파괴하다 ----- 6:3-ARG0(AGT) 7:1-ARGM-TMP(LOC) 11:4-ARG1(THM) 12:0-rel
+etri#doc_6572.txt 13 보도하다 ----- 2:2-ARG0(AGT) 12:5-ARG1() 13:0-rel

@@ -1,0 +1,1 @@
+etri#doc_8034.txt 5 강조되다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel

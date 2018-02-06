@@ -1,0 +1,5 @@
+etri#doc_7236.txt 4 하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_7236.txt 7 내밀다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_7236.txt 11 맞추다 ----- 5:1-ARG0(AGT) 8:3-ARG1(THM) 10:2-ARG2(COM) 11:0-rel
+etri#doc_7236.txt 13 맞다 ----- 11:3-ARGM-DIS() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7236.txt 17 양도하다 ----- 4:4-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARG2(GOL) 16:1-ARG1(THM) 17:0-rel

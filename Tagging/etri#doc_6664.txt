@@ -1,0 +1,5 @@
+etri#doc_6664.txt 2 기우뚱하다 ----- 2:0-rel
+etri#doc_6664.txt 6 표현하다 ----- 6:0-rel
+etri#doc_6664.txt 11 전해지다 ----- 5:3-ARGM-ADV(EFF) 8:2-ARG1(THM) 10:2-ARGM-LOC(GOL) 11:0-rel
+etri#doc_6664.txt 13 앉다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_6664.txt 16 젓다 ----- 1:1-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARG1(THM) 16:0-rel

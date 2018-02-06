@@ -1,0 +1,4 @@
+etri#doc_1506.txt 4 Á×´Ù ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_1506.txt 5 ¹¯´Ù ----- 4:2-ARGM-CND() 5:0-rel
+etri#doc_1506.txt 7 »ý±â´Ù ----- 2:1-ARGM-TMP() 6:4-ARG1(THM) 7:0-rel
+etri#doc_1506.txt 17 ²úÀÌ´Ù ----- 13:1-ARGM-DIS() 14:1-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel

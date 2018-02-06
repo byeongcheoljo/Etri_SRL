@@ -1,0 +1,4 @@
+etri#doc_6336.txt 3 제시되다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_6336.txt 10 보다 ----- 9:1-ARG1(FNS) 10:0-rel
+etri#doc_6336.txt 12 간주하다 ----- 8:2-ARG1(THM) 10:2-ARGM-DIS() 11:1-ARG1(FNS) 12:0-rel
+etri#doc_6336.txt 17 수용하다 ----- 15:2-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel

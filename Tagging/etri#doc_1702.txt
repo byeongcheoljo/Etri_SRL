@@ -1,0 +1,1 @@
+etri#doc_1702.txt 17 º¸´Ù ----- 2:2-ARG1(THM) 5:3-ARGM-DIS() 6:1-ARG0(MAG) 7:1-ARG1(THM) 10:3-ARGM-DIS() 16:4-ARG3(FNS) 17:0-rel

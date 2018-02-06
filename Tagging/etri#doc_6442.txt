@@ -1,0 +1,4 @@
+etri#doc_6442.txt 3 좋아하다 ----- 1:1-ARG1(MAG) 2:1-ARG1(THM) 3:0-rel
+etri#doc_6442.txt 7 분석하다 ----- 4:3-ARG1(THM) 6:2-ARGM-MNR(INS) 7:0-rel
+etri#doc_6442.txt 16 생각하다 ----- 15:5-ARG1() 16:0-rel
+etri#doc_6442.txt 18 비롯되다 ----- 17:7-ARG2(SRC) 18:0-rel

@@ -1,0 +1,6 @@
+etri#doc_831.txt 5 하다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_831.txt 8 살다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_831.txt 12 식다 ----- 12:0-rel
+etri#doc_831.txt 14 떠먹다 ----- 6:3-ARGM-TMP() 9:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_831.txt 17 치다 ----- 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel
+etri#doc_831.txt 19 되다 ----- 14:3-ARGM-CND() 18:3-ARG2(FNS) 19:0-rel

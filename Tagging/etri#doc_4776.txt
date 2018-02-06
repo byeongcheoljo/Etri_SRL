@@ -1,0 +1,4 @@
+etri#doc_4776.txt 3 먹다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4776.txt 5 되다 ----- 3:2-ARGM-DIS() 4:1-ARGM-NEG() 5:0-rel
+etri#doc_4776.txt 10 모르다 ----- 8:2-ARGM-MNR(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4776.txt 14 담그다 ----- 11:3-ARG0(AGT) 13:2-ARG1(THM) 14:0-rel

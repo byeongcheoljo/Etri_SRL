@@ -1,0 +1,6 @@
+etri#doc_11118.txt 6 죽다 ----- 4:2-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_11118.txt 7 살리다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_11118.txt 11 얻다 ----- 2:1-ARG0(AGT) 7:3-ARGM-MNR() 10:3-ARG1(THM) 11:0-rel
+etri#doc_11118.txt 14 맞다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11118.txt 17 수술하다 ----- 16:4-ARG1(THM) 17:0-rel
+etri#doc_11118.txt 19 제거하다 ----- 17:5-ARGM-MNR() 18:1-ARG1(THM) 19:0-rel

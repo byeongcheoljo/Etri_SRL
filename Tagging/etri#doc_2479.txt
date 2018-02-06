@@ -1,0 +1,6 @@
+etri#doc_2479.txt 3 시집가다 ----- 2:2-() 3:0-rel
+etri#doc_2479.txt 6 실리다 ----- 5:1-() 6:0-rel
+etri#doc_2479.txt 9 생기다 ----- 4:4-ARG1(AGT) 6:2-ARGM-DIS() 7:1-ARGM-ADV(EFF) 8:1-ARG1(AGT) 9:0-rel
+etri#doc_2479.txt 12 받다 ----- 10:3-ARG1(THM) 11:1-ARGM-TMP(EFF) 12:0-rel
+etri#doc_2479.txt 16 달리다 ----- 14:1-ARGM-ADV(EFF) 15:1-ARG1() 16:0-rel
+etri#doc_2479.txt 20 올리다 ----- 13:3-() 16:2-() 17:1-() 19:2-() 20:0-rel

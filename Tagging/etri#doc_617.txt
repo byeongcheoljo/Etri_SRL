@@ -1,0 +1,4 @@
+etri#doc_617.txt 6 이야기하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_617.txt 8 못살다 ----- 7:1-ARGM-TMP(CRT) 8:0-rel
+etri#doc_617.txt 19 하다 ----- 3:3-ARG0(AGT) 4:1-ARGM-EXT() 6:2-ARGM-TMP() 15:3-ARGM-ADV() 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel
+etri#doc_617.txt 20 보다 ----- 19:2-ARG1() 20:0-rel

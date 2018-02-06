@@ -1,0 +1,2 @@
+etri#doc_6027.txt 9 개발하다 ----- 6:4-ARGM-PRP(PUR) 8:2-ARG1(THM) 9:0-rel
+etri#doc_6027.txt 15 열다 ----- 10:4-ARG0(AGT) 13:2-ARGM-TMP(LOC) 14:1-ARG1(THM) 15:0-rel

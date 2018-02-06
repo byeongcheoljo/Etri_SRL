@@ -1,0 +1,4 @@
+etri#doc_434.txt 4 소외되다 ----- 3:2-ARG2(AGT) 4:0-rel
+etri#doc_434.txt 6 복원하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_434.txt 13 하다 ----- 12:1-ARG1(FNS) 13:0-rel
+etri#doc_434.txt 16 살피다 ----- 1:1-ARG0(AGT) 11:4-ARGM-PRP(PUR) 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

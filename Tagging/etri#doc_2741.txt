@@ -1,0 +1,3 @@
+etri#doc_2741.txt 9 간직하다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_2741.txt 12 그리다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_2741.txt 14 부르다 ----- 10:1-ARGM-MNR() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

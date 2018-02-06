@@ -1,0 +1,6 @@
+etri#doc_504.txt 2 자급하다 ----- 1:1-ARGM-MNR(INS) 2:0-rel
+etri#doc_504.txt 4 구하다 ----- 4:0-rel
+etri#doc_504.txt 5 나가다 ----- 3:1-ARGM-LOC(GOL) 4:1-ARGM-PRD() 5:0-rel
+etri#doc_504.txt 12 계속하다 ----- 8:5-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARGM-LOC(LOC) 11:1-ARGM-TMP() 12:0-rel
+etri#doc_504.txt 13 안정되다 ----- 13:0-rel
+etri#doc_504.txt 16 갖다 ----- 12:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

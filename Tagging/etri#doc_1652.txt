@@ -1,0 +1,4 @@
+etri#doc_1652.txt 3 지니다 ----- 1:1-ARGM-PRD(EFF) 2:1-ARG0(AGT) 3:0-rel
+etri#doc_1652.txt 6 예견하다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_1652.txt 11 당하다 ----- 9:6-ARGM-ADV(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1652.txt 15 없애다 ----- 13:2-ARG0(THM) 14:1-ARGM-TMP() 15:0-rel

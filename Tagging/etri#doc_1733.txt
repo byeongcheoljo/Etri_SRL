@@ -1,0 +1,4 @@
+etri#doc_1733.txt 4 놓다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_1733.txt 5 매수당하다 ----- 5:0-rel
+etri#doc_1733.txt 8 갖다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_1733.txt 16 흥정하다 ----- 4:2-ARGM-TMP() 6:2-ARG0(THM) 14:5-ARG1(THM) 15:1-ARGM-INS(INS) 16:0-rel

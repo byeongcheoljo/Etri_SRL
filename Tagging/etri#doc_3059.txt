@@ -1,0 +1,2 @@
+etri#doc_3059.txt 4 누리다 ----- 1:1-ARG0(EXP) 2:1-ARGM-MNR() 3:1-ARG1(THM) 4:0-rel
+etri#doc_3059.txt 9 비호하다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 8:3-ARG1(THM) 9:0-rel

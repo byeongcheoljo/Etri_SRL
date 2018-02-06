@@ -1,0 +1,7 @@
+etri#doc_11193.txt 1 만들다 ----- 1:0-rel
+etri#doc_11193.txt 4 소요되다 ----- 4:0-rel
+etri#doc_11193.txt 7 준비하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_11193.txt 12 만들다 ----- 3:1-ARGM-TMP() 7:4-ARGM-DIS() 8:1-ARGM-MNR() 11:2-ARG1(THM) 12:0-rel
+etri#doc_11193.txt 15 들다 ----- 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_11193.txt 20 누르다 ----- 18:3-ARGM-INS(INS) 19:1-ARG1(THM) 20:0-rel
+etri#doc_11193.txt 21 돌리다 ----- 2:2-ARG0(AGT) 12:3-ARGM-DIS() 13:1-ARG1(THM) 15:2-ARGM-DIS() 20:2-ARGM-MNR() 21:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9040.txt 2 다원화되다 ----- 2:0-rel
+etri#doc_9040.txt 7 파고들다 ----- 3:2-ARGM-EXT() 4:1-ARG0(AGT) 5:1-ARGM-EXT() 6:1-ARGM-LOC(GOL) 7:0-rel

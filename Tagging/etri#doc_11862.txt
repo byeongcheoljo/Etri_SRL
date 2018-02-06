@@ -1,0 +1,4 @@
+etri#doc_11862.txt 2 경시하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11862.txt 7 잘못되다 ----- 7:0-rel
+etri#doc_11862.txt 9 돌리다 ----- 8:2-ARG2(FNS) 9:0-rel
+etri#doc_11862.txt 19 되다 ----- 11:2-ARGM-DIS() 16:3-ARG1(THM) 17:1-ARGM-LOC(LOC) 18:1-ARG2(FNS) 19:0-rel

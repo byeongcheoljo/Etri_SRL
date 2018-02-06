@@ -1,0 +1,3 @@
+etri#doc_11730.txt 4 지나치다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_11730.txt 6 병들다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11730.txt 11 발전하다 ----- 4:3-ARGM-MNR() 10:2-ARG2() 11:0-rel

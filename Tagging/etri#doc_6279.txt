@@ -1,0 +1,2 @@
+etri#doc_6279.txt 8 ÂÑ±â´Ù ----- 7:4-ARGM-LOC(AGT) 8:0-rel
+etri#doc_6279.txt 17 »ì´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 3:1-ARG0(AGT) 8:5-ARGM-DIS() 9:1-ARGM-TMP() 16:4-ARG2(LOC) 17:0-rel

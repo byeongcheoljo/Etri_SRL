@@ -1,0 +1,6 @@
+etri#doc_78.txt 6 갈아입다 ----- 5:2-ARG2(FNS) 6:0-rel
+etri#doc_78.txt 8 지니다 ----- 7:1-ARGM-MNR(THM) 8:0-rel
+etri#doc_78.txt 12 빼다 ----- 6:3-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel
+etri#doc_78.txt 14 풀다 ----- 12:4-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_78.txt 16 치다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_78.txt 18 하다 ----- 2:2-ARGM-ADV() 3:1-ARG0(AGT) 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(GOL) 18:0-rel

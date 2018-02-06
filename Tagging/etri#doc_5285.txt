@@ -1,0 +1,4 @@
+etri#doc_5285.txt 2 찾다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_5285.txt 7 두다 ----- 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5285.txt 10 바꾸다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARG3(FNS) 10:0-rel
+etri#doc_5285.txt 15 이루다 ----- 10:2-ARGM-CND() 13:3-ARG0(EFF) 14:1-ARG1(THM) 15:0-rel

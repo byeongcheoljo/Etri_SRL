@@ -1,0 +1,3 @@
+etri#doc_4621.txt 3 보다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4621.txt 15 특징짓다 ----- 6:3-ARGM-ADV(EFF) 9:2-ARG1(THM) 14:2-ARGM-MNR(INS) 15:0-rel
+etri#doc_4621.txt 20 이해하다 ----- 3:3-ARGM-CND() 18:2-ARG1() 19:1-ARGM-MNR() 20:0-rel

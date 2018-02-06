@@ -1,0 +1,6 @@
+etri#doc_7456.txt 4 밝아지다 ----- 4:0-rel
+etri#doc_7456.txt 7 잠자다 ----- 7:0-rel
+etri#doc_7456.txt 12 가리다 ----- 11:1-ARGM-INS(INS) 12:0-rel
+etri#doc_7456.txt 14 하다 ----- 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:0-rel
+etri#doc_7456.txt 17 모으다 ----- 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_7456.txt 19 극복하다 ----- 10:2-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARGM-MNR() 19:0-rel

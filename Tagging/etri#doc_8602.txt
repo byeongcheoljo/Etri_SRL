@@ -1,0 +1,3 @@
+etri#doc_8602.txt 6 삼다 ----- 5:2-ARGM-MNR(INS) 6:0-rel
+etri#doc_8602.txt 15 나오다 ----- 14:4-ARGM-MNR() 15:0-rel
+etri#doc_8602.txt 17 어찌하다 ----- 8:5-ARGM-EXT() 16:6-ARG0(AGT) 17:0-rel

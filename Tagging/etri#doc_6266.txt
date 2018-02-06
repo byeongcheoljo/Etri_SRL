@@ -1,0 +1,2 @@
+etri#doc_6266.txt 10 미치다 ----- 4:2-ARG0(THM) 5:1-ARG2(GOL) 7:2-ARG2(GOL) 9:2-ARG1(THM) 10:0-rel
+etri#doc_6266.txt 16 알다 ----- 1:1-ARGM-DIS() 15:4-ARG1() 16:0-rel

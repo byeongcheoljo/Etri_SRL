@@ -1,0 +1,3 @@
+etri#doc_6163.txt 6 먹이다 ----- 4:3-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6163.txt 14 하다 ----- 7:3-ARG2(GOL) 12:5-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_6163.txt 16 선택하다 ----- 15:1-ARG1(THM) 16:0-rel

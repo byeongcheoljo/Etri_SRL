@@ -1,0 +1,4 @@
+etri#doc_856.txt 4 ³î´Ù ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_856.txt 8 ¹Þ´Ù ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_856.txt 12 ¶³´Ù ----- 9:3-ARGM-TMP(CRT) 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_856.txt 15 »Ì´Ù ----- 13:1-ARGM-TMP(CRT) 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6967.txt 3 변하다 ----- 1:1-ARGM-MNR() 2:1-ARGM-MNR() 3:0-rel
+etri#doc_6967.txt 8 파악하다 ----- 6:1-ARGM-EXT() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6967.txt 11 전망하다 ----- 5:2-ARG1(THM) 8:2-ARGM-DIS() 10:2-ARGM-ADV(EFF) 11:0-rel
+etri#doc_6967.txt 16 비교하다 ----- 11:3-ARGM-PRP() 15:4-ARG2(COM) 16:0-rel

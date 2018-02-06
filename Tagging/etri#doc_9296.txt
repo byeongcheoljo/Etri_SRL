@@ -1,0 +1,4 @@
+etri#doc_9296.txt 3 생겨나다 ----- 2:2-ARGM-CAU(EFF) 3:0-rel
+etri#doc_9296.txt 9 지속되다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9296.txt 11 이루어지다 ----- 6:3-ARG1(THM) 9:3-ARGM-CND() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_9296.txt 13 인정하다 ----- 12:3-ARG1(THM) 13:0-rel

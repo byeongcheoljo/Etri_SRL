@@ -1,0 +1,4 @@
+etri#doc_6458.txt 7 되다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARGM-EXT() 6:1-ARG2(FNS) 7:0-rel
+etri#doc_6458.txt 11 찍다 ----- 8:3-ARG0(AGT) 9:1-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6458.txt 16 끌다 ----- 14:1-ARG1(THM) 15:1-ARGM-LOC(GOL) 16:0-rel
+etri#doc_6458.txt 17 구경시키다 ----- 1:1-ARGM-DIS() 12:3-ARG1(THM) 13:1-ARG0(AGT) 16:2-ARGM-DIS() 17:0-rel

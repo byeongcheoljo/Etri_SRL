@@ -1,0 +1,4 @@
+etri#doc_8224.txt 2 일으키다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_8224.txt 6 뽑히다 ----- 5:1-ARG1() 6:0-rel
+etri#doc_8224.txt 13 타다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8224.txt 14 가다 ----- 13:3-ARGM-DIS() 14:0-rel

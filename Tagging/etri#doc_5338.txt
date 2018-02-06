@@ -1,0 +1,4 @@
+etri#doc_5338.txt 4 의인화하다 ----- 4:0-rel
+etri#doc_5338.txt 5 신격화하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5338.txt 9 재해석하다 ----- 2:1-ARG0(EFF) 5:2-ARGM-DIS() 6:1-ARGM-ADV(EFF) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5338.txt 20 되다 ----- 1:1-ARGM-DIS(EFF) 9:2-ARGM-DIS() 10:1-ARGM-TMP() 11:1-ARG1(THM) 19:6-ARG2(FNS) 20:0-rel

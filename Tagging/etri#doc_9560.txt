@@ -1,0 +1,5 @@
+etri#doc_9560.txt 9 두리번거리다 ----- 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_9560.txt 12 취하다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_9560.txt 13 비틀거리다 ----- 9:2-ARGM-MNR() 10:1-ARGM-TMP() 12:2-ARGM-MNR() 13:0-rel
+etri#doc_9560.txt 17 끌다 ----- 14:4-ARGM-DIS() 15:1-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_9560.txt 19 걸어가다 ----- 2:1-ARG0(AGT) 17:2-ARGM-DIS() 18:1-ARGM-MNR() 19:0-rel

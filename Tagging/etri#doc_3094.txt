@@ -1,0 +1,4 @@
+etri#doc_3094.txt 3 하다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_3094.txt 6 분배되다 ----- 4:1-ARG1(THM) 5:1-(GOL) 6:0-rel
+etri#doc_3094.txt 7 나타나다 ----- 6:2-ARGM-TMP() 7:0-rel
+etri#doc_3094.txt 14 들어서다 ----- 10:3-ARG2(GOL) 13:3-ARG2(GOL) 14:0-rel

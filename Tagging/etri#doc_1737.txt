@@ -1,0 +1,8 @@
+etri#doc_1737.txt 4 지키다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_1737.txt 6 질리다 ----- 4:4-ARGM-DIS() 5:1-ARG2(EFF) 6:0-rel
+etri#doc_1737.txt 8 떨다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1737.txt 10 취하다 ----- 9:1-ARG2(EFF) 10:0-rel
+etri#doc_1737.txt 11 비틀거리다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_1737.txt 14 휩쓸리다 ----- 13:1-ARG2(EFF) 14:0-rel
+etri#doc_1737.txt 15 몰리다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_1737.txt 16 다니다 ----- 12:4-ARGM-DIS() 15:3-ARGM-DIS() 16:0-rel

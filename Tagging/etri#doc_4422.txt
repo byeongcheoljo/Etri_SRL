@@ -1,0 +1,5 @@
+etri#doc_4422.txt 3 들어가다 ----- 1:1-ARG0(THM) 2:1-ARG3(GOL) 3:0-rel
+etri#doc_4422.txt 9 쇠하다 ----- 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_4422.txt 13 나타나다 ----- 5:2-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_4422.txt 15 유동하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_4422.txt 20 폭발하다 ----- 13:2-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

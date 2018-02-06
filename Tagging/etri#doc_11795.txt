@@ -1,0 +1,4 @@
+etri#doc_11795.txt 7 방영되다 ----- 5:2-ARGM-TMP() 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_11795.txt 16 만들다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_11795.txt 18 받다 ----- 9:2-ARGM-MNR(INS) 17:5-ARG1(THM) 18:0-rel
+etri#doc_11795.txt 20 맡다 ----- 3:3-ARG0(AGT) 19:7-ARG0(AGT) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3392.txt 8 기소되다 ----- 2:1-ARGM-TMP() 3:1-ARGM-TMP() 6:3-ARG2(INS) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3392.txt 13 선고받다 ----- 8:2-ARGM-MNR() 9:1-ARGM-LOC(LOC) 12:3-ARG1(THM) 13:0-rel
+etri#doc_3392.txt 16 감형되다 ----- 1:1-ARG1(THM) 13:4-ARGM-TMP() 14:1-ARGM-LOC(LOC) 15:1-ARGM-TMP(FNS) 16:0-rel

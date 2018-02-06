@@ -1,0 +1,3 @@
+etri#doc_7261.txt 10 나타나다 ----- 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_7261.txt 12 해결하다 ----- 8:4-ARGM-MNR(INS) 11:3-ARG1(THM) 12:0-rel
+etri#doc_7261.txt 19 설명되다 ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 18:4-ARGM-DIS() 19:0-rel

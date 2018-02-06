@@ -1,0 +1,4 @@
+etri#doc_5208.txt 8 하다 ----- 5:1-ARG1(THM) 6:1-ARGM-TMP() 7:1-ARG1() 8:0-rel
+etri#doc_5208.txt 12 실현시키다 ----- 8:2-ARGM-MNR() 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5208.txt 14 설정하다 ----- 12:2-ARGM-PRP() 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_5208.txt 20 강조하다 ----- 18:4-ARG1(THM) 19:1-ARG0(AGT) 20:0-rel

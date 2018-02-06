@@ -1,0 +1,2 @@
+etri#doc_1916.txt 10 나서다 ----- 9:1-ARGM-EXT() 10:0-rel
+etri#doc_1916.txt 17 갖다 ----- 2:2-ARG1(THM) 11:3-ARGM-DIS() 15:4-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

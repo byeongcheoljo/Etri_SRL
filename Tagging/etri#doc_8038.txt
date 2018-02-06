@@ -1,0 +1,6 @@
+etri#doc_8038.txt 4 지다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_8038.txt 6 내려오다 ----- 4:2-ARGM-DIS() 5:1-ARG2(SRC) 6:0-rel
+etri#doc_8038.txt 11 되다 ----- 8:2-ARG1(THM) 9:1-ARGM-INS(INS) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_8038.txt 14 터지다 ----- 12:1-ARG1(THM) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_8038.txt 15 동여매다 ----- 15:0-rel
+etri#doc_8038.txt 19 배다 ----- 6:2-ARGM-TMP() 11:2-ARGM-DIS() 14:2-ARGM-CAU() 16:2-ARG2(GOL) 17:1-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

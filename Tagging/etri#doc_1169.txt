@@ -1,0 +1,2 @@
+etri#doc_1169.txt 10 정하다 ----- 4:3-ARGM-DIR(DIR) 6:2-ARG0(THM) 8:2-ARGM-EXT(EFF) 9:1-ARGM-DIR(DIR) 10:0-rel
+etri#doc_1169.txt 15 받다 ----- 10:2-ARGM-DIS() 11:1-ARGM-DIS(EFF) 12:1-ARG0(GOL) 13:1-ARGM-EXT(EFF) 14:1-ARGM-EXT(EFF) 15:0-rel

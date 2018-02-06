@@ -1,0 +1,5 @@
+etri#doc_9655.txt 5 승인되다 ----- 4:2-ARG2(LOC) 5:0-rel
+etri#doc_9655.txt 7 따르다 ----- 5:3-ARGM-CAU() 6:1-ARG0(AGT) 7:0-rel
+etri#doc_9655.txt 11 확립하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_9655.txt 14 설정하다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_9655.txt 16 작용하다 ----- 2:2-ARG1(THM) 14:3-ARGM-CAU(EFF) 15:1-ARGM-PRD(INS) 16:0-rel

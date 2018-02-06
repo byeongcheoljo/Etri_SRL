@@ -1,0 +1,6 @@
+etri#doc_5347.txt 3 지배하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5347.txt 7 보호하다 ----- 7:0-rel
+etri#doc_5347.txt 8 강화하다 ----- 6:2-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_5347.txt 11 이루어지다 ----- 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_5347.txt 13 유지하다 ----- 4:3-ARG0(AGT) 8:2-ARGM-PRP() 12:4-ARG1(THM) 13:0-rel
+etri#doc_5347.txt 15 비롯되다 ----- 1:1-ARG1(THM) 14:6-ARG2(SRC) 15:0-rel

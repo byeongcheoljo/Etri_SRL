@@ -1,0 +1,5 @@
+etri#doc_2184.txt 4 되다 ----- 3:3-ARG0() 4:0-rel
+etri#doc_2184.txt 6 씨름하다 ----- 5:1-() 6:0-rel
+etri#doc_2184.txt 9 두드리다 ----- 8:1-() 9:0-rel
+etri#doc_2184.txt 11 불태우다 ----- 9:2-() 10:1-() 11:0-rel
+etri#doc_2184.txt 15 듣다 ----- 4:4-ARGM-CND() 13:4-ARG0() 14:1-ARGM-TMP() 15:0-rel

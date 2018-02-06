@@ -1,0 +1,5 @@
+etri#doc_5801.txt 7 오르다 ----- 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_5801.txt 10 편성되다 ----- 8:3-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5801.txt 13 미루다 ----- 12:2-ARGM-INS(INS) 13:0-rel
+etri#doc_5801.txt 17 예상되다 ----- 10:2-ARGM-DIS() 13:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_5801.txt 18 보다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 17:3-ARG1() 18:0-rel

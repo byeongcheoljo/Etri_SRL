@@ -1,0 +1,6 @@
+etri#doc_4502.txt 1 모자라다 ----- 1:0-rel
+etri#doc_4502.txt 10 먹다 ----- 7:1-ARGM-TMP(LOC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4502.txt 11 가다 ----- 6:3-ARGM-DIS() 10:3-ARGM-DIS() 11:0-rel
+etri#doc_4502.txt 12 생각하다 ----- 3:3-ARGM-LOC(LOC) 11:4-ARG1(CNT) 12:0-rel
+etri#doc_4502.txt 13 돌아오다 ----- 13:0-rel
+etri#doc_4502.txt 15 얻다 ----- 12:5-ARGM-DIS() 13:1-ARGM-TMP() 14:1-ARGM-MNR() 15:0-rel

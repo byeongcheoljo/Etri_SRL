@@ -1,0 +1,7 @@
+etri#doc_5538.txt 2 배우다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_5538.txt 5 새다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_5538.txt 6 모르다 ----- 3:3-ARGM-CAU(EFF) 5:2-ARGM-DIS() 6:0-rel
+etri#doc_5538.txt 9 죽이다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 8:1-ARG1() 9:0-rel
+etri#doc_5538.txt 13 알다 ----- 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5538.txt 17 외박하다 ----- 15:1-ARGM-MNR(COM) 16:1-ARGM-TMP() 17:0-rel
+etri#doc_5538.txt 19 뜯어내다 ----- 10:3-ARGM-MNR(INS) 14:3-ARG0(AGT) 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

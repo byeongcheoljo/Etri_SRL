@@ -1,0 +1,5 @@
+etri#doc_1966.txt 2 읽다 ----- 2:0-rel
+etri#doc_1966.txt 3 쓰다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_1966.txt 8 하다 ----- 3:2-ARGM-PRP(PUR) 6:3-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1966.txt 11 모시다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1966.txt 13 참석하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(LOC) 13:0-rel

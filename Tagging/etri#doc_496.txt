@@ -1,0 +1,4 @@
+etri#doc_496.txt 4 묻다 ----- 3:2-ARG1(CNT) 4:0-rel
+etri#doc_496.txt 8 생각하다 ----- 5:1-ARG0(MAG) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_496.txt 12 건너다 ----- 11:2-ARGM-LOC() 12:0-rel
+etri#doc_496.txt 16 떠오르다 ----- 4:3-ARGM-CND() 9:4-ARGM-ADV() 14:2-ARG1(THM) 15:1-ARG2(GOL) 16:0-rel

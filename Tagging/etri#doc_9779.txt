@@ -1,0 +1,5 @@
+etri#doc_9779.txt 6 말미암다 ----- 5:2-ARGM-ADV(EFF) 6:0-rel
+etri#doc_9779.txt 11 간과하다 ----- 1:1-ARGM-CAU(EFF) 2:1-ARG0(MAG) 3:1-ARGM-DIS() 6:3-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_9779.txt 14 지니다 ----- 13:1-ARG0(AGT) 14:0-rel
+etri#doc_9779.txt 17 파악하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_9779.txt 18 실패하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 17:3-ARGM-DIS() 18:0-rel

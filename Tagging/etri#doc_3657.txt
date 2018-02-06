@@ -1,0 +1,2 @@
+etri#doc_3657.txt 6 안다 ----- 1:1-ARGM-LOC(LOC) 4:3-ARG0(EXP) 5:1-ARG1(THM) 6:0-rel
+etri#doc_3657.txt 11 하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 9:2-ARG0(AGT) 10:1-ARG1() 11:0-rel

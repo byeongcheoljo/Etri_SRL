@@ -1,0 +1,7 @@
+etri#doc_962.txt 3 내리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_962.txt 5 기르다 ----- 1:1-ARG0(AGT) 3:2-ARGM-CAU() 4:1-ARG1(THM) 5:0-rel
+etri#doc_962.txt 12 들다 ----- 9:2-ARGM-CAU() 10:1-ARG0(AGT) 11:1-() 12:0-rel
+etri#doc_962.txt 13 살찌다 ----- 13:0-rel
+etri#doc_962.txt 16 바치다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_962.txt 17 빌다 ----- 16:4-ARGM-DIS() 17:0-rel
+etri#doc_962.txt 19 멎다 ----- 5:2-ARGM-DIS() 12:2-ARGM-DIS() 17:5-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

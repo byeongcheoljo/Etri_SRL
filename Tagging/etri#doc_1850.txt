@@ -1,0 +1,2 @@
+etri#doc_1850.txt 5 설치되다 ----- 3:2-ARGM-TMP(LOC) 4:1-ARG1(SRC) 5:0-rel
+etri#doc_1850.txt 15 설치되다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARGM-DIS() 8:2-ARGM-TMP(LOC) 14:3-ARG0(AGT) 15:0-rel

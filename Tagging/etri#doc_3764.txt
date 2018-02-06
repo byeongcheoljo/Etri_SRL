@@ -1,0 +1,1 @@
+etri#doc_3764.txt 12 조장하다 ----- 8:5-ARG0(EFF) 11:3-ARG1(THM) 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2618.txt 6 진군하다 ----- 4:2-() 5:1-() 6:0-rel
+etri#doc_2618.txt 8 통일되다 ----- 8:0-rel
+etri#doc_2618.txt 10 건설하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-ADV(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_2618.txt 15 돌리다 ----- 10:3-() 12:2-ARG1(THM) 14:2-ARGM-ADV(EFF) 15:0-rel

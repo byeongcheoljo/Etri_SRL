@@ -1,0 +1,5 @@
+etri#doc_3618.txt 9 미치다 ----- 7:1-ARG0(THM) 8:1-ARG2(GOL) 9:0-rel
+etri#doc_3618.txt 12 관련시키다 ----- 10:3-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_3618.txt 14 규명하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_3618.txt 19 반영되다 ----- 17:2-ARG2(LOC) 18:1-ARGM-MNR() 19:0-rel
+etri#doc_3618.txt 20 정리하다 ----- 2:2-ARGM-LOC(LOC) 15:3-ARGM-DIS() 19:2-ARG1() 20:0-rel

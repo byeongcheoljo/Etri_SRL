@@ -1,0 +1,3 @@
+etri#doc_11448.txt 6 설치하다 ----- 3:3-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_11448.txt 11 보다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_11448.txt 18 보다 ----- 17:2-ARGM-MNR(INS) 18:0-rel

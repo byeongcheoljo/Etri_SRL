@@ -1,0 +1,4 @@
+etri#doc_3401.txt 4 하다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_3401.txt 11 담당하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_3401.txt 13 감사하다 ----- 13:0-rel
+etri#doc_3401.txt 18 전달하다 ----- 1:1-ARGM-TMP(LOC) 5:3-ARG0(AGT) 12:5-ARG2(GOL) 13:1-ARGM-CAU() 15:2-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

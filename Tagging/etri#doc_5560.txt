@@ -1,0 +1,5 @@
+etri#doc_5560.txt 5 떠오르다 ----- 4:2-ARGM-PRD(INS) 5:0-rel
+etri#doc_5560.txt 8 굴복시키다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_5560.txt 13 여기다 ----- 10:2-ARG1(THM) 11:1-ARGM-TMP() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_5560.txt 18 있다 ----- 15:1-ARG2(LOC) 17:2-ARG0(AGT) 18:0-rel
+etri#doc_5560.txt 21 생각하다 ----- 8:3-ARGM-CAU() 14:3-ARG0(AGT) 20:5-ARG1(CNT) 21:0-rel

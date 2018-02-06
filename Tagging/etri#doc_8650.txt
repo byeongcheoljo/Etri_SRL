@@ -1,0 +1,5 @@
+etri#doc_8650.txt 6 내다 ----- 5:2-ARG1(Npr) 6:0-rel
+etri#doc_8650.txt 9 달리다 ----- 3:2-ARGM-TMP() 6:3-ARGM-DIS() 7:1-ARG1(LOC) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8650.txt 11 보다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_8650.txt 17 보다 ----- 13:2-ARG1(THM) 16:3-ARGM-TMP(LOC) 17:0-rel
+etri#doc_8650.txt 18 생각하다 ----- 1:1-ARG0(MAG) 11:4-ARGM-DIS() 17:4-ARG1() 18:0-rel

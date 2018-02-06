@@ -1,0 +1,3 @@
+etri#doc_6431.txt 10 자라나다 ----- 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_6431.txt 17 성장하다 ----- 16:3-ARGM-LOC(LOC) 17:0-rel
+etri#doc_6431.txt 21 귀속시키다 ----- 19:2-ARG2(GOL) 20:1-ARG1(THM) 21:0-rel

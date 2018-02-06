@@ -1,0 +1,2 @@
+etri#doc_2338.txt 6 살다 ----- 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_2338.txt 14 쓰다 ----- 3:1-ARG2() 4:1-ARGM-MNR() 10:4-ARGM-ADV(EFF) 11:1-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel

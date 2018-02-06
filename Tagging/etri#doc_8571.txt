@@ -1,0 +1,4 @@
+etri#doc_8571.txt 9 통합하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_8571.txt 17 향유하다 ----- 14:2-ARG1(THM) 16:2-ARGM-MNR(FNS) 17:0-rel
+etri#doc_8571.txt 18 획득하다 ----- 17:3-ARGM-DIS() 18:0-rel
+etri#doc_8571.txt 20 발전하다 ----- 2:2-ARG1(THM) 19:5-ARG2(FNS) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4428.txt 5 지배하다 ----- 2:1-ARG2(GOL) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4428.txt 11 지배하다 ----- 5:3-ARGM-DIS() 8:3-ARG2(GOL) 10:2-ARG1(THM) 11:0-rel
+etri#doc_4428.txt 17 주다 ----- 14:3-ARG2(GOL) 16:2-ARG1(THM) 17:0-rel
+etri#doc_4428.txt 19 삼다 ----- 1:1-ARGM-DIS() 11:3-ARGM-DIS() 17:3-ARGM-DIS() 18:1-ARG2(FNS) 19:0-rel

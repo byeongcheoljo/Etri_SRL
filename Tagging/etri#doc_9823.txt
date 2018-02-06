@@ -1,0 +1,4 @@
+etri#doc_9823.txt 5 가다 ----- 4:1-ARGM-TMP(SRC) 5:0-rel
+etri#doc_9823.txt 7 들어가다 ----- 3:3-ARGM-MNR() 6:3-ARG3(GOL) 7:0-rel
+etri#doc_9823.txt 9 탈락하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_9823.txt 11 적응하다 ----- 10:3-ARG2(LOC) 11:0-rel

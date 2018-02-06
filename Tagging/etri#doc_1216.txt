@@ -1,0 +1,3 @@
+etri#doc_1216.txt 7 참여하다 ----- 1:1-ARG0(AGT) 6:4-ARGM-PRD(EFF) 7:0-rel
+etri#doc_1216.txt 18 몸담다 ----- 9:1-ARGM-DIS() 10:1-ARG0(AGT) 13:3-ARGM-PRP(PUR) 16:3-ARGM-DIS() 17:1-ARGM-LOC() 18:0-rel
+etri#doc_1216.txt 20 뜻하다 ----- 8:6-ARG1(THM) 19:3-ARG2(FNS) 20:0-rel

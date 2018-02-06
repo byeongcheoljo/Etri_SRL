@@ -1,0 +1,1 @@
+etri#doc_77.txt 20 차지하다 ----- 12:4-ARGM-DIS() 13:1-ARGM-MNR(COM) 14:1-ARG2(COM) 16:2-ARG0(THM) 19:3-ARG1(CRT) 20:0-rel

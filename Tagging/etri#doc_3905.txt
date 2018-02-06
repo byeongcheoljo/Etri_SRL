@@ -1,0 +1,4 @@
+etri#doc_3905.txt 5 위축되다 ----- 2:1-ARGM-CAU(EFF) 3:1-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_3905.txt 9 떨어지다 ----- 7:1-ARGM-EXT(CRT) 8:1-ARGM-EXT(CRT) 9:0-rel
+etri#doc_3905.txt 11 기록하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_3905.txt 16 깨다 ----- 1:1-ARGM-LOC(LOC) 5:2-ARGM-DIS() 6:1-ARG0(AGT) 11:4-ARGM-CAU() 13:2-ARGM-TMP(CRT) 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

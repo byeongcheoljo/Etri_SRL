@@ -1,0 +1,2 @@
+etri#doc_6949.txt 13 성찰하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_6949.txt 14 시사하다 ----- 13:3-ARGM-DIS() 14:0-rel

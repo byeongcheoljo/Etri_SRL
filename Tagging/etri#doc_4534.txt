@@ -1,0 +1,4 @@
+etri#doc_4534.txt 5 변형하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4534.txt 10 간주하다 ----- 2:1-ARG0(MAG) 7:2-ARG1(THM) 9:2-ARG1(FNS) 10:0-rel
+etri#doc_4534.txt 17 규정되다 ----- 14:2-ARG1(THM) 15:1-ARGM-LOC(LOC) 16:1-ARGM-CAU(EFF) 17:0-rel
+etri#doc_4534.txt 19 깨닫다 ----- 1:1-ARGM-DIS() 11:4-ARGM-DIS() 12:1-ARG1(MAG) 18:3-ARG2(THM) 19:0-rel

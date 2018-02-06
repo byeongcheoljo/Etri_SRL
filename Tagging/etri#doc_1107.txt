@@ -1,0 +1,4 @@
+etri#doc_1107.txt 3 주동하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1107.txt 7 선고하다 ----- 5:1-ARG0(GOL) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1107.txt 9 행하다 ----- 4:4-ARG0(AGT) 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_1107.txt 18 예견하다 ----- 11:6-ARG0() 12:1-ARGM-TMP() 15:3-ARG1(THM) 17:2-ARGM-MNR() 18:0-rel

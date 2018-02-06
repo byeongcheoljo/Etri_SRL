@@ -1,0 +1,3 @@
+etri#doc_8759.txt 2 가다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8759.txt 3 가다 ----- 3:0-rel
+etri#doc_8759.txt 12 상응하다 ----- 11:1-ARG2() 12:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2376.txt 9 지다 ----- 6:1-ARGM-INS(INS) 8:2-ARG1(THM) 9:0-rel
+etri#doc_2376.txt 10 나아가다 ----- 5:2-ARGM-LOC(LOC) 9:3-ARGM-DIS() 10:0-rel
+etri#doc_2376.txt 18 성립하다 ----- 1:1-ARGM-DIS() 2:1-ARG0() 11:5-ARGM-LOC(LOC) 14:3-ARGM-EXT() 17:2-ARG3() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7637.txt 4 자랑하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7637.txt 8 지니다 ----- 4:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7637.txt 12 깨우치다 ----- 2:1-ARG0(MAG) 10:5-ARG1() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7637.txt 17 틀리다 ----- 1:1-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_7637.txt 18 증명하다 ----- 17:2-ARG1() 18:0-rel

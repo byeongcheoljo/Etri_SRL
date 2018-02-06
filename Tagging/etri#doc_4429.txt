@@ -1,0 +1,4 @@
+etri#doc_4429.txt 8 알려지다 ----- 3:2-ARG0(THM) 5:2-ARGM-LOC(LOC) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4429.txt 12 받다 ----- 9:1-ARGM-EXT() 11:2-ARG1(THM) 12:0-rel
+etri#doc_4429.txt 15 유지되다 ----- 8:2-ARGM-DIS() 12:3-ARGM-CND() 13:1-ARGM-MNR() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_4429.txt 16 생각하다 ----- 1:1-ARG0(MAG) 15:2-ARG1() 16:0-rel

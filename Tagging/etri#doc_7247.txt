@@ -1,0 +1,6 @@
+etri#doc_7247.txt 5 받다 ----- 3:1-ARGM-MNR(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7247.txt 9 품다 ----- 7:1-ARG2(GOL) 8:1-ARG1(Npr) 9:0-rel
+etri#doc_7247.txt 12 몰다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_7247.txt 14 돌진하다 ----- 6:3-ARG0(AGT) 9:2-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARG1(GOL) 14:0-rel
+etri#doc_7247.txt 17 입히다 ----- 14:2-ARGM-DIS() 15:1-ARG1(GOL) 16:1-ARG2(THM) 17:0-rel
+etri#doc_7247.txt 19 발생하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 18:3-ARG1(THM) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11805.txt 9 감기다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_11805.txt 12 훔쳐보다 ----- 10:4-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_11805.txt 15 타다 ----- 13:1-ARGM-EXT() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11805.txt 17 느끼다 ----- 1:1-ARG0(EXP) 2:1-ARGM-TMP() 6:2-ARGM-DIS() 12:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

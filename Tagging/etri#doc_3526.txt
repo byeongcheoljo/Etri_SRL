@@ -1,0 +1,2 @@
+etri#doc_3526.txt 6 논의하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3526.txt 9 관련되다 ----- 8:2-ARG2(COM) 9:0-rel

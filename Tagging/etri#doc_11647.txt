@@ -1,0 +1,8 @@
+etri#doc_11647.txt 3 존중받다 ----- 3:0-rel
+etri#doc_11647.txt 5 받다 ----- 2:1-ARG0(GOL) 3:1-ARGM-EXT() 4:1-ARG1(THM) 5:0-rel
+etri#doc_11647.txt 7 벗어나다 ----- 6:1-ARG1(SRC) 7:0-rel
+etri#doc_11647.txt 8 지원받다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_11647.txt 9 방치되다 ----- 5:2-ARGM-DIS() 8:3-ARGM-EXT() 9:0-rel
+etri#doc_11647.txt 12 북돋우다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11647.txt 14 맞다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_11647.txt 17 헤매다 ----- 14:5-ARGM-EXT() 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2506.txt 5 표상하다 ----- 4:3-() 5:0-rel
+etri#doc_2506.txt 14 달다 ----- 7:1-ARGM-ADV(EFF) 10:2-ARGM-DIS() 11:1-ARGM-ADV(EFF) 13:2-ARG1(THM) 14:0-rel
+etri#doc_2506.txt 17 만들다 ----- 14:3-ARGM-DIS() 16:2-ARGM-MNR(EFF) 17:0-rel

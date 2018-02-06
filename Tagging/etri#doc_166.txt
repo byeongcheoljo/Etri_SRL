@@ -1,0 +1,4 @@
+etri#doc_166.txt 4 타파되다 ----- 3:3-ARG0(THM) 4:0-rel
+etri#doc_166.txt 10 부채질하다 ----- 8:2-ARGM-DIS() 9:1-ARG2(THM) 10:0-rel
+etri#doc_166.txt 14 통용되다 ----- 12:1-ARGM-EXT() 13:1-ARG1(LOC) 14:0-rel
+etri#doc_166.txt 16 사라지다 ----- 11:3-ARG1(THM) 14:2-ARGM-DIS() 15:1-ARGM-TMP() 16:0-rel

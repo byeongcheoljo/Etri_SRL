@@ -1,0 +1,4 @@
+etri#doc_11678.txt 5 이루어지다 ----- 3:3-ARG1(THM) 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_11678.txt 7 승리하다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11678.txt 12 확보하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11678.txt 15 가지다 ----- 5:2-ARGM-DIS() 8:3-ARG0(LOC) 9:1-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARGM-MNR(INS) 14:1-ARG1(THM) 15:0-rel

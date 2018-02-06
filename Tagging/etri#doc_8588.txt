@@ -1,0 +1,2 @@
+etri#doc_8588.txt 18 기여하다 ----- 16:3-ARG1(GOL) 17:1-ARGM-MNR(INS) 18:0-rel
+etri#doc_8588.txt 19 증명되다 ----- 18:2-ARG1(THM) 19:0-rel

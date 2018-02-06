@@ -1,0 +1,4 @@
+etri#doc_5781.txt 2 ½×´Ù ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_5781.txt 4 ¾ÈÁ¤µÇ´Ù ----- 4:0-rel
+etri#doc_5781.txt 6 Èçµé¸®´Ù ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5781.txt 11 ²Þ²Ù´Ù ----- 6:3-ARGM-DIS() 7:1-ARGM-INS(INS) 10:3-ARG1(THM) 11:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7278.txt 4 노심초사하다 ----- 3:2-ARG0(EXP) 4:0-rel
+etri#doc_7278.txt 6 짜다 ----- 4:3-ARGM-DIS() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_7278.txt 14 속하다 ----- 11:2-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARG2(LOC) 14:0-rel
+etri#doc_7278.txt 18 빼앗기다 ----- 14:2-ARGM-DIS() 16:2-ARG2(EFF) 17:1-ARG1(THM) 18:0-rel

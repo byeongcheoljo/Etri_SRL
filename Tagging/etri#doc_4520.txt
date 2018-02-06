@@ -1,0 +1,4 @@
+etri#doc_4520.txt 4 맞추다 ----- 2:2-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4520.txt 8 뛰쳐나오다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_4520.txt 10 가지다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4520.txt 16 강간하다 ----- 15:1-ARG1(THM) 16:0-rel

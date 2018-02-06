@@ -1,0 +1,2 @@
+etri#doc_7636.txt 6 기억되다 ----- 5:1-ARG1(FNS) 6:0-rel
+etri#doc_7636.txt 9 조직하다 ----- 9:0-rel

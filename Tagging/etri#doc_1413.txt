@@ -1,0 +1,2 @@
+etri#doc_1413.txt 8 살다 ----- 8:0-rel
+etri#doc_1413.txt 10 논하다 ----- 7:4-ARGM-INS(EFF) 9:2-ARG1(THM) 10:0-rel

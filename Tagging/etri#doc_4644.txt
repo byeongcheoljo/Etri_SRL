@@ -1,0 +1,5 @@
+etri#doc_4644.txt 4 구부리다 ----- 2:1-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4644.txt 7 취하다 ----- 1:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_4644.txt 11 받다 ----- 10:1-ARG2(AGT) 11:0-rel
+etri#doc_4644.txt 17 불러일으키다 ----- 12:3-ARG0(EFF) 13:1-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:0-rel
+etri#doc_4644.txt 19 의미하다 ----- 8:4-ARG1(EFF) 9:1-ARGM-TMP() 18:5-ARG2(THM) 19:0-rel

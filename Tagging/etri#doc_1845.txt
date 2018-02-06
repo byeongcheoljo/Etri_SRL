@@ -1,0 +1,4 @@
+etri#doc_1845.txt 3 좋아하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1845.txt 16 받들다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_1845.txt 20 구현하다 ----- 14:3-ARGM-MNR(INS) 16:2-ARGM-DIS() 19:3-ARG1(THM) 20:0-rel
+etri#doc_1845.txt 22 받아들이다 ----- 1:1-ARGM-DIS() 4:3-ARG0(AGT) 9:5-ARGM-ADV(EFF) 21:5-ARGM-MNR(FNS) 22:0-rel

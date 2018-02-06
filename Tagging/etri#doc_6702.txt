@@ -1,0 +1,5 @@
+etri#doc_6702.txt 3 진흥시키다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6702.txt 8 세우다 ----- 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6702.txt 11 만들다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_6702.txt 13 통폐합하다 ----- 3:2-ARGM-PRP() 4:1-ARG0(AGT) 5:1-ARGM-DIS() 11:2-ARGM-MNR() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6702.txt 20 되다 ----- 1:1-ARGM-DIS() 13:2-ARGM-DIS() 16:3-ARGM-CND() 18:2-ARG1(THM) 19:1-ARG2(FNS) 20:0-rel

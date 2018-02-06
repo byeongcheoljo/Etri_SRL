@@ -1,0 +1,6 @@
+etri#doc_5387.txt 6 좌초되다 ----- 6:0-rel
+etri#doc_5387.txt 7 가라앉다 ----- 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5387.txt 11 피신시키다 ----- 1:1-ARG0(AGT) 4:3-ARGM-CAU() 7:2-ARGM-TMP() 9:2-ARG1(THM) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_5387.txt 14 빠져나가다 ----- 12:1-ARG0(AGT) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_5387.txt 16 되다 ----- 11:2-ARGM-DIS() 14:2-ARGM-CND() 15:1-ARGM-NEG() 16:0-rel
+etri#doc_5387.txt 18 나오다 ----- 17:3-ARG2(SRC) 18:0-rel

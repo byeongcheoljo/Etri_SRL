@@ -1,0 +1,2 @@
+etri#doc_13112.txt 5 떠오르다 ----- 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_13112.txt 9 감원하다 ----- 2:1-ARGM-TMP(LOC) 6:4-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel

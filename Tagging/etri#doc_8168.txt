@@ -1,0 +1,2 @@
+etri#doc_8168.txt 10 메우다 ----- 10:0-rel
+etri#doc_8168.txt 16 숨쉬다 ----- 2:2-ARGM-LOC(LOC) 13:2-ARG0(AGT) 15:2-ARGM-MNR() 16:0-rel

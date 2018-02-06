@@ -1,0 +1,5 @@
+etri#doc_2789.txt 7 하다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_2789.txt 8 평가하다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_2789.txt 9 정하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_2789.txt 14 합의하다 ----- 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2789.txt 18 구하다 ----- 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5734.txt 9 동참하다 ----- 8:1-ARG1(GOL) 9:0-rel
+etri#doc_5734.txt 11 기다리다 ----- 2:2-ARG0(AGT) 10:3-ARG1(THM) 11:0-rel

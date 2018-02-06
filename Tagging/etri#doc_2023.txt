@@ -1,0 +1,4 @@
+etri#doc_2023.txt 8 뜻하다 ----- 2:2-ARG1(THM) 7:2-ARG2(FNS) 8:0-rel
+etri#doc_2023.txt 13 되다 ----- 12:2-ARG2(THM) 13:0-rel
+etri#doc_2023.txt 15 권장되다 ----- 14:1-() 15:0-rel
+etri#doc_2023.txt 16 지다 ----- 8:3-ARGM-CND() 10:2-ARG0(AGT) 13:3-ARGM-DIS() 15:2-ARGM-INS() 16:0-rel

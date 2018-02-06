@@ -1,0 +1,4 @@
+etri#doc_8921.txt 6 발달하다 ----- 3:2-ARGM-EXT(CRT) 4:1-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8921.txt 12 관련되다 ----- 11:2-ARG2(LOC) 12:0-rel
+etri#doc_8921.txt 14 살피다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_8921.txt 16 알다 ----- 9:5-ARG1(THM) 14:5-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel

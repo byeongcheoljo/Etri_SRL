@@ -1,0 +1,4 @@
+etri#doc_2922.txt 9 틀리다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_2922.txt 10 공언하다 ----- 9:4-ARG1() 10:0-rel
+etri#doc_2922.txt 12 만나다 ----- 11:6-ARG1(THM) 12:0-rel
+etri#doc_2922.txt 16 바라보다 ----- 4:2-ARGM-CAU(INS) 12:7-ARGM-CND() 13:1-ARGM-MNR() 15:2-ARGM-INS(INS) 16:0-rel

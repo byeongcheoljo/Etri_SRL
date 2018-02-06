@@ -1,0 +1,4 @@
+etri#doc_2637.txt 4 탄생하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2637.txt 6 집대성하다 ----- 5:4-() 6:0-rel
+etri#doc_2637.txt 10 모으다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2637.txt 12 실리다 ----- 1:1-() 7:6-() 11:4-() 12:0-rel

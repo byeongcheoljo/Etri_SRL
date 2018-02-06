@@ -1,0 +1,5 @@
+etri#doc_8363.txt 2 돌이키다 ----- 2:0-rel
+etri#doc_8363.txt 3 생각하다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8363.txt 4 보다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_8363.txt 11 가지다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8363.txt 13 간주하다 ----- 7:3-ARG1(THM) 8:1-ARGM-TMP(LOC) 12:4-ARG1(FNS) 13:0-rel

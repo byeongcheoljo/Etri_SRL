@@ -1,0 +1,4 @@
+etri#doc_5844.txt 6 날뛰다 ----- 5:1-ARGM-PRD(INS) 6:0-rel
+etri#doc_5844.txt 7 잡히다 ----- 4:4-ARG0(AGT) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_5844.txt 9 보다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_5844.txt 19 생기다 ----- 9:5-ARGM-CND() 18:4-ARG1(THM) 19:0-rel

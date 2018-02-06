@@ -1,0 +1,4 @@
+etri#doc_37.txt 2 수용하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_37.txt 3 주장하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_37.txt 13 진입하다 ----- 8:1-ARG0(THM) 9:1-ARGM-ADV() 10:1-(COM) 12:2-ARG1(GOL) 13:0-rel
+etri#doc_37.txt 16 제공하다 ----- 4:4-ARG0(AGT) 7:3-ARG1(THM) 15:5-ARGM-MNR() 16:0-rel

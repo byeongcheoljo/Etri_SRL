@@ -1,0 +1,2 @@
+etri#doc_1468.txt 19 모이다 ----- 17:2-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel
+etri#doc_1468.txt 20 이루어지다 ----- 15:1-ARGM-EXT() 19:2-ARGM-DIS() 20:0-rel

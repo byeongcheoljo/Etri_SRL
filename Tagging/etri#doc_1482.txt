@@ -1,0 +1,2 @@
+etri#doc_1482.txt 6 말하다 ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_1482.txt 16 되다 ----- 1:1-ARG1(THM) 13:3-ARG1(THM) 14:1-ARGM-DIS() 15:1-ARG2(FNS) 16:0-rel

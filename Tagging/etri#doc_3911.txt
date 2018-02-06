@@ -1,0 +1,2 @@
+etri#doc_3911.txt 9 ¸ÅµìÁþ´Ù ----- 6:2-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_3911.txt 11 ÁÂ¿ìµÇ´Ù ----- 1:1-ARGM-DIS(EFF) 3:2-ARG1(THM) 4:1-ARGM-DIS() 9:2-ARGM-DIS(EFF) 10:1-ARGM-EXT() 11:0-rel

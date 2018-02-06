@@ -1,0 +1,4 @@
+etri#doc_8723.txt 4 하다 ----- 3:2-ARG2(FNS) 4:0-rel
+etri#doc_8723.txt 7 끄다 ----- 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_8723.txt 11 걸리다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_8723.txt 15 잡다 ----- 7:3-ARGM-DIS() 9:2-ARGM-TMP(LOC) 12:3-ARGM-EXT(EFF) 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

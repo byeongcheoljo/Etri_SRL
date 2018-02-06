@@ -1,0 +1,1 @@
+etri#doc_3948.txt 19 ²ÅÈ÷´Ù ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 8:3-ARGM-ADV(COM) 18:3-ARG1(THM) 19:0-rel

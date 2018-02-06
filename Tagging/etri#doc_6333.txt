@@ -1,0 +1,2 @@
+etri#doc_6333.txt 9 형성하다 ----- 2:1-ARG0(THM) 6:2-() 8:2-ARG1(FNS) 9:0-rel
+etri#doc_6333.txt 19 일어나다 ----- 11:5-ARGM-DIS() 16:3-ARGM-LOC(LOC) 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7688.txt 4 태어나다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7688.txt 9 다니다 ----- 2:1-ARGM-TMP() 4:2-ARGM-MNR() 5:1-ARGM-TMP() 6:1-ARGM-MNR(INS) 7:1-ARGM-LOC(LOC) 8:1-ARGM-MNR() 9:0-rel

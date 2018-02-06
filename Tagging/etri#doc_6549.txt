@@ -1,0 +1,2 @@
+etri#doc_6549.txt 13 결정되다 ----- 4:2-ARGM-LOC(LOC) 12:3-ARG0(THM) 13:0-rel
+etri#doc_6549.txt 14 전하다 ----- 1:1-ARG0(THM) 2:1-ARGM-DIS() 13:4-ARG1() 14:0-rel

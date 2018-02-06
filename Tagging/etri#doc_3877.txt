@@ -1,0 +1,3 @@
+etri#doc_3877.txt 4 ³Ñ´Ù ----- 2:2-ARG1(THM) 3:1-ARG2(CRT) 4:0-rel
+etri#doc_3877.txt 12 ¹â´Ù ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3877.txt 14 ´Ê¾îÁö´Ù ----- 13:4-ARG1(THM) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6394.txt 5 대응하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_6394.txt 8 거치다 ----- 5:3-ARGM-DIS() 7:2-ARG2(LOC) 8:0-rel
+etri#doc_6394.txt 11 이르다 ----- 2:2-ARG1(THM) 8:3-ARGM-DIS() 10:2-ARG3(FNS) 11:0-rel

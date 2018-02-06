@@ -1,0 +1,2 @@
+etri#doc_3017.txt 7 국한하다 ----- 2:1-ARG1(THM) 6:2-ARG2(LOC) 7:0-rel
+etri#doc_3017.txt 15 요청하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

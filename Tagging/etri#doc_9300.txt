@@ -1,0 +1,4 @@
+etri#doc_9300.txt 4 취득하다 ----- 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_9300.txt 8 상실하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_9300.txt 14 학대하다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS() 12:2-ARGM-MNR(INS) 13:1-ARG1(THM) 14:0-rel
+etri#doc_9300.txt 18 형언하다 ----- 14:2-ARGM-DIS() 16:2-ARG0(AGT) 17:1-ARGM-DIS() 18:0-rel

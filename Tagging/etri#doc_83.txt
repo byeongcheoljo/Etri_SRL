@@ -1,0 +1,4 @@
+etri#doc_83.txt 6 죽다 ----- 6:0-rel
+etri#doc_83.txt 9 분리시키다 ----- 7:2-ARG1(THM) 8:1-ARGM-LOC(SRC) 9:0-rel
+etri#doc_83.txt 17 떠나다 ----- 16:1-ARG2(LOC) 17:0-rel
+etri#doc_83.txt 20 통합하다 ----- 15:1-ARG0(AGT) 17:2-ARGM-DIS() 19:2-ARG2(GOL) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6619.txt 5 구분짓다 ----- 3:2-ARG1(THM) 4:1-ARG2(COM) 5:0-rel
+etri#doc_6619.txt 13 오다 ----- 11:1-ARG0(AGT) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_6619.txt 17 따라오다 ----- 10:2-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-TMP() 16:2-ARG0(AGT) 17:0-rel

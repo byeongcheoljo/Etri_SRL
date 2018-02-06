@@ -1,0 +1,2 @@
+etri#doc_12019.txt 7 ÀÌ²ø¾î³»´Ù ----- 4:2-ARGM-DIS(EFF) 6:2-ARG1(THM) 7:0-rel
+etri#doc_12019.txt 14 ÀÌ²ø´Ù ----- 13:2-ARG1(THM) 14:0-rel

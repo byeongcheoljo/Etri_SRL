@@ -1,0 +1,2 @@
+etri#doc_5029.txt 11 알다 ----- 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_5029.txt 18 통용되다 ----- 2:2-ARGM-LOC(LOC) 7:5-ARG1(THM) 17:2-ARG2(FNS) 18:0-rel

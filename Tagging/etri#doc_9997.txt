@@ -1,0 +1,2 @@
+etri#doc_9997.txt 5 ¿’¥Ÿ ----- 4:2-ARG2(THM) 5:0-rel
+etri#doc_9997.txt 14 µ«¥Ÿ ----- 7:5-ARGM-DIS() 8:1-() 10:2-ARGM-EXT() 11:1-() 13:2-ARGM-EXT() 14:0-rel

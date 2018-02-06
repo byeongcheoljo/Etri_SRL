@@ -1,0 +1,4 @@
+etri#doc_11595.txt 13 주어지다 ----- 13:0-rel
+etri#doc_11595.txt 16 수행하다 ----- 11:4-ARGM-LOC(LOC) 12:1-ARG0(AGT) 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_11595.txt 17 희망하다 ----- 5:1-ARG0(MAG) 16:2-ARG1(THM) 17:0-rel
+etri#doc_11595.txt 18 말하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-LOC(LOC) 17:3-ARG1(CNT) 18:0-rel

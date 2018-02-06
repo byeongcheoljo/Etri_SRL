@@ -1,0 +1,3 @@
+etri#doc_7142.txt 8 πﬁ¥Ÿ ----- 2:1-ARGM-MNR(INS) 3:1-ARG2(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_7142.txt 13 Ω…√Î«œ¥Ÿ ----- 12:1-ARG2(LOC) 13:0-rel
+etri#doc_7142.txt 18 ±˙¥›¥Ÿ ----- 1:1-ARGM-DIS() 11:7-ARG0(MAG) 13:2-ARGM-DIS() 15:2-ARG2(THM) 17:2-ARGM-LOC(LOC) 18:0-rel

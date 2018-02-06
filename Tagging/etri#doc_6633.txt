@@ -1,0 +1,3 @@
+etri#doc_6633.txt 10 고문하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6633.txt 13 부인하다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_6633.txt 19 벗어나다 ----- 1:1-ARGM-MNR() 7:5-ARGM-EXT(CRT) 14:4-ARG0(AGT) 17:3-ARGM-LOC(LOC) 18:1-ARGM-EXT() 19:0-rel

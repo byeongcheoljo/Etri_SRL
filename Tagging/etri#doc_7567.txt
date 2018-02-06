@@ -1,0 +1,2 @@
+etri#doc_7567.txt 10 불붙다 ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_7567.txt 15 보다 ----- 12:2-ARGM-PRD(INS) 14:2-ARG1(THM) 15:0-rel

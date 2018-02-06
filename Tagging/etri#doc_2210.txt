@@ -1,0 +1,1 @@
+etri#doc_2210.txt 14 의존하다 ----- 12:3-ARG0(AGT) 13:1-ARG1(GOL) 14:0-rel

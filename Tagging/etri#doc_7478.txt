@@ -1,0 +1,8 @@
+etri#doc_7478.txt 3 죽다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7478.txt 4 홀로되다 ----- 3:2-ARGM-TMP() 4:0-rel
+etri#doc_7478.txt 8 되다 ----- 7:2-ARG2(FNS) 8:0-rel
+etri#doc_7478.txt 11 사다 ----- 5:4-ARG0(AGT) 9:4-ARG1(COM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_7478.txt 12 피하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_7478.txt 14 오다 ----- 14:0-rel
+etri#doc_7478.txt 15 살다 ----- 13:1-ARGM-LOC(LOC) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_7478.txt 16 짓다 ----- 12:3-ARGM-PRP() 15:2-ARGM-DIS() 16:0-rel

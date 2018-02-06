@@ -1,0 +1,6 @@
+etri#doc_5970.txt 6 나다 ----- 4:2-ARGM-DIS() 5:1-ARG1(Npr) 6:0-rel
+etri#doc_5970.txt 9 우러르다 ----- 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_5970.txt 16 연발하다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_5970.txt 17 축복하다 ----- 9:2-ARGM-DIS() 16:4-ARGM-DIS() 17:0-rel
+etri#doc_5970.txt 19 듣다 ----- 1:1-ARGM-DIS() 2:1-ARGM-LOC(LOC) 6:2-ARGM-CND() 18:6-ARG1(THM) 19:0-rel
+etri#doc_5970.txt 22 나다 ----- 19:7-ARGM-DIS() 20:1-ARGM-EXT() 21:1-ARG1(Npr) 22:0-rel

@@ -1,0 +1,3 @@
+etri#doc_89.txt 4 죽다 ----- 4:0-rel
+etri#doc_89.txt 8 마련되다 ----- 3:2-ARG0(THM) 7:4-(GOL) 8:0-rel
+etri#doc_89.txt 10 품다 ----- 9:1-ARG0(AGT) 10:0-rel

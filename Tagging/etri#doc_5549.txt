@@ -1,0 +1,5 @@
+etri#doc_5549.txt 4 짜다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_5549.txt 8 발달하다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:1-ARGM-TMP() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_5549.txt 17 받다 ----- 15:1-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_5549.txt 19 대다 ----- 14:3-ARG1(THM) 17:2-ARGM-DIS() 18:1-ARG0(AGT) 19:0-rel
+etri#doc_5549.txt 20 하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 19:2-ARG1(CNT) 20:0-rel

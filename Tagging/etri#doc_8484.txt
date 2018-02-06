@@ -1,0 +1,5 @@
+etri#doc_8484.txt 2 찬양하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8484.txt 4 들다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8484.txt 6 하다 ----- 4:4-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8484.txt 13 주다 ----- 10:3-ARG2(GOL) 12:2-ARG1(THM) 13:0-rel
+etri#doc_8484.txt 20 나오다 ----- 19:3-ARG0(AGT) 20:0-rel

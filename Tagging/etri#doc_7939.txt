@@ -1,0 +1,6 @@
+etri#doc_7939.txt 5 쓰다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7939.txt 8 주다 ----- 6:3-ARG1(THM) 7:1-ARGM-INS(INS) 8:0-rel
+etri#doc_7939.txt 10 쓰다 ----- 8:2-ARGM-DIS() 9:1-ARGM-INS(INS) 10:0-rel
+etri#doc_7939.txt 11 설득시키다 ----- 3:1-ARG1(GOL) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_7939.txt 14 보유하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_7939.txt 18 감시하다 ----- 2:2-ARG0(AGT) 11:3-ARGM-MNR() 12:1-ARG0(AGT) 14:2-ARGM-DIS() 16:2-ARGM-MNR() 17:1-ARG1(THM) 18:0-rel

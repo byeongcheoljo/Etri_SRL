@@ -1,0 +1,7 @@
+etri#doc_11791.txt 3 ¸ÁÇÏ´Ù ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_11791.txt 4 ÈïºÐÇÏ´Ù ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_11791.txt 9 ³î´Ù ----- 7:1-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11791.txt 10 ¸ÁÇÏ´Ù ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_11791.txt 11 »ý°¢ÇÏ´Ù ----- 6:5-ARGM-DIS() 10:3-ARGM-DIS() 11:0-rel
+etri#doc_11791.txt 19 ¹â´Ù ----- 14:2-ARGM-DIS() 16:2-ARGM-MNR(INS) 18:2-ARG1(THM) 19:0-rel
+etri#doc_11791.txt 20 ¸ð¸£´Ù ----- 11:4-ARGM-DIS() 12:1-ARGM-DIS() 19:3-ARG1() 20:0-rel

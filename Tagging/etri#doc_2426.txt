@@ -1,0 +1,3 @@
+etri#doc_2426.txt 6 떨어지다 ----- 5:3-ARG0(AGT) 6:0-rel
+etri#doc_2426.txt 11 치다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_2426.txt 13 무너지다 ----- 12:1-ARG0(AGT) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_3185.txt 5 떼다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3185.txt 7 먹이다 ----- 3:2-ARGM-PRP(PUR) 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_3185.txt 8 생각하다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_3185.txt 11 안다 ----- 9:1-ARG1(THM) 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_3185.txt 17 미루다 ----- 1:1-ARGM-TMP() 8:3-ARGM-DIS() 14:2-ARGM-CAU() 15:1-() 16:1-ARG1(THM) 17:0-rel

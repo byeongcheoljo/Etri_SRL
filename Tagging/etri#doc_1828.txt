@@ -1,0 +1,6 @@
+etri#doc_1828.txt 5 일어나다 ----- 3:2-ARGM-EXT(COM) 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_1828.txt 6 시작하다 ----- 5:2-ARGM-TMP() 6:0-rel
+etri#doc_1828.txt 9 보내다 ----- 1:1-ARG0(AGT) 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1828.txt 12 하다 ----- 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1828.txt 15 쌓다 ----- 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1828.txt 16 보다 ----- 16:0-rel

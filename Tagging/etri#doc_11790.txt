@@ -1,0 +1,5 @@
+etri#doc_11790.txt 3 ¸¶Ä¡´Ù ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11790.txt 7 »ç¶óÁö´Ù ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 5:2-ARGM-ADV(COM) 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_11790.txt 10 ³¢¾ñ´Ù ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11790.txt 13 ¾Á·è°Å¸®´Ù ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11790.txt 16 ÇÏ´Ù ----- 15:1-ARG1(THM) 16:0-rel

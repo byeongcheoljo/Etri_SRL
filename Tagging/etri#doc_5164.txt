@@ -1,0 +1,7 @@
+etri#doc_5164.txt 2 ¾É´Ù ----- 1:1-ARG1(GOL) 2:0-rel
+etri#doc_5164.txt 5 °ÉÄ¡´Ù ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5164.txt 7 ¾É´Ù ----- 6:4-ARGM-EXT(CRT) 7:0-rel
+etri#doc_5164.txt 9 ±â´ë´Ù ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5164.txt 13 Áã´Ù ----- 11:1-ARGM-MNR() 12:1-ARG1() 13:0-rel
+etri#doc_5164.txt 15 ³õ´Ù ----- 10:1-ARG1(THM) 13:2-ARGM-MNR() 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_5164.txt 16 ¾É´Ù ----- 2:2-ARGM-TMP() 7:5-ARGM-DIS() 9:2-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

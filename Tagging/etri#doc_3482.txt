@@ -1,0 +1,3 @@
+etri#doc_3482.txt 7 차지하다 ----- 5:3-ARG0(AGT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_3482.txt 11 그치다 ----- 8:1-ARG1(THM) 9:1-ARGM-ADV() 10:1-ARG2(FNS) 11:0-rel
+etri#doc_3482.txt 14 내다보다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 13:4-ARG1() 14:0-rel

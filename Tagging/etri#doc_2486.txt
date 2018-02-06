@@ -1,0 +1,2 @@
+etri#doc_2486.txt 4 보다 ----- 3:3-ARG1(EFF) 4:0-rel
+etri#doc_2486.txt 17 선포하다 ----- 12:1-ARG2(LOC) 13:1-ARG1(THM) 16:3-ARG1(EFF) 17:0-rel

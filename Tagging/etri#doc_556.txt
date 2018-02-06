@@ -1,0 +1,2 @@
+etri#doc_556.txt 13 살리다 ----- 10:1-ARG1(THM) 12:2-ARGM-MNR() 13:0-rel
+etri#doc_556.txt 17 지나다 ----- 4:2-ARG1(THM) 8:3-ARGM-DIS() 9:1-ARGM-DIS() 16:3-ARG2(CRT) 17:0-rel

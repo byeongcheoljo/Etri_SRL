@@ -1,0 +1,6 @@
+etri#doc_4397.txt 4 보내다 ----- 1:1-ARG1(THM) 2:1-() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_4397.txt 7 차지하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_4397.txt 8 살아가다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4397.txt 11 출발하다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_4397.txt 13 누리다 ----- 12:3-ARG0(EXP) 13:0-rel
+etri#doc_4397.txt 15 되다 ----- 9:4-ARG1(THM) 14:5-ARG2(FNS) 15:0-rel

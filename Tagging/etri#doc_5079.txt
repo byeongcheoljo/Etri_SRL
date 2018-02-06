@@ -1,0 +1,5 @@
+etri#doc_5079.txt 3 보다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5079.txt 5 하다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5079.txt 7 굽히다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_5079.txt 11 보다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_5079.txt 14 굽히다 ----- 7:2-ARGM-DIS() 9:2-ARG0(AGT) 12:3-ARGM-EXT(EFF) 13:1-ARG1(THM) 14:0-rel

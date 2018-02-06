@@ -1,0 +1,2 @@
+etri#doc_7433.txt 17 초래하다 ----- 8:5-ARG0(EFF) 12:3-ARGM-DIS() 13:1-ARGM-TMP(LOC) 16:2-ARG1(THM) 17:0-rel
+etri#doc_7433.txt 19 밝히다 ----- 17:3-ARGM-DIS() 18:1-ARG0(AGT) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5908.txt 6 제치다 ----- 4:4-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_5908.txt 11 취하다 ----- 10:2-ARG0(AGT) 11:0-rel

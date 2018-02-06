@@ -1,0 +1,2 @@
+etri#doc_1777.txt 3 알아내다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_1777.txt 12 알아내다 ----- 6:3-ARGM-EXT(INS) 8:2-ARG0(THM) 10:2-ARG1(THM) 11:1-(THM) 12:0-rel

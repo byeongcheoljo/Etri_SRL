@@ -1,0 +1,2 @@
+etri#doc_9689.txt 10 줄어들다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP(LOC) 6:1-ARGM-TMP(LOC) 8:2-ARG1(THM) 9:1-ARG3(GOL) 10:0-rel
+etri#doc_9689.txt 13 헤어나다 ----- 11:1-ARG1(THM) 12:1-ARGM-LOC(SRC) 13:0-rel

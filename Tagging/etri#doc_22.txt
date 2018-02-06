@@ -1,0 +1,4 @@
+etri#doc_22.txt 2 지나다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_22.txt 6 시작하다 ----- 5:2-ARGM-CND(SRC) 6:0-rel
+etri#doc_22.txt 11 이르다 ----- 6:3-ARGM-TMP() 10:4-ARGM-CND(FNS) 11:0-rel
+etri#doc_22.txt 16 하다 ----- 3:3-ARGM-CND(SRC) 11:5-ARGM-CND() 13:2-ARG1(THM) 15:2-ARGM-CND(GOL) 16:0-rel

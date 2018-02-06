@@ -1,0 +1,1 @@
+etri#doc_134.txt 16 실시하다 ----- 3:3-ARG0(AGT) 4:1-ARGM-EXT() 12:8-ARG1(THM) 14:2-ARGM-NEG() 15:1-ARGM-TMP() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11418.txt 10 대립하다 ----- 8:2-ARG1(COM) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_11418.txt 14 불변하다 ----- 14:0-rel
+etri#doc_11418.txt 17 기도하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_11418.txt 19 지니다 ----- 1:1-ARGM-DIS() 5:3-ARG0(AGT) 11:3-ARGM-DIS(CNT) 12:1-ARGM-LOC(LOC) 18:4-ARG1(THM) 19:0-rel

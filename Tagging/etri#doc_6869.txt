@@ -1,0 +1,4 @@
+etri#doc_6869.txt 4 시작하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-PRD(INS) 4:0-rel
+etri#doc_6869.txt 8 넘어서다 ----- 5:3-ARG1(EXP) 6:1-ARGM-EXT() 7:1-ARG2(THM) 8:0-rel
+etri#doc_6869.txt 12 따다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6869.txt 13 잃다 ----- 8:2-ARGM-DIS() 9:1-ARGM-TMP(LOC) 12:3-ARGM-DIS() 13:0-rel

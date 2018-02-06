@@ -1,0 +1,4 @@
+etri#doc_9687.txt 3 이행하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9687.txt 6 예상되다 ----- 4:4-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_9687.txt 18 잡다 ----- 9:3-ARG0(AGT) 12:3-ARGM-LOC(LOC) 16:4-ARGM-DIR(DIR) 17:1-ARG1(THM) 18:0-rel
+etri#doc_9687.txt 20 찾다 ----- 6:2-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

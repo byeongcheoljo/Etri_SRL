@@ -1,0 +1,2 @@
+etri#doc_502.txt 3 성취하다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_502.txt 13 활용되다 ----- 5:2-ARG1(THM) 10:5-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:0-rel

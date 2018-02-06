@@ -1,0 +1,2 @@
+etri#doc_3421.txt 8 상실하다 ----- 1:1-ARGM-TMP() 4:3-ARGM-CAU(COM) 5:1-ARG0(EXP) 6:1-ARGM-TMP(SRC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_3421.txt 16 실시하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARGM-TMP(GOL) 14:4-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel

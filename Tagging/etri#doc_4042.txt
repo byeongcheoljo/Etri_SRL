@@ -1,0 +1,5 @@
+etri#doc_4042.txt 3 되다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_4042.txt 7 수집하다 ----- 5:4-ARGM-TMP(SRC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4042.txt 10 공들이다 ----- 10:0-rel
+etri#doc_4042.txt 17 담다 ----- 17:0-rel
+etri#doc_4042.txt 18 쓰다 ----- 1:1-ARG0(AGT) 7:2-ARGM-MNR() 9:2-ARGM-TMP(LOC) 10:1-ARGM-MNR() 16:5-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

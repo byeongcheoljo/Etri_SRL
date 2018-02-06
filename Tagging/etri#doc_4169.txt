@@ -1,0 +1,3 @@
+etri#doc_4169.txt 5 설정하다 ----- 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_4169.txt 7 주력하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(LOC) 7:0-rel
+etri#doc_4169.txt 13 단속하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARG0(AGT) 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

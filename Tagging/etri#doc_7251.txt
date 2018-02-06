@@ -1,0 +1,3 @@
+etri#doc_7251.txt 5 얼버무리다 ----- 2:2-ARG1(THM) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_7251.txt 9 해소되다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_7251.txt 13 남다 ----- 5:3-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARGM-DIS() 12:2-ARGM-MNR(INS) 13:0-rel

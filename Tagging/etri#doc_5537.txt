@@ -1,0 +1,4 @@
+etri#doc_5537.txt 5 남다 ----- 3:3-ARGM-EXT(CRT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5537.txt 10 남다 ----- 5:2-ARGM-DIS() 8:3-ARGM-EXT(CRT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5537.txt 16 상하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_5537.txt 17 남다 ----- 17:0-rel

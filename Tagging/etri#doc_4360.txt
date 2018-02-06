@@ -1,0 +1,1 @@
+etri#doc_4360.txt 10 결부되다 ----- 7:1-ARGM-MNR(COM) 9:2-ARGM-MNR() 10:0-rel

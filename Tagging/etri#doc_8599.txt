@@ -1,0 +1,5 @@
+etri#doc_8599.txt 4 시달리다 ----- 2:1-ARGM-MNR() 3:1-ARG0(EFF) 4:0-rel
+etri#doc_8599.txt 9 싹트다 ----- 6:1-ARGM-PRD(INS) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8599.txt 12 되다 ----- 5:3-ARG1(THM) 9:3-ARGM-DIS() 11:2-ARG2(FNS) 12:0-rel
+etri#doc_8599.txt 15 발돋움하다 ----- 14:1-ARG2(FNS) 15:0-rel
+etri#doc_8599.txt 17 되다 ----- 1:1-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARG1(THM) 16:3-ARG2(FNS) 17:0-rel

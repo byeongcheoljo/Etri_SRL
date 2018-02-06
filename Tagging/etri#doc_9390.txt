@@ -1,0 +1,3 @@
+etri#doc_9390.txt 6 가지다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_9390.txt 7 존재하다 ----- 3:2-ARG1(THM) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_9390.txt 15 갖다 ----- 1:1-ARGM-DIS() 9:2-ARG0(AGT) 11:2-ARGM-PRP(PUR) 12:1-ARGM-MNR(INS) 14:2-ARG1(THM) 15:0-rel

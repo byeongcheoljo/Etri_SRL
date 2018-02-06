@@ -1,0 +1,4 @@
+etri#doc_11570.txt 6 신설되다 ----- 4:1-ARGM-TMP() 5:1-ARGM-TMP() 6:0-rel
+etri#doc_11570.txt 10 전개되다 ----- 3:3-ARG1(THM) 8:2-ARGM-MNR(INS) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_11570.txt 15 단축시키다 ----- 13:1-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_11570.txt 17 이루다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

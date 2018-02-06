@@ -1,0 +1,4 @@
+etri#doc_726.txt 7 가지다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_726.txt 11 판단하다 ----- 2:2-ARGM-LOC(LOC) 8:3-ARGM-CAU(EFF) 10:2-ARG1(THM) 11:0-rel
+etri#doc_726.txt 20 강요되다 ----- 12:4-ARGM-CAU(EFF) 19:3-ARG1(THM) 20:0-rel
+etri#doc_726.txt 23 주어지다 ----- 21:5-ARGM-INS(INS) 22:1-ARG1(GOL) 23:0-rel

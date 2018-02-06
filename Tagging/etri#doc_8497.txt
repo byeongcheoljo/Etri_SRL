@@ -1,0 +1,1 @@
+etri#doc_8497.txt 3 추진하다 ----- 2:2-ARG1(THM) 3:0-rel

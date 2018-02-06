@@ -1,0 +1,4 @@
+etri#doc_3822.txt 8 하다 ----- 7:2-ARGM-PRD(FNS) 8:0-rel
+etri#doc_3822.txt 12 하다 ----- 2:1-ARG0(AGT) 5:3-ARG1(THM) 9:4-ARGM-CAU() 11:2-ARGM-TMP(LOC) 12:0-rel
+etri#doc_3822.txt 13 대하다 ----- 12:3-ARG2() 13:0-rel
+etri#doc_3822.txt 17 보내다 ----- 1:1-ARGM-DIS() 13:4-ARGM-ADV() 14:1-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

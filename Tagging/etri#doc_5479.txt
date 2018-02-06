@@ -1,0 +1,3 @@
+etri#doc_5479.txt 4 행하다 ----- 2:2-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_5479.txt 12 되다 ----- 9:5-ARG1(THM) 10:1-ARGM-LOC(GOL) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_5479.txt 14 소개하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

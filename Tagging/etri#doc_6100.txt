@@ -1,0 +1,9 @@
+etri#doc_6100.txt 3 가지다 ----- 1:1-ARGM-TMP() 2:1-ARG0(LOC) 3:0-rel
+etri#doc_6100.txt 4 먹다 ----- 4:0-rel
+etri#doc_6100.txt 7 되다 ----- 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_6100.txt 9 알아보다 ----- 7:2-ARGM-DIS() 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6100.txt 12 듣다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6100.txt 16 가다 ----- 15:2-ARG3(GOL) 16:0-rel
+etri#doc_6100.txt 17 알아보다 ----- 16:3-ARGM-DIS() 17:0-rel
+etri#doc_6100.txt 18 오다 ----- 17:4-ARGM-DIS() 18:0-rel
+etri#doc_6100.txt 19 대답하다 ----- 13:4-ARG0(AGT) 18:5-ARGM-DIS() 19:0-rel

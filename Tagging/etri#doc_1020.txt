@@ -1,0 +1,4 @@
+etri#doc_1020.txt 4 품다 ----- 1:1-ARG0(AGT) 2:1-ARG2(GOL) 3:1-ARG1(Npr) 4:0-rel
+etri#doc_1020.txt 10 팔다 ----- 8:1-ARGM-DIR(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1020.txt 14 나타나다 ----- 7:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARG2(SRC) 14:0-rel
+etri#doc_1020.txt 15 보다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP(CRT) 14:3-ARG1() 15:0-rel

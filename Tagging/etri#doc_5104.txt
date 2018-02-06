@@ -1,0 +1,4 @@
+etri#doc_5104.txt 7 이어지다 ----- 3:2-ARG1(THM) 4:1-ARGM-TMP(GOL) 6:2-ARGM-MNR(INS) 7:0-rel
+etri#doc_5104.txt 8 살피다 ----- 7:3-ARG1() 8:0-rel
+etri#doc_5104.txt 10 총괄하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_5104.txt 13 찾아보다 ----- 1:1-ARGM-TMP() 8:4-ARGM-DIS() 10:2-ARGM-MNR() 12:2-ARG1(THM) 13:0-rel

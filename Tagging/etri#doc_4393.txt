@@ -1,0 +1,8 @@
+etri#doc_4393.txt 3 ´Ä´Ù ----- 3:0-rel
+etri#doc_4393.txt 4 Á×´Ù ----- 3:1-ARGM-DIS() 4:0-rel
+etri#doc_4393.txt 8 Á×´Ù ----- 7:1-ARGM-DIS() 8:0-rel
+etri#doc_4393.txt 12 º¸´Ù ----- 11:5-ARG1(THM) 12:0-rel
+etri#doc_4393.txt 13 »ì´Ù ----- 13:0-rel
+etri#doc_4393.txt 15 Á×´Ù ----- 15:0-rel
+etri#doc_4393.txt 19 ±ÍÂøµÇ´Ù ----- 18:1-ARG1(FNS) 19:0-rel
+etri#doc_4393.txt 22 »ý°¢µÇ´Ù ----- 1:1-ARGM-DIS() 12:6-ARGM-DIS() 21:4-ARGM-DIS() 22:0-rel

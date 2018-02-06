@@ -1,0 +1,6 @@
+etri#doc_658.txt 4 해독하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_658.txt 8 이해하다 ----- 4:2-ARGM-MNR() 7:3-ARG1(THM) 8:0-rel
+etri#doc_658.txt 10 음미하다 ----- 8:4-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_658.txt 13 나타내다 ----- 10:2-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_658.txt 15 완료되다 ----- 13:3-ARGM-CND() 14:1-ARG1(THM) 15:0-rel
+etri#doc_658.txt 16 뜻하다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 15:2-ARG2(FNS) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2096.txt 14 얻다 ----- 7:2-ARG0() 12:3-ARG1(THM) 13:1-ARG2(SRC) 14:0-rel
+etri#doc_2096.txt 15 틀리다 ----- 5:4-ARGM-CND() 14:2-ARGM-CND() 15:0-rel

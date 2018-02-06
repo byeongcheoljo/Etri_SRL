@@ -1,0 +1,2 @@
+etri#doc_9447.txt 4 입다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9447.txt 19 뒤따르다 ----- 1:1-ARGM-DIS() 2:1-ARGM-MNR() 10:4-ARG1(THM) 13:2-ARGM-PRD(INS) 18:2-ARG0(EFF) 19:0-rel

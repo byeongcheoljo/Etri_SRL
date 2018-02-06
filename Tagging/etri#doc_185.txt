@@ -1,0 +1,4 @@
+etri#doc_185.txt 10 감안하다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_185.txt 17 틀다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_185.txt 19 되다 ----- 18:5-ARG1() 19:0-rel
+etri#doc_185.txt 20 노력하다 ----- 10:3-ARGM-DIS() 13:3-ARGM-DIS() 19:6-ARGM-DIS() 20:0-rel

@@ -1,0 +1,5 @@
+etri#doc_3085.txt 5 풀려나다 ----- 4:3-ARG2(SRC) 5:0-rel
+etri#doc_3085.txt 8 견디다 ----- 7:2-ARG1(EFF) 8:0-rel
+etri#doc_3085.txt 11 기웃거리다 ----- 1:1-() 8:3-ARGM-CAU() 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_3085.txt 15 뭉치다 ----- 12:1-ARGM-LOC(LOC) 14:2-ARGM-MNR(INS) 15:0-rel
+etri#doc_3085.txt 18 용해시키다 ----- 11:2-ARGM-DIS() 16:4-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

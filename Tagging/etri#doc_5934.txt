@@ -1,0 +1,5 @@
+etri#doc_5934.txt 5 요구되다 ----- 3:1-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_5934.txt 7 일하다 ----- 6:3-ARGM-PRD(INS) 7:0-rel
+etri#doc_5934.txt 10 노화되다 ----- 8:5-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5934.txt 16 야기하다 ----- 11:3-ARG0(EFF) 12:1-ARGM-TMP() 13:1-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel
+etri#doc_5934.txt 17 말하다 ----- 2:2-ARG0(AGT) 16:3-ARG1() 17:0-rel

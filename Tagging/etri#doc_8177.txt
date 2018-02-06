@@ -1,0 +1,4 @@
+etri#doc_8177.txt 4 평가하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_8177.txt 6 나타나다 ----- 2:2-ARG1(THM) 5:3-ARG2(LOC) 6:0-rel
+etri#doc_8177.txt 8 드러나다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_8177.txt 16 규정하다 ----- 11:3-ARGM-ADV(CNT) 12:1-ARG1(THM) 13:1-ARGM-MNR(INS) 15:2-ARGM-MNR(FNS) 16:0-rel

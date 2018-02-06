@@ -1,0 +1,1 @@
+etri#doc_9424.txt 17 ¾ø¾Ö´Ù ----- 14:4-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

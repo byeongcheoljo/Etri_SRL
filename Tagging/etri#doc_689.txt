@@ -1,0 +1,5 @@
+etri#doc_689.txt 4 고다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_689.txt 6 만들다 ----- 4:2-ARGM-DIS() 5:1-ARGM-ADV(EFF) 6:0-rel
+etri#doc_689.txt 8 섞다 ----- 7:1-ARG2(COM) 8:0-rel
+etri#doc_689.txt 13 보충하다 ----- 11:1-ARGM-LOC(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_689.txt 16 하다 ----- 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

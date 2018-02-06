@@ -1,0 +1,2 @@
+etri#doc_3533.txt 14 다루다 ----- 10:1-ARG1(THM) 11:1-ARGM-ADV(EFF) 13:2-ARGM-MNR() 14:0-rel
+etri#doc_3533.txt 16 얻다 ----- 7:2-ARGM-DIS() 8:1-ARG0(AGT) 9:1-ARG2(SRC) 15:4-ARG1(Npr) 16:0-rel

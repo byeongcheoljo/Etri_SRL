@@ -1,0 +1,4 @@
+etri#doc_4559.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4559.txt 9 일으키다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_4559.txt 10 잉태하다 ----- 2:2-ARG1(THM) 4:2-ARG0(EXP) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_4559.txt 20 태어나다 ----- 10:3-ARGM-DIS() 14:4-ARG1(THM) 19:5-ARGM-LOC(LOC) 20:0-rel

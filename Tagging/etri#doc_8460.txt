@@ -1,0 +1,4 @@
+etri#doc_8460.txt 4 말하다 ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_8460.txt 9 계시하다 ----- 5:1-ARG0(AGT) 8:3-ARG1(THM) 9:0-rel
+etri#doc_8460.txt 14 믿다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_8460.txt 16 기억하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 4:2-ARGM-EXT() 15:4-ARG1() 16:0-rel

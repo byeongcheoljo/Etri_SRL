@@ -1,0 +1,4 @@
+etri#doc_6372.txt 9 절감하다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_6372.txt 13 재검토하다 ----- 9:5-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_6372.txt 15 마련하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 14:4-ARG1(THM) 15:0-rel
+etri#doc_6372.txt 16 알려지다 ----- 15:5-ARG1() 16:0-rel

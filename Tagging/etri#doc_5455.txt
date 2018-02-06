@@ -1,0 +1,3 @@
+etri#doc_5455.txt 4 보유하다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_5455.txt 14 확보하다 ----- 13:5-ARG1(THM) 14:0-rel
+etri#doc_5455.txt 18 수행하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 6:2-ARG0(AGT) 16:8-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

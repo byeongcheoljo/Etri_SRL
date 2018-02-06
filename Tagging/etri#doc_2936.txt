@@ -1,0 +1,4 @@
+etri#doc_2936.txt 7 지나다 ----- 6:1-ARG1(CRT) 7:0-rel
+etri#doc_2936.txt 10 흡수하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2936.txt 11 변색하다 ----- 7:2-ARGM-CND() 10:3-ARGM-CAU() 11:0-rel
+etri#doc_2936.txt 15 충고하다 ----- 12:5-ARGM-DIS() 13:1-ARG2(GOL) 14:1-ARGM-MNR() 15:0-rel

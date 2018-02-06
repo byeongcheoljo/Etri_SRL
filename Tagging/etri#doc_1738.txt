@@ -1,0 +1,3 @@
+etri#doc_1738.txt 5 ¿Ã∑Ë«œ¥Ÿ ----- 1:1-ARG0(AGT) 4:3-ARGM-INS(INS) 5:0-rel
+etri#doc_1738.txt 17 ∞ﬁ¥Ÿ ----- 14:2-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel
+etri#doc_1738.txt 20 ¿Ã∏£¥Ÿ ----- 8:3-ARGM-DIS() 10:2-ARG0(THM) 17:3-ARGM-DIS() 19:2-ARG3(GOL) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5519.txt 4 야기되다 ----- 3:2-ARG0(EFF) 4:0-rel
+etri#doc_5519.txt 7 제기하다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_5519.txt 13 연관되다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_5519.txt 17 나타내다 ----- 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

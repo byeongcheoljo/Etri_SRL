@@ -1,0 +1,2 @@
+etri#doc_3840.txt 5 확대하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3840.txt 11 벗어나다 ----- 10:2-ARG1(SRC) 11:0-rel

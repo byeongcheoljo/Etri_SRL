@@ -1,0 +1,3 @@
+etri#doc_11702.txt 10 하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_11702.txt 12 만들다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_11702.txt 14 변질되다 ----- 3:2-ARG1(THM) 7:2-ARGM-PRD(EFF) 13:6-ARG1(THM) 14:0-rel

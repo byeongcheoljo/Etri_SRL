@@ -1,0 +1,2 @@
+etri#doc_11569.txt 4 밝히다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_11569.txt 14 남기다 ----- 4:4-ARGM-TMP() 6:2-ARG0(AGT) 7:1-ARGM-ADV(EFF) 8:1-ARGM-ADV(EFF) 9:1-ARGM-ADV(EFF) 11:2-ARGM-ADV(EFF) 13:2-ARG1(THM) 14:0-rel

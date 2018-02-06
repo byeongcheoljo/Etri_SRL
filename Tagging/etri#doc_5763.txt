@@ -1,0 +1,4 @@
+etri#doc_5763.txt 4 그리다 ----- 3:2-ARGM-INS(INS) 4:0-rel
+etri#doc_5763.txt 8 제작하다 ----- 4:3-ARGM-DIS() 7:2-ARGM-DIS(EFF) 8:0-rel
+etri#doc_5763.txt 12 제작되다 ----- 12:0-rel
+etri#doc_5763.txt 14 통용되다 ----- 1:1-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARG1(THM) 12:1-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:0-rel

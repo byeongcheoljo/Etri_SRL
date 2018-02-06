@@ -1,0 +1,6 @@
+etri#doc_6018.txt 4 들다 ----- 3:1-ARG2(GOL) 4:0-rel
+etri#doc_6018.txt 7 쓰다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_6018.txt 10 타다 ----- 7:2-ARGM-DIS() 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_6018.txt 13 묻다 ----- 12:4-ARGM-DIS() 13:0-rel
+etri#doc_6018.txt 19 쓰다 ----- 14:1-ARG0(AGT) 15:1-ARGM-MNR() 17:2-ARG1(THM) 18:1-ARGM-NEG() 19:0-rel
+etri#doc_6018.txt 20 말하다 ----- 13:5-ARGM-DIS() 19:2-ARG1(CNT) 20:0-rel

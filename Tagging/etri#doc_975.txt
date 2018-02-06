@@ -1,0 +1,2 @@
+etri#doc_975.txt 15 ¸Ô´Ù ----- 13:1-ARGM-INS(INS) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_975.txt 18 ´ã±×´Ù ----- 5:2-ARGM-DIS() 6:1-ARGM-DIS() 7:1-ARG1(THM) 12:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARGM-ADV() 17:1-ARG1(THM) 18:0-rel

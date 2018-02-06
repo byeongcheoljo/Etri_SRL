@@ -1,0 +1,4 @@
+etri#doc_3872.txt 6 보다 ----- 1:1-ARGM-CAU(EFF) 3:2-ARG0(AGT) 4:1-ARG1(THM) 5:1-ARGM-NEG() 6:0-rel
+etri#doc_3872.txt 9 규정되다 ----- 8:2-ARG0(LOC) 9:0-rel
+etri#doc_3872.txt 13 결정되다 ----- 11:2-ARG0(THM) 12:1-ARGM-MNR(FNS) 13:0-rel
+etri#doc_3872.txt 17 받다 ----- 6:2-ARGM-DIS() 13:2-ARGM-CAU(EFF) 14:1-ARGM-TMP(GOL) 15:1-ARGM-MNR(INS) 16:1-ARG1() 17:0-rel

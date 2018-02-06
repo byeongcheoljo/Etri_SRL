@@ -1,0 +1,4 @@
+etri#doc_13052.txt 7 ¸Î´Ù ----- 3:1-ARGM-TMP(LOC) 4:1-ARG2(COM) 6:2-ARG1(THM) 7:0-rel
+etri#doc_13052.txt 10 ¸Î´Ù ----- 7:3-ARGM-DIS() 8:1-ARG2(COM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_13052.txt 11 ¾Ë·ÁÁö´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 10:2-ARG1() 11:0-rel
+etri#doc_13052.txt 17 ÆÄ¾ÇÇÏ´Ù ----- 15:3-ARG1() 16:1-ARG0(MAG) 17:0-rel

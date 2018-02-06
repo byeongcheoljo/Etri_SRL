@@ -1,0 +1,5 @@
+etri#doc_2835.txt 7 받다 ----- 4:1-ARG0(GOL) 5:1-ARG2(AGT) 6:1-ARG1(Npr) 7:0-rel
+etri#doc_2835.txt 10 섞이다 ----- 3:3-ARG2(COM) 8:3-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_2835.txt 12 보다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_2835.txt 17 다루다 ----- 13:1-ARG0(AGT) 15:2-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel
+etri#doc_2835.txt 18 짐작하다 ----- 12:4-ARGM-CND() 17:2-ARG1() 18:0-rel

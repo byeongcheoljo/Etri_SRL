@@ -1,0 +1,4 @@
+etri#doc_1028.txt 4 이용하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1028.txt 6 제공하다 ----- 4:3-ARGM-MNR() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1028.txt 12 이해하다 ----- 6:2-ARGM-MNR() 9:2-ARGM-ADV(EFF) 11:2-ARGM-MNR() 12:0-rel
+etri#doc_1028.txt 15 삼다 ----- 1:1-ARG0(AGT) 13:4-ARG1(THM) 14:1-ARG2(FNS) 15:0-rel

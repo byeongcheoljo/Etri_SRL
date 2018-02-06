@@ -1,0 +1,4 @@
+etri#doc_7420.txt 7 살려주다 ----- 2:2-ARG0(AGT) 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7420.txt 10 매다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_7420.txt 16 매다 ----- 14:3-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel
+etri#doc_7420.txt 17 생각하다 ----- 7:2-ARGM-CAU() 8:1-ARG0(AGT) 16:2-ARGM-DIS() 17:0-rel

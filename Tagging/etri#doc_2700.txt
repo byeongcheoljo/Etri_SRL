@@ -1,0 +1,4 @@
+etri#doc_2700.txt 4 끝나다 ----- 1:1-ARGM-ADV(EFF) 3:2-ARG1(AGT) 4:0-rel
+etri#doc_2700.txt 13 만들다 ----- 10:2-ARG1(THM) 11:1-ARGM-EXT() 12:1-ARGM-MNR(EFF) 13:0-rel
+etri#doc_2700.txt 15 보장되다 ----- 13:2-() 14:1-() 15:0-rel
+etri#doc_2700.txt 17 다하다 ----- 4:3-ARGM-DIS() 5:1-ARG0() 7:2-ARGM-ADV(EFF) 15:2-ARGM-PRP() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1977.txt 7 인도하다 ----- 5:3-ARGM-MNR(INS) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_1977.txt 9 닦다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1977.txt 13 극복하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_1977.txt 17 갖추다 ----- 10:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_1977.txt 19 서원하다 ----- 18:4-ARG1(THM) 19:0-rel

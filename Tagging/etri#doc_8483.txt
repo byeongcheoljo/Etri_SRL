@@ -1,0 +1,5 @@
+etri#doc_8483.txt 8 위하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8483.txt 10 위하다 ----- 8:2-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8483.txt 12 위하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8483.txt 14 위하다 ----- 6:4-ARGM-CND() 10:2-ARGM-DIS() 12:2-ARGM-EXT() 13:1-ARG1(THM) 14:0-rel
+etri#doc_8483.txt 15 하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS(CNT) 14:2-ARG1() 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_230.txt 3 만나다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_230.txt 5 하다 ----- 3:2-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_230.txt 7 나타나다 ----- 5:2-ARGM-CND() 6:1-ARGM-DIS() 7:0-rel
+etri#doc_230.txt 11 만나다 ----- 10:2-ARGM-TMP() 11:0-rel
+etri#doc_230.txt 14 나오다 ----- 12:1-ARGM-CAU() 13:1-ARGM-NEG() 14:0-rel

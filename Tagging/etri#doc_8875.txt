@@ -1,0 +1,1 @@
+etri#doc_8875.txt 21 ¹àÈ÷´Ù ----- 2:2-ARG0(AGT) 5:2-ARGM-ADV(CNT) 20:5-ARG1() 21:0-rel

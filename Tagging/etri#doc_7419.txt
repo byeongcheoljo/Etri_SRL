@@ -1,0 +1,2 @@
+etri#doc_7419.txt 6 인정하다 ----- 3:1-ARG0(MAG) 5:2-ARG1(THM) 6:0-rel
+etri#doc_7419.txt 14 알다 ----- 13:2-ARGM-ADV(EFF) 14:0-rel

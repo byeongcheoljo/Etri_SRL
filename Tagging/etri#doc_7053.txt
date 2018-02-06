@@ -1,0 +1,4 @@
+etri#doc_7053.txt 3 품다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7053.txt 16 들어서다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_7053.txt 18 건립하다 ----- 12:3-ARGM-EXT(CRT) 13:1-ARGM-TMP(GOL) 17:4-ARG1(THM) 18:0-rel
+etri#doc_7053.txt 20 가꾸다 ----- 18:5-ARGM-MNR() 19:1-ARG3(FNS) 20:0-rel

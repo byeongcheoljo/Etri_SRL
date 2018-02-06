@@ -1,0 +1,4 @@
+etri#doc_1917.txt 8 바꾸다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_1917.txt 14 보장하다 ----- 12:2-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_1917.txt 15 요구하다 ----- 14:2-ARG1() 15:0-rel
+etri#doc_1917.txt 16 투쟁하다 ----- 2:2-ARGM-CAU() 3:1-ARG0(AGT) 8:5-ARGM-PRP() 15:3-ARGM-DIS() 16:0-rel

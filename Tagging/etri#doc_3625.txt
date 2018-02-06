@@ -1,0 +1,5 @@
+etri#doc_3625.txt 6 모시다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3625.txt 9 하다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_3625.txt 10 하다 ----- 9:2-ARG1(CNT) 10:0-rel
+etri#doc_3625.txt 14 되다 ----- 11:1-ARGM-MNR() 12:1-ARGM-LOC(GOL) 13:1-ARG2(Npr) 14:0-rel
+etri#doc_3625.txt 20 말하다 ----- 4:4-ARG0(AGT) 10:3-ARGM-DIS() 19:3-ARG1() 20:0-rel

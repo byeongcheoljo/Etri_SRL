@@ -1,0 +1,4 @@
+etri#doc_282.txt 2 갖다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_282.txt 6 갖다 ----- 4:1-ARGM-TMP() 5:1-ARG0(AGT) 6:0-rel
+etri#doc_282.txt 11 성취하다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_282.txt 15 성취하다 ----- 13:1-ARGM-TMP() 14:1-ARG0(AGT) 15:0-rel

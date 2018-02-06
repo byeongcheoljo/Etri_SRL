@@ -1,0 +1,8 @@
+etri#doc_2147.txt 2 말하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2147.txt 4 넣다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_2147.txt 5 지지다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_2147.txt 6 볶다 ----- 5:3-() 6:0-rel
+etri#doc_2147.txt 7 굽다 ----- 2:2-ARGM-DIS() 6:4-ARGM-DIS() 7:0-rel
+etri#doc_2147.txt 9 넣다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_2147.txt 12 굽다 ----- 9:2-ARGM-DIS() 11:2-ARGM-ADV(EFF) 12:0-rel
+etri#doc_2147.txt 16 변하다 ----- 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

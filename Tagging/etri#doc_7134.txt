@@ -1,0 +1,5 @@
+etri#doc_7134.txt 4 불태우다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7134.txt 7 지르다 ----- 4:2-ARGM-DIS() 5:1-ARG2(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_7134.txt 11 발급받다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7134.txt 14 줄짓다 ----- 9:2-ARGM-TMP() 11:2-ARGM-DIS() 12:1-ARG1(AGT) 13:1-ARGM-TMP(LOC) 14:0-rel
+etri#doc_7134.txt 16 들다 ----- 2:2-ARGM-ADV(CNT) 14:2-ARGM-MNR() 15:1-ARGM-PRD(INS) 16:0-rel

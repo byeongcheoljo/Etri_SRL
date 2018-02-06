@@ -1,0 +1,4 @@
+etri#doc_5337.txt 5 하다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_5337.txt 10 분담하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_5337.txt 11 말미암다 ----- 10:3-ARG1(EFF) 11:0-rel
+etri#doc_5337.txt 17 알리다 ----- 7:2-ARGM-PRD(FNS) 16:5-ARGM-PRD(FNS) 17:0-rel

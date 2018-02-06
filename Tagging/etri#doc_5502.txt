@@ -1,0 +1,4 @@
+etri#doc_5502.txt 6 살펴보다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_5502.txt 10 하다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_5502.txt 14 하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_5502.txt 21 보이다 ----- 1:1-ARGM-DIS() 6:3-ARGM-CND() 18:4-ARG0(THM) 20:2-ARGM-DIS() 21:0-rel

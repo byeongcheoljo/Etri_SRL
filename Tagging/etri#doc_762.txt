@@ -1,0 +1,2 @@
+etri#doc_762.txt 8 남기다 ----- 6:1-ARGM-TMP() 7:1-ARG2(LOC) 8:0-rel
+etri#doc_762.txt 13 갖다 ----- 8:2-ARGM-PRP() 9:1-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel

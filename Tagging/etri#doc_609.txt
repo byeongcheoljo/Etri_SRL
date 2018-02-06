@@ -1,0 +1,4 @@
+etri#doc_609.txt 4 담당하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_609.txt 9 임명되다 ----- 5:4-ARG2(FNS) 8:3-ARG1(THM) 9:0-rel
+etri#doc_609.txt 12 내걸다 ----- 10:1-ARG0(AGT) 11:1-ARGM-INS(INS) 12:0-rel
+etri#doc_609.txt 16 수행하다 ----- 1:1-ARGM-DIS() 9:4-ARGM-PRD() 14:2-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

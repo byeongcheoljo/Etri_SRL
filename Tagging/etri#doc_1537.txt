@@ -1,0 +1,4 @@
+etri#doc_1537.txt 4 되다 ----- 3:2-ARG2() 4:0-rel
+etri#doc_1537.txt 9 보다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_1537.txt 13 주장하다 ----- 5:4-ARG0(AGT) 12:2-ARGM-DIS() 13:0-rel
+etri#doc_1537.txt 21 취급하다 ----- 1:1-ARGM-DIS() 13:3-ARGM-DIS() 19:2-ARG1(THM) 20:1-ARGM-DIS() 21:0-rel

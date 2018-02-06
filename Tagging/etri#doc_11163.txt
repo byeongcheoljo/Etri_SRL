@@ -1,0 +1,3 @@
+etri#doc_11163.txt 7 해방되다 ----- 5:2-ARG1(THM) 6:1-ARGM-ADV() 7:0-rel
+etri#doc_11163.txt 19 내동댕이치다 ----- 15:3-ARGM-DIS() 17:2-ARGM-MNR(INS) 18:1-ARG2(GOL) 19:0-rel
+etri#doc_11163.txt 20 잘리다 ----- 20:0-rel

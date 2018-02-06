@@ -1,0 +1,6 @@
+etri#doc_5539.txt 6 하다 ----- 3:2-ARGM-INS(INS) 4:1-ARGM-PRP(PUR) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5539.txt 7 생각하다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_5539.txt 8 자취하다 ----- 8:0-rel
+etri#doc_5539.txt 9 낑낑대다 ----- 9:0-rel
+etri#doc_5539.txt 11 사용하다 ----- 8:1-ARGM-TMP() 9:1-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5539.txt 16 사다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 13:4-ARGM-CAU() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5168.txt 4 감사하다 ----- 4:0-rel
+etri#doc_5168.txt 5 기뻐하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-MNR() 3:1-ARGM-MNR(INS) 4:1-ARGM-DIS() 5:0-rel
+etri#doc_5168.txt 11 가다 ----- 7:1-ARGM-MNR() 10:2-ARG1(THM) 11:0-rel
+etri#doc_5168.txt 15 갖다 ----- 6:1-ARG0(AGT) 13:5-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_5168.txt 17 되다 ----- 5:2-ARGM-DIS() 16:3-ARG2(FNS) 17:0-rel

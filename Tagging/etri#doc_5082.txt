@@ -1,0 +1,4 @@
+etri#doc_5082.txt 3 사다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5082.txt 7 가다 ----- 3:3-ARGM-PRP() 6:3-ARG3(GOL) 7:0-rel
+etri#doc_5082.txt 9 앞장서다 ----- 9:0-rel
+etri#doc_5082.txt 10 걸어가다 ----- 8:1-ARG0(AGT) 9:1-ARGM-MNR() 10:0-rel

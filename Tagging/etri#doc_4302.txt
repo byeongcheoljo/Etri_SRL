@@ -1,0 +1,4 @@
+etri#doc_4302.txt 3 변별하다 ----- 1:1-ARG1(THM) 2:1-ARG2(SRC) 3:0-rel
+etri#doc_4302.txt 6 찾다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_4302.txt 10 확인하다 ----- 6:3-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel
+etri#doc_4302.txt 15 알다 ----- 14:3-ARG1(THM) 15:0-rel

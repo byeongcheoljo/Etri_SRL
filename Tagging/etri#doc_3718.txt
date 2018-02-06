@@ -1,0 +1,4 @@
+etri#doc_3718.txt 2 칭찬하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3718.txt 9 사용되다 ----- 3:3-ARG2(FNS) 8:5-ARG1(THM) 9:0-rel
+etri#doc_3718.txt 11 칭찬하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3718.txt 19 사용되다 ----- 9:6-ARGM-DIS() 12:3-ARG2(FNS) 18:6-ARG1(THM) 19:0-rel

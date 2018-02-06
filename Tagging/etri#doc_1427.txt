@@ -1,0 +1,3 @@
+etri#doc_1427.txt 12 살다 ----- 11:8-ARG2(LOC) 12:0-rel
+etri#doc_1427.txt 17 하다 ----- 15:1-ARGM-DIR(DIR) 16:1-ARG1(THM) 17:0-rel
+etri#doc_1427.txt 20 넘어서다 ----- 14:11-ARGM-DIS(LOC) 18:3-ARG1(THM) 19:1-ARG2(THM) 20:0-rel

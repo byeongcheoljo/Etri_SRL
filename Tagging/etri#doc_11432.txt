@@ -1,0 +1,3 @@
+etri#doc_11432.txt 5 조성하다 ----- 4:3-ARG0(AGT) 5:0-rel
+etri#doc_11432.txt 11 환산되다 ----- 8:2-ARG1(THM) 10:2-ARG3(INS) 11:0-rel
+etri#doc_11432.txt 13 보다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel

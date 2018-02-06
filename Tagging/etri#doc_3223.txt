@@ -1,0 +1,3 @@
+etri#doc_3223.txt 5 다가오다 ----- 3:3-ARG0(THM) 4:1-ARG3(GOL) 5:0-rel
+etri#doc_3223.txt 10 보다 ----- 5:2-ARGM-TMP() 6:1-ARG0(AGT) 7:1-ARGM-LOC(LOC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_3223.txt 14 말하다 ----- 10:3-ARG1(CNT) 11:1-ARG0(AGT) 12:1-ARGM-TMP() 13:1-ARGM-LOC(LOC) 14:0-rel

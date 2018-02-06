@@ -1,0 +1,2 @@
+etri#doc_7177.txt 5 평정하다 ----- 3:3-ARG0() 4:1-ARG1(THM) 5:0-rel
+etri#doc_7177.txt 13 침입하다 ----- 12:5-ARG1(GOL) 13:0-rel

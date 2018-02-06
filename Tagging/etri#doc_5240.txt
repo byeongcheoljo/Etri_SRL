@@ -1,0 +1,4 @@
+etri#doc_5240.txt 10 벗어나다 ----- 9:2-ARG1(SRC) 10:0-rel
+etri#doc_5240.txt 13 하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_5240.txt 17 제시하다 ----- 10:3-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel
+etri#doc_5240.txt 20 가지다 ----- 2:2-ARG0(LOC) 17:4-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

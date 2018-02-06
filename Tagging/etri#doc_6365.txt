@@ -1,0 +1,4 @@
+etri#doc_6365.txt 3 제작되다 ----- 3:0-rel
+etri#doc_6365.txt 4 출간되다 ----- 2:1-ARGM-CAU(EFF) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_6365.txt 9 참여하다 ----- 8:3-ARG1(LOC) 9:0-rel
+etri#doc_6365.txt 15 실리다 ----- 1:1-ARGM-DIS() 5:3-ARGM-DIS(EFF) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:1-ARGM-LOC(GOL) 15:0-rel

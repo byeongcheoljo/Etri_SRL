@@ -1,0 +1,2 @@
+etri#doc_2620.txt 8 µθ΄Ω ----- 1:1-ARGM-EXT() 2:1-ARG0() 3:1-ARGM-MNR(EFF) 5:2-ARGM-EXT(EFF) 7:2-ARGM-DIS() 8:0-rel
+etri#doc_2620.txt 12 Αρ±β΄Ω ----- 11:1-ARG0(AGT) 12:0-rel

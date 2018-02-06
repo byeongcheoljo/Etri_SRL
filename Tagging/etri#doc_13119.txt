@@ -1,0 +1,3 @@
+etri#doc_13119.txt 5 떨어지다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_13119.txt 7 거두다 ----- 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_13119.txt 19 판단되다 ----- 2:2-ARG0(AGT) 18:7-ARGM-MNR() 19:0-rel

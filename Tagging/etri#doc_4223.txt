@@ -1,0 +1,6 @@
+etri#doc_4223.txt 3 ¾É´Ù ----- 2:1-ARG1(GOL) 3:0-rel
+etri#doc_4223.txt 10 ÀÐ´Ù ----- 7:1-ARG0(AGT) 8:1-ARG1(CNT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4223.txt 12 ¶Ù´Ù ----- 10:2-ARGM-TMP() 11:1-ARGM-DIR(DIR) 12:0-rel
+etri#doc_4223.txt 14 Á×ÀÌ´Ù ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4223.txt 15 ÇÏ´Ù ----- 14:2-ARG1(CNT) 15:0-rel
+etri#doc_4223.txt 16 ¿ïºÎÂ¢´Ù ----- 1:1-ARGM-DIS() 6:3-ARG0(AGT) 12:2-ARGM-DIS() 15:3-ARGM-DIS() 16:0-rel

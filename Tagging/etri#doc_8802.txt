@@ -1,0 +1,2 @@
+etri#doc_8802.txt 3 삼다 ----- 2:1-ARG2(FNS) 3:0-rel
+etri#doc_8802.txt 10 병행되다 ----- 5:1-ARG1(THM) 6:1-ARGM-TMP(SRC) 7:1-ARGM-TMP(FNS) 9:2-ARGM-MNR(COM) 10:0-rel

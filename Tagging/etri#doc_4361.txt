@@ -1,0 +1,2 @@
+etri#doc_4361.txt 11 높아지다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_4361.txt 17 논의되다 ----- 11:4-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-TMP() 16:1-ARGM-LOC(LOC) 17:0-rel

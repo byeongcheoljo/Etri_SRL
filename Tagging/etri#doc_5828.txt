@@ -1,0 +1,4 @@
+etri#doc_5828.txt 5 갖다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5828.txt 9 빠지다 ----- 8:2-ARG2(GOL) 9:0-rel
+etri#doc_5828.txt 11 기대하다 ----- 11:0-rel
+etri#doc_5828.txt 14 나타내다 ----- 5:3-ARGM-DIS() 6:1-ARGM-DIS() 10:4-ARG0(EFF) 13:3-ARG1(THM) 14:0-rel

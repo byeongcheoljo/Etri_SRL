@@ -1,0 +1,1 @@
+etri#doc_1086.txt 4 го╢ы ----- 2:1-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel

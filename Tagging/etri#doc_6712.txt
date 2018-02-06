@@ -1,0 +1,5 @@
+etri#doc_6712.txt 4 공부하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6712.txt 7 공부하다 ----- 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6712.txt 8 망설이다 ----- 1:1-ARG0(MAG) 2:1-ARGM-TMP() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_6712.txt 13 공부하다 ----- 12:1-ARG1() 13:0-rel
+etri#doc_6712.txt 15 이끌다 ----- 8:3-ARGM-DIS() 10:2-ARG0(AGT) 11:1-ARG1(THM) 14:3-ARGM-MNR(INS) 15:0-rel

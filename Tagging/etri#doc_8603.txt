@@ -1,0 +1,4 @@
+etri#doc_8603.txt 7 쓰다 ----- 5:5-ARG2(FNS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8603.txt 9 모자라다 ----- 7:2-ARGM-CND() 8:1-ARGM-EXT() 9:0-rel
+etri#doc_8603.txt 12 쓰다 ----- 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_8603.txt 14 맞다 ----- 9:2-ARGM-DIS() 12:2-ARGM-CND() 13:1-ARGM-DIS() 14:0-rel

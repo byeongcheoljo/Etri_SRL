@@ -1,0 +1,4 @@
+etri#doc_11350.txt 2 피하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11350.txt 5 만나다 ----- 3:1-ARGM-TMP(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11350.txt 11 되다 ----- 6:3-ARG1(THM) 7:1-ARGM-PRD(PUR) 10:3-ARG2(FNS) 11:0-rel
+etri#doc_11350.txt 20 듣다 ----- 2:2-ARG0() 13:6-ARGM-DIS() 18:5-ARG1(THM) 19:1-ARG0(MAG) 20:0-rel

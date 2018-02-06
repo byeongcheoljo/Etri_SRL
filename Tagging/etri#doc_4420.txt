@@ -1,0 +1,7 @@
+etri#doc_4420.txt 6 좋아하다 ----- 3:2-ARGM-TMP(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_4420.txt 10 쏟다 ----- 8:1-ARG1(THM) 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4420.txt 11 죽다 ----- 7:4-ARG1(THM) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_4420.txt 14 좋아하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_4420.txt 17 토하다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_4420.txt 18 죽다 ----- 11:3-ARGM-DIS() 15:4-ARG1(THM) 17:2-ARGM-DIS() 18:0-rel
+etri#doc_4420.txt 19 되다 ----- 1:1-ARGM-LOC(LOC) 18:3-ARG1() 19:0-rel

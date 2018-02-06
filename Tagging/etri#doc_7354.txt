@@ -1,0 +1,4 @@
+etri#doc_7354.txt 6 감다 ----- 2:1-ARGM-DIS() 3:1-ARGM-EXT(EFF) 4:1-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_7354.txt 8 생각하다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7354.txt 11 열다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7354.txt 14 누르다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 12:4-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

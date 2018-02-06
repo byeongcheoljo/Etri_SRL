@@ -1,0 +1,3 @@
+etri#doc_3622.txt 3 실시되다 ----- 2:1-ARGM-TMP(SRC) 3:0-rel
+etri#doc_3622.txt 8 제출하다 ----- 5:1-ARG0(AGT) 6:1-ARGM-TMP() 7:1-ARGM-TMP(GOL) 8:0-rel
+etri#doc_3622.txt 15 넘기다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS(CNT) 9:3-ARG1(THM) 10:1-ARGM-TMP(GOL) 14:3-ARG3(GOL) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3492.txt 3 앞두다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_3492.txt 6 지키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3492.txt 10 불구하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_3492.txt 15 쏟아지다 ----- 4:3-ARG2(LOC) 10:3-ARGM-CND() 14:4-ARG1(THM) 15:0-rel

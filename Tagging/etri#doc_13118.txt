@@ -1,0 +1,4 @@
+etri#doc_13118.txt 6 갖다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_13118.txt 9 나타내다 ----- 8:6-ARG1(THM) 9:0-rel
+etri#doc_13118.txt 15 나타내다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_13118.txt 17 보다 ----- 1:1-ARGM-LOC() 11:9-ARGM-DIS() 12:1-ARG0(AGT) 16:4-ARGM-MNR(INS) 17:0-rel

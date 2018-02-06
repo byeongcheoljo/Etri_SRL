@@ -1,0 +1,2 @@
+etri#doc_3239.txt 11 검사하다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_3239.txt 17 사용되다 ----- 2:2-ARGM-DIS() 5:3-ARG1(THM) 12:4-ARGM-INS(INS) 14:2-ARGM-LOC(LOC) 16:2-ARGM-MNR() 17:0-rel

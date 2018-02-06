@@ -1,0 +1,2 @@
+etri#doc_4279.txt 7 털어놓다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG0(AGT) 4:1-ARG2(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_4279.txt 14 되다 ----- 8:4-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-EXT(EFF) 13:3-ARG2(FNS) 14:0-rel

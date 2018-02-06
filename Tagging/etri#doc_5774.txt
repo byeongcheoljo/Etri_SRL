@@ -1,0 +1,5 @@
+etri#doc_5774.txt 4 끝나다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5774.txt 8 치다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_5774.txt 10 던지다 ----- 5:3-ARG0(AGT) 6:1-ARGM-MNR() 9:3-ARG1(THM) 10:0-rel
+etri#doc_5774.txt 13 해결하다 ----- 13:0-rel
+etri#doc_5774.txt 17 남다 ----- 1:1-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

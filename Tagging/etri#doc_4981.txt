@@ -1,0 +1,2 @@
+etri#doc_4981.txt 7 생활하다 ----- 6:1-ARGM-EXT(FNS) 7:0-rel
+etri#doc_4981.txt 16 영위하다 ----- 5:2-ARGM-CAU() 14:3-ARGM-CAU() 15:1-ARG1(THM) 16:0-rel

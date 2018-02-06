@@ -1,0 +1,4 @@
+etri#doc_1760.txt 4 하다 ----- 3:3-ARGM-DIS(EFF) 4:0-rel
+etri#doc_1760.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1760.txt 13 뜨거워지다 ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_1760.txt 16 되다 ----- 4:4-ARGM-DIS() 7:3-ARGM-CND() 8:1-ARG1(THM) 15:2-ARG2(FNS) 16:0-rel

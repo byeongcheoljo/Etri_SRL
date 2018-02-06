@@ -1,0 +1,4 @@
+etri#doc_5555.txt 11 이끌다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_5555.txt 18 못하다 ----- 16:1-ARGM-TMP() 17:1-ARG1(THM) 18:0-rel
+etri#doc_5555.txt 21 선고하다 ----- 15:4-ARGM-PRD() 18:2-ARGM-DIS() 19:1-ARGM-TMP() 20:1-ARG1(THM) 21:0-rel
+etri#doc_5555.txt 22 말하다 ----- 3:3-ARG0(AGT) 21:2-ARG1(CNT) 22:0-rel

@@ -1,0 +1,1 @@
+etri#doc_7185.txt 7 허용하다 ----- 2:1-ARG0(AGT) 5:3-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel

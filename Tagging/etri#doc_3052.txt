@@ -1,0 +1,4 @@
+etri#doc_3052.txt 5 하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3052.txt 9 알다 ----- 8:1-ARGM-DIS() 9:0-rel
+etri#doc_3052.txt 11 이야기하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_3052.txt 16 일어나다 ----- 7:4-ARGM-DIS() 9:2-ARGM-DIS() 11:2-ARGM-CND() 13:2-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel

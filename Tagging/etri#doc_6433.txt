@@ -1,0 +1,4 @@
+etri#doc_6433.txt 7 보이다 ----- 3:1-ARG2(LOC) 6:3-ARG1(THM) 7:0-rel
+etri#doc_6433.txt 11 잡다 ----- 7:4-ARGM-DIS() 9:2-ARG1(CNT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6433.txt 22 하다 ----- 21:1-ARG1(THM) 22:0-rel
+etri#doc_6433.txt 25 빈정대다 ----- 2:2-ARG0(AGT) 11:2-ARGM-DIS() 24:4-ARG1(CNT) 25:0-rel

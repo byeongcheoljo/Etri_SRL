@@ -1,0 +1,6 @@
+etri#doc_2785.txt 2 살아가다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_2785.txt 5 먹다 ----- 5:0-rel
+etri#doc_2785.txt 7 입다 ----- 7:0-rel
+etri#doc_2785.txt 10 자다 ----- 10:0-rel
+etri#doc_2785.txt 13 먹다 ----- 13:0-rel
+etri#doc_2785.txt 15 해결되다 ----- 12:3-ARGM-EXT(CRT) 14:2-ARG1(THM) 15:0-rel

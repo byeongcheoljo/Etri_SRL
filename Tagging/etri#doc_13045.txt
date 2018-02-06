@@ -1,0 +1,4 @@
+etri#doc_13045.txt 8 받다 ----- 6:1-ARGM-CND(CRT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_13045.txt 10 채우다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_13045.txt 12 생기다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_13045.txt 18 하다 ----- 14:6-ARGM-DIS() 15:1-ARGM-TMP(LOC) 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

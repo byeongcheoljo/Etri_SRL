@@ -1,0 +1,2 @@
+etri#doc_3535.txt 22 인식하다 ----- 20:2-ARG1(THM) 21:1-ARG0(MAG) 22:0-rel
+etri#doc_3535.txt 23 바라다 ----- 22:2-ARG1() 23:0-rel

@@ -1,0 +1,1 @@
+etri#doc_6753.txt 14 Ä¡¸£´Ù ----- 1:1-ARGM-CND(LOC) 2:1-ARG0(AGT) 9:7-ARGM-MNR(INS) 10:1-ARGM-TMP(LOC) 11:1-ARGM-EXT() 13:2-ARG1(THM) 14:0-rel

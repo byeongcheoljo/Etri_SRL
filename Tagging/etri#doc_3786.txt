@@ -1,0 +1,1 @@
+etri#doc_3786.txt 18 가속화하다 ----- 1:1-ARGM-DIS() 6:5-ARGM-CAU(EFF) 14:2-ARGM-DIS() 15:1-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

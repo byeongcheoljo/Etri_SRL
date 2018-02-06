@@ -1,0 +1,3 @@
+etri#doc_3099.txt 9 높아지다 ----- 5:2-ARGM-CAU(EFF) 8:3-ARG1(THM) 9:0-rel
+etri#doc_3099.txt 15 이끌다 ----- 14:4-ARG2() 15:0-rel
+etri#doc_3099.txt 17 되다 ----- 3:2-ARG1(THM) 9:4-ARGM-CAU() 16:6-ARG2() 17:0-rel

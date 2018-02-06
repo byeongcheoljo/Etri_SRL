@@ -1,0 +1,4 @@
+etri#doc_5817.txt 4 마다하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5817.txt 6 맴돌다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5817.txt 12 연결되다 ----- 10:4-ARG1(THM) 11:1-ARG2(LOC) 12:0-rel
+etri#doc_5817.txt 14 다짐하다 ----- 4:4-ARGM-DIS() 6:2-ARGM-EXT() 13:3-ARG1(THM) 14:0-rel

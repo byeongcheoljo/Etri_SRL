@@ -1,0 +1,3 @@
+etri#doc_4702.txt 8 파기하다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_4702.txt 11 종합하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4702.txt 15 제시하다 ----- 8:5-ARGM-DIS() 11:3-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

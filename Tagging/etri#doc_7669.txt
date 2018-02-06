@@ -1,0 +1,2 @@
+etri#doc_7669.txt 7 이용하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7669.txt 18 세우다 ----- 7:3-ARGM-MNR() 8:1-ARG0(AGT) 13:3-ARGM-MNR() 15:2-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

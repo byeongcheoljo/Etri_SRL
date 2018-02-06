@@ -1,0 +1,4 @@
+etri#doc_2449.txt 7 바라다 ----- 4:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_2449.txt 10 가다 ----- 3:2-ARGM-ADV(EFF) 8:4-ARG0() 9:1-ARG0(AGT) 10:0-rel
+etri#doc_2449.txt 14 납득하다 ----- 11:1-ARG0() 12:1-ARGM-EXT() 13:1-ARGM-DIS() 14:0-rel
+etri#doc_2449.txt 15 지적하다 ----- 1:1-ARGM-EXT(EFF) 10:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

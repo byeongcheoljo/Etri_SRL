@@ -1,0 +1,5 @@
+etri#doc_8088.txt 5 낚아올리다 ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_8088.txt 10 낚다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_8088.txt 13 돌아오다 ----- 6:3-ARG0(AGT) 11:5-ARGM-TMP(LOC) 12:1-ARG0(AGT) 13:0-rel
+etri#doc_8088.txt 17 던지다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_8088.txt 20 오다 ----- 13:2-ARGM-DIS() 15:2-ARGM-TMP(LOC) 18:3-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

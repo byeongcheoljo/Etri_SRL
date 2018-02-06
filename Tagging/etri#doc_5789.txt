@@ -1,0 +1,5 @@
+etri#doc_5789.txt 3 분류되다 ----- 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_5789.txt 9 논하다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_5789.txt 14 중시하다 ----- 10:1-ARGM-TMP(LOC) 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_5789.txt 19 강조하다 ----- 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel
+etri#doc_5789.txt 21 이르다 ----- 1:1-ARGM-LOC(LOC) 9:6-ARGM-TMP() 14:2-ARGM-DIS() 15:1-ARGM-TMP() 20:3-ARG3() 21:0-rel

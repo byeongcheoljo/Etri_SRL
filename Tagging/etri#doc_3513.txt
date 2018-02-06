@@ -1,0 +1,3 @@
+etri#doc_3513.txt 2 말하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_3513.txt 13 풀리다 ----- 11:1-ARGM-ADV() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_3513.txt 17 붙다 ----- 2:2-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARGM-TMP(LOC) 16:5-ARG1(THM) 17:0-rel

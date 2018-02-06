@@ -1,0 +1,5 @@
+etri#doc_2744.txt 6 ³²´Ù ----- 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_2744.txt 11 »Ë³»´Ù ----- 11:0-rel
+etri#doc_2744.txt 14 ºû³ª´Ù ----- 13:1-ARGM-EXT() 14:0-rel
+etri#doc_2744.txt 18 °£Á÷ÇÏ´Ù ----- 8:2-ARG1(THM) 17:3-ARG2(FNS) 18:0-rel
+etri#doc_2744.txt 19 ¸Í¼¼ÇÏ´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 18:4-ARGM-DIS() 19:0-rel

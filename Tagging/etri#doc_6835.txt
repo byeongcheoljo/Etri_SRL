@@ -1,0 +1,3 @@
+etri#doc_6835.txt 4 제공하다 ----- 1:1-ARG0(AGT) 3:2-ARG2(GOL) 4:0-rel
+etri#doc_6835.txt 7 촉진하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6835.txt 8 제공되다 ----- 7:2-ARGM-PRP() 8:0-rel

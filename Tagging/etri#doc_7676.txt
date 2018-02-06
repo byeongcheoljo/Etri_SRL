@@ -1,0 +1,3 @@
+etri#doc_7676.txt 12 남다 ----- 10:3-ARG1(THM) 11:1-ARG2(LOC) 12:0-rel
+etri#doc_7676.txt 13 생각하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_7676.txt 15 취하다 ----- 14:4-ARG0(AGT) 15:0-rel

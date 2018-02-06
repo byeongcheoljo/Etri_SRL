@@ -1,0 +1,2 @@
+etri#doc_1039.txt 11 당혹하다 ----- 8:3-ARGM-DIS() 9:1-ARGM-LOC(LOC) 10:1-ARG1(EXP) 11:0-rel
+etri#doc_1039.txt 17 갖다 ----- 1:1-ARGM-DIS() 12:3-ARG0(AGT) 13:1-ARG0(AGT) 14:1-ARGM-CAU(EFF) 15:1-ARGM-ADV() 16:1-ARG1(THM) 17:0-rel

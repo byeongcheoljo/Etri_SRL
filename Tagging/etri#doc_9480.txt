@@ -1,0 +1,6 @@
+etri#doc_9480.txt 3 흘리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_9480.txt 5 범하다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_9480.txt 7 고백하다 ----- 3:2-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_9480.txt 8 용서받다 ----- 8:0-rel
+etri#doc_9480.txt 9 생각하다 ----- 1:1-ARG0(MAG) 7:4-ARGM-DIS() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_9480.txt 16 대답하다 ----- 9:2-ARGM-DIS() 11:2-ARG0(AGT) 15:3-ARGM-DIS() 16:0-rel

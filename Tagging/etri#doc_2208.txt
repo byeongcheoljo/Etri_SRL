@@ -1,0 +1,3 @@
+etri#doc_2208.txt 11 저하되다 ----- 9:6-() 10:1-() 11:0-rel
+etri#doc_2208.txt 19 만들다 ----- 16:3-ARG0() 17:1-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel
+etri#doc_2208.txt 21 오다 ----- 3:2-ARGM-DIS() 13:4-ARGM-DIS() 20:3-ARGM-ADV(EFF) 21:0-rel

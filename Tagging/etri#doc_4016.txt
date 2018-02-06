@@ -1,0 +1,5 @@
+etri#doc_4016.txt 3 나가다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_4016.txt 9 나가다 ----- 4:3-ARGM-DIS() 5:1-ARGM-EXT() 7:2-ARG0(AGT) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4016.txt 14 남다 ----- 14:0-rel
+etri#doc_4016.txt 15 돌아다니다 ----- 14:1-ARGM-DIS() 15:0-rel
+etri#doc_4016.txt 17 되다 ----- 9:2-ARGM-DIS() 12:3-ARG0(AGT) 13:1-ARGM-LOC(LOC) 15:2-ARGM-DIS() 16:1-ARG2(FNS) 17:0-rel

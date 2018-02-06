@@ -1,0 +1,3 @@
+etri#doc_4535.txt 3 ¸Å¸ôµÇ´Ù ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_4535.txt 9 ¸Î´Ù ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 5:2-ARGM-ADV(EFF) 8:3-ARG1(THM) 9:0-rel
+etri#doc_4535.txt 17 ¸Î´Ù ----- 9:4-ARGM-DIS() 10:1-ARG0(AGT) 13:2-ARGM-ADV(EFF) 16:2-ARG1(THM) 17:0-rel

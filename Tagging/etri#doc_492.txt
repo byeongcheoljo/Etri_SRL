@@ -1,0 +1,1 @@
+etri#doc_492.txt 10 º¯ÇÏ´Ù ----- 6:2-ARG1(THM) 7:1-ARGM-DIS(COM) 9:2-ARG3(FNS) 10:0-rel

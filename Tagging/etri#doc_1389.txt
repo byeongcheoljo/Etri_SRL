@@ -1,0 +1,4 @@
+etri#doc_1389.txt 2 죽다 ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_1389.txt 7 차지하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1389.txt 9 멸망시키다 ----- 5:1-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1389.txt 15 정하다 ----- 2:2-ARGM-DIS() 4:2-ARG0(AGT) 9:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

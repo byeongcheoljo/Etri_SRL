@@ -1,0 +1,5 @@
+etri#doc_4564.txt 4 태어나다 ----- 3:2-ARG2(FNS) 4:0-rel
+etri#doc_4564.txt 7 구경하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4564.txt 9 싸이다 ----- 8:1-ARG2(INS) 9:0-rel
+etri#doc_4564.txt 10 죽다 ----- 7:3-ARGM-DIS() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_4564.txt 16 넘다 ----- 12:5-ARGM-DIS() 13:1-ARG0(AGT) 14:1-ARGM-TMP() 15:1-ARG1(CRT) 16:0-rel

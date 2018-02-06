@@ -1,0 +1,4 @@
+etri#doc_3066.txt 6 노리다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3066.txt 9 짓다 ----- 3:3-ARGM-LOC(LOC) 7:4-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_3066.txt 14 받다 ----- 10:1-ARG0(GOL) 13:3-ARG1(THM) 14:0-rel
+etri#doc_3066.txt 18 치르다 ----- 9:2-ARGM-CAU() 14:4-ARGM-CAU() 15:1-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

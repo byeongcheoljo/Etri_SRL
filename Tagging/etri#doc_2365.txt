@@ -1,0 +1,4 @@
+etri#doc_2365.txt 4 오다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_2365.txt 6 깃들다 ----- 5:1-ARGM-ADV(EFF) 6:0-rel
+etri#doc_2365.txt 11 말미암다 ----- 10:2-() 11:0-rel
+etri#doc_2365.txt 17 찾아보다 ----- 14:3-ARG1(THM) 15:1-ARG0() 16:1-ARGM-LOC(LOC) 17:0-rel

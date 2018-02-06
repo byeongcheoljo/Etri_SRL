@@ -1,0 +1,4 @@
+etri#doc_2730.txt 6 보장하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_2730.txt 9 지키다 ----- 6:3-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_2730.txt 11 이룩하다 ----- 2:1-ARG0(AGT) 10:4-ARG1(THM) 11:0-rel
+etri#doc_2730.txt 17 존재하다 ----- 1:1-ARGM-DIS() 11:5-ARGM-DIS() 13:2-ARG1(THM) 16:3-ARGM-CND() 17:0-rel

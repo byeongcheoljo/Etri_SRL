@@ -1,0 +1,2 @@
+etri#doc_13073.txt 8 해당되다 ----- 6:2-ARGM-MNR() 7:1-ARG2(CRT) 8:0-rel
+etri#doc_13073.txt 13 제시하다 ----- 10:2-ARG1(THM) 11:1-ARGM-TMP() 12:1-ARG0(AGT) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5860.txt 4 되다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_5860.txt 7 받다 ----- 5:1-ARGM-TMP() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5860.txt 9 반환하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5860.txt 14 부패하다 ----- 11:1-ARG1(THM) 13:2-ARGM-EXT(CRT) 14:0-rel
+etri#doc_5860.txt 15 보이다 ----- 10:5-ARG0(AGT) 14:3-ARG1() 15:0-rel

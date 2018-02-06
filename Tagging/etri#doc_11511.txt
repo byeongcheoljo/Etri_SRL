@@ -1,0 +1,5 @@
+etri#doc_11511.txt 6 ∫Ÿ¥Ÿ ----- 2:1-ARG0(AGT) 3:1-ARG2(GOL) 4:1-ARGM-EXT(EFF) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11511.txt 8 ∏‘¥Ÿ ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_11511.txt 10 ª©æ—¥Ÿ ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11511.txt 12 πËº≥µ«¥Ÿ ----- 8:2-ARGM-TMP() 10:2-ARGM-MNR() 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_11511.txt 13 »Æ¿Œ«œ¥Ÿ ----- 1:1-ARGM-DIS() 6:2-ARGM-DIS() 12:2-ARG1() 13:0-rel

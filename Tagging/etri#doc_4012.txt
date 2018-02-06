@@ -1,0 +1,7 @@
+etri#doc_4012.txt 2 붙들다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4012.txt 11 쏟다 ----- 2:2-ARGM-DIS() 4:2-ARGM-TMP() 8:2-ARGM-LOC(LOC) 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_4012.txt 14 찍다 ----- 12:1-ARG1() 13:1-ARGM-EXT() 14:0-rel
+etri#doc_4012.txt 15 기도하다 ----- 14:2-ARGM-TMP() 15:0-rel
+etri#doc_4012.txt 16 공들이다 ----- 16:0-rel
+etri#doc_4012.txt 17 힘들이다 ----- 16:1-ARGM-DIS() 17:0-rel
+etri#doc_4012.txt 20 쏟다 ----- 11:2-ARGM-DIS() 15:3-ARGM-MNR() 17:2-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

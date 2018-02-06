@@ -1,0 +1,1 @@
+etri#doc_3650.txt 16 나타나다 ----- 5:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARGM-EXT() 12:1-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel

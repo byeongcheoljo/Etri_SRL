@@ -1,0 +1,2 @@
+etri#doc_8180.txt 10 형성되다 ----- 9:2-ARGM-CAU(EFF) 10:0-rel
+etri#doc_8180.txt 20 구체화되다 ----- 16:3-ARGM-TMP() 17:1-ARG1(THM) 19:2-ARG2(LOC) 20:0-rel

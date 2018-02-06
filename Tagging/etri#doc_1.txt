@@ -1,0 +1,2 @@
+etri#doc_1.txt 3 생각하다 ----- 2:2-ARGM-ADV() 3:0-rel
+etri#doc_1.txt 8 살다 ----- 8:0-rel

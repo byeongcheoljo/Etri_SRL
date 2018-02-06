@@ -1,0 +1,5 @@
+etri#doc_3823.txt 8 되다 ----- 5:3-ARG1(THM) 7:2-ARG2(FNS) 8:0-rel
+etri#doc_3823.txt 10 이르다 ----- 1:1-ARGM-TMP() 2:1-ARGM-TMP() 9:4-ARG3(FNS) 10:0-rel
+etri#doc_3823.txt 13 거론하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3823.txt 17 지르다 ----- 14:1-ARG0(AGT) 15:1-ARGM-TMP() 16:1-ARG1() 17:0-rel
+etri#doc_3823.txt 18 나서다 ----- 10:5-ARGM-DIS() 13:3-ARGM-DIS() 17:2-ARG1(CNT) 18:0-rel

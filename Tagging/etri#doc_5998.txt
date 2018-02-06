@@ -1,0 +1,5 @@
+etri#doc_5998.txt 6 유지하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5998.txt 9 지출되다 ----- 7:3-ARG2() 8:1-ARGM-TMP() 9:0-rel
+etri#doc_5998.txt 13 내다 ----- 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5998.txt 16 들다 ----- 13:2-ARGM-DIS() 14:1-ARGM-TMP() 15:1-ARG1(THM) 16:0-rel
+etri#doc_5998.txt 18 지출되다 ----- 4:2-ARGM-DIS() 10:3-ARG1(THM) 16:2-ARGM-CAU() 17:1-ARG1(THM) 18:0-rel

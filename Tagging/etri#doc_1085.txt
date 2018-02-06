@@ -1,0 +1,2 @@
+etri#doc_1085.txt 11 따르다 ----- 7:4-ARGM-CND() 10:3-ARG1(THM) 11:0-rel
+etri#doc_1085.txt 16 작용하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARG2(FNS) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1412.txt 4 생각하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1412.txt 6 되다 ----- 5:1-ARGM-MNR() 6:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5526.txt 3 출발하다 ----- 2:2-ARG2(SRC) 3:0-rel
+etri#doc_5526.txt 6 들어가다 ----- 3:3-ARGM-DIS() 5:2-ARG3(GOL) 6:0-rel
+etri#doc_5526.txt 14 주다 ----- 10:1-ARG2(GOL) 13:3-ARG1(THM) 14:0-rel
+etri#doc_5526.txt 20 규정하다 ----- 9:2-ARG0(AGT) 14:4-ARGM-DIS() 17:2-ARGM-DIS(CNT) 19:2-ARG1(THM) 20:0-rel

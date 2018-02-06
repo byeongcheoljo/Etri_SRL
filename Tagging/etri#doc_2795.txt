@@ -1,0 +1,5 @@
+etri#doc_2795.txt 4 키우다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_2795.txt 8 나오다 ----- 7:1-ARG2(SRC) 8:0-rel
+etri#doc_2795.txt 11 울다 ----- 6:1-ARGM-TMP(LOC) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_2795.txt 14 잘먹다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2795.txt 16 좋아지다 ----- 2:2-ARGM-INS(INS) 5:3-ARG1(THM) 11:2-ARGM-CND() 12:1-ARGM-TMP() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

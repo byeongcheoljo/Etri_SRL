@@ -1,0 +1,2 @@
+etri#doc_4220.txt 14 요구하다 ----- 13:7-ARG1(THM) 14:0-rel
+etri#doc_4220.txt 16 벌이다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-TMP(SRC) 4:1-ARGM-TMP(GOL) 6:2-ARGM-LOC(LOC) 14:8-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

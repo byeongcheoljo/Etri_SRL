@@ -1,0 +1,4 @@
+etri#doc_4386.txt 9 위하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4386.txt 11 이해하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_4386.txt 13 주다 ----- 6:2-ARGM-DIS() 9:3-ARGM-CND() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_4386.txt 16 사로잡히다 ----- 15:2-ARG0(INS) 16:0-rel

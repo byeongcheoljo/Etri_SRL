@@ -1,0 +1,5 @@
+etri#doc_4019.txt 3 위하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_4019.txt 9 하다 ----- 6:1-ARG0() 7:1-ARGM-CAU() 8:1-ARG1(THM) 9:0-rel
+etri#doc_4019.txt 11 쌓다 ----- 5:4-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_4019.txt 13 하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4019.txt 15 삼다 ----- 14:3-ARG2(FNS) 15:0-rel

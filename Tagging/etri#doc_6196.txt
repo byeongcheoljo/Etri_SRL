@@ -1,0 +1,2 @@
+etri#doc_6196.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6196.txt 6 사망하다 ----- 4:1-ARG1(THM) 5:1-ARGM-CAU(EFF) 6:0-rel

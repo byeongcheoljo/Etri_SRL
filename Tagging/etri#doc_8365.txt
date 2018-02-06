@@ -1,0 +1,2 @@
+etri#doc_8365.txt 2 당면하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8365.txt 6 캐다 ----- 6:0-rel

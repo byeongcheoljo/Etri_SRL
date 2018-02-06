@@ -1,0 +1,2 @@
+etri#doc_1022.txt 4 보다 ----- 3:3-ARGM-LOC(LOC) 4:0-rel
+etri#doc_1022.txt 13 보호하다 ----- 11:4-ARG2(SRC) 12:1-ARG1(THM) 13:0-rel

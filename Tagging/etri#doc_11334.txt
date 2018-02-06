@@ -1,0 +1,3 @@
+etri#doc_11334.txt 5 가르다 ----- 3:2-ARGM-MNR(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11334.txt 11 따지다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11334.txt 13 삼다 ----- 8:2-ARGM-MNR(INS) 12:4-ARG2(FNS) 13:0-rel

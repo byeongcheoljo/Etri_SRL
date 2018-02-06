@@ -1,0 +1,3 @@
+etri#doc_5456.txt 3 걸치다 ----- 2:2-ARGM-TMP(LOC) 3:0-rel
+etri#doc_5456.txt 12 이어지다 ----- 11:2-ARG3(GOL) 12:0-rel
+etri#doc_5456.txt 16 보다 ----- 6:3-ARG0() 7:1-ARGM-DIS() 15:3-ARG1() 16:0-rel

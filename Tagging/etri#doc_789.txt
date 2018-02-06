@@ -1,0 +1,2 @@
+etri#doc_789.txt 11 »Ì´Ù ----- 2:1-ARG1(THM) 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_789.txt 20 µÇ´Ù ----- 1:1-ARGM-LOC(LOC) 11:3-ARGM-DIS() 18:4-ARG1(THM) 19:1-ARG2(FNS) 20:0-rel

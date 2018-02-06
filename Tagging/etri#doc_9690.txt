@@ -1,0 +1,2 @@
+etri#doc_9690.txt 3 ∏Í∏¡Ω√≈∞¥Ÿ ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_9690.txt 7 ¡Ÿ¿Ã¥Ÿ ----- 4:3-ARG1(THM) 5:1-ARGM-DIS() 6:1-ARGM-EXT(EFF) 7:0-rel

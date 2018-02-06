@@ -1,0 +1,7 @@
+etri#doc_995.txt 3 ¾ñ´Ù ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_995.txt 5 ³»¸®´Ù ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_995.txt 8 µû¸£´Ù ----- 5:4-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_995.txt 11 ¾Ä´Ù ----- 10:1-ARG1() 11:0-rel
+etri#doc_995.txt 13 °¡´Ù ----- 8:3-ARGM-MNR() 12:3-ARG3() 13:0-rel
+etri#doc_995.txt 15 ÇÏ´Ù ----- 14:1-ARG0(AGT) 15:0-rel
+etri#doc_995.txt 17 ÅÐ´Ù ----- 1:1-ARG0(AGT) 13:4-ARGM-CAU() 15:2-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

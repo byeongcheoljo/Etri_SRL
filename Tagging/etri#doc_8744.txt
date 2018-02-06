@@ -1,0 +1,5 @@
+etri#doc_8744.txt 1 가르치다 ----- 1:0-rel
+etri#doc_8744.txt 7 잘하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP(LOC) 6:1-ARG1() 7:0-rel
+etri#doc_8744.txt 9 잘하다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_8744.txt 10 뜻하다 ----- 7:2-ARG1(THM) 9:2-ARG2() 10:0-rel
+etri#doc_8744.txt 16 결정되다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-DIS(CNT) 15:2-ARG1(THM) 16:0-rel

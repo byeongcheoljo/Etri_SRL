@@ -1,0 +1,4 @@
+etri#doc_967.txt 4 하다 ----- 3:1-ARGM-DIR(GOL) 4:0-rel
+etri#doc_967.txt 7 말다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_967.txt 9 하다 ----- 8:1-ARGM-DIR(GOL) 9:0-rel
+etri#doc_967.txt 15 되다 ----- 13:3-ARG1() 14:1-ARG1() 15:0-rel

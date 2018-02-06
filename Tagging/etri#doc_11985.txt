@@ -1,0 +1,2 @@
+etri#doc_11985.txt 10 논의하다 ----- 4:1-ARG0(AGT) 6:2-ARGM-TMP(LOC) 9:3-ARG2(COM) 10:0-rel
+etri#doc_11985.txt 14 보다 ----- 3:3-ARG0(AGT) 11:5-ARG1(THM) 12:1-ARGM-EXT() 13:1-ARGM-MNR(INS) 14:0-rel

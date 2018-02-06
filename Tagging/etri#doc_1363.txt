@@ -1,0 +1,5 @@
+etri#doc_1363.txt 4 과장하다 ----- 2:1-ARG1(THM) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_1363.txt 7 요청하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1363.txt 14 하다 ----- 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1363.txt 15 지령하다 ----- 8:3-ARG0(AGT) 9:1-ARGM-TMP() 11:2-ARGM-DIR(DIR) 14:2-ARGM-DIS() 15:0-rel
+etri#doc_1363.txt 17 밝히다 ----- 15:3-ARGM-DIS() 16:1-ARG0(AGT) 17:0-rel

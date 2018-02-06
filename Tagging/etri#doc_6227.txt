@@ -1,0 +1,7 @@
+etri#doc_6227.txt 4 되다 ----- 2:1-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_6227.txt 7 되다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_6227.txt 11 모이다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_6227.txt 12 이루어지다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_6227.txt 16 통합되다 ----- 16:0-rel
+etri#doc_6227.txt 19 되다 ----- 8:3-ARGM-DIS() 13:5-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel
+etri#doc_6227.txt 21 처리되다 ----- 1:1-ARGM-DIS() 19:3-ARGM-DIS() 20:1-ARGM-LOC(LOC) 21:0-rel

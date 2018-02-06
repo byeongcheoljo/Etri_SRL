@@ -1,0 +1,2 @@
+etri#doc_2039.txt 3 미치다 ----- 2:2-ARG2(GOL) 3:0-rel
+etri#doc_2039.txt 16 좌우하다 ----- 6:3-ARGM-CND() 8:2-ARG2(LOC) 11:2-ARG0(EFF) 15:3-ARG1(THM) 16:0-rel

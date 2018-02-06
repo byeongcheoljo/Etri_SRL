@@ -1,0 +1,5 @@
+etri#doc_5330.txt 2 알다 ----- 1:1-ARG0(MAG) 2:0-rel
+etri#doc_5330.txt 5 집다 ----- 4:1-ARGM-DIS() 5:0-rel
+etri#doc_5330.txt 11 만나다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_5330.txt 15 파악하다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_5330.txt 17 선택하다 ----- 8:3-ARGM-DIS() 15:2-ARGM-TMP() 16:1-ARG1(THM) 17:0-rel

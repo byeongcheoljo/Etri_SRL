@@ -1,0 +1,5 @@
+etri#doc_11407.txt 3 지적하다 ----- 2:1-ARG0() 3:0-rel
+etri#doc_11407.txt 7 대상화하다 ----- 7:0-rel
+etri#doc_11407.txt 9 출발하다 ----- 8:2-ARGM-LOC(SRC) 9:0-rel
+etri#doc_11407.txt 11 대상화하다 ----- 11:0-rel
+etri#doc_11407.txt 13 끝나다 ----- 1:1-ARGM-DIS() 3:2-ARGM-TMP() 6:2-ARG1(THM) 10:4-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:0-rel

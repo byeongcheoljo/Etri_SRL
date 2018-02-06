@@ -1,0 +1,9 @@
+etri#doc_2797.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_2797.txt 4 하다 ----- 3:2-ARG1(CNT) 4:0-rel
+etri#doc_2797.txt 8 재결합하다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP() 7:2-ARG0(AGT) 8:0-rel
+etri#doc_2797.txt 9 어떡하다 ----- 8:3-ARGM-CND() 9:0-rel
+etri#doc_2797.txt 11 잘못하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2797.txt 12 하다 ----- 11:2-ARG1(CNT) 12:0-rel
+etri#doc_2797.txt 17 상하다 ----- 12:3-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel
+etri#doc_2797.txt 18 어떡하다 ----- 9:4-ARGM-DIS() 17:5-ARGM-CND() 18:0-rel
+etri#doc_2797.txt 21 지키다 ----- 19:7-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

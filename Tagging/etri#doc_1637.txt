@@ -1,0 +1,3 @@
+etri#doc_1637.txt 9 이수하다 ----- 2:2-ARGM-PRD(PUR) 4:2-ARG0(THM) 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1637.txt 11 평가하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1637.txt 13 개발하다 ----- 11:2-ARGM-PRD() 12:1-ARG1(THM) 13:0-rel

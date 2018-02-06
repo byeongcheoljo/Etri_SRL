@@ -1,0 +1,5 @@
+etri#doc_8962.txt 5 잃다 ----- 1:1-ARG0(SRC) 2:1-ARG1(THM) 3:1-ARGM-EXT() 4:1-ARGM-EXT() 5:0-rel
+etri#doc_8962.txt 8 자라나다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_8962.txt 11 내리다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_8962.txt 14 나타나다 ----- 5:2-ARGM-DIS() 9:4-ARG1(THM) 13:4-ARGM-MNR(FNS) 14:0-rel
+etri#doc_8962.txt 20 되살아나다 ----- 14:5-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:1-ARGM-LOC(LOC) 19:1-ARGM-MNR(INS) 20:0-rel

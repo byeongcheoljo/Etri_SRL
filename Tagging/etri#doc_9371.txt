@@ -1,0 +1,2 @@
+etri#doc_9371.txt 10 연구하다 ----- 8:4-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_9371.txt 15 연구하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

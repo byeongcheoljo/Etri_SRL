@@ -1,0 +1,4 @@
+etri#doc_3301.txt 3 생각하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3301.txt 7 압축하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3301.txt 8 표현하다 ----- 7:3-ARGM-MNR() 8:0-rel
+etri#doc_3301.txt 17 하다 ----- 3:3-ARGM-TMP() 8:4-ARGM-CND() 9:1-ARG0(AGT) 16:2-ARG1(CNT) 17:0-rel

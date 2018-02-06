@@ -1,0 +1,5 @@
+etri#doc_1723.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1723.txt 6 앞세우다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1723.txt 9 이끌다 ----- 4:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG3(FNS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1723.txt 13 발전시키다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR(DIR) 13:0-rel
+etri#doc_1723.txt 15 확대하다 ----- 3:3-ARGM-CND() 9:2-ARGM-DIS() 10:1-ARG0(AGT) 13:2-ARGM-TMP() 14:1-ARG3(FNS) 15:0-rel

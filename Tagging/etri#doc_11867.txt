@@ -1,0 +1,3 @@
+etri#doc_11867.txt 6 찾다 ----- 2:2-ARG0(AGT) 5:3-ARG1(THM) 6:0-rel
+etri#doc_11867.txt 9 그치다 ----- 6:4-ARGM-CND() 7:1-ARGM-EXT() 8:1-ARG2(FNS) 9:0-rel
+etri#doc_11867.txt 16 되다 ----- 14:5-ARGM-DIS() 15:1-ARG2(FNS) 16:0-rel

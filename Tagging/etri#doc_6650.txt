@@ -1,0 +1,2 @@
+etri#doc_6650.txt 8 탐닉하다 ----- 3:3-ARG0(MAG) 6:2-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6650.txt 17 이루다 ----- 10:1-ARGM-EXT(CRT) 11:1-ARGM-EXT() 12:1-ARG0(AGT) 14:2-ARGM-MNR(COM) 16:2-ARG1(THM) 17:0-rel

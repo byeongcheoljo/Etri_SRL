@@ -1,0 +1,5 @@
+etri#doc_4350.txt 6 노동하다 ----- 6:0-rel
+etri#doc_4350.txt 8 생성되다 ----- 4:2-ARG1(THM) 7:2-ARG2(SRC) 8:0-rel
+etri#doc_4350.txt 14 개조하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4350.txt 16 발전시키다 ----- 12:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4350.txt 19 비롯되다 ----- 10:5-ARGM-DIS() 11:1-ARG1(THM) 18:2-ARG2(SRC) 19:0-rel

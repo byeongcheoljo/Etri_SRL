@@ -1,0 +1,2 @@
+etri#doc_5804.txt 3 되다 ----- 2:2-ARG2(FNS) 3:0-rel
+etri#doc_5804.txt 14 결론짓다 ----- 5:5-ARGM-ADV(EFF) 10:3-ARGM-DIS() 13:2-ARG1() 14:0-rel

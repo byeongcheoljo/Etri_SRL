@@ -1,0 +1,6 @@
+etri#doc_7102.txt 1 꼬꾸라지다 ----- 1:0-rel
+etri#doc_7102.txt 5 가라앉다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_7102.txt 7 떨리다 ----- 7:0-rel
+etri#doc_7102.txt 10 잡다 ----- 8:2-ARGM-MNR(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_7102.txt 14 움직이다 ----- 13:1-ARG1(DIR) 14:0-rel
+etri#doc_7102.txt 16 잡다 ----- 5:5-ARGM-DIS() 6:1-ARG0(AGT) 10:2-ARGM-DIS() 12:2-ARGM-MNR(INS) 15:3-ARG1(THM) 16:0-rel

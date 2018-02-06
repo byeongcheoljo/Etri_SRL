@@ -1,0 +1,4 @@
+etri#doc_2725.txt 2 돌이켜보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_2725.txt 10 배반하다 ----- 9:3-ARG0(AGT) 10:0-rel
+etri#doc_2725.txt 15 가다 ----- 6:3-ARGM-DIS() 10:4-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARGM-DIR(DIR) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_2725.txt 16 외치다 ----- 15:2-ARG1(CNT) 16:0-rel

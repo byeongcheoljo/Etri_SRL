@@ -1,0 +1,4 @@
+etri#doc_9531.txt 3 ³ª¿À´Ù ----- 1:1-ARGM-MNR() 2:1-ARG1(THM) 3:0-rel
+etri#doc_9531.txt 9 µ¤´Ù ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9531.txt 10 ¶Ù´Ù ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_9531.txt 16 ÇÇÇÏ´Ù ----- 4:3-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-MNR() 14:2-ARGM-LOC(GOL) 15:1-ARG1(THM) 16:0-rel

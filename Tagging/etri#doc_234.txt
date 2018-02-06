@@ -1,0 +1,1 @@
+etri#doc_234.txt 16 ¿À´Ù ----- 7:3-() 11:3-ARGM-CAU() 12:1-ARGM-ADV() 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4213.txt 5 맡다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4213.txt 10 구성하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-PRP(PUR) 6:3-ARG1(THM) 9:3-ARG2(INS) 10:0-rel

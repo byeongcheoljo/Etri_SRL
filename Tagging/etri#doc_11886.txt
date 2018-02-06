@@ -1,0 +1,4 @@
+etri#doc_11886.txt 4 모이다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_11886.txt 6 모르다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11886.txt 13 하다 ----- 4:3-ARGM-CAU() 8:4-ARG0(AGT) 9:1-ARGM-ADV() 12:2-ARG1(THM) 13:0-rel
+etri#doc_11886.txt 17 느끼다 ----- 1:1-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-MNR() 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_13042.txt 2 나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13042.txt 4 출동하다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_13042.txt 9 통제되다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_13042.txt 17 빚어지다 ----- 9:2-ARGM-DIS() 10:1-ARGM-TMP(GOL) 11:1-ARGM-EXT() 14:3-ARG2(LOC) 16:2-ARG1(THM) 17:0-rel

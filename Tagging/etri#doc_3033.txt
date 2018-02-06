@@ -1,0 +1,4 @@
+etri#doc_3033.txt 8 유지하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3033.txt 10 되다 ----- 9:4-ARG2(FNS) 10:0-rel
+etri#doc_3033.txt 12 포기하다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(AGT) 11:6-ARG1(THM) 12:0-rel
+etri#doc_3033.txt 16 포기하다 ----- 15:2-ARG1(THM) 16:0-rel

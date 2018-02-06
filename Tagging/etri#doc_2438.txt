@@ -1,0 +1,4 @@
+etri#doc_2438.txt 6 외면하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_2438.txt 8 되다 ----- 2:2-ARG1(AGT) 7:4-ARG1(AGT) 8:0-rel
+etri#doc_2438.txt 14 보장하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_2438.txt 16 마련되다 ----- 8:5-() 15:4-() 16:0-rel

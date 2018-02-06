@@ -1,0 +1,5 @@
+etri#doc_11736.txt 4 弊葬棻 ----- 2:1-ARGM-LOC() 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_11736.txt 6 辦楝腦棻 ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 5:1-ARGM-MNR() 6:0-rel
+etri#doc_11736.txt 10 務棻 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11736.txt 12 導棻 ----- 11:1-ARG0() 12:0-rel
+etri#doc_11736.txt 15 螃腦棻 ----- 7:3-ARG3(GOL) 8:1-ARG0(AGT) 10:2-ARGM-MNR() 13:3-ARG3(GOL) 14:1-ARGM-MNR() 15:0-rel

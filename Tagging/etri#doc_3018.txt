@@ -1,0 +1,1 @@
+etri#doc_3018.txt 14 °¡Áö´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(LOC) 3:1-ARG1(THM) 10:2-ARGM-PRD(INS) 13:2-ARG1(THM) 14:0-rel

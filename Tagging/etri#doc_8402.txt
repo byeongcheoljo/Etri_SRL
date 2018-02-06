@@ -1,0 +1,4 @@
+etri#doc_8402.txt 2 계획하다 ----- 1:1-ARG0(MAG) 2:0-rel
+etri#doc_8402.txt 6 특기하다 ----- 5:3-ARGM-INS(INS) 6:0-rel
+etri#doc_8402.txt 10 병행하다 ----- 9:2-ARG2(COM) 10:0-rel
+etri#doc_8402.txt 12 개최되다 ----- 10:3-ARGM-MNR() 11:1-ARGM-LOC(LOC) 12:0-rel

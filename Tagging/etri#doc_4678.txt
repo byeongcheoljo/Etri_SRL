@@ -1,0 +1,4 @@
+etri#doc_4678.txt 7 죽다 ----- 5:3-ARGM-DIS() 6:1-ARGM-CAU(EFF) 7:0-rel
+etri#doc_4678.txt 15 나타내다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_4678.txt 18 노후화되다 ----- 16:4-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_4678.txt 19 말하다 ----- 9:4-ARGM-DIS() 10:1-ARG0(EFF) 18:2-ARG1() 19:0-rel

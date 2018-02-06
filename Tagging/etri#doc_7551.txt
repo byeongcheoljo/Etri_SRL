@@ -1,0 +1,2 @@
+etri#doc_7551.txt 6 낫다 ----- 5:1-ARGM-EXT() 6:0-rel
+etri#doc_7551.txt 11 달성하다 ----- 10:2-ARG1(THM) 11:0-rel

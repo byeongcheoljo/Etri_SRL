@@ -1,0 +1,3 @@
+etri#doc_5947.txt 9 치켜세우다 ----- 4:1-ARG1(THM) 8:2-ARGM-PRD(FNS) 9:0-rel
+etri#doc_5947.txt 18 형성되다 ----- 10:1-ARG1(THM) 16:5-ARGM-TMP(LOC) 17:1-ARGM-TMP() 18:0-rel
+etri#doc_5947.txt 19 보도하다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 9:3-ARGM-DIS() 18:2-ARG1() 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_6771.txt 11 ¡÷¥Ÿ ----- 9:3-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6771.txt 15 ≥∫¥Ÿ ----- 1:1-ARGM-DIS() 5:2-ARG0(EFF) 6:1-ARGM-EXT() 11:2-ARGM-DIS() 12:1-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel

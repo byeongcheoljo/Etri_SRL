@@ -1,0 +1,5 @@
+etri#doc_821.txt 3 이르다 ----- 2:1-ARGM-TMP(CRT) 3:0-rel
+etri#doc_821.txt 6 개발되다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_821.txt 10 내려오다 ----- 9:2-ARGM-TMP() 10:0-rel
+etri#doc_821.txt 12 고치다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_821.txt 13 맞먹다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 12:5-ARG1() 13:0-rel

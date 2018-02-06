@@ -1,0 +1,3 @@
+etri#doc_1532.txt 4 발전하다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_1532.txt 10 하다 ----- 8:6-ARGM-LOC(LOC) 9:1-ARG1() 10:0-rel
+etri#doc_1532.txt 17 섭취하다 ----- 2:2-ARG0(AGT) 10:2-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-DIS(INS) 17:0-rel

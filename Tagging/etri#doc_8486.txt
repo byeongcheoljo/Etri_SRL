@@ -1,0 +1,5 @@
+etri#doc_8486.txt 3 기초하다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_8486.txt 6 위하다 ----- 4:1-ARGM-EXT(CRT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_8486.txt 10 위하다 ----- 6:2-ARGM-DIS() 8:2-ARGM-EXT(CRT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_8486.txt 14 위하다 ----- 10:2-ARGM-DIS() 12:2-ARGM-EXT(CRT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_8486.txt 18 위하다 ----- 14:2-ARGM-DIS() 16:2-ARGM-EXT(CRT) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6359.txt 1 만나다 ----- 1:0-rel
+etri#doc_6359.txt 6 서다 ----- 3:3-ARG1(LOC) 4:1-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_6359.txt 12 들르다 ----- 8:2-ARGM-DIS() 11:3-ARGM-LOC(GOL) 12:0-rel
+etri#doc_6359.txt 16 좋아지다 ----- 6:2-ARGM-DIS() 12:4-ARGM-TMP() 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

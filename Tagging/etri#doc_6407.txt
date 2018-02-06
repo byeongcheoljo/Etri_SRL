@@ -1,0 +1,3 @@
+etri#doc_6407.txt 3 일어나다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_6407.txt 13 촉발시키다 ----- 11:2-ARG1(THM) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_6407.txt 15 되다 ----- 1:1-() 7:3-ARG1(THM) 14:3-ARG2(FNS) 15:0-rel

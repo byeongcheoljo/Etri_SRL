@@ -1,0 +1,4 @@
+etri#doc_3601.txt 4 타다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_3601.txt 7 몰리다 ----- 5:3-ARG1(THM) 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_3601.txt 10 빚다 ----- 2:2-ARGM-LOC(LOC) 7:2-ARGM-CAU() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3601.txt 16 방불하다 ----- 10:3-ARGM-DIS() 14:4-ARG0(EFF) 15:1-ARG1(THM) 16:0-rel

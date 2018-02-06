@@ -1,0 +1,5 @@
+etri#doc_6624.txt 3 닥치다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6624.txt 5 상상하다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_6624.txt 9 하다 ----- 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_6624.txt 11 극복하다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6624.txt 16 알다 ----- 5:5-ARGM-TMP() 15:3-ARG1() 16:0-rel

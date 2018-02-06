@@ -1,0 +1,3 @@
+etri#doc_6093.txt 12 응하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 6:3-ARG1(GOL) 11:3-ARG1(GOL) 12:0-rel
+etri#doc_6093.txt 16 돌아가다 ----- 15:1-ARG3(GOL) 16:0-rel
+etri#doc_6093.txt 18 하다 ----- 12:4-ARGM-DIS() 13:1-ARGM-DIS() 14:1-ARG0(AGT) 17:3-ARG1(THM) 18:0-rel

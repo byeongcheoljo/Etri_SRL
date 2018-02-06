@@ -1,0 +1,4 @@
+etri#doc_6263.txt 5 발달하다 ----- 2:1-ARG1(THM) 4:2-ARGM-MNR() 5:0-rel
+etri#doc_6263.txt 13 들어가다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_6263.txt 14 저하하다 ----- 14:0-rel
+etri#doc_6263.txt 17 나아지다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-DIS() 13:2-ARGM-MNR() 15:2-ARGM-DIS() 16:1-ARGM-EXT() 17:0-rel

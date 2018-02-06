@@ -1,0 +1,4 @@
+etri#doc_4659.txt 4 발전시키다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_4659.txt 7 포함하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4659.txt 10 해방되다 ----- 8:4-ARG2(SRC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4659.txt 13 생각하다 ----- 4:2-ARGM-CND() 12:2-ARG1() 13:0-rel

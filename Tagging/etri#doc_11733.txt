@@ -1,0 +1,5 @@
+etri#doc_11733.txt 6 얻다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_11733.txt 9 나오다 ----- 8:5-ARG2(SRC) 9:0-rel
+etri#doc_11733.txt 12 넘다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_11733.txt 15 바라보다 ----- 9:6-ARGM-DIS() 13:4-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_11733.txt 16 획득되다 ----- 15:2-ARGM-TMP() 16:0-rel

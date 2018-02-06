@@ -1,0 +1,4 @@
+etri#doc_1377.txt 6 넘다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1377.txt 8 일으키다 ----- 4:3-ARG0(EFF) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_1377.txt 11 오다 ----- 9:1-ARG0(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1377.txt 16 되다 ----- 8:2-ARGM-MNR() 11:2-() 12:1-ARG0(THM) 15:3-ARG1(THM) 16:0-rel

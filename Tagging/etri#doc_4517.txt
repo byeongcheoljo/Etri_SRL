@@ -1,0 +1,7 @@
+etri#doc_4517.txt 4 주장하다 ----- 3:2-ARG1(CNT) 4:0-rel
+etri#doc_4517.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4517.txt 9 강간하다 ----- 9:0-rel
+etri#doc_4517.txt 10 위협하다 ----- 1:1-ARGM-TMP(LOC) 5:4-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARG1() 10:0-rel
+etri#doc_4517.txt 15 하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-EXT() 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_4517.txt 16 하다 ----- 15:2-ARGM-DIS() 16:0-rel
+etri#doc_4517.txt 18 들다 ----- 10:2-ARGM-TMP() 17:4-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11366.txt 2 살다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_11366.txt 6 죽다 ----- 4:1-ARGM-TMP(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11366.txt 13 맡다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11366.txt 16 경영하다 ----- 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_11366.txt 18 다니다 ----- 3:3-ARGM-DIS() 6:2-ARGM-TMP() 10:2-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-TMP(LOC) 17:3-ARG1(GOL) 18:0-rel

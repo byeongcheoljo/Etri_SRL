@@ -1,0 +1,2 @@
+etri#doc_846.txt 8 동요되다 ----- 4:2-ARG1(THM) 6:2-ARGM-CAU(EFF) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_846.txt 19 이행되다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-TMP() 15:3-ARGM-LOC(LOC) 18:3-ARGM-ADV(EFF) 19:0-rel

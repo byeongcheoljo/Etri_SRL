@@ -1,0 +1,4 @@
+etri#doc_8619.txt 3 미혹하다 ----- 3:0-rel
+etri#doc_8619.txt 7 좇다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_8619.txt 12 인정하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8619.txt 14 왜곡하다 ----- 12:3-ARGM-DIS() 13:1-ARGM-MNR() 14:0-rel

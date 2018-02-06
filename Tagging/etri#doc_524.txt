@@ -1,0 +1,2 @@
+etri#doc_524.txt 3 나오다 ----- 2:2-ARG2(CRT) 3:0-rel
+etri#doc_524.txt 6 되다 ----- 4:4-ARG1(THM) 5:1-ARG2(FNS) 6:0-rel

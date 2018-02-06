@@ -1,0 +1,2 @@
+etri#doc_8408.txt 7 하다 ----- 6:2-ARG1(CNT) 7:0-rel
+etri#doc_8408.txt 15 높이다 ----- 3:3-ARG0(AGT) 9:2-ARGM-PRD(INS) 14:4-ARGM-DIR(THM) 15:0-rel

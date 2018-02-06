@@ -1,0 +1,4 @@
+etri#doc_2025.txt 3 보이다 ----- 2:2-() 3:0-rel
+etri#doc_2025.txt 6 언급하다 ----- 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_2025.txt 15 가하다 ----- 8:1-ARG0(AGT) 14:6-ARGM-ADV() 15:0-rel
+etri#doc_2025.txt 18 들다 ----- 4:4-ARG2(MAG) 7:3-() 17:2-ARG1(THM) 18:0-rel

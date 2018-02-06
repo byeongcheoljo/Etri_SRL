@@ -1,0 +1,2 @@
+etri#doc_12033.txt 13 ¹Ù²î´Ù ----- 5:3-ARG1(SRC) 6:1-ARGM-TMP() 12:3-ARG3(FNS) 13:0-rel
+etri#doc_12033.txt 17 ¾ò´Ù ----- 1:1-ARGM-INS(INS) 13:4-ARGM-DIS() 14:1-ARG2(SRC) 16:2-ARG1(THM) 17:0-rel

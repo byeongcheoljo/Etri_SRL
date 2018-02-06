@@ -1,0 +1,4 @@
+etri#doc_4476.txt 5 나오다 ----- 3:1-ARG2(SRC) 4:1-ARG0(THM) 5:0-rel
+etri#doc_4476.txt 6 거짓말하다 ----- 2:1-ARG0(AGT) 5:2-ARG1() 6:0-rel
+etri#doc_4476.txt 13 망각하다 ----- 13:0-rel
+etri#doc_4476.txt 16 보이다 ----- 1:1-ARG0(AGT) 7:4-ARGM-ADV(CNT) 12:5-ARGM-ADV(CNT) 13:1-ARGM-EXT() 15:2-ARG1(THM) 16:0-rel

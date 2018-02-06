@@ -1,0 +1,5 @@
+etri#doc_11037.txt 3 참다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11037.txt 5 고하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:1-ARG2(GOL) 5:0-rel
+etri#doc_11037.txt 8 일어나다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11037.txt 11 다스리다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11037.txt 20 쥐다 ----- 5:2-ARGM-TMP() 6:1-ARG0(AGT) 8:2-ARGM-CAU() 15:3-ARGM-DIS() 17:2-ARG0(AGT) 18:1-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

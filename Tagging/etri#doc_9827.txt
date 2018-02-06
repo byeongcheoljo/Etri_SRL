@@ -1,0 +1,2 @@
+etri#doc_9827.txt 9 이루어지다 ----- 8:3-ARGM-LOC(LOC) 9:0-rel
+etri#doc_9827.txt 14 비롯되다 ----- 11:2-ARG1(THM) 12:1-ARGM-TMP(LOC) 13:1-ARGM-TMP() 14:0-rel

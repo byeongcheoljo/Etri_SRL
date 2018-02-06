@@ -1,0 +1,6 @@
+etri#doc_1950.txt 8 반영되다 ----- 7:3-ARG2(LOC) 8:0-rel
+etri#doc_1950.txt 9 나타나다 ----- 3:2-ARG1(THM) 4:1-ARGM-DIS() 8:4-ARGM-DIS() 9:0-rel
+etri#doc_1950.txt 10 믿다 ----- 9:5-ARG1() 10:0-rel
+etri#doc_1950.txt 15 주도하다 ----- 15:0-rel
+etri#doc_1950.txt 16 이용하다 ----- 14:2-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_1950.txt 19 주목하다 ----- 11:7-ARGM-DIS() 12:1-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

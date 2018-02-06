@@ -1,0 +1,5 @@
+etri#doc_5768.txt 5 하다 ----- 2:1-ARGM-TMP() 3:1-ARGM-ADV(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_5768.txt 8 달하다 ----- 7:2-ARG2(GOL) 8:0-rel
+etri#doc_5768.txt 10 감당하다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_5768.txt 16 하다 ----- 15:2-ARG1(CNT) 16:0-rel
+etri#doc_5768.txt 19 촉구하다 ----- 1:1-ARG0(AGT) 16:3-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

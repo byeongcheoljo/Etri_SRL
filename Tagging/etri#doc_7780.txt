@@ -1,0 +1,4 @@
+etri#doc_7780.txt 5 발생하다 ----- 1:1-ARGM-TMP() 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7780.txt 9 죽다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7780.txt 12 부상하다 ----- 6:4-ARGM-MNR(INS) 7:1-ARGM-TMP() 9:2-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_7780.txt 16 잊다 ----- 13:4-ARG1(THM) 14:1-ARG0(EXP) 15:1-ARGM-MNR() 16:0-rel

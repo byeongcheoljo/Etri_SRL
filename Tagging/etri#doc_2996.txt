@@ -1,0 +1,3 @@
+etri#doc_2996.txt 8 관련되다 ----- 6:3-ARG0(AGT) 7:1-ARG2(COM) 8:0-rel
+etri#doc_2996.txt 11 잃다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_2996.txt 19 움직이다 ----- 8:2-ARGM-CAU() 12:4-ARG0(AGT) 13:1-ARGM-TMP() 18:5-ARGM-LOC(LOC) 19:0-rel

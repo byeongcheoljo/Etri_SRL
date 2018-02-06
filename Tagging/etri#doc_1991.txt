@@ -1,0 +1,4 @@
+etri#doc_1991.txt 13 멸시하다 ----- 10:1-ARG0(AGT) 11:1-ARGM-EXT() 12:1-ARG2(FNS) 13:0-rel
+etri#doc_1991.txt 19 쓰다 ----- 14:3-ARG0(AGT) 18:4-ARG1(THM) 19:0-rel
+etri#doc_1991.txt 20 하다 ----- 19:5-ARGM-DIS() 20:0-rel
+etri#doc_1991.txt 21 놀라다 ----- 8:3-ARGM-DIS() 9:1-ARG0(AGT) 20:6-ARGM-DIS() 21:0-rel

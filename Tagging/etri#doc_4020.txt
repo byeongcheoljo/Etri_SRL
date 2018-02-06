@@ -1,0 +1,5 @@
+etri#doc_4020.txt 3 떨리다 ----- 1:1-ARGM-TMP() 2:1-ARG1() 3:0-rel
+etri#doc_4020.txt 7 서다 ----- 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_4020.txt 11 헤아리다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_4020.txt 14 되다 ----- 13:2-ARGM-EXT() 14:0-rel
+etri#doc_4020.txt 16 하다 ----- 11:2-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

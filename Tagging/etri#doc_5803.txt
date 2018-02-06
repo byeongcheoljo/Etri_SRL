@@ -1,0 +1,4 @@
+etri#doc_5803.txt 6 암살되다 ----- 1:1-ARGM-TMP() 5:4-ARG1(THM) 6:0-rel
+etri#doc_5803.txt 7 흔들리다 ----- 6:5-ARGM-TMP() 7:0-rel
+etri#doc_5803.txt 13 예정되다 ----- 13:0-rel
+etri#doc_5803.txt 16 내다보다 ----- 11:2-ARG0(MAG) 12:1-ARGM-TMP() 15:3-ARG1(THM) 16:0-rel

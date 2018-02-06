@@ -1,0 +1,5 @@
+etri#doc_11688.txt 3 비치다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_11688.txt 6 꺼지다 ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_11688.txt 8 스치다 ----- 1:1-ARG1(THM) 3:2-ARGM-DIS() 7:3-ARGM-LOC(LOC) 8:0-rel
+etri#doc_11688.txt 10 박히다 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11688.txt 15 번쩍이다 ----- 8:4-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-EXT(EFF) 14:1-ARGM-EXT() 15:0-rel

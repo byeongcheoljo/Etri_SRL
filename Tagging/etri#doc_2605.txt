@@ -1,0 +1,3 @@
+etri#doc_2605.txt 6 당하다 ----- 3:1-ARG1(AGT) 4:1-ARGM-ADV(EFF) 5:1-ARG2(THM) 6:0-rel
+etri#doc_2605.txt 9 강조하다 ----- 7:3-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_2605.txt 12 고취시키다 ----- 9:2-() 10:1-() 11:1-() 12:0-rel

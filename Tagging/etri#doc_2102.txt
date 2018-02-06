@@ -1,0 +1,1 @@
+etri#doc_2102.txt 5 ¾Ë´Ù ----- 2:1-ARG0() 3:1-ARGM-MNR(INS) 4:1-ARGM-EXT() 5:0-rel

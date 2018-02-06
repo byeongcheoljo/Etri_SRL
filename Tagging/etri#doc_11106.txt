@@ -1,0 +1,5 @@
+etri#doc_11106.txt 4 받다 ----- 3:1-ARGM-LOC(SRC) 4:0-rel
+etri#doc_11106.txt 8 소화하다 ----- 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_11106.txt 11 만들다 ----- 6:2-ARG1(THM) 8:2-ARGM-DIS() 10:2-ARG2(INS) 11:0-rel
+etri#doc_11106.txt 12 노력하다 ----- 11:3-ARGM-MNR() 12:0-rel
+etri#doc_11106.txt 18 세우다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 12:4-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:1-ARGM-TMP() 17:3-ARG1(THM) 18:0-rel

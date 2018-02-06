@@ -1,0 +1,2 @@
+etri#doc_5658.txt 8 무너지다 ----- 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5658.txt 15 사용하다 ----- 5:3-ARGM-LOC(LOC) 10:2-ARGM-DIS() 12:2-ARGM-PRP(PUR) 14:2-ARG1(THM) 15:0-rel

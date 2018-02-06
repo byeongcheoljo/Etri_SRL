@@ -1,0 +1,1 @@
+etri#doc_7966.txt 12 창안하다 ----- 7:2-ARG0(AGT) 11:4-ARG1(THM) 12:0-rel

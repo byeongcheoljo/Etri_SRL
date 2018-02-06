@@ -1,0 +1,2 @@
+etri#doc_7839.txt 6 주고받다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7839.txt 15 다하다 ----- 9:5-ARGM-PRD() 12:3-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel

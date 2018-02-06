@@ -1,0 +1,6 @@
+etri#doc_3220.txt 2 미치다 ----- 2:0-rel
+etri#doc_3220.txt 6 만나다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3220.txt 9 말하다 ----- 7:4-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_3220.txt 14 느끼다 ----- 13:2-ARG1(CNT) 14:0-rel
+etri#doc_3220.txt 17 받다 ----- 15:1-ARGM-LOC(LOC) 16:1-ARG1(Npr) 17:0-rel
+etri#doc_3220.txt 18 느끼다 ----- 10:1-ARG0(EXP) 14:3-ARGM-DIS() 17:2-ARG1() 18:0-rel

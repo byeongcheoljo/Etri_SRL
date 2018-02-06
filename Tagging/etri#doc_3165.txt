@@ -1,0 +1,4 @@
+etri#doc_3165.txt 4 연구하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3165.txt 9 밝혀내다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_3165.txt 13 나돌다 ----- 11:1-ARGM-TMP() 12:1-ARG2(DIR) 13:0-rel
+etri#doc_3165.txt 18 찾아내다 ----- 5:4-ARGM-DIS() 10:5-ARGM-TMP(LOC) 14:3-ARGM-EXT() 15:1-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

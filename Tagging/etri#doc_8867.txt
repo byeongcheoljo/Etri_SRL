@@ -1,0 +1,5 @@
+etri#doc_8867.txt 8 오다 ----- 5:1-ARG2(SRC) 6:1-ARG3(GOL) 7:1-ARG1() 8:0-rel
+etri#doc_8867.txt 10 설치다 ----- 8:2-ARGM-DIS() 9:1-ARGM-EXT() 10:0-rel
+etri#doc_8867.txt 12 가다 ----- 11:1-ARG3(GOL) 12:0-rel
+etri#doc_8867.txt 14 하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8867.txt 17 가다 ----- 1:1-ARGM-TMP(LOC) 4:2-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-TMP(LOC) 16:1-ARG3(GOL) 17:0-rel

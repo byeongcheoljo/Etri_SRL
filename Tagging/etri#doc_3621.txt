@@ -1,0 +1,2 @@
+etri#doc_3621.txt 5 좋아하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3621.txt 13 가미되다 ----- 12:2-ARG1(THM) 13:0-rel

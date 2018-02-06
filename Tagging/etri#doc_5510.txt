@@ -1,0 +1,1 @@
+etri#doc_5510.txt 14 설명되다 ----- 6:2-ARG1(THM) 13:3-ARGM-MNR() 14:0-rel

@@ -1,0 +1,8 @@
+etri#doc_8936.txt 4 돕다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8936.txt 6 출세하다 ----- 4:3-ARGM-PRP() 5:1-ARG0(AGT) 6:0-rel
+etri#doc_8936.txt 9 맞다 ----- 8:2-ARG2(CRT) 9:0-rel
+etri#doc_8936.txt 11 하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_8936.txt 12 결심하다 ----- 11:5-ARGM-DIS() 12:0-rel
+etri#doc_8936.txt 14 하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8936.txt 15 떠나다 ----- 6:2-ARGM-DIS() 12:6-ARGM-DIS() 14:2-ARGM-PRP() 15:0-rel
+etri#doc_8936.txt 19 돌아오다 ----- 1:1-ARG0(AGT) 15:3-ARGM-DIS() 16:1-ARGM-TMP() 17:1-ARGM-TMP() 18:1-ARG3(GOL) 19:0-rel

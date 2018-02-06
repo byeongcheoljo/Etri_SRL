@@ -1,0 +1,4 @@
+etri#doc_1545.txt 5 가하다 ----- 2:1-ARG0(EFF) 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_1545.txt 6 계몽되다 ----- 6:0-rel
+etri#doc_1545.txt 12 장악하다 ----- 11:2-ARG0(THM) 12:0-rel
+etri#doc_1545.txt 15 연출하다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

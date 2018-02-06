@@ -1,0 +1,4 @@
+etri#doc_6002.txt 10 설립하다 ----- 6:1-ARG0(AGT) 8:2-ARGM-CAU(EFF) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6002.txt 12 부르다 ----- 11:1-ARG1(CNT) 12:0-rel
+etri#doc_6002.txt 14 계획되다 ----- 14:0-rel
+etri#doc_6002.txt 16 성취되다 ----- 1:1-ARGM-DIS() 5:2-ARG1(THM) 13:3-ARGM-CAU(EFF) 15:2-ARGM-DIS() 16:0-rel

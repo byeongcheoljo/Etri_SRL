@@ -1,0 +1,4 @@
+etri#doc_3268.txt 3 지배하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3268.txt 6 들어서다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3268.txt 9 맞다 ----- 4:4-ARG1(EXP) 6:2-ARGM-DIS() 8:2-ARG2(THM) 9:0-rel
+etri#doc_3268.txt 15 전개되다 ----- 10:4-ARGM-DIS() 11:1-ARGM-TMP(LOC) 12:1-ARGM-TMP(LOC) 13:1-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

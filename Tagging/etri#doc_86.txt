@@ -1,0 +1,4 @@
+etri#doc_86.txt 3 끝내다 ----- 1:1-ARGM-ADV() 2:1-ARG1(THM) 3:0-rel
+etri#doc_86.txt 10 통합하다 ----- 3:2-ARGM-DIS() 5:2-ARG0(AGT) 6:1-ARGM-ADV() 9:3-ARG2(GOL) 10:0-rel
+etri#doc_86.txt 13 끝나다 ----- 10:4-ARGM-PRD() 12:2-ARG0(THM) 13:0-rel
+etri#doc_86.txt 18 남다 ----- 16:2-ARGM-DIS() 17:1-ARG2(FNS) 18:0-rel

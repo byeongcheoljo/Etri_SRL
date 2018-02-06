@@ -1,0 +1,7 @@
+etri#doc_6895.txt 3 세우다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6895.txt 6 대서특필하다 ----- 3:3-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_6895.txt 8 구제하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6895.txt 9 위하다 ----- 8:2-ARGM-MNR() 9:0-rel
+etri#doc_6895.txt 12 칭하다 ----- 6:3-ARGM-DIS() 11:5-ARG1() 12:0-rel
+etri#doc_6895.txt 16 이르다 ----- 12:6-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARG3(FNS) 16:0-rel
+etri#doc_6895.txt 20 유린당하다 ----- 16:2-ARGM-DIS() 18:2-ARG0(GOL) 19:1-ARGM-EXT() 20:0-rel

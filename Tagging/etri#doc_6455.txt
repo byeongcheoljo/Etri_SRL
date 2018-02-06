@@ -1,0 +1,3 @@
+etri#doc_6455.txt 7 벌어지다 ----- 3:2-ARG2(LOC) 6:2-ARG2(LOC) 7:0-rel
+etri#doc_6455.txt 13 취하다 ----- 1:1-ARG0(AGT) 9:2-ARGM-ADV(EFF) 12:3-ARG1(THM) 13:0-rel
+etri#doc_6455.txt 17 드러나다 ----- 14:5-ARG1(THM) 16:2-ARGM-EXT() 17:0-rel

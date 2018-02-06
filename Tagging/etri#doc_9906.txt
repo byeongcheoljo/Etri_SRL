@@ -1,0 +1,6 @@
+etri#doc_9906.txt 3 종알대다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_9906.txt 8 발전하다 ----- 3:2-ARGM-DIS() 7:3-ARGM-CAU(EFF) 8:0-rel
+etri#doc_9906.txt 10 오다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_9906.txt 13 맞다 ----- 11:1-ARG0(AGT) 12:1-ARG2(COM) 13:0-rel
+etri#doc_9906.txt 14 이혼하다 ----- 14:0-rel
+etri#doc_9906.txt 15 하다 ----- 8:4-ARGM-DIS() 10:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel

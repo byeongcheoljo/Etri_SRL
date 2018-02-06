@@ -1,0 +1,7 @@
+etri#doc_872.txt 2 거두다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_872.txt 4 살피다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_872.txt 6 풀다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_872.txt 12 걷다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_872.txt 15 빼다 ----- 9:3-ARG0(AGT) 10:1-ARGM-TMP() 12:2-ARGM-DIS() 13:1-ARGM-DIR(DIR) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_872.txt 19 툭탁거리다 ----- 19:0-rel
+etri#doc_872.txt 20 나가다 ----- 6:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG0(AGT) 18:2-ARGM-DIR(DIR) 19:1-ARGM-DIS() 20:0-rel

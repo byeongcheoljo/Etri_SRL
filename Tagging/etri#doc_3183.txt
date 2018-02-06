@@ -1,0 +1,4 @@
+etri#doc_3183.txt 2 마르다 ----- 2:0-rel
+etri#doc_3183.txt 4 후비다 ----- 3:2-ARG1() 4:0-rel
+etri#doc_3183.txt 11 들통나다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_3183.txt 22 없어지다 ----- 1:1-ARGM-DIS() 12:6-ARGM-TMP() 15:2-ARGM-DIS() 21:2-ARG1(THM) 22:0-rel

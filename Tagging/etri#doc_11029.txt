@@ -1,0 +1,3 @@
+etri#doc_11029.txt 3 얻다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11029.txt 13 간추리다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_11029.txt 18 알다 ----- 3:3-ARGM-DIS() 13:3-ARGM-DIS() 17:3-ARGM-DIS() 18:0-rel

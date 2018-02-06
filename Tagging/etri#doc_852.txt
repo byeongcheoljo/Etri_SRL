@@ -1,0 +1,6 @@
+etri#doc_852.txt 2 ¸Ô´Ù ----- 1:1-ARG1() 2:0-rel
+etri#doc_852.txt 3 Á×´Ù ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_852.txt 5 º´µé´Ù ----- 5:0-rel
+etri#doc_852.txt 6 Á×´Ù ----- 5:1-ARGM-CAU() 6:0-rel
+etri#doc_852.txt 14 »î´Ù ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_852.txt 15 ¸Ô´Ù ----- 7:3-ARG1(THM) 12:3-ARGM-DIS() 14:2-ARGM-MNR() 15:0-rel

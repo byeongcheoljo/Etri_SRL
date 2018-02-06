@@ -1,0 +1,2 @@
+etri#doc_11357.txt 12 모자라다 ----- 12:0-rel
+etri#doc_11357.txt 14 치부하다 ----- 11:3-ARGM-CAU(EFF) 13:2-ARG1(FNS) 14:0-rel

@@ -1,0 +1,7 @@
+etri#doc_6236.txt 5 하다 ----- 3:1-ARG1(THM) 4:1-ARG1(THM) 5:0-rel
+etri#doc_6236.txt 7 하다 ----- 2:2-ARG0(AGT) 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6236.txt 9 듣다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6236.txt 11 누르다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6236.txt 13 하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_6236.txt 14 걸리다 ----- 13:4-ARGM-DIS() 14:0-rel
+etri#doc_6236.txt 16 추정하다 ----- 7:2-ARGM-CAU() 15:6-ARG1(FNS) 16:0-rel

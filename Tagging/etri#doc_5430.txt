@@ -1,0 +1,4 @@
+etri#doc_5430.txt 4 열리다 ----- 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_5430.txt 6 선보이다 ----- 5:3-ARGM-LOC(LOC) 6:0-rel
+etri#doc_5430.txt 14 사용되다 ----- 13:3-ARG2(LOC) 14:0-rel
+etri#doc_5430.txt 18 동원되다 ----- 8:6-ARGM-DIS() 10:2-ARGM-PRP(PUR) 15:5-ARG1(THM) 17:2-ARGM-EXT(CRT) 18:0-rel

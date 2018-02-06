@@ -1,0 +1,4 @@
+etri#doc_182.txt 5 진행되다 ----- 4:3-ARGM-MNR(INS) 5:0-rel
+etri#doc_182.txt 10 불러오다 ----- 6:5-ARG0(EFF) 7:1-ARGM-MNR() 9:2-ARG1(THM) 10:0-rel
+etri#doc_182.txt 13 감싸다 ----- 11:4-ARG2(MAG) 12:1-ARG1(LOC) 13:0-rel
+etri#doc_182.txt 15 부인하다 ----- 15:0-rel

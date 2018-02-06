@@ -1,0 +1,6 @@
+etri#doc_3192.txt 2 말하다 ----- 2:0-rel
+etri#doc_3192.txt 7 사양하다 ----- 3:2-ARGM-CAU() 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3192.txt 11 거절하다 ----- 11:0-rel
+etri#doc_3192.txt 12 안되다 ----- 10:1-ARGM-TMP(LOC) 11:1-ARGM-CND() 12:0-rel
+etri#doc_3192.txt 14 생기다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_3192.txt 17 참석하다 ----- 1:1-ARG0(AGT) 7:2-ARGM-DIS() 9:2-ARGM-TMP() 14:4-ARGM-CAU() 16:2-ARG1(LOC) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1130.txt 13 펼치다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1130.txt 15 되다 ----- 9:2-ARG1(THM) 14:3-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7422.txt 5 겪다 ----- 4:2-ARG0(EXP) 5:0-rel
+etri#doc_7422.txt 10 경험하다 ----- 9:2-ARG2(THM) 10:0-rel

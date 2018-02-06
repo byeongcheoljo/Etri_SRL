@@ -1,0 +1,5 @@
+etri#doc_9633.txt 2 추구하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9633.txt 6 정하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_9633.txt 9 바꾸다 ----- 3:3-ARGM-LOC(LOC) 6:3-ARGM-DIS() 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9633.txt 10 즐기다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_9633.txt 16 맺다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

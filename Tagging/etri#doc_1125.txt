@@ -1,0 +1,4 @@
+etri#doc_1125.txt 5 밟다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_1125.txt 8 하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR(FNS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1125.txt 13 하다 ----- 2:2-ARG0(AGT) 8:2-ARGM-DIS() 11:3-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1125.txt 20 보이다 ----- 13:2-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARG1(THM) 18:1-ARGM-DIS() 19:1-ARG1(Npr) 20:0-rel

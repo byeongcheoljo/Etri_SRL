@@ -1,0 +1,4 @@
+etri#doc_6111.txt 2 »Ñ¸®´Ù ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_6111.txt 6 Àû½Ã´Ù ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6111.txt 14 ³»ÂÑ´Ù ----- 11:1-ARG1(THM) 13:2-ARG2(SRC) 14:0-rel
+etri#doc_6111.txt 20 ¹Ï´Ù ----- 9:5-ARGM-DIS() 10:1-ARG0(MAG) 19:2-ARG1(THM) 20:0-rel

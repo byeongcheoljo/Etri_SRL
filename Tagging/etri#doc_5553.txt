@@ -1,0 +1,4 @@
+etri#doc_5553.txt 3 거느리다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5553.txt 5 휩쓸다 ----- 3:3-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5553.txt 7 자랑하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_5553.txt 12 이어받다 ----- 11:4-ARG1(THM) 12:0-rel

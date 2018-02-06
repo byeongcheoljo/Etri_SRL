@@ -1,0 +1,4 @@
+etri#doc_572.txt 3 나아가다 ----- 2:2-ARG3(DIR) 3:0-rel
+etri#doc_572.txt 5 다변화하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_572.txt 12 수정하다 ----- 5:2-ARGM-DIS() 10:5-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_572.txt 17 착수하다 ----- 3:3-ARGM-PRD() 12:2-ARGM-DIS() 16:4-ARG1(LOC) 17:0-rel

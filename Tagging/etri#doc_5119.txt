@@ -1,0 +1,5 @@
+etri#doc_5119.txt 3 믿다 ----- 3:0-rel
+etri#doc_5119.txt 4 내려오다 ----- 2:1-ARG2(SRC) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_5119.txt 8 조이다 ----- 8:0-rel
+etri#doc_5119.txt 9 조이다 ----- 7:2-ARG1(THM) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_5119.txt 12 몰다 ----- 5:3-ARGM-MNR(COM) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARG2(GOL) 12:0-rel

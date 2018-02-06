@@ -1,0 +1,4 @@
+etri#doc_2066.txt 4 이르다 ----- 1:1-ARG2(LOC) 3:2-ARG3(LOC) 4:0-rel
+etri#doc_2066.txt 7 살피다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_2066.txt 12 이해하다 ----- 11:1-ARGM-DIS() 12:0-rel
+etri#doc_2066.txt 14 마주치다 ----- 7:3-() 10:3-() 13:3-() 14:0-rel

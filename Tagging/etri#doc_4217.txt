@@ -1,0 +1,6 @@
+etri#doc_4217.txt 5 불다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4217.txt 7 무너지다 ----- 5:2-ARGM-CAU() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4217.txt 9 피하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4217.txt 11 쉬다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4217.txt 14 덮치다 ----- 7:2-ARGM-DIS() 13:4-ARG1(THM) 14:0-rel
+etri#doc_4217.txt 15 일어나다 ----- 1:1-ARG1(THM) 14:5-ARGM-DIS() 15:0-rel

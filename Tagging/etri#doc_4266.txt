@@ -1,0 +1,2 @@
+etri#doc_4266.txt 12 그려내다 ----- 7:2-ARG1(THM) 11:3-ARG1(FNS) 12:0-rel
+etri#doc_4266.txt 16 만들다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARGM-TMP() 5:2-ARG0(AGT) 12:4-ARGM-CAU(EFF) 13:1-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

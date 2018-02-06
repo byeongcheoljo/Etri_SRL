@@ -1,0 +1,5 @@
+etri#doc_2393.txt 8 넘어지다 ----- 7:1-() 8:0-rel
+etri#doc_2393.txt 11 입다 ----- 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_2393.txt 14 하다 ----- 13:5-ARGM-ADV(EFF) 14:0-rel
+etri#doc_2393.txt 18 차지하다 ----- 15:1-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel
+etri#doc_2393.txt 19 말하다 ----- 1:1-ARG0(AGT) 14:6-ARGM-DIS() 18:3-ARGM-ADV(EFF) 19:0-rel

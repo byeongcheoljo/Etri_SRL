@@ -1,0 +1,5 @@
+etri#doc_7429.txt 2 나타나다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_7429.txt 5 언급하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7429.txt 7 지니다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_7429.txt 16 띠다 ----- 11:1-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:0-rel
+etri#doc_7429.txt 20 구분하다 ----- 18:6-ARGM-DIS() 19:1-ARGM-MNR() 20:0-rel

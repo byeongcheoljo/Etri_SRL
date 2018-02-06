@@ -1,0 +1,6 @@
+etri#doc_6088.txt 3 출현하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6088.txt 6 일관되다 ----- 6:0-rel
+etri#doc_6088.txt 10 믿다 ----- 5:4-ARG0(MAG) 9:4-ARG1(THM) 10:0-rel
+etri#doc_6088.txt 14 창안하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6088.txt 18 개혁하다 ----- 16:2-ARG1(THM) 17:1-ARG2(FNS) 18:0-rel
+etri#doc_6088.txt 20 하다 ----- 11:1-ARG0(AGT) 14:3-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARGM-MNR() 20:0-rel

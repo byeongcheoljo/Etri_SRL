@@ -1,0 +1,5 @@
+etri#doc_6190.txt 3 타고나다 ----- 3:0-rel
+etri#doc_6190.txt 5 인정되다 ----- 1:1-ARGM-EXT(CRT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_6190.txt 8 제시하다 ----- 6:1-ARG2(GOL) 7:1-ARG0(AGT) 8:0-rel
+etri#doc_6190.txt 13 하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6190.txt 15 이루어지다 ----- 5:3-ARGM-DIS() 8:2-ARGM-EXT() 11:2-ARG1(THM) 13:2-ARGM-EXT() 14:1-ARGM-CAU(EFF) 15:0-rel

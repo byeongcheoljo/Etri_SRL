@@ -1,0 +1,4 @@
+etri#doc_6306.txt 4 믿다 ----- 2:2-ARG0(MAG) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6306.txt 11 갈라지다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 8:2-ARGM-EXT(CRT) 10:2-ARG2(FNS) 11:0-rel
+etri#doc_6306.txt 14 지배하다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARG0(AGT) 14:0-rel
+etri#doc_6306.txt 18 지배하다 ----- 11:3-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARG0(AGT) 18:0-rel

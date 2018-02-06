@@ -1,0 +1,6 @@
+etri#doc_8094.txt 2 안되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8094.txt 7 부르다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8094.txt 10 쓰이다 ----- 5:2-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARGM-EXT() 9:1-ARG1() 10:0-rel
+etri#doc_8094.txt 12 젓다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8094.txt 15 비교하다 ----- 14:2-ARG2(COM) 15:0-rel
+etri#doc_8094.txt 17 치밀다 ----- 10:2-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG0(Npr) 17:0-rel

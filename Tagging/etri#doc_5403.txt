@@ -1,0 +1,4 @@
+etri#doc_5403.txt 9 Ω≈¥Ÿ ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5403.txt 10 ∞»¥Ÿ ----- 7:4-ARG1(THM) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_5403.txt 17 ¡÷¥Ÿ ----- 16:1-ARG0(AGT) 17:0-rel
+etri#doc_5403.txt 19 ¥¿≥¢¥Ÿ ----- 13:2-ARGM-DIS() 14:1-ARG0(EXP) 15:1-ARGM-MNR(INS) 18:3-ARG1(THM) 19:0-rel

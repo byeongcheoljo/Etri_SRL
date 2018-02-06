@@ -1,0 +1,6 @@
+etri#doc_6168.txt 4 풀다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6168.txt 6 알다 ----- 1:1-ARG0(MAG) 2:1-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_6168.txt 8 제시하다 ----- 7:1-ARGM-TMP() 8:0-rel
+etri#doc_6168.txt 13 풀다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6168.txt 19 풀다 ----- 6:4-ARGM-DIS() 8:2-ARGM-TMP() 9:1-ARG0(AGT) 11:2-ARGM-DIS() 15:4-ARGM-CAU(EFF) 16:1-ARGM-MNR() 18:2-ARG1(THM) 19:0-rel
+etri#doc_6168.txt 20 밝혀지다 ----- 19:3-ARGM-DIS() 20:0-rel

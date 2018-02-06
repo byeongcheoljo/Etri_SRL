@@ -1,0 +1,2 @@
+etri#doc_7600.txt 3 되다 ----- 2:1-ARGM-LOC(GOL) 3:0-rel
+etri#doc_7600.txt 17 쓰다 ----- 1:1-ARGM-TMP() 4:3-ARG0(AGT) 7:3-ARGM-DIS() 16:6-ARG1(THM) 17:0-rel

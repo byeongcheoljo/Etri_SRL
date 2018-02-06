@@ -1,0 +1,8 @@
+etri#doc_6393.txt 2 생각하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_6393.txt 5 지나가다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_6393.txt 8 잃다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6393.txt 11 생각하다 ----- 2:2-ARGM-DIS() 10:4-ARG1() 11:0-rel
+etri#doc_6393.txt 13 잊다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6393.txt 16 되다 ----- 15:1-ARG2(FNS) 16:0-rel
+etri#doc_6393.txt 18 파멸하다 ----- 14:3-ARG0(THM) 16:2-ARGM-DIS() 17:1-ARGM-TMP() 18:0-rel
+etri#doc_6393.txt 19 알다 ----- 11:5-ARGM-DIS() 18:2-ARG1() 19:0-rel

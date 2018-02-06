@@ -1,0 +1,2 @@
+etri#doc_7171.txt 2 제기되다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_7171.txt 16 낳다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 13:2-ARGM-MNR() 14:1-ARG0(AGT) 15:1-ARGM-MNR(INS) 16:0-rel

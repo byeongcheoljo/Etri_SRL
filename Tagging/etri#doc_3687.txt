@@ -1,0 +1,6 @@
+etri#doc_3687.txt 3 짓다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3687.txt 5 가다 ----- 3:2-ARGM-DIS() 4:1-ARG3(GOL) 5:0-rel
+etri#doc_3687.txt 6 하다 ----- 1:1-ARG0(AGT) 5:2-ARG1() 6:0-rel
+etri#doc_3687.txt 12 맞다 ----- 11:1-ARG1() 12:0-rel
+etri#doc_3687.txt 13 가다 ----- 10:2-ARGM-CAU() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_3687.txt 17 가다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 13:3-ARGM-DIS() 14:1-ARG2(GOL) 15:1-ARGM-TMP() 16:1-ARG3(GOL) 17:0-rel

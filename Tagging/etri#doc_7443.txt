@@ -1,0 +1,5 @@
+etri#doc_7443.txt 5 남다 ----- 5:0-rel
+etri#doc_7443.txt 8 펼치다 ----- 3:1-ARGM-TMP() 6:2-ARGM-TMP() 7:1-ARGM-PRD(COM) 8:0-rel
+etri#doc_7443.txt 15 확정하다 ----- 15:0-rel
+etri#doc_7443.txt 17 선언하다 ----- 2:2-ARG0(AGT) 14:4-ARG1(THM) 15:1-ARGM-DIS() 16:1-ARG2(GOL) 17:0-rel
+etri#doc_7443.txt 20 찾다 ----- 18:3-ARGM-LOC(SRC) 19:1-ARG1(THM) 20:0-rel

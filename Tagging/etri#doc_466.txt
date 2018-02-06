@@ -1,0 +1,2 @@
+etri#doc_466.txt 14 나다 ----- 9:2-ARG0(AGT) 11:2-ARG1(THM) 12:1-ARGM-ADV() 13:1-ARG1(Npr) 14:0-rel
+etri#doc_466.txt 19 말하다 ----- 7:3-ARGM-DIS() 14:2-ARGM-CAU() 18:2-ARG1() 19:0-rel

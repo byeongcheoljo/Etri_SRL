@@ -1,0 +1,4 @@
+etri#doc_3959.txt 8 들다 ----- 5:2-ARG1(THM) 6:1-ARGM-LOC(LOC) 7:1-ARGM-NEG() 8:0-rel
+etri#doc_3959.txt 9 하다 ----- 3:1-ARG0(AGT) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_3959.txt 14 하다 ----- 11:2-ARGM-CAU(EFF) 12:1-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_3959.txt 18 맡다 ----- 2:2-ARGM-LOC(LOC) 9:3-ARGM-DIS() 14:2-ARGM-MNR() 16:2-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

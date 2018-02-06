@@ -1,0 +1,4 @@
+etri#doc_7739.txt 2 그리워하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7739.txt 5 미워하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7739.txt 6 오다 ----- 3:3-ARG0(AGT) 5:2-ARGM-CAU() 6:0-rel
+etri#doc_7739.txt 16 오다 ----- 6:3-ARGM-DIS() 8:2-ARG0(AGT) 15:3-ARGM-DIS() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_2149.txt 3 요리하다 ----- 2:1-() 3:0-rel
+etri#doc_2149.txt 4 먹다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_2149.txt 7 나오다 ----- 4:3-ARGM-CND() 6:2-ARG0(THM) 7:0-rel
+etri#doc_2149.txt 12 요리하다 ----- 12:0-rel
+etri#doc_2149.txt 13 먹다 ----- 11:4-ARG2(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_2149.txt 16 마시다 ----- 1:1-ARGM-DIS() 7:3-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG2() 16:0-rel

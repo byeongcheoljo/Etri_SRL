@@ -1,0 +1,4 @@
+etri#doc_5210.txt 5 되다 ----- 2:1-ARG1(THM) 4:2-ARGM-EXT() 5:0-rel
+etri#doc_5210.txt 9 되다 ----- 5:3-ARGM-DIS() 6:1-ARG1(THM) 8:2-ARGM-EXT() 9:0-rel
+etri#doc_5210.txt 12 파이다 ----- 1:1-ARGM-LOC(LOC) 11:2-ARG1(THM) 12:0-rel
+etri#doc_5210.txt 18 박히다 ----- 12:3-ARGM-DIS() 13:1-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

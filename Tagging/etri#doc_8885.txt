@@ -1,0 +1,2 @@
+etri#doc_8885.txt 4 차단되다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8885.txt 10 허용되다 ----- 5:4-ARGM-LOC(LOC) 6:1-ARGM-DIS() 9:3-ARG1(THM) 10:0-rel

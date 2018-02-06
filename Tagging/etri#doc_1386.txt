@@ -1,0 +1,6 @@
+etri#doc_1386.txt 6 달리다 ----- 3:3-ARG0(THM) 4:1-ARG1(DIR) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1386.txt 9 끼다 ----- 7:1-ARG1(THM) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_1386.txt 11 향하다 ----- 9:2-ARGM-MNR() 10:1-ARGM-DIR(DIR) 11:0-rel
+etri#doc_1386.txt 13 만들다 ----- 6:2-ARGM-MNR() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1386.txt 15 뻗다 ----- 14:1-ARGM-DIR(DIR) 15:0-rel
+etri#doc_1386.txt 19 되다 ----- 13:2-ARGM-DIS() 16:3-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel

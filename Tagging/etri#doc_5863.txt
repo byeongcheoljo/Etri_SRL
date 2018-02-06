@@ -1,0 +1,1 @@
+etri#doc_5863.txt 8 고려하다 ----- 4:3-ARGM-TMP() 6:2-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel

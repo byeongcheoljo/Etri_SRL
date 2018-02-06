@@ -1,0 +1,2 @@
+etri#doc_3930.txt 4 감안하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3930.txt 13 두다 ----- 4:3-ARGM-TMP() 7:2-ARG0(AGT) 9:2-ARGM-EXT(CRT) 11:2-ARG2(LOC) 12:1-ARG1(THM) 13:0-rel

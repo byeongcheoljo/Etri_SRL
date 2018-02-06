@@ -1,0 +1,4 @@
+etri#doc_6165.txt 5 유발하다 ----- 3:2-ARG0(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_6165.txt 7 관련되다 ----- 6:1-ARG2(LOC) 7:0-rel
+etri#doc_6165.txt 14 밝혀지다 ----- 13:1-ARGM-TMP() 14:0-rel
+etri#doc_6165.txt 18 받다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 11:3-ARGM-DIS() 16:2-ARG2(AGT) 17:1-ARG1(THM) 18:0-rel

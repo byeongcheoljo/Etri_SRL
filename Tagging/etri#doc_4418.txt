@@ -1,0 +1,9 @@
+etri#doc_4418.txt 3 받들다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4418.txt 6 가다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:1-ARGM-MNR(INS) 5:1-ARG3(GOL) 6:0-rel
+etri#doc_4418.txt 8 나오다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_4418.txt 10 나오다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:0-rel
+etri#doc_4418.txt 12 시키다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4418.txt 13 알아보다 ----- 10:2-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_4418.txt 16 토하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_4418.txt 18 쓰러지다 ----- 16:2-ARGM-DIS() 17:1-ARG2(GOL) 18:0-rel
+etri#doc_4418.txt 19 죽다 ----- 6:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARG1(THM) 18:2-ARGM-DIS() 19:0-rel

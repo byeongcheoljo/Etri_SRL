@@ -1,0 +1,5 @@
+etri#doc_11623.txt 4 경험하다 ----- 3:3-ARG2(THM) 4:0-rel
+etri#doc_11623.txt 6 증가하다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_11623.txt 9 수반되다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_11623.txt 17 두다 ----- 13:1-ARGM-MNR() 15:2-ARG2(LOC) 16:1-ARG1(THM) 17:0-rel
+etri#doc_11623.txt 18 분석하다 ----- 6:6-ARGM-CAU() 12:3-ARGM-ADV(EFF) 17:2-ARGM-DIS() 18:0-rel

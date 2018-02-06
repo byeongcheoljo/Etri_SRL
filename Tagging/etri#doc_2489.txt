@@ -1,0 +1,2 @@
+etri#doc_2489.txt 8 ∏ÿ√ﬂ¥Ÿ ----- 1:1-ARGM-EXT() 4:3-ARGM-ADV(EFF) 7:3-ARGM-ADV(EFF) 8:0-rel
+etri#doc_2489.txt 18 µ«¥Ÿ ----- 8:4-ARGM-CAU() 10:2-ARG0() 11:1-ARGM-EXT() 17:3-ARGM-ADV(EFF) 18:0-rel

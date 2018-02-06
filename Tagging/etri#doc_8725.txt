@@ -1,0 +1,5 @@
+etri#doc_8725.txt 6 æ…¥Ÿ ----- 6:0-rel
+etri#doc_8725.txt 9 Ω‚¥Ÿ ----- 9:0-rel
+etri#doc_8725.txt 13 ¿‚æ∆µÈ¥Ÿ ----- 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_8725.txt 15 µÈ∏Æ¥Ÿ ----- 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_8725.txt 19 ≈ø«œ¥Ÿ ----- 16:3-ARG1() 18:2-ARGM-DIS() 19:0-rel

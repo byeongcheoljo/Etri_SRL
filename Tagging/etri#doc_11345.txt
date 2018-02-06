@@ -1,0 +1,2 @@
+etri#doc_11345.txt 4 º¸³»´Ù ----- 1:1-ARG1(THM) 3:2-ARG2(GOL) 4:0-rel
+etri#doc_11345.txt 11 µè´Ù ----- 10:2-ARG1(THM) 11:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3329.txt 7 도입되다 ----- 3:1-ARG2(LOC) 6:3-ARG1(THM) 7:0-rel
+etri#doc_3329.txt 12 전개되다 ----- 7:4-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel
+etri#doc_3329.txt 13 예측하다 ----- 12:4-ARGM-DIS() 13:0-rel
+etri#doc_3329.txt 18 중요시하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 13:5-ARGM-ADV() 17:3-ARG0(THM) 18:0-rel

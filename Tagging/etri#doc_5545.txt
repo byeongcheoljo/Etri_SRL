@@ -1,0 +1,4 @@
+etri#doc_5545.txt 3 울다 ----- 1:1-ARG0(AGT) 2:1-ARGM-CAU() 3:0-rel
+etri#doc_5545.txt 4 보다 ----- 4:0-rel
+etri#doc_5545.txt 8 훔치다 ----- 3:2-ARGM-TMP() 5:2-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_5545.txt 10 어쩌다 ----- 10:0-rel

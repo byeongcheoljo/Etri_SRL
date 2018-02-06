@@ -1,0 +1,4 @@
+etri#doc_6126.txt 4 알려지다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_6126.txt 8 내려가다 ----- 6:1-ARGM-TMP() 7:1-ARG2(GOL) 8:0-rel
+etri#doc_6126.txt 14 나다 ----- 10:1-ARGM-TMP() 11:1-ARG2(SRC) 13:2-ARG1(THM) 14:0-rel
+etri#doc_6126.txt 16 받아들이다 ----- 9:3-ARG0(AGT) 15:4-ARGM-EXT(CRT) 16:0-rel

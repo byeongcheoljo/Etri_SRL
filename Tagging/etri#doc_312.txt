@@ -1,0 +1,4 @@
+etri#doc_312.txt 2 일하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_312.txt 5 살다 ----- 2:2-ARGM-CAU() 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_312.txt 8 알다 ----- 7:5-ARG1(THM) 8:0-rel
+etri#doc_312.txt 21 하다 ----- 10:2-ARG0(LOC) 14:2-ARG1(THM) 20:2-ARG2(FNS) 21:0-rel

@@ -1,0 +1,6 @@
+etri#doc_3024.txt 4 파괴하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3024.txt 7 예방하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3024.txt 8 회복하다 ----- 7:3-ARGM-DIS() 8:0-rel
+etri#doc_3024.txt 13 수행하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_3024.txt 15 건설하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_3024.txt 18 담당하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:5-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

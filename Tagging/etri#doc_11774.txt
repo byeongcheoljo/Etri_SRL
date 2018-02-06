@@ -1,0 +1,3 @@
+etri#doc_11774.txt 12 되다 ----- 10:1-ARGM-CAU(EFF) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_11774.txt 14 참여하다 ----- 2:2-ARG1(LOC) 13:3-ARG0(AGT) 14:0-rel
+etri#doc_11774.txt 16 되다 ----- 14:4-ARGM-MNR() 15:1-ARG2(FNS) 16:0-rel

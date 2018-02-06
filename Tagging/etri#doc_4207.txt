@@ -1,0 +1,7 @@
+etri#doc_4207.txt 4 마치다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4207.txt 6 진출하다 ----- 4:2-ARGM-DIS() 5:1-ARG3(GOL) 6:0-rel
+etri#doc_4207.txt 8 쏘다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_4207.txt 9 저지하다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_4207.txt 11 맞서다 ----- 10:4-ARG1(GOL) 11:0-rel
+etri#doc_4207.txt 14 던지다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_4207.txt 19 벌이다 ----- 1:1-ARG0(AGT) 6:2-ARGM-DIS() 11:5-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARGM-TMP() 18:2-ARG1(THM) 19:0-rel

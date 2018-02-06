@@ -1,0 +1,1 @@
+etri#doc_5905.txt 17 알려지다 ----- 1:1-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8473.txt 3 계시다 ----- 1:1-ARG1(AGT) 2:1-ARG2(LOC) 3:0-rel
+etri#doc_8473.txt 7 존재하다 ----- 6:3-ARGM-TMP(LOC) 7:0-rel
+etri#doc_8473.txt 11 잃다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_8473.txt 19 가시다 ----- 16:2-ARGM-LOC(LOC) 18:2-ARGM-EXT() 19:0-rel

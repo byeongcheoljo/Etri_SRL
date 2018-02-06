@@ -1,0 +1,1 @@
+etri#doc_3765.txt 6 사들이다 ----- 3:2-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel

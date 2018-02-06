@@ -1,0 +1,3 @@
+etri#doc_3214.txt 2 주다 ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_3214.txt 11 알다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_3214.txt 14 주다 ----- 12:1-ARG2(GOL) 13:1-ARG1(THM) 14:0-rel

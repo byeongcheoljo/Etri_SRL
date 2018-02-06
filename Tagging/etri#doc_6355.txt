@@ -1,0 +1,2 @@
+etri#doc_6355.txt 3 들다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_6355.txt 10 대처하다 ----- 5:2-ARGM-MNR(INS) 8:2-ARG1(LOC) 9:1-ARGM-EXT() 10:0-rel

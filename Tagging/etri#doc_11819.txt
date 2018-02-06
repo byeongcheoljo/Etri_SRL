@@ -1,0 +1,4 @@
+etri#doc_11819.txt 4 연결하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11819.txt 11 하다 ----- 2:2-ARG0(AGT) 9:3-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_11819.txt 16 연관되다 ----- 14:2-ARGM-DIS() 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_11819.txt 18 구성되다 ----- 11:2-ARGM-EXT() 12:1-ARG2(INS) 17:3-ARG2(INS) 18:0-rel

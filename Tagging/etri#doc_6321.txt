@@ -1,0 +1,1 @@
+etri#doc_6321.txt 14 유지하다 ----- 12:1-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel

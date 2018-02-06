@@ -1,0 +1,1 @@
+etri#doc_4840.txt 14 ¿Ã∏£¥Ÿ ----- 3:3-ARGM-TMP() 6:3-ARG1(THM) 11:4-ARGM-LOC(LOC) 13:2-ARG3(GOL) 14:0-rel

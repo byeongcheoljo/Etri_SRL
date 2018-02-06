@@ -1,0 +1,2 @@
+etri#doc_5887.txt 7 시청하다 ----- 3:1-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_5887.txt 11 허용하다 ----- 2:1-ARG0(AGT) 7:4-ARGM-DIS() 9:2-ARGM-MNR(COM) 10:1-ARG1(THM) 11:0-rel

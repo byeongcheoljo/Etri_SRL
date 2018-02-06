@@ -1,0 +1,1 @@
+etri#doc_8192.txt 16 태어나다 ----- 7:3-ARGM-TMP(LOC) 8:1-ARG1(THM) 12:4-ARGM-LOC(LOC) 15:3-ARGM-MNR(FNS) 16:0-rel

@@ -1,0 +1,8 @@
+etri#doc_4024.txt 2 알다 ----- 2:0-rel
+etri#doc_4024.txt 3 가다 ----- 2:1-ARGM-DIS() 3:0-rel
+etri#doc_4024.txt 4 오다 ----- 4:0-rel
+etri#doc_4024.txt 6 준비하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:1-ARG1() 6:0-rel
+etri#doc_4024.txt 7 하다 ----- 1:1-ARG0(AGT) 6:2-ARG1() 7:0-rel
+etri#doc_4024.txt 12 오다 ----- 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4024.txt 13 하다 ----- 12:2-ARG1() 13:0-rel
+etri#doc_4024.txt 15 보내다 ----- 7:3-ARGM-DIS() 8:1-ARGM-MNR() 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

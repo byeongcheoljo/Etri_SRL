@@ -1,0 +1,4 @@
+etri#doc_8418.txt 8 박탈당하다 ----- 5:1-ARGM-LOC(LOC) 7:2-ARG1(THM) 8:0-rel
+etri#doc_8418.txt 11 자칭하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8418.txt 13 머무르다 ----- 8:3-ARGM-DIS() 9:1-ARGM-TMP() 11:2-ARGM-DIS() 12:1-ARG2(LOC) 13:0-rel
+etri#doc_8418.txt 18 끼다 ----- 1:1-ARGM-DIS() 4:3-ARGM-LOC(LOC) 17:4-ARG1(THM) 18:0-rel

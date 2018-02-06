@@ -1,0 +1,3 @@
+etri#doc_13136.txt 5 진입하다 ----- 3:1-ARG0(AGT) 4:1-ARGM-LOC(GOL) 5:0-rel
+etri#doc_13136.txt 9 주저앉다 ----- 7:2-ARGM-LOC(LOC) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_13136.txt 14 들리다 ----- 1:1-ARGM-CAU(EFF) 2:1-ARGM-LOC(LOC) 13:6-ARG1(THM) 14:0-rel

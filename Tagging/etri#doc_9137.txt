@@ -1,0 +1,4 @@
+etri#doc_9137.txt 2 µè´Ù ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_9137.txt 7 ÇÏ´Ù ----- 5:1-ARG2(COM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_9137.txt 10 ÀØ´Ù ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_9137.txt 12 ¸ð¸£´Ù ----- 7:2-ARGM-DIS() 8:1-ARG0(EXP) 10:2-ARGM-DIS() 11:1-ARGM-NEG() 12:0-rel

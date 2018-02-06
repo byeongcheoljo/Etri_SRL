@@ -1,0 +1,2 @@
+etri#doc_1234.txt 6 알다 ----- 3:2-ARGM-ADV(EFF) 4:1-ARGM-TMP(LOC) 5:1-ARG0(MAG) 6:0-rel
+etri#doc_1234.txt 18 포함되다 ----- 1:1-ARGM-DIS() 15:3-ARGM-LOC(LOC) 17:2-ARG0(THM) 18:0-rel

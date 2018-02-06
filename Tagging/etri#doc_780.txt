@@ -1,0 +1,3 @@
+etri#doc_780.txt 3 추천하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_780.txt 11 정제되다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_780.txt 19 암시하다 ----- 5:2-ARG0(AGT) 6:1-ARG0(AGT) 13:4-ARGM-MNR() 18:5-ARG1(THM) 19:0-rel

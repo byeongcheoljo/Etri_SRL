@@ -1,0 +1,3 @@
+etri#doc_11370.txt 5 출판되다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_11370.txt 7 지나다 ----- 5:4-ARGM-TMP() 6:1-ARGM-TMP(CRT) 7:0-rel
+etri#doc_11370.txt 10 제외하다 ----- 9:2-ARG1(THM) 10:0-rel

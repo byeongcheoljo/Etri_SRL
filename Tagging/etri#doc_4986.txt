@@ -1,0 +1,4 @@
+etri#doc_4986.txt 4 지배하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4986.txt 8 나타나다 ----- 6:1-ARG0(AGT) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_4986.txt 12 존재하다 ----- 5:4-ARG2(LOC) 11:3-ARG1(THM) 12:0-rel
+etri#doc_4986.txt 16 유전되다 ----- 1:1-ARGM-DIS() 12:4-ARGM-CND() 14:2-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6800.txt 3 두다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6800.txt 4 드러나다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_6800.txt 9 보다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_6800.txt 16 택하다 ----- 11:2-ARG0(AGT) 12:1-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel
+etri#doc_6800.txt 18 나오다 ----- 1:1-ARGM-TMP() 9:3-ARGM-TMP() 17:4-ARG0(THM) 18:0-rel

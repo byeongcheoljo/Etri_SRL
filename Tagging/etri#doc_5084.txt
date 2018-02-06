@@ -1,0 +1,4 @@
+etri#doc_5084.txt 2 지내다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5084.txt 8 보여주다 ----- 7:2-ARG0(EFF) 8:0-rel
+etri#doc_5084.txt 13 보여주다 ----- 4:4-ARGM-TMP() 5:1-ARG0(EFF) 10:2-ARG1(THM) 12:2-ARGM-EXT() 13:0-rel
+etri#doc_5084.txt 17 유지하다 ----- 13:3-ARGM-CAU() 14:1-ARGM-EXT() 16:2-ARG1(THM) 17:0-rel

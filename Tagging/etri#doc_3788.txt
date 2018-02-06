@@ -1,0 +1,5 @@
+etri#doc_3788.txt 1 투자하다 ----- 1:0-rel
+etri#doc_3788.txt 3 건지다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3788.txt 4 광분하다 ----- 4:0-rel
+etri#doc_3788.txt 9 피우다 ----- 3:3-ARGM-PRP() 4:1-ARGM-DIS() 8:3-ARG1(Npr) 9:0-rel
+etri#doc_3788.txt 14 수행하다 ----- 11:2-ARG1(THM) 12:1-ARGM-CAU(EFF) 13:1-ARGM-MNR() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5427.txt 7 배우다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_5427.txt 16 감염되다 ----- 13:2-ARGM-DIS() 14:1-ARG2(EFF) 15:1-ARGM-MNR() 16:0-rel

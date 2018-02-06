@@ -1,0 +1,5 @@
+etri#doc_6233.txt 5 언급하다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_6233.txt 9 저장되다 ----- 3:2-ARG2(LOC) 5:2-ARGM-EXT() 8:3-ARG1(THM) 9:0-rel
+etri#doc_6233.txt 13 하다 ----- 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6233.txt 14 입력되다 ----- 14:0-rel
+etri#doc_6233.txt 16 나열되다 ----- 1:1-ARGM-DIS() 9:4-ARGM-DIS() 10:1-ARG1(THM) 13:2-ARGM-DIS() 15:2-ARGM-MNR(INS) 16:0-rel

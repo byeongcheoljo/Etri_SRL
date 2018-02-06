@@ -1,0 +1,3 @@
+etri#doc_11521.txt 3 넣다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_11521.txt 13 좋아지다 ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11521.txt 15 검토하다 ----- 3:2-ARGM-DIS() 6:3-ARGM-CND() 9:3-ARGM-MNR(INS) 13:2-ARG1() 14:1-ARGM-MNR() 15:0-rel

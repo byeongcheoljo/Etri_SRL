@@ -1,0 +1,4 @@
+etri#doc_2369.txt 5 인식하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2369.txt 6 절망하다 ----- 5:4-() 6:0-rel
+etri#doc_2369.txt 9 포기하다 ----- 6:5-ARGM-DIS() 7:1-ARGM-ADV(EFF) 8:1-ARG1(THM) 9:0-rel
+etri#doc_2369.txt 16 설정하다 ----- 11:2-ARG0() 12:1-ARGM-EXT() 15:2-ARG1(THM) 16:0-rel

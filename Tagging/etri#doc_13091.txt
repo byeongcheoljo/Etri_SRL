@@ -1,0 +1,4 @@
+etri#doc_13091.txt 4 알다 ----- 2:1-ARG0(AGT) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_13091.txt 5 누리다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_13091.txt 15 왜곡되다 ----- 10:2-ARG1(THM) 11:1-ARGM-DIS() 13:2-ARGM-MNR(INS) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_13091.txt 16 규명하다 ----- 1:1-ARGM-DIS() 15:2-ARG1() 16:0-rel

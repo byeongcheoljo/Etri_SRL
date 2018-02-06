@@ -1,0 +1,2 @@
+etri#doc_1056.txt 7 가지다 ----- 3:3-ARGM-MNR() 5:2-ARG1(THM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1056.txt 16 느끼다 ----- 8:3-ARGM-PRD() 9:1-ARGM-MNR(EXP) 15:2-ARG1(THM) 16:0-rel

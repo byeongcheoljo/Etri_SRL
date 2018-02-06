@@ -1,0 +1,2 @@
+etri#doc_5373.txt 9 풀다 ----- 6:5-ARG1(THM) 7:1-ARGM-MNR(INS) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5373.txt 18 포기하다 ----- 1:1-ARGM-DIS() 14:5-ARGM-EXT(CRT) 15:1-ARGM-MNR(INS) 17:2-ARG1(THM) 18:0-rel

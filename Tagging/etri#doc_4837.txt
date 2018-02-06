@@ -1,0 +1,4 @@
+etri#doc_4837.txt 7 찬양하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4837.txt 11 점령하다 ----- 9:1-ARGM-TMP() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4837.txt 17 요구하다 ----- 7:3-ARGM-DIS() 8:1-ARGM-ADV(EFF) 12:3-ARG2(SRC) 14:2-ARGM-ADV(EFF) 16:2-ARG1(THM) 17:0-rel
+etri#doc_4837.txt 19 채택하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-LOC(LOC) 18:4-ARG1(THM) 19:0-rel

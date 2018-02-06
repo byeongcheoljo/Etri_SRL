@@ -1,0 +1,5 @@
+etri#doc_6927.txt 3 개발하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_6927.txt 5 팔다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6927.txt 7 시도하다 ----- 3:2-ARGM-DIS() 5:2-ARGM-PRP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_6927.txt 10 포기하다 ----- 1:1-ARGM-LOC(LOC) 7:2-ARGM-DIS() 8:1-ARGM-DIS() 9:1-ARGM-CAU(EFF) 10:0-rel
+etri#doc_6927.txt 17 파다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

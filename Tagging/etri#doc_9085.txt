@@ -1,0 +1,4 @@
+etri#doc_9085.txt 9 비판하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9085.txt 11 매혹하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_9085.txt 15 하다 ----- 11:5-ARGM-DIS() 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_9085.txt 16 만들다 ----- 4:4-ARG0(AGT) 5:1-ARGM-TMP(LOC) 15:3-ARGM-DIS() 16:0-rel

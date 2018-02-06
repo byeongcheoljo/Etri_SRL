@@ -1,0 +1,6 @@
+etri#doc_4814.txt 1 흔들리다 ----- 1:0-rel
+etri#doc_4814.txt 6 반사되다 ----- 5:3-ARGM-DIR(DIR) 6:0-rel
+etri#doc_4814.txt 7 비추다 ----- 2:2-ARG0(EFF) 6:4-ARGM-DIS() 7:0-rel
+etri#doc_4814.txt 10 찍히다 ----- 8:1-ARGM-MNR() 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4814.txt 15 따라가다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_4814.txt 19 어른거리다 ----- 12:4-ARGM-DIS() 15:3-ARGM-CND() 18:2-ARG1(THM) 19:0-rel

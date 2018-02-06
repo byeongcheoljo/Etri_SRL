@@ -1,0 +1,5 @@
+etri#doc_968.txt 4 갖다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_968.txt 7 예보되다 ----- 7:0-rel
+etri#doc_968.txt 12 게시하다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARGM-LOC(LOC) 11:4-ARGM-MNR() 12:0-rel
+etri#doc_968.txt 15 하다 ----- 12:5-ARGM-CAU() 13:1-ARGM-LOC(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_968.txt 18 삼다 ----- 2:2-ARGM-TMP() 15:2-ARGM-DIS() 16:1-ARGM-DIS() 17:1-ARG2(FNS) 18:0-rel

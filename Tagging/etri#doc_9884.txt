@@ -1,0 +1,5 @@
+etri#doc_9884.txt 3 한정되다 ----- 3:0-rel
+etri#doc_9884.txt 7 분리하다 ----- 5:2-ARG2(SRC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_9884.txt 10 따르다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_9884.txt 15 포기하다 ----- 10:3-ARGM-CAU() 14:2-ARG1(THM) 15:0-rel
+etri#doc_9884.txt 16 주장하다 ----- 2:2-ARG0(AGT) 15:3-ARGM-DIS() 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_152.txt 7 서다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_152.txt 9 되다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_152.txt 12 처리하다 ----- 10:3-ARGM-DIR(DIR) 11:1-ARG1(THM) 12:0-rel
+etri#doc_152.txt 14 얘기하다 ----- 1:1-ARGM-TMP() 5:4-ARG0(AGT) 7:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG2(GOL) 14:0-rel
+etri#doc_152.txt 18 거부하다 ----- 14:2-ARGM-DIS() 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel

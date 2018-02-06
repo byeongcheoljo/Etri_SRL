@@ -1,0 +1,1 @@
+etri#doc_8343.txt 10 도식화하다 ----- 7:4-ARG1(THM) 9:2-ARG2(FNS) 10:0-rel

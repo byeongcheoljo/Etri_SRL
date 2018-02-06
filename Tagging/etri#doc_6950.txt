@@ -1,0 +1,3 @@
+etri#doc_6950.txt 11 떠받치다 ----- 9:2-ARG0(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6950.txt 17 향상시키다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_6950.txt 18 이바지하다 ----- 7:6-ARGM-DIS() 11:2-ARGM-TMP() 12:1-ARG1(AGT) 13:1-ARGM-EXT() 17:3-ARG2() 18:0-rel

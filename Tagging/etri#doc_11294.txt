@@ -1,0 +1,5 @@
+etri#doc_11294.txt 3 주관하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_11294.txt 9 발생하다 ----- 8:2-ARGM-CAU(EFF) 9:0-rel
+etri#doc_11294.txt 12 검토하다 ----- 5:2-ARGM-MNR(INS) 11:2-ARG1(THM) 12:0-rel
+etri#doc_11294.txt 16 시작하다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARGM-MNR() 15:3-ARG1(THM) 16:0-rel
+etri#doc_11294.txt 20 출판되다 ----- 16:4-ARGM-DIS() 17:1-ARG1(THM) 19:2-ARGM-INS(INS) 20:0-rel

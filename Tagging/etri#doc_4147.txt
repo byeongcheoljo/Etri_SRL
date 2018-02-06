@@ -1,0 +1,4 @@
+etri#doc_4147.txt 8 지적되다 ----- 7:3-ARG1(CNT) 8:0-rel
+etri#doc_4147.txt 14 나다 ----- 9:5-ARG1(THM) 11:2-ARGM-MNR(INS) 12:1-ARGM-TMP() 13:1-ARG1(Npr) 14:0-rel
+etri#doc_4147.txt 19 일어나다 ----- 18:3-ARG1(THM) 19:0-rel
+etri#doc_4147.txt 20 기대하다 ----- 2:2-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-DIS() 19:4-ARG1(THM) 20:0-rel

@@ -1,0 +1,1 @@
+etri#doc_8292.txt 16 선보이다 ----- 7:2-ARG0(AGT) 9:2-ARGM-TMP(LOC) 10:1-ARGM-MNR() 14:2-ARG1(THM) 15:1-ARGM-INS(INS) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_3981.txt 2 꼬다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3981.txt 8 태우다 ----- 6:4-ARGM-CAU() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3981.txt 12 내던지다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3981.txt 15 돌아보다 ----- 15:0-rel
+etri#doc_3981.txt 17 하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_3981.txt 18 내던지다 ----- 14:1-ARGM-EXT() 17:3-ARGM-DIS() 18:0-rel

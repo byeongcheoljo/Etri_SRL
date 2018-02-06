@@ -1,0 +1,5 @@
+etri#doc_1604.txt 5 가지다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_1604.txt 7 가지다 ----- 2:2-ARG0(THM) 3:1-ARGM-TMP() 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_1604.txt 11 설정하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_1604.txt 15 발표하다 ----- 7:2-ARGM-DIS() 11:4-ARGM-DIS() 14:3-ARGM-LOC(LOC) 15:0-rel
+etri#doc_1604.txt 18 받다 ----- 15:4-ARGM-CAU() 17:2-ARG1(THM) 18:0-rel

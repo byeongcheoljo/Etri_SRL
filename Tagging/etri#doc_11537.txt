@@ -1,0 +1,3 @@
+etri#doc_11537.txt 5 전승하다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_11537.txt 9 지키다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11537.txt 12 이르다 ----- 11:1-ARG3(GOL) 12:0-rel

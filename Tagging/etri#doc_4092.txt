@@ -1,0 +1,6 @@
+etri#doc_4092.txt 6 향하다 ----- 4:4-ARG2(DIR) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_4092.txt 8 잡다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_4092.txt 10 넣다 ----- 9:1-ARG2(GOL) 10:0-rel
+etri#doc_4092.txt 13 삶다 ----- 8:4-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4092.txt 16 익다 ----- 16:0-rel
+etri#doc_4092.txt 19 하다 ----- 13:2-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

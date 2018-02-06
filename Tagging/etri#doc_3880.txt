@@ -1,0 +1,1 @@
+etri#doc_3880.txt 11 포함시키다 ----- 1:1-ARG0(AGT) 3:2-ARG2(GOL) 10:4-ARG1(THM) 11:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7304.txt 4 조사하다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 4:0-rel
+etri#doc_7304.txt 10 보이다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARG0(AGT) 9:3-ARG1(THM) 10:0-rel
+etri#doc_7304.txt 12 보다 ----- 11:5-ARGM-MNR(INS) 12:0-rel
+etri#doc_7304.txt 17 일어나다 ----- 15:2-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel
+etri#doc_7304.txt 18 보이다 ----- 4:3-ARGM-DIS() 12:6-ARGM-DIS() 17:2-ARG1() 18:0-rel

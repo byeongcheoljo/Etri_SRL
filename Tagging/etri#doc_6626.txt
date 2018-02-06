@@ -1,0 +1,5 @@
+etri#doc_6626.txt 3 보다 ----- 1:1-ARGM-EXT() 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6626.txt 8 다니다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6626.txt 12 나누다 ----- 8:2-ARGM-DIS() 9:1-ARG2(COM) 11:2-ARG1(THM) 12:0-rel
+etri#doc_6626.txt 13 다녀오다 ----- 13:0-rel
+etri#doc_6626.txt 16 생기다 ----- 12:3-ARGM-DIS() 13:1-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

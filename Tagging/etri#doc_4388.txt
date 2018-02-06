@@ -1,0 +1,3 @@
+etri#doc_4388.txt 4 부딪치다 ----- 2:1-ARG2(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_4388.txt 5 자결하다 ----- 1:1-ARGM-TMP() 4:2-ARGM-DIS() 5:0-rel
+etri#doc_4388.txt 11 흘리다 ----- 7:5-ARGM-CAU(EFF) 9:2-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel

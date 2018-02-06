@@ -1,0 +1,5 @@
+etri#doc_2427.txt 4 손해보다 ----- 3:1-() 4:0-rel
+etri#doc_2427.txt 6 감수하다 ----- 5:3-() 6:0-rel
+etri#doc_2427.txt 9 하다 ----- 1:1-ARGM-EXT() 2:1-ARG0() 6:4-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_2427.txt 13 차지하다 ----- 11:2-ARGM-LOC(LOC) 12:1-ARG0(AGT) 13:0-rel
+etri#doc_2427.txt 17 이르다 ----- 9:3-ARGM-DIS() 14:3-ARG0() 15:1-ARGM-TMP() 16:1-ARG3(EFF) 17:0-rel

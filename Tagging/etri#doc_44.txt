@@ -1,0 +1,5 @@
+etri#doc_44.txt 4 ¾Î´Ù ----- 3:2-ARG1(LOC) 4:0-rel
+etri#doc_44.txt 7 ¾Î´Ù ----- 4:3-ARGM-DIS() 6:2-ARG1(LOC) 7:0-rel
+etri#doc_44.txt 10 ¾Î´Ù ----- 7:3-ARGM-DIS() 9:2-ARG1(LOC) 10:0-rel
+etri#doc_44.txt 13 ¾Î´Ù ----- 10:3-() 12:2-ARG1(LOC) 13:0-rel
+etri#doc_44.txt 16 ¾Î´Ù ----- 1:1-() 13:3-ARGM-DIS() 15:2-ARG1(LOC) 16:0-rel

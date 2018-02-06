@@ -1,0 +1,3 @@
+etri#doc_1775.txt 8 갖다 ----- 3:1-ARGM-PRD(EFF) 7:2-ARG1(THM) 8:0-rel
+etri#doc_1775.txt 12 손상하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_1775.txt 15 잃다 ----- 9:4-ARG0(THM) 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

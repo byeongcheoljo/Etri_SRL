@@ -1,0 +1,5 @@
+etri#doc_3704.txt 6 내리다 ----- 5:1-ARGM-EXT() 6:0-rel
+etri#doc_3704.txt 9 기록하다 ----- 4:2-ARGM-TMP() 7:3-ARGM-EXT(FNS) 8:1-ARG1(FNS) 9:0-rel
+etri#doc_3704.txt 11 오르다 ----- 9:2-ARGM-DIS() 10:1-ARGM-EXT(GOL) 11:0-rel
+etri#doc_3704.txt 14 오르다 ----- 12:1-ARGM-EXT(CRT) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3704.txt 16 머무르다 ----- 1:1-ARGM-DIS(EFF) 2:1-ARG1(THM) 11:2-ARGM-DIS() 15:3-ARG2(LOC) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6167.txt 6 탐색하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6167.txt 13 다루다 ----- 7:4-ARGM-DIS() 11:4-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_6167.txt 16 가지다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 3:1-ARG0(LOC) 14:3-ARG1(THM) 15:1-ARGM-TMP() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11376.txt 13 오르다 ----- 11:2-ARG1(THM) 12:1-ARG3(GOL) 13:0-rel
+etri#doc_11376.txt 16 인정받다 ----- 1:1-ARGM-DIS() 5:3-ARGM-CAU(EFF) 9:4-ARGM-MNR() 14:3-ARG0(GOL) 15:1-ARGM-MNR(INS) 16:0-rel

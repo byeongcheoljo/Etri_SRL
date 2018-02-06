@@ -1,0 +1,6 @@
+etri#doc_6583.txt 4 가다 ----- 3:2-ARGM-MNR() 4:0-rel
+etri#doc_6583.txt 8 가다 ----- 7:2-ARGM-MNR() 8:0-rel
+etri#doc_6583.txt 10 모순되다 ----- 10:0-rel
+etri#doc_6583.txt 12 떼다 ----- 12:0-rel
+etri#doc_6583.txt 13 연결되다 ----- 5:4-ARG1(THM) 9:4-ARG2(COM) 10:1-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6583.txt 14 밝히다 ----- 13:2-ARG1(THM) 14:0-rel

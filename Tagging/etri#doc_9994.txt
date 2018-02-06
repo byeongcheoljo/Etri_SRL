@@ -1,0 +1,4 @@
+etri#doc_9994.txt 6 굳다 ----- 6:0-rel
+etri#doc_9994.txt 8 박히다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_9994.txt 15 담그다 ----- 13:1-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_9994.txt 19 집다 ----- 2:2-ARG0(AGT) 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

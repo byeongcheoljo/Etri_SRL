@@ -1,0 +1,2 @@
+etri#doc_1741.txt 2 µÇ´Ù ----- 1:1-ARG1(FNS) 2:0-rel
+etri#doc_1741.txt 11 »Ì´Ù ----- 6:2-ARGM-INS(INS) 8:2-ARG1(THM) 10:2-ARGM-INS(INS) 11:0-rel

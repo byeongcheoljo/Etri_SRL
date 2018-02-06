@@ -1,0 +1,7 @@
+etri#doc_317.txt 2 참가하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_317.txt 5 내다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_317.txt 7 승리하다 ----- 7:0-rel
+etri#doc_317.txt 8 내다 ----- 7:1-ARGM-TMP() 8:0-rel
+etri#doc_317.txt 11 모으다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_317.txt 15 지원하다 ----- 11:3-ARGM-CND() 14:3-ARG2(THM) 15:0-rel
+etri#doc_317.txt 20 되다 ----- 3:3-ARG0(AGT) 17:6-ARGM-CAU() 19:2-ARG1(THM) 20:0-rel

@@ -1,0 +1,1 @@
+etri#doc_1835.txt 8 µÚµ¤ÀÌ´Ù ----- 5:2-ARG0(THM) 6:1-ARGM-MNR(CRT) 7:1-ARGM-ADV(INS) 8:0-rel

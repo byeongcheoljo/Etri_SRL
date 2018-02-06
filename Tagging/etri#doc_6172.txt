@@ -1,0 +1,5 @@
+etri#doc_6172.txt 6 관여하다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_6172.txt 10 보다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6172.txt 12 결정하다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6172.txt 14 보다 ----- 10:2-ARGM-DIS() 12:2-ARGM-EXT() 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_6172.txt 15 통보하다 ----- 8:4-ARGM-CAU() 14:2-ARG1() 15:0-rel

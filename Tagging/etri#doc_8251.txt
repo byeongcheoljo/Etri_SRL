@@ -1,0 +1,4 @@
+etri#doc_8251.txt 3 다니다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8251.txt 7 당하다 ----- 1:1-ARGM-TMP() 3:2-ARGM-DIS() 4:1-ARG1(GOL) 5:1-ARG3(AGT) 6:1-ARG2(Npr) 7:0-rel
+etri#doc_8251.txt 12 던지다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8251.txt 17 내버리다 ----- 7:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARG1(THM) 16:1-ARG1(THM) 17:0-rel

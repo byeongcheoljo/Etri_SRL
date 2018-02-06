@@ -1,0 +1,4 @@
+etri#doc_5205.txt 3 되다 ----- 1:1-ARGM-TMP() 2:1-ARG2(FNS) 3:0-rel
+etri#doc_5205.txt 9 분담하다 ----- 8:2-ARG0(AGT) 9:0-rel
+etri#doc_5205.txt 12 번역하다 ----- 6:2-ARG1(THM) 9:3-ARGM-DIS() 11:2-ARGM-MNR(INS) 12:0-rel
+etri#doc_5205.txt 16 협력하다 ----- 12:3-ARGM-DIS() 15:3-ARG0(AGT) 16:0-rel

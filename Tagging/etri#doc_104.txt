@@ -1,0 +1,3 @@
+etri#doc_104.txt 5 겪다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_104.txt 7 나아가다 ----- 2:1-ARG0(AGT) 5:3-ARGM-DIS() 6:1-ARG3(DIR) 7:0-rel
+etri#doc_104.txt 13 화해하다 ----- 11:2-ARG1(COM) 12:1-ARGM-ADV() 13:0-rel

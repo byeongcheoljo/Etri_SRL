@@ -1,0 +1,6 @@
+etri#doc_1609.txt 7 구입하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1609.txt 8 배우다 ----- 5:2-ARGM-INS(INS) 7:2-ARGM-DIS() 8:0-rel
+etri#doc_1609.txt 12 여행하다 ----- 8:3-ARGM-CND() 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_1609.txt 13 생각하다 ----- 12:2-() 13:0-rel
+etri#doc_1609.txt 16 잘못되다 ----- 16:0-rel
+etri#doc_1609.txt 19 잘못되다 ----- 15:5-ARGM-CND() 16:1-() 17:1-ARGM-DIS() 18:1-ARGM-EXT() 19:0-rel

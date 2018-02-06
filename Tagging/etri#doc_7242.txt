@@ -1,0 +1,5 @@
+etri#doc_7242.txt 5 지향하다 ----- 1:1-ARGM-EXT(EFF) 4:3-ARG1(THM) 5:0-rel
+etri#doc_7242.txt 6 시작하다 ----- 5:4-ARGM-DIS() 6:0-rel
+etri#doc_7242.txt 11 용인하다 ----- 8:2-ARG0(AGT) 9:1-ARGM-MNR(INS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_7242.txt 18 넘다 ----- 16:4-ARGM-EXT(CRT) 17:1-ARGM-EXT() 18:0-rel
+etri#doc_7242.txt 20 되다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 19:3-ARG2(FNS) 20:0-rel

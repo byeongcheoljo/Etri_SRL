@@ -1,0 +1,4 @@
+etri#doc_8194.txt 10 사임하다 ----- 7:3-() 8:1-ARGM-TMP() 9:1-ARG1(SRC) 10:0-rel
+etri#doc_8194.txt 14 굴하다 ----- 12:1-ARGM-TMP() 13:1-ARGM-MNR() 14:0-rel
+etri#doc_8194.txt 16 지키다 ----- 11:3-() 14:2-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_8194.txt 18 되다 ----- 2:2-ARG1(THM) 17:3-ARG2(FNS) 18:0-rel

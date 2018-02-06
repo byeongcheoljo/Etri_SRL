@@ -1,0 +1,2 @@
+etri#doc_8664.txt 10 확인되다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_8664.txt 14 파악하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel

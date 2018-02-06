@@ -1,0 +1,5 @@
+etri#doc_4956.txt 5 받다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4956.txt 9 쭈그리다 ----- 5:3-ARGM-DIS() 6:1-ARGM-MNR() 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4956.txt 12 파다 ----- 10:1-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4956.txt 16 올려다보다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4956.txt 18 가늠하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

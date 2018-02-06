@@ -1,0 +1,1 @@
+etri#doc_449.txt 12 도래하다 ----- 7:2-ARG0(THM) 11:3-ARG2(SRC) 12:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7500.txt 4 높이다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7500.txt 16 보장하다 ----- 1:1-ARGM-DIS() 4:3-ARGM-PRP() 9:4-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

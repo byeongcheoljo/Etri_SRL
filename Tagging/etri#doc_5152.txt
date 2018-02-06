@@ -1,0 +1,2 @@
+etri#doc_5152.txt 6 이기다 ----- 1:1-ARG0(AGT) 2:1-ARG0(AGT) 3:1-ARG1(THM) 5:2-ARG1(THM) 6:0-rel
+etri#doc_5152.txt 8 갖추다 ----- 7:4-ARG1(THM) 8:0-rel

@@ -1,0 +1,3 @@
+etri#doc_5142.txt 5 되다 ----- 4:3-ARG2(FNS) 5:0-rel
+etri#doc_5142.txt 13 의존하다 ----- 10:1-ARG0(THM) 12:2-ARG1(GOL) 13:0-rel
+etri#doc_5142.txt 18 제시하다 ----- 6:5-ARGM-LOC(LOC) 9:3-ARG0(AGT) 15:5-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

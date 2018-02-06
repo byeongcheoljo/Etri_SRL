@@ -1,0 +1,5 @@
+etri#doc_912.txt 5 판단하다 ----- 3:2-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_912.txt 8 시작하다 ----- 6:1-ARGM-TMP() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_912.txt 11 이르다 ----- 5:2-ARGM-PRP() 8:2-ARGM-DIR() 9:1-ARGM-TMP() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_912.txt 15 맞다 ----- 12:1-ARGM-NEG() 13:1-ARG2(CRT) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_912.txt 20 사다 ----- 1:1-ARG0(AGT) 17:4-ARGM-CAU(EFF) 18:1-ARG2(SRC) 19:1-ARG1(THM) 20:0-rel

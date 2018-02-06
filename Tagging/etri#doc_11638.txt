@@ -1,0 +1,8 @@
+etri#doc_11638.txt 2 얘기하다 ----- 2:0-rel
+etri#doc_11638.txt 3 다투다 ----- 1:1-ARGM-DIS() 2:1-ARGM-MNR() 3:0-rel
+etri#doc_11638.txt 5 밀치다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_11638.txt 7 딸리다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_11638.txt 8 넘어지다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_11638.txt 11 글썽이다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11638.txt 15 밀치다 ----- 12:1-ARG0(AGT) 14:2-ARGM-EXT() 15:0-rel
+etri#doc_11638.txt 17 표하다 ----- 5:2-ARGM-DIS() 9:4-ARG0(AGT) 11:2-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

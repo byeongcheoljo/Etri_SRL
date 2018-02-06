@@ -1,0 +1,8 @@
+etri#doc_8769.txt 2 읽다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8769.txt 6 배우다 ----- 2:2-ARGM-CAU(EFF) 5:3-ARG1(THM) 6:0-rel
+etri#doc_8769.txt 11 보다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8769.txt 13 흉내내다 ----- 12:1-ARGM-TMP() 13:0-rel
+etri#doc_8769.txt 14 빌리다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_8769.txt 15 훔치다 ----- 11:3-ARGM-CND() 14:3-ARGM-DIS() 15:0-rel
+etri#doc_8769.txt 17 하다 ----- 16:5-ARG1(THM) 17:0-rel
+etri#doc_8769.txt 18 못쓰다 ----- 6:4-ARGM-DIS() 17:6-ARGM-DIS() 18:0-rel

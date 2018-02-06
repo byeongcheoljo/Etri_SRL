@@ -1,0 +1,4 @@
+etri#doc_3844.txt 7 겸비하다 ----- 4:1-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_3844.txt 13 피우다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_3844.txt 15 되다 ----- 9:5-ARG1(THM) 14:5-ARG2(FNS) 15:0-rel
+etri#doc_3844.txt 19 유의하다 ----- 16:7-ARG1(THM) 17:1-ARG0(MAG) 18:1-ARGM-EXT() 19:0-rel

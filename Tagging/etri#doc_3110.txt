@@ -1,0 +1,9 @@
+etri#doc_3110.txt 4 끼다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_3110.txt 8 산란하다 ----- 8:0-rel
+etri#doc_3110.txt 10 들다 ----- 4:2-ARGM-CAU() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3110.txt 12 참다 ----- 12:0-rel
+etri#doc_3110.txt 13 견디다 ----- 11:1-ARGM-MNR() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_3110.txt 15 파탄나다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_3110.txt 17 이별하다 ----- 15:2-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel
+etri#doc_3110.txt 19 하다 ----- 13:2-ARGM-CND() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel
+etri#doc_3110.txt 20 주의하다 ----- 10:3-ARGM-CAU() 19:2-ARGM-DIS() 20:0-rel

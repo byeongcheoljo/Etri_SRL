@@ -1,0 +1,1 @@
+etri#doc_11920.txt 17 보도되다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-LOC(LOC) 16:2-ARG1() 17:0-rel

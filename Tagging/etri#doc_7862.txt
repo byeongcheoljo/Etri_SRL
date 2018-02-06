@@ -1,0 +1,3 @@
+etri#doc_7862.txt 3 쓰다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7862.txt 8 쓰다 ----- 7:1-ARGM-ADV(EFF) 8:0-rel
+etri#doc_7862.txt 10 알리다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 6:1-ARGM-TMP(LOC) 8:2-ARGM-DIS() 9:1-ARG2(GOL) 10:0-rel

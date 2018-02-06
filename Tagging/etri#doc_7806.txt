@@ -1,0 +1,5 @@
+etri#doc_7806.txt 4 위하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7806.txt 7 진출하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 4:2-ARGM-PRP() 6:2-ARG3(GOL) 7:0-rel
+etri#doc_7806.txt 13 진출하다 ----- 10:2-ARG0(AGT) 12:2-ARG3(GOL) 13:0-rel
+etri#doc_7806.txt 15 되다 ----- 7:3-ARGM-CND() 8:1-ARGM-DIS() 14:4-ARG2(FNS) 15:0-rel
+etri#doc_7806.txt 21 격화되다 ----- 15:5-ARGM-DIS() 17:2-ARGM-LOC(LOC) 20:3-ARG1(THM) 21:0-rel

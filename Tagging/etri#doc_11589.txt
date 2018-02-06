@@ -1,0 +1,3 @@
+etri#doc_11589.txt 3 포함하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11589.txt 9 견디다 ----- 5:2-ARG0(EXP) 8:2-ARG1(EFF) 9:0-rel
+etri#doc_11589.txt 15 밝히다 ----- 1:1-ARGM-DIS() 11:5-ARG1() 13:2-ARG0(AGT) 14:1-ARGM-TMP() 15:0-rel

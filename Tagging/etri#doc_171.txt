@@ -1,0 +1,4 @@
+etri#doc_171.txt 7 다독거리다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_171.txt 9 이해시키다 ----- 5:2-ARGM-MNR(INS) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_171.txt 13 돌아가다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 12:3-ARG3(THM) 13:0-rel
+etri#doc_171.txt 17 가까워지다 ----- 1:1-ARGM-DIS() 13:4-ARGM-TMP() 15:2-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

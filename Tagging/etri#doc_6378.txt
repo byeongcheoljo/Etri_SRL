@@ -1,0 +1,3 @@
+etri#doc_6378.txt 12 자극하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6378.txt 14 얻다 ----- 12:3-ARGM-CND() 13:1-ARG1(THM) 14:0-rel
+etri#doc_6378.txt 18 하다 ----- 3:2-ARGM-DIS() 6:3-ARGM-LOC(LOC) 15:3-ARGM-LOC(LOC) 17:2-ARG1(THM) 18:0-rel

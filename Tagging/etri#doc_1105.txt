@@ -1,0 +1,4 @@
+etri#doc_1105.txt 6 가지다 ----- 4:2-ARG0(AGT) 5:1-ARGM-ADV(EFF) 6:0-rel
+etri#doc_1105.txt 10 손상시키다 ----- 2:2-ARG0(THM) 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_1105.txt 16 성장하다 ----- 12:1-ARGM-TMP() 13:1-ARG1(MAG) 14:1-ARGM-LOC(LOC) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_1105.txt 17 예견하다 ----- 10:2-ARGM-DIS() 11:1-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

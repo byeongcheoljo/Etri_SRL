@@ -1,0 +1,4 @@
+etri#doc_5918.txt 8 하다 ----- 7:2-ARG1(CNT) 8:0-rel
+etri#doc_5918.txt 10 시작하다 ----- 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5918.txt 11 말하다 ----- 3:1-ARGM-TMP() 8:3-ARGM-DIS() 10:2-ARG1(CNT) 11:0-rel
+etri#doc_5918.txt 17 시사하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV(CNT) 11:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

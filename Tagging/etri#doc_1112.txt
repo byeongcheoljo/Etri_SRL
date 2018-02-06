@@ -1,0 +1,4 @@
+etri#doc_1112.txt 3 참가하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-DIS() 3:0-rel
+etri#doc_1112.txt 11 이용하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1112.txt 13 끌어당기다 ----- 9:2-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1112.txt 16 젖다 ----- 16:0-rel

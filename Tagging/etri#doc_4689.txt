@@ -1,0 +1,1 @@
+etri#doc_4689.txt 16 경험하다 ----- 2:2-ARG1(EXP) 12:3-ARGM-CAU() 13:1-ARGM-MNR() 15:2-ARG2(THM) 16:0-rel

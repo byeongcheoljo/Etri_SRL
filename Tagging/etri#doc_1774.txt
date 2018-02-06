@@ -1,0 +1,2 @@
+etri#doc_1774.txt 4 남다 ----- 4:0-rel
+etri#doc_1774.txt 19 말하다 ----- 18:3-ARGM-DIS() 19:0-rel

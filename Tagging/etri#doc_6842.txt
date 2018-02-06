@@ -1,0 +1,2 @@
+etri#doc_6842.txt 8 생산하다 ----- 4:2-ARG0(AGT) 6:2-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6842.txt 15 생산하다 ----- 10:2-ARG1(THM) 14:3-ARG0(AGT) 15:0-rel

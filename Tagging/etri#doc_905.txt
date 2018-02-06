@@ -1,0 +1,5 @@
+etri#doc_905.txt 4 후끈거리다 ----- 4:0-rel
+etri#doc_905.txt 8 막히다 ----- 5:2-ARGM-CAU(EFF) 6:1-ARG1(THM) 7:1-ARGM-TMP(CRT) 8:0-rel
+etri#doc_905.txt 12 흘러내리다 ----- 8:2-ARGM-DIS() 10:2-ARG0(AGT) 11:1-ARGM-TMP() 12:0-rel
+etri#doc_905.txt 14 둘러보다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_905.txt 18 보이다 ----- 12:2-ARGM-DIS() 14:2-ARGM-CND() 17:3-ARG1() 18:0-rel

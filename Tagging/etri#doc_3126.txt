@@ -1,0 +1,4 @@
+etri#doc_3126.txt 2 짧아지다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_3126.txt 9 새다 ----- 5:2-ARG1(THM) 7:2-ARGM-CAU(CNT) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_3126.txt 12 전해오다 ----- 11:1-ARGM-LOC() 12:0-rel
+etri#doc_3126.txt 14 짖다 ----- 13:1-ARG0() 14:0-rel

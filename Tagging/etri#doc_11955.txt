@@ -1,0 +1,2 @@
+etri#doc_11955.txt 9 거부하다 ----- 2:2-ARGM-CND(EFF) 4:2-ARG0(AGT) 5:1-ARGM-TMP() 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11955.txt 10 밝히다 ----- 9:3-ARG1() 10:0-rel

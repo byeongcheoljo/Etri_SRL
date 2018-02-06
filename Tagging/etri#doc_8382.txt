@@ -1,0 +1,2 @@
+etri#doc_8382.txt 11 연구되다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_8382.txt 13 남다 ----- 8:3-ARGM-DIS() 9:1-ARGM-TMP() 12:3-ARG1(LOC) 13:0-rel

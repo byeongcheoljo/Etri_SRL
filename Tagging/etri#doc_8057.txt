@@ -1,0 +1,4 @@
+etri#doc_8057.txt 5 벗어나다 ----- 4:2-ARGM-LOC(SRC) 5:0-rel
+etri#doc_8057.txt 11 갖추다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8057.txt 15 제공하다 ----- 12:1-ARG2(GOL) 14:2-ARG1(THM) 15:0-rel
+etri#doc_8057.txt 17 되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 5:3-ARGM-DIS() 6:1-ARGM-TMP() 11:3-ARGM-DIS() 16:4-ARG2(FNS) 17:0-rel

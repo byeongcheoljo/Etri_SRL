@@ -1,0 +1,3 @@
+etri#doc_7951.txt 12 해소하다 ----- 9:2-ARG1(THM) 11:2-ARGM-CAU(CRT) 12:0-rel
+etri#doc_7951.txt 14 실현하다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_7951.txt 17 비롯되다 ----- 4:4-ARG1(THM) 16:2-ARG2(SRC) 17:0-rel

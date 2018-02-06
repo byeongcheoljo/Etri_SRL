@@ -1,0 +1,5 @@
+etri#doc_2622.txt 1 어찌하다 ----- 1:0-rel
+etri#doc_2622.txt 4 하다 ----- 3:1-() 4:0-rel
+etri#doc_2622.txt 7 발각되다 ----- 7:0-rel
+etri#doc_2622.txt 11 끝나다 ----- 7:1-ARGM-CND() 8:1-ARGM-ADV(EFF) 10:2-ARG1(AGT) 11:0-rel
+etri#doc_2622.txt 16 하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-LOC(LOC) 5:3-ARG1(THM) 12:4-ARG1(THM) 14:2-ARG0() 15:1-ARGM-ADV(EFF) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_2917.txt 2 불다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2917.txt 5 날리다 ----- 2:2-ARGM-TMP() 3:1-ARG0(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2917.txt 8 뿌리다 ----- 6:3-ARG2(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_2917.txt 11 걷다 ----- 11:0-rel
+etri#doc_2917.txt 12 뭉개다 ----- 11:1-ARGM-DIS() 12:0-rel
+etri#doc_2917.txt 13 움직이다 ----- 13:0-rel

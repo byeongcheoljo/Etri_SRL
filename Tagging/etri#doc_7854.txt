@@ -1,0 +1,4 @@
+etri#doc_7854.txt 12 피우다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7854.txt 14 교합하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_7854.txt 16 맺다 ----- 14:2-ARGM-TMP() 15:1-ARG1(THM) 16:0-rel
+etri#doc_7854.txt 20 수행하다 ----- 10:2-ARG0(AGT) 17:3-ARG0(AGT) 19:2-ARG1(THM) 20:0-rel

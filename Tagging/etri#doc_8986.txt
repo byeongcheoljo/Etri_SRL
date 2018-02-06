@@ -1,0 +1,4 @@
+etri#doc_8986.txt 3 미끄러지다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_8986.txt 5 보이다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_8986.txt 14 다가오다 ----- 6:5-ARG0(AGT) 7:1-ARGM-TMP() 12:4-ARG3(GOL) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_8986.txt 15 놀라다 ----- 1:1-ARG0(EXP) 14:2-ARGM-CAU() 15:0-rel

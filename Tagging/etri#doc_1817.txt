@@ -1,0 +1,6 @@
+etri#doc_1817.txt 4 마련하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1817.txt 8 소유하다 ----- 8:0-rel
+etri#doc_1817.txt 9 활용하다 ----- 6:2-ARG2(INS) 7:1-ARG1(THM) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_1817.txt 14 교환하다 ----- 12:1-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_1817.txt 17 맺다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_1817.txt 19 하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-PRP() 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_6604.txt 14 증명하다 ----- 13:3-ARG1() 14:0-rel
+etri#doc_6604.txt 24 붙이다 ----- 19:2-ARG1(THM) 23:2-ARG2(GOL) 24:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7252.txt 10 기여하다 ----- 6:2-ARGM-MNR(INS) 7:1-ARG1(GOL) 8:1-ARG0(AGT) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_7252.txt 13 전환하다 ----- 4:4-ARGM-DIS() 12:2-ARG3(FNS) 13:0-rel
+etri#doc_7252.txt 16 앞당기다 ----- 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7252.txt 19 깨닫다 ----- 17:4-ARG2(THM) 18:1-ARGM-EXT() 19:0-rel

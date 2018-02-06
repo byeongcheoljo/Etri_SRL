@@ -1,0 +1,2 @@
+etri#doc_6584.txt 8 흘러가다 ----- 2:1-ARG1(THM) 5:3-ARGM-EXT(CRT) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_6584.txt 16 가다 ----- 1:1-ARGM-DIS() 8:3-ARGM-DIS() 10:2-ARG0(AGT) 13:3-ARGM-EXT(CRT) 15:2-ARGM-MNR() 16:0-rel

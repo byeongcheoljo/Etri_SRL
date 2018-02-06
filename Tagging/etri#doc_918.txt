@@ -1,0 +1,2 @@
+etri#doc_918.txt 11 들다 ----- 7:3-ARGM-DIS() 8:1-ARGM-EXT() 10:2-ARG2(GOL) 11:0-rel
+etri#doc_918.txt 15 남다 ----- 11:3-ARGM-DIS() 13:2-ARGM-EXT() 14:1-ARG2(LOC) 15:0-rel

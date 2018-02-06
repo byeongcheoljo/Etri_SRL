@@ -1,0 +1,6 @@
+etri#doc_4752.txt 5 보급되다 ----- 2:2-ARGM-DIS() 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_4752.txt 8 버리다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_4752.txt 9 가다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_4752.txt 13 가다 ----- 11:1-ARG1(THM) 12:1-ARGM-NEG() 13:0-rel
+etri#doc_4752.txt 15 나다 ----- 10:4-ARG1(EXP) 13:2-ARGM-DIS() 14:1-ARG1() 15:0-rel
+etri#doc_4752.txt 19 전하다 ----- 16:3-ARGM-LOC(LOC) 18:2-ARG1(THM) 19:0-rel

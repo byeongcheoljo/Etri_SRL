@@ -1,0 +1,4 @@
+etri#doc_3045.txt 3 느끼다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3045.txt 6 갖다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_3045.txt 11 발견하다 ----- 8:2-ARG0(AGT) 10:2-ARG1(THM) 11:0-rel
+etri#doc_3045.txt 17 받아들이다 ----- 1:1-ARG0(AGT) 6:3-ARGM-TMP() 12:4-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARGM-EXT() 17:0-rel

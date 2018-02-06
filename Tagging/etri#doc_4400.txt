@@ -1,0 +1,6 @@
+etri#doc_4400.txt 4 내리다 ----- 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4400.txt 6 바꾸다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_4400.txt 7 진행하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_4400.txt 8 생각하다 ----- 1:1-ARG0(MAG) 4:2-ARGM-DIS() 7:3-ARG1() 8:0-rel
+etri#doc_4400.txt 13 지르다 ----- 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_4400.txt 15 달려들다 ----- 8:4-ARGM-TMP() 9:1-ARGM-TMP() 10:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG2(GOL) 15:0-rel

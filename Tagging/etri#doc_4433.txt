@@ -1,0 +1,4 @@
+etri#doc_4433.txt 4 타진하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4433.txt 8 타진하다 ----- 7:6-ARGM-DIS() 8:0-rel
+etri#doc_4433.txt 11 전멸하다 ----- 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_4433.txt 13 일어서다 ----- 1:1-ARG1(THM) 8:7-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3276.txt 7 생기다 ----- 3:2-ARGM-CAU() 5:2-ARG1(THM) 6:1-ARG2(SRC) 7:0-rel
+etri#doc_3276.txt 18 유지되다 ----- 15:3-ARGM-MNR() 16:1-ARG1(THM) 17:1-ARG2() 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8915.txt 2 보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_8915.txt 9 나타내다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_8915.txt 11 여기다 ----- 2:2-ARGM-DIS() 10:7-ARGM-MNR(FNS) 11:0-rel
+etri#doc_8915.txt 16 들다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_8915.txt 21 달리하다 ----- 11:8-ARGM-DIS() 12:1-ARG0(AGT) 17:5-ARGM-MNR(INS) 19:2-ARG2(COM) 20:1-ARG1(THM) 21:0-rel

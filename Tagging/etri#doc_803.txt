@@ -1,0 +1,4 @@
+etri#doc_803.txt 2 가져오다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_803.txt 7 불리다 ----- 6:1-ARGM-ADV(FNS) 7:0-rel
+etri#doc_803.txt 10 일으키다 ----- 5:3-ARG1(THM) 9:2-ARG0(AGT) 10:0-rel
+etri#doc_803.txt 15 보다 ----- 13:1-ARGM-TMP(CRT) 14:1-ARGM-LOC(LOC) 15:0-rel

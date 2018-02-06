@@ -1,0 +1,4 @@
+etri#doc_7528.txt 4 어려워지다 ----- 1:1-ARGM-MNR(INS) 3:2-ARG1(THM) 4:0-rel
+etri#doc_7528.txt 7 쓰다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7528.txt 10 읽다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7528.txt 14 해결되다 ----- 13:5-ARGM-MNR(INS) 14:0-rel

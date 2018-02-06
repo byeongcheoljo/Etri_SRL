@@ -1,0 +1,2 @@
+etri#doc_13138.txt 11 선임하다 ----- 5:4-ARG0(AGT) 6:1-ARGM-LOC(LOC) 7:1-ARGM-EXT(CRT) 9:2-ARGM-CAU)(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_13138.txt 16 활용하다 ----- 1:1-ARGM-DIS() 11:2-ARGM-CAU() 13:2-ARG2(LOC) 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

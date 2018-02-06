@@ -1,0 +1,4 @@
+etri#doc_3287.txt 2 주장하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3287.txt 8 없어지다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_3287.txt 16 도래하다 ----- 10:2-ARG1(THM) 13:3-ARGM-DIS() 15:2-ARGM-CAU(EFF) 16:0-rel
+etri#doc_3287.txt 18 주목하다 ----- 3:3-ARG0(MAG) 17:4-ARG1(THM) 18:0-rel

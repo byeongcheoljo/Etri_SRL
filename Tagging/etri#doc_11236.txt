@@ -1,0 +1,3 @@
+etri#doc_11236.txt 4 일어나다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_11236.txt 8 변형시키다 ----- 5:1-ARGM-TMP(LOC) 7:2-ARG1(THM) 8:0-rel
+etri#doc_11236.txt 13 제공하다 ----- 4:4-ARGM-DIS() 10:5-ARG1(THM) 12:2-ARG2(GOL) 13:0-rel

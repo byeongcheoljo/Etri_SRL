@@ -1,0 +1,4 @@
+etri#doc_1224.txt 3 들어서다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_1224.txt 4 말다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_1224.txt 20 부추기다 ----- 18:3-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel
+etri#doc_1224.txt 22 되다 ----- 15:2-ARG1(THM) 21:3-ARGM-CAU(FNS) 22:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8968.txt 4 석방시키다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 3:1-ARGM-EXT(CRT) 4:0-rel
+etri#doc_8968.txt 9 내려가다 ----- 8:1-ARG3(GOL) 9:0-rel
+etri#doc_8968.txt 11 주지시키다 ----- 9:2-ARGM-DIS() 10:1-ARG2(GOL) 11:0-rel
+etri#doc_8968.txt 13 강요하다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_8968.txt 15 부결하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_8968.txt 16 설득하다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:1-ARG0(AGT) 11:2-ARGM-DIS() 15:4-ARGM-PRP() 16:0-rel

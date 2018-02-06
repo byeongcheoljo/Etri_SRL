@@ -1,0 +1,5 @@
+etri#doc_6293.txt 5 잇다 ----- 4:2-ARG2(THM) 5:0-rel
+etri#doc_6293.txt 8 이어지다 ----- 6:4-ARGM-LOC(LOC) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6293.txt 10 정복하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6293.txt 13 건설하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_6293.txt 18 퍼지다 ----- 2:2-ARG1(THM) 8:2-ARGM-DIS() 14:4-ARGM-CAU(EFF) 17:2-ARGM-LOC(LOC) 18:0-rel

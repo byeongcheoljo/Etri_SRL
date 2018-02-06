@@ -1,0 +1,5 @@
+etri#doc_6031.txt 6 ∞Ë»π«œ¥Ÿ ----- 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_6031.txt 10 πÃ∑Á¥Ÿ ----- 9:1-ARGM-TMP(FNS) 10:0-rel
+etri#doc_6031.txt 15 ±Ú∏Æ¥Ÿ ----- 14:1-ARG2(LOC) 15:0-rel
+etri#doc_6031.txt 17 ∞±¥Ÿ ----- 13:2-ARGM-INS(INS) 16:3-ARG1(THM) 17:0-rel
+etri#doc_6031.txt 19 ∏ª«œ¥Ÿ ----- 1:1-ARGM-DIS() 2:1-ARG2(GOL) 18:5-ARG1(CNT) 19:0-rel

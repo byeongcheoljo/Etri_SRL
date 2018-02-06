@@ -1,0 +1,2 @@
+etri#doc_1322.txt 7 떨어지다 ----- 6:2-ARGM-EXT(COM) 7:0-rel
+etri#doc_1322.txt 15 고려하다 ----- 8:4-ARGM-DIS() 13:3-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11929.txt 7 관련되다 ----- 5:2-ARG1(THM) 6:1-ARG2(COM) 7:0-rel
+etri#doc_11929.txt 9 확인되다 ----- 8:3-ARG1(THM) 9:0-rel

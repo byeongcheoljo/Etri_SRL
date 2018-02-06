@@ -1,0 +1,3 @@
+etri#doc_3574.txt 7 빼돌리다 ----- 7:0-rel
+etri#doc_3574.txt 8 현금화하다 ----- 2:1-ARG0(AGT) 6:3-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_3574.txt 15 지적하다 ----- 1:1-ARGM-LOC(LOC) 14:3-ARG1() 15:0-rel

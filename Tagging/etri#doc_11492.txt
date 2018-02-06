@@ -1,0 +1,6 @@
+etri#doc_11492.txt 3 가리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11492.txt 5 발생하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11492.txt 7 느끼다 ----- 6:1-ARG0(EXP) 7:0-rel
+etri#doc_11492.txt 13 보이다 ----- 11:3-ARGM-MNR(INS) 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_11492.txt 17 미루다 ----- 17:0-rel
+etri#doc_11492.txt 18 짐작하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 5:2-ARGM-DIS() 14:3-ARGM-MNR(INS) 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

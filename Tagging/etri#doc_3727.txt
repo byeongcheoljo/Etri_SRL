@@ -1,0 +1,6 @@
+etri#doc_3727.txt 4 잇다 ----- 3:1-ARG2(THM) 4:0-rel
+etri#doc_3727.txt 8 하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3727.txt 9 성공하다 ----- 2:1-ARG0(AGT) 6:4-ARGM-CAU() 8:2-ARGM-DIS() 9:0-rel
+etri#doc_3727.txt 12 거들다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3727.txt 15 가다 ----- 10:1-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_3727.txt 21 여기다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 20:3-ARG1() 21:0-rel

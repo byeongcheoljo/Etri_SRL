@@ -1,0 +1,1 @@
+etri#doc_8699.txt 11 건너가다 ----- 9:1-ARG3(GOL) 10:1-ARG0(AGT) 11:0-rel

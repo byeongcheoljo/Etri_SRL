@@ -1,0 +1,6 @@
+etri#doc_5540.txt 4 빠지다 ----- 2:2-ARG2(GOL) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_5540.txt 6 지다 ----- 5:1-ARG1(CRT) 6:0-rel
+etri#doc_5540.txt 8 퍼붓다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5540.txt 9 물다 ----- 9:0-rel
+etri#doc_5540.txt 10 뜯다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_5540.txt 17 남다 ----- 13:5-ARGM-DIS() 15:2-ARGM-LOC(LOC) 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_29.txt 17 ธิดู ----- 12:2-ARGM-CAU(EFF) 13:1-ARGM-TMP() 14:1-ARGM-ADV() 16:2-ARG0(THM) 17:0-rel

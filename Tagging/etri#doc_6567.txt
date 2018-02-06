@@ -1,0 +1,3 @@
+etri#doc_6567.txt 9 촉구하다 ----- 5:2-ARG2(GOL) 8:2-ARGM-MNR() 9:0-rel
+etri#doc_6567.txt 11 채택하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_6567.txt 13 마치다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 11:5-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

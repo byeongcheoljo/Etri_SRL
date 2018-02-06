@@ -1,0 +1,2 @@
+etri#doc_4934.txt 5 규정하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-CND(EFF) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4934.txt 9 보다 ----- 6:1-ARGM-MNR() 8:2-ARG1(THM) 9:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5070.txt 6 작열하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5070.txt 11 켜다 ----- 8:4-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_5070.txt 16 꿈꾸다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_5070.txt 18 움직이다 ----- 17:1-ARGM-MNR() 18:0-rel
+etri#doc_5070.txt 20 소모하다 ----- 4:3-ARGM-LOC(LOC) 11:2-ARGM-DIS() 16:5-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

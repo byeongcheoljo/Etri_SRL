@@ -1,0 +1,6 @@
+etri#doc_1245.txt 4 가다 ----- 3:1-ARGM-LOC(GOL) 4:0-rel
+etri#doc_1245.txt 6 하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1245.txt 9 받다 ----- 6:2-ARGM-DIS() 7:1-ARGM-MNR(CNT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1245.txt 15 나가다 ----- 14:1-ARGM-LOC(GOL) 15:0-rel
+etri#doc_1245.txt 17 하다 ----- 11:4-ARGM-DIS() 13:2-ARGM-TMP(LOC) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_1245.txt 18 결심하다 ----- 2:2-ARG0(AGT) 17:2-ARGM-DIS() 18:0-rel

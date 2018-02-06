@@ -1,0 +1,4 @@
+etri#doc_7068.txt 8 경험하다 ----- 7:2-ARG2(THM) 8:0-rel
+etri#doc_7068.txt 10 하다 ----- 9:4-ARG0(AGT) 10:0-rel
+etri#doc_7068.txt 15 되다 ----- 14:3-ARG2(FNS) 15:0-rel
+etri#doc_7068.txt 18 쓰다 ----- 17:2-ARG1(THM) 18:0-rel

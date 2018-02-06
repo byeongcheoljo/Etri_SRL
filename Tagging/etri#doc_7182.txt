@@ -1,0 +1,1 @@
+etri#doc_7182.txt 12 »ì¸®´Ù ----- 9:1-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel

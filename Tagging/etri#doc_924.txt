@@ -1,0 +1,4 @@
+etri#doc_924.txt 2 굳다 ----- 2:0-rel
+etri#doc_924.txt 6 다스리다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_924.txt 8 경배하다 ----- 3:2-ARGM-INS(INS) 6:3-ARGM-DIS() 7:1-ARG1(GOL) 8:0-rel
+etri#doc_924.txt 13 잇다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 10:2-ARGM-INS(INS) 12:2-ARG1(THM) 13:0-rel

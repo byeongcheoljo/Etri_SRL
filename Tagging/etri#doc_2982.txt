@@ -1,0 +1,3 @@
+etri#doc_2982.txt 10 사다 ----- 9:2-ARGM-MNR() 10:0-rel
+etri#doc_2982.txt 12 발전하다 ----- 7:2-ARG1(THM) 11:4-ARG2(GOL) 12:0-rel
+etri#doc_2982.txt 14 믿다 ----- 3:3-ARGM-CAU(INS) 5:2-ARG0(MAG) 13:6-ARG1(THM) 14:0-rel

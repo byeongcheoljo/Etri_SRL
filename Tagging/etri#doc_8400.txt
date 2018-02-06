@@ -1,0 +1,4 @@
+etri#doc_8400.txt 4 차다 ----- 1:1-ARG2(LOC) 2:1-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_8400.txt 7 이룩하다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_8400.txt 14 비다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARG1(LOC) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_8400.txt 16 이룩하다 ----- 15:1-ARGM-TMP() 16:0-rel

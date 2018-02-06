@@ -1,0 +1,5 @@
+etri#doc_1983.txt 6 돌아오다 ----- 5:2-ARG2(SRC) 6:0-rel
+etri#doc_1983.txt 10 밀어내다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1983.txt 13 잡다 ----- 8:2-ARG0(THM) 10:2-ARGM-DIS() 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1983.txt 16 떠오르다 ----- 15:1-ARGM-LOC(GOL) 16:0-rel
+etri#doc_1983.txt 20 마주치다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 14:3-ARGM-TMP() 19:3-ARG1(THM) 20:0-rel

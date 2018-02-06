@@ -1,0 +1,6 @@
+etri#doc_643.txt 4 처리하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_643.txt 6 앞세우다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_643.txt 10 앞세우다 ----- 7:3-ARGM-CND() 9:2-ARG1(THM) 10:0-rel
+etri#doc_643.txt 11 하다 ----- 10:3-ARG1() 11:0-rel
+etri#doc_643.txt 15 선택하다 ----- 4:3-ARGM-TMP() 12:5-ARGM-LOC(SRC) 14:2-ARG1(THM) 15:0-rel
+etri#doc_643.txt 18 결정되다 ----- 1:1-ARGM-DIS() 15:3-ARGM-CAU() 17:2-ARG1(THM) 18:0-rel

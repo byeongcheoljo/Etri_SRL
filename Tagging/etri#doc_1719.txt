@@ -1,0 +1,3 @@
+etri#doc_1719.txt 5 발전하다 ----- 3:3-ARG0(THM) 4:1-ARGM-MNR(DIR) 5:0-rel
+etri#doc_1719.txt 11 도달하다 ----- 10:2-ARG0(THM) 11:0-rel
+etri#doc_1719.txt 19 가지다 ----- 13:5-ARGM-CAU() 16:2-ARG0(THM) 18:2-ARG1(THM) 19:0-rel

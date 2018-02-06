@@ -1,0 +1,2 @@
+etri#doc_7732.txt 6 되다 ----- 3:1-ARGM-TMP() 4:1-ARGM-MNR() 5:1-ARG2(FNS) 6:0-rel
+etri#doc_7732.txt 13 수행되다 ----- 2:2-ARG1(THM) 9:5-ARGM-MNR(INS) 10:1-ARGM-TMP(LOC) 12:2-ARGM-MNR(CNT) 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6292.txt 5 생각하다 ----- 2:1-ARGM-MNR(INS) 4:2-ARG1(THM) 5:0-rel
+etri#doc_6292.txt 13 박히다 ----- 8:1-ARGM-TMP(LOC) 10:2-ARG2(LOC) 11:1-ARGM-MNR() 12:1-ARG1() 13:0-rel
+etri#doc_6292.txt 17 되다 ----- 16:3-ARG2(FNS) 17:0-rel

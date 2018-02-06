@@ -1,0 +1,1 @@
+etri#doc_899.txt 14 ´Ý´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-INS(INS) 8:2-ARGM-DIS() 10:2-ARGM-CAU() 11:1-ARG0(AGT) 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel

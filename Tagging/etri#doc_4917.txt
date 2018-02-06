@@ -1,0 +1,4 @@
+etri#doc_4917.txt 6 받다 ----- 4:2-ARGM-TMP() 5:1-ARG1() 6:0-rel
+etri#doc_4917.txt 10 돌아오다 ----- 8:2-ARGM-MNR(COM) 9:1-ARG3(GOL) 10:0-rel
+etri#doc_4917.txt 11 앉다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_4917.txt 19 바라보다 ----- 12:4-ARG0(MAG) 15:3-ARGM-INS(INS) 17:2-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

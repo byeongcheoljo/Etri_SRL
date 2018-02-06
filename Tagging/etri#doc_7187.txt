@@ -1,0 +1,4 @@
+etri#doc_7187.txt 2 동행하다 ----- 1:1-ARG1(COM) 2:0-rel
+etri#doc_7187.txt 9 양해하다 ----- 6:2-ARGM-ADV(CNT) 7:1-ARG0(AGT) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_7187.txt 10 강조하다 ----- 4:1-ARG2(GOL) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7187.txt 14 느끼다 ----- 3:3-ARG0(EXP) 13:2-ARGM-MNR() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4699.txt 11 바꾸다 ----- 7:3-ARGM-CND() 9:2-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_4699.txt 13 말하다 ----- 2:2-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel

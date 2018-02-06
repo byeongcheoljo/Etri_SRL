@@ -1,0 +1,4 @@
+etri#doc_3470.txt 9 공박하다 ----- 8:5-ARG1() 9:0-rel
+etri#doc_3470.txt 12 막다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3470.txt 13 백지화되다 ----- 12:3-ARGM-PRP() 13:0-rel
+etri#doc_3470.txt 14 주장하다 ----- 1:1-ARG0(AGT) 9:6-ARGM-DIS() 13:4-ARG1() 14:0-rel

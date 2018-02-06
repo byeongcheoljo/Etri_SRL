@@ -1,0 +1,5 @@
+etri#doc_991.txt 4 늙다 ----- 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_991.txt 7 되다 ----- 6:1-ARG2() 7:0-rel
+etri#doc_991.txt 9 점치다 ----- 9:0-rel
+etri#doc_991.txt 10 다니다 ----- 9:1-ARGM-PRP() 10:0-rel
+etri#doc_991.txt 13 사다 ----- 10:2-ARGM-TMP() 11:1-ARGM-PRP(PUR) 12:1-ARGM-INS(INS) 13:0-rel

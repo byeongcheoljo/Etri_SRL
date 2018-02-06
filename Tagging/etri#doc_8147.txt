@@ -1,0 +1,5 @@
+etri#doc_8147.txt 2 만들다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8147.txt 3 노동하다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_8147.txt 6 만들다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_8147.txt 13 하다 ----- 3:3-ARGM-DIS() 4:1-ARGM-TMP() 6:2-ARGM-DIS() 8:2-ARGM-MNR(COM) 12:4-ARG1(THM) 13:0-rel
+etri#doc_8147.txt 18 구별짓다 ----- 15:1-ARG0(THM) 17:2-ARGM-MNR(COM) 18:0-rel

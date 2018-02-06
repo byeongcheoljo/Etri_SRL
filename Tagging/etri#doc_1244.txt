@@ -1,0 +1,7 @@
+etri#doc_1244.txt 4 먹다 ----- 4:0-rel
+etri#doc_1244.txt 5 입다 ----- 4:1-ARGM-DIS() 5:0-rel
+etri#doc_1244.txt 6 자다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_1244.txt 10 만들다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1244.txt 13 사다 ----- 13:0-rel
+etri#doc_1244.txt 14 팔다 ----- 3:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_1244.txt 16 나타나다 ----- 15:1-ARGM-LOC(LOC) 16:0-rel

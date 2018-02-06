@@ -1,0 +1,4 @@
+etri#doc_5457.txt 4 불태우다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_5457.txt 6 달려오다 ----- 4:3-ARGM-DIS() 5:1-ARG3(GOL) 6:0-rel
+etri#doc_5457.txt 13 인식하다 ----- 13:0-rel
+etri#doc_5457.txt 14 다루다 ----- 12:3-ARGM-MNR() 13:1-ARGM-DIS() 14:0-rel

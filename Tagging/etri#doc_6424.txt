@@ -1,0 +1,2 @@
+etri#doc_6424.txt 15 끄집어내다 ----- 14:2-ARGM-LOC(SRC) 15:0-rel
+etri#doc_6424.txt 20 떠밀다 ----- 12:2-ARG1(THM) 15:3-ARGM-DIS() 19:2-ARG1() 20:0-rel

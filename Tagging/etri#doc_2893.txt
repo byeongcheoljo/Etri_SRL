@@ -1,0 +1,7 @@
+etri#doc_2893.txt 5 올리다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2893.txt 6 솟다 ----- 3:3-ARG1(THM) 5:2-ARGM-DIS() 6:0-rel
+etri#doc_2893.txt 9 이루다 ----- 6:3-ARGM-INS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_2893.txt 17 악물다 ----- 14:4-ARGM-EXT(CRT) 16:2-ARG1(THM) 17:0-rel
+etri#doc_2893.txt 20 치다 ----- 17:3-ARGM-DIS() 18:1-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel
+etri#doc_2893.txt 23 휩쓸다 ----- 21:1-ARGM-EXT(CRT) 22:1-ARG1(THM) 23:0-rel
+etri#doc_2893.txt 24 나오다 ----- 9:3-ARGM-DIS() 10:1-ARG0(THM) 20:2-ARGM-DIS() 23:2-ARGM-DIS() 24:0-rel

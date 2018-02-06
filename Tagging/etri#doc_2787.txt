@@ -1,0 +1,3 @@
+etri#doc_2787.txt 4 일다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_2787.txt 12 넘다 ----- 11:1-ARGM-EXT(CNT) 12:0-rel
+etri#doc_2787.txt 16 되다 ----- 12:2-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

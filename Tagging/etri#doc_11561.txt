@@ -1,0 +1,2 @@
+etri#doc_11561.txt 3 먹다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_11561.txt 19 사용되다 ----- 11:7-ARGM-DIS() 12:1-ARG1(THM) 18:6-ARGM-LOC(LOC) 19:0-rel

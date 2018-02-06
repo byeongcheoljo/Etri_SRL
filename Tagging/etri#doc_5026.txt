@@ -1,0 +1,5 @@
+etri#doc_5026.txt 6 하다 ----- 4:1-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_5026.txt 8 가져오다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5026.txt 10 폭행하다 ----- 9:1-ARG1(GOL) 10:0-rel
+etri#doc_5026.txt 12 분지르다 ----- 8:2-ARGM-CAU() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5026.txt 19 구속하다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 13:3-ARG1(THM) 18:5-ARG2(FNS) 19:0-rel

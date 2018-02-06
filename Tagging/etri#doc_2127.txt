@@ -1,0 +1,2 @@
+etri#doc_2127.txt 14 분리하다 ----- 10:2-ARGM-DIS() 11:1-ARG1() 13:2-ARGM-DIR(DIR) 14:0-rel
+etri#doc_2127.txt 16 발표하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-TMP() 15:4-ARG1(THM) 16:0-rel

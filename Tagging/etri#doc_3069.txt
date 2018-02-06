@@ -1,0 +1,3 @@
+etri#doc_3069.txt 15 »©¾Ñ´Ù ----- 13:3-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_3069.txt 17 ¼ÓÇÏ´Ù ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_3069.txt 19 Á¸°æ¹Þ´Ù ----- 18:5-ARG1(THM) 19:0-rel

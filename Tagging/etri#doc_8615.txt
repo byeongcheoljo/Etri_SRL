@@ -1,0 +1,5 @@
+etri#doc_8615.txt 5 이르다 ----- 3:2-ARG2(SRC) 4:1-ARG3(GOL) 5:0-rel
+etri#doc_8615.txt 8 의지하다 ----- 5:2-ARGM-TMP() 6:1-ARGM-MNR(INS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_8615.txt 13 받다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_8615.txt 15 증거하다 ----- 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_8615.txt 17 되다 ----- 8:2-ARGM-DIS() 10:2-ARG1(THM) 16:3-ARG2(FNS) 17:0-rel

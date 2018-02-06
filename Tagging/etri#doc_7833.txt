@@ -1,0 +1,5 @@
+etri#doc_7833.txt 3 관련하다 ----- 2:2-ARG2(COM) 3:0-rel
+etri#doc_7833.txt 7 단속하다 ----- 3:3-ARGM-MNR() 4:1-ARG0(AGT) 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7833.txt 10 번창하다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_7833.txt 13 이르다 ----- 12:2-ARGM-TMP(LOC) 13:0-rel
+etri#doc_7833.txt 16 헤아리다 ----- 7:2-ARGM-DIS() 8:1-ARG0(MAG) 10:2-ARGM-MNR() 13:3-ARGM-DIS() 14:1-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel

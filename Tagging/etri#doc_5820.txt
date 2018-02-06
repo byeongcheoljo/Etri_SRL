@@ -1,0 +1,5 @@
+etri#doc_5820.txt 1 그러다 ----- 1:0-rel
+etri#doc_5820.txt 7 유래하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5820.txt 12 가리다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_5820.txt 15 봉쇄하다 ----- 12:5-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_5820.txt 17 따르다 ----- 1:1-ARGM-TMP() 2:1-ARGM-MNR(INS) 16:4-ARG1(THM) 17:0-rel

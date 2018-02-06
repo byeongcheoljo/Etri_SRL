@@ -1,0 +1,4 @@
+etri#doc_1204.txt 2 들어서다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_1204.txt 7 발표하다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_1204.txt 11 지적하다 ----- 3:1-ARG0(AGT) 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_1204.txt 14 발견하다 ----- 13:1-ARG1(THM) 14:0-rel

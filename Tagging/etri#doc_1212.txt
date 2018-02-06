@@ -1,0 +1,5 @@
+etri#doc_1212.txt 3 돌아오다 ----- 1:1-ARGM-TMP() 2:1-ARG2(SRC) 3:0-rel
+etri#doc_1212.txt 6 들어가다 ----- 3:2-ARGM-DIS() 5:2-ARGM-DIR(GOL) 6:0-rel
+etri#doc_1212.txt 8 시작하다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_1212.txt 10 지도하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_1212.txt 13 주도하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_142.txt 1 알다 ----- 1:0-rel
+etri#doc_142.txt 4 알다 ----- 2:2-ARG0(MAG) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_142.txt 7 드러나다 ----- 5:3-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_142.txt 15 관행화되다 ----- 15:0-rel
+etri#doc_142.txt 17 말하다 ----- 16:2-ARG1(THM) 17:0-rel

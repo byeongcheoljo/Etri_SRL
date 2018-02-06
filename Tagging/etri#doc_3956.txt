@@ -1,0 +1,4 @@
+etri#doc_3956.txt 4 이룩하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_3956.txt 7 가지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3956.txt 13 겪다 ----- 9:1-ARGM-TMP() 10:1-ARG0(EXP) 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_3956.txt 16 하다 ----- 15:2-ARG1(Npr) 16:0-rel

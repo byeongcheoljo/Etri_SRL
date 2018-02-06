@@ -1,0 +1,3 @@
+etri#doc_2710.txt 7 ≈ª√‚«œ¥Ÿ ----- 6:2-ARGM-DIR(GOL) 7:0-rel
+etri#doc_2710.txt 17 ¡ˆ≈ «œ¥Ÿ ----- 13:1-ARGM-TMP() 14:1-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel
+etri#doc_2710.txt 18 πœ¥Ÿ ----- 10:6-ARGM-DIS() 12:2-ARG0(AGT) 17:3-ARG1() 18:0-rel

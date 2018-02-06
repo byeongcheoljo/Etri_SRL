@@ -1,0 +1,3 @@
+etri#doc_6403.txt 4 시도되다 ----- 3:1-ARGM-CAU(EFF) 4:0-rel
+etri#doc_6403.txt 9 형성하다 ----- 2:1-ARG1(THM) 5:3-ARGM-PRD(EFF) 8:2-ARG1(FNS) 9:0-rel
+etri#doc_6403.txt 14 선호되다 ----- 11:1-ARGM-LOC(LOC) 13:2-ARGM-EXT() 14:0-rel

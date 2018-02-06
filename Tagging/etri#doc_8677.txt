@@ -1,0 +1,4 @@
+etri#doc_8677.txt 4 낳다 ----- 1:1-ARGM-TMP(LOC) 3:2-ARG1(THM) 4:0-rel
+etri#doc_8677.txt 11 연출하다 ----- 5:4-ARGM-LOC(LOC) 6:1-ARGM-MNR() 7:1-ARGM-LOC(LOC) 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8677.txt 14 모르다 ----- 13:1-ARG0(EXP) 14:0-rel
+etri#doc_8677.txt 16 되다 ----- 11:2-ARGM-DIS() 12:1-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARGM-MNR() 16:0-rel

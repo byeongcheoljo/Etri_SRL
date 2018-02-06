@@ -1,0 +1,6 @@
+etri#doc_716.txt 4 만나다 ----- 4:0-rel
+etri#doc_716.txt 7 되다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_716.txt 10 묻다 ----- 3:3-ARGM-DIS() 5:2-ARG0(AGT) 9:4-ARG1(CNT) 10:0-rel
+etri#doc_716.txt 12 대답하다 ----- 11:1-ARGM-TMP(CRT) 12:0-rel
+etri#doc_716.txt 17 하다 ----- 10:5-ARGM-DIS() 12:2-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_716.txt 19 뒤따르다 ----- 18:3-ARG1(THM) 19:0-rel

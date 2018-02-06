@@ -1,0 +1,4 @@
+etri#doc_13034.txt 8 떠올리다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_13034.txt 12 빠지다 ----- 11:3-ARG2(Npr) 12:0-rel
+etri#doc_13034.txt 14 느끼다 ----- 8:3-ARGM-CND() 13:5-ARG1(THM) 14:0-rel
+etri#doc_13034.txt 20 사로잡다 ----- 19:1-ARG1(THM) 20:0-rel

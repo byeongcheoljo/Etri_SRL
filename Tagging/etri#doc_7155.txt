@@ -1,0 +1,4 @@
+etri#doc_7155.txt 5 살아오다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7155.txt 7 터득하다 ----- 2:1-ARG0(MAG) 5:3-ARGM-MNR() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_7155.txt 11 하다 ----- 9:1-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_7155.txt 17 깔리다 ----- 1:1-ARGM-DIS() 8:3-ARG1(THM) 12:3-ARGM-LOC(LOC) 13:1-ARGM-TMP() 16:3-ARG1(THM) 17:0-rel

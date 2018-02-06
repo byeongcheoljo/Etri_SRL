@@ -1,0 +1,4 @@
+etri#doc_6793.txt 4 증대되다 ----- 4:0-rel
+etri#doc_6793.txt 7 도달하다 ----- 3:2-ARG1(AGT) 4:1-ARGM-CAU() 6:2-ARG2(LOC) 7:0-rel
+etri#doc_6793.txt 10 찾다 ----- 7:3-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_6793.txt 18 하다 ----- 12:2-ARG0(AGT) 13:1-ARG2(GOL) 16:3-ARG1(THM) 17:1-ARG1(FNS) 18:0-rel

@@ -1,0 +1,7 @@
+etri#doc_9131.txt 1 얻다 ----- 1:0-rel
+etri#doc_9131.txt 2 잃다 ----- 1:1-ARGM-CND() 2:0-rel
+etri#doc_9131.txt 3 잃다 ----- 3:0-rel
+etri#doc_9131.txt 4 얻다 ----- 2:2-ARGM-DIS() 3:1-ARGM-CND() 4:0-rel
+etri#doc_9131.txt 6 지나가다 ----- 6:0-rel
+etri#doc_9131.txt 8 듣다 ----- 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_9131.txt 13 치다 ----- 10:2-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

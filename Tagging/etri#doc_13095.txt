@@ -1,0 +1,4 @@
+etri#doc_13095.txt 5 다루다 ----- 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_13095.txt 7 이끌다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_13095.txt 9 찾아보다 ----- 3:2-ARG0(AGT) 8:5-ARGM-DIS() 9:0-rel
+etri#doc_13095.txt 17 두다 ----- 10:1-ARG0(AGT) 11:1-ARG0(AGT) 13:2-ARG2(LOC) 16:3-ARG1(THM) 17:0-rel

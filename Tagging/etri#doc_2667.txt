@@ -1,0 +1,2 @@
+etri#doc_2667.txt 5 지나가다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_2667.txt 11 피다 ----- 10:1-() 11:0-rel

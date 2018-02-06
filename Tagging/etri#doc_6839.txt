@@ -1,0 +1,4 @@
+etri#doc_6839.txt 4 싣다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6839.txt 9 허용하다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_6839.txt 12 밝히다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_6839.txt 14 보다 ----- 13:1-ARGM-DIS(CNT) 14:0-rel

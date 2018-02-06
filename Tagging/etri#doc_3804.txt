@@ -1,0 +1,3 @@
+etri#doc_3804.txt 7 의하다 ----- 2:1-ARG1(THM) 3:1-ARGM-DIS() 6:3-ARG2(GOL) 7:0-rel
+etri#doc_3804.txt 13 동참하다 ----- 11:1-ARG1(GOL) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_3804.txt 15 밝히다 ----- 1:1-ARGM-DIS() 7:4-ARGM-CAU() 10:3-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8508.txt 4 Á×´Ù ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8508.txt 6 °±´Ù ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_8508.txt 12 »ç¶ûÇÏ´Ù ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_8508.txt 15 ¹Ù¶ó´Ù ----- 15:0-rel
+etri#doc_8508.txt 19 Á×´Ù ----- 16:1-ARGM-DIS() 18:2-ARGM-LOC(LOC) 19:0-rel

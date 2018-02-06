@@ -1,0 +1,3 @@
+etri#doc_1217.txt 2 보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_1217.txt 16 자리잡다 ----- 15:2-ARGM-LOC(LOC) 16:0-rel
+etri#doc_1217.txt 19 비치다 ----- 2:2-ARGM-DIS() 13:3-ARG1(THM) 18:5-ARGM-MNR(INS) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5185.txt 4 태어나다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_5185.txt 14 오다 ----- 13:1-ARG3(GOL) 14:0-rel

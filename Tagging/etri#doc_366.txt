@@ -1,0 +1,2 @@
+etri#doc_366.txt 5 두들기다 ----- 3:1-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_366.txt 8 당하다 ----- 5:2-ARGM-TMP() 7:2-ARG3(EFF) 8:0-rel

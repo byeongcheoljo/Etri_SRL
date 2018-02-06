@@ -1,0 +1,3 @@
+etri#doc_7666.txt 7 기념하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7666.txt 14 찾아보다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_7666.txt 17 생각되다 ----- 11:4-ARGM-EXT() 16:2-ARG1(CNT) 17:0-rel

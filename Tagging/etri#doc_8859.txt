@@ -1,0 +1,2 @@
+etri#doc_8859.txt 3 발견되다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_8859.txt 16 망라하다 ----- 4:4-ARG0(AGT) 7:3-ARGM-PRD(INS) 15:4-ARG1(THM) 16:0-rel

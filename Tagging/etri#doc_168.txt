@@ -1,0 +1,5 @@
+etri#doc_168.txt 7 참석시키다 ----- 4:1-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:1-ARG0(THM) 7:0-rel
+etri#doc_168.txt 9 질문하다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_168.txt 11 주다 ----- 3:1-ARGM-NEG(COM) 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_168.txt 14 과시하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_168.txt 16 실감하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(EXP) 11:4-ARGM-CAU() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

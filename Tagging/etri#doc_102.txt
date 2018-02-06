@@ -1,0 +1,6 @@
+etri#doc_102.txt 2 실시하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_102.txt 5 한정되다 ----- 5:0-rel
+etri#doc_102.txt 10 조절하다 ----- 6:2-() 7:1-() 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_102.txt 13 높이다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_102.txt 16 잡다 ----- 13:3-ARGM-PRD() 15:2-ARG1(THM) 16:0-rel
+etri#doc_102.txt 18 보이다 ----- 4:2-ARG0(THM) 17:4-ARG1(FNS) 18:0-rel

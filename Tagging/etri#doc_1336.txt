@@ -1,0 +1,2 @@
+etri#doc_1336.txt 2 밝히다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_1336.txt 13 종사하다 ----- 10:1-ARG0(AGT) 11:1-ARGM-TMP() 12:1-ARGM-MNR() 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1178.txt 3 간호하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_1178.txt 15 맡다 ----- 15:0-rel
+etri#doc_1178.txt 16 하다 ----- 10:1-ARG1(THM) 14:4-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

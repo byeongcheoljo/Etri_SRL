@@ -1,0 +1,3 @@
+etri#doc_7057.txt 6 순례하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7057.txt 7 마련하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 4:1-ARGM-EXT() 6:2-ARGM-DIS() 7:0-rel
+etri#doc_7057.txt 12 참석하다 ----- 9:2-ARG1(LOC) 11:2-ARG0(AGT) 12:0-rel

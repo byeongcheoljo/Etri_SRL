@@ -1,0 +1,2 @@
+etri#doc_1317.txt 9 포함되다 ----- 8:2-ARG2(GOL) 9:0-rel
+etri#doc_1317.txt 15 확립하다 ----- 2:2-ARGM-LOC(LOC) 6:4-ARG1(THM) 14:3-ARGM-DIS() 15:0-rel

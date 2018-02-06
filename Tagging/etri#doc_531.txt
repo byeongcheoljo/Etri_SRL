@@ -1,0 +1,3 @@
+etri#doc_531.txt 2 배우다 ----- 1:1-ARG2(SRC) 2:0-rel
+etri#doc_531.txt 15 나오다 ----- 3:3-ARGM-LOC(LOC) 13:5-ARG0(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_531.txt 18 조심하다 ----- 18:0-rel

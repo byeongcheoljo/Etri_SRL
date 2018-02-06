@@ -1,0 +1,4 @@
+etri#doc_7853.txt 3 갖추다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7853.txt 5 교합하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7853.txt 7 꾀하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7853.txt 10 움직이다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel

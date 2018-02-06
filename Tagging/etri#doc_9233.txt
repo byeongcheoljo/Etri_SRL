@@ -1,0 +1,4 @@
+etri#doc_9233.txt 12 ÇÏ´Ù ----- 9:1-ARGM-LOC(SRC) 10:1-ARGM-LOC(GOL) 11:1-ARG1() 12:0-rel
+etri#doc_9233.txt 15 ºÎµúÄ¡´Ù ----- 13:3-ARGM-TMP(LOC) 14:1-ARG2(COM) 15:0-rel
+etri#doc_9233.txt 16 Ä§¸ôÇÏ´Ù ----- 8:4-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel
+etri#doc_9233.txt 19 ÀÒ´Ù ----- 16:3-ARGM-MNR() 17:1-ARG0(EXP) 18:1-ARG1(THM) 19:0-rel

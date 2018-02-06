@@ -1,0 +1,3 @@
+etri#doc_4378.txt 6 감돌다 ----- 2:2-ARGM-DIS() 3:1-ARG2(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_4378.txt 9 놓이다 ----- 7:1-ARGM-MNR(INS) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_4378.txt 15 돋구다 ----- 6:3-ARGM-DIS() 11:2-ARG0(EFF) 12:1-ARGM-EXT() 14:2-ARG1(THM) 15:0-rel

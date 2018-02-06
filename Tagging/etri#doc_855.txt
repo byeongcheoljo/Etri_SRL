@@ -1,0 +1,4 @@
+etri#doc_855.txt 8 어울리다 ----- 6:3-ARGM-CAU() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_855.txt 10 가다 ----- 9:1-ARG3(GOL) 10:0-rel
+etri#doc_855.txt 15 흉내내다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_855.txt 19 죽다 ----- 8:2-ARGM-DIS() 10:2-ARGM-CND() 16:3-ARGM-CAU() 17:1-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

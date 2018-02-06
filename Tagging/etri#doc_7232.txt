@@ -1,0 +1,4 @@
+etri#doc_7232.txt 5 드리다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7232.txt 10 쓰다 ----- 2:2-ARGM-TMP() 3:1-ARGM-DIS() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7232.txt 13 어지럽히다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7232.txt 17 복종하다 ----- 10:3-ARGM-DIS() 14:4-ARGM-CAU(EFF) 15:1-ARGM-MNR() 16:1-ARG0(GOL) 17:0-rel

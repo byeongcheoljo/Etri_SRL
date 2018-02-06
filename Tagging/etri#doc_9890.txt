@@ -1,0 +1,2 @@
+etri#doc_9890.txt 7 개관하다 ----- 2:2-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_9890.txt 16 검토하다 ----- 7:3-ARGM-CAU() 8:1-ARG0(MAG) 15:3-ARG1(THM) 16:0-rel

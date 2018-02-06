@@ -1,0 +1,4 @@
+etri#doc_310.txt 5 쫓아내다 ----- 3:2-ARGM-CAU() 4:1-ARGM-DIS() 5:0-rel
+etri#doc_310.txt 7 기다리다 ----- 6:1-ARGM-EXT() 7:0-rel
+etri#doc_310.txt 9 쫓아내다 ----- 7:2-ARGM-CND() 8:1-ARGM-NEG() 9:0-rel
+etri#doc_310.txt 19 드리다 ----- 1:1-ARG0(AGT) 5:2-ARGM-CND() 9:2-ARGM-CAU() 10:1-ARG2(GOL) 18:7-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1576.txt 11 추진되다 ----- 10:2-ARGM-PRP(PUR) 11:0-rel
+etri#doc_1576.txt 14 부인하다 ----- 14:0-rel

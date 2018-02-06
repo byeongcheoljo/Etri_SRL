@@ -1,0 +1,1 @@
+etri#doc_11320.txt 17 이루어지다 ----- 11:3-ARGM-DIS() 15:4-ARG1(THM) 16:1-ARGM-NEG() 17:0-rel

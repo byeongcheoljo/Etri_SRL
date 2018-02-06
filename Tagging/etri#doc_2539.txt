@@ -1,0 +1,6 @@
+etri#doc_2539.txt 3 쓰다 ----- 2:1-ARGM-MNR(EFF) 3:0-rel
+etri#doc_2539.txt 5 반복되다 ----- 5:0-rel
+etri#doc_2539.txt 6 상충되다 ----- 5:1-ARGM-DIS() 6:0-rel
+etri#doc_2539.txt 11 뒤따르다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2539.txt 15 펼치다 ----- 14:3-ARGM-ADV(EFF) 15:0-rel
+etri#doc_2539.txt 19 즐기다 ----- 18:1-ARG0(AGT) 19:0-rel

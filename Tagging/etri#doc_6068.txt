@@ -1,0 +1,4 @@
+etri#doc_6068.txt 4 °¡´Ù ----- 2:1-ARG0(AGT) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_6068.txt 6 µÇ´Ù ----- 1:1-ARGM-TMP() 4:2-ARGM-DIS() 5:1-ARG2(FNS) 6:0-rel
+etri#doc_6068.txt 11 °ÆÁ¤ÇÏ´Ù ----- 8:1-ARGM-TMP() 10:2-ARG0(THM) 11:0-rel
+etri#doc_6068.txt 15 »Ì´Ù ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP(LOC) 14:6-ARG1(THM) 15:0-rel

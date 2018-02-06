@@ -1,0 +1,2 @@
+etri#doc_11195.txt 8 생기다 ----- 5:1-ARGM-MNR(INS) 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_11195.txt 10 안정되다 ----- 3:1-ARGM-TMP() 4:1-ARGM-TMP() 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel

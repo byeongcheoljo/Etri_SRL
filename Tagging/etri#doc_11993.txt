@@ -1,0 +1,2 @@
+etri#doc_11993.txt 5 제기되다 ----- 2:2-ARGM-ADV(CNT) 3:1-ARGM-LOC(LOC) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_11993.txt 12 쓰다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

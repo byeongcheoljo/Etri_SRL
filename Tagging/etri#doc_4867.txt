@@ -1,0 +1,3 @@
+etri#doc_4867.txt 5 비난하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4867.txt 17 주장하다 ----- 5:2-ARGM-DIS() 16:4-ARG1() 17:0-rel
+etri#doc_4867.txt 22 하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 17:5-ARGM-DIS() 21:3-ARG1(THM) 22:0-rel

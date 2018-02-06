@@ -1,0 +1,5 @@
+etri#doc_4442.txt 3 하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4442.txt 9 눈치채다 ----- 7:3-ARG1(THM) 8:1-ARG0(MAG) 9:0-rel
+etri#doc_4442.txt 11 하다 ----- 9:2-ARGM-PRP() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_4442.txt 14 뒤지다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4442.txt 16 찾아내다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARGM-TMP() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

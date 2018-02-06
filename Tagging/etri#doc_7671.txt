@@ -1,0 +1,3 @@
+etri#doc_7671.txt 5 지나다 ----- 2:2-ARGM-TMP() 4:2-ARG0(CRT) 5:0-rel
+etri#doc_7671.txt 12 받아들이다 ----- 5:3-ARGM-DIS() 10:2-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_7671.txt 18 전하다 ----- 12:2-ARGM-DIS() 13:1-ARG0(THM) 15:2-ARG1(THM) 17:2-ARG2(GOL) 18:0-rel

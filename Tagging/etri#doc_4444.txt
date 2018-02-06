@@ -1,0 +1,3 @@
+etri#doc_4444.txt 2 생각하다 ----- 2:0-rel
+etri#doc_4444.txt 9 소유하다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_4444.txt 13 파악하다 ----- 10:3-ARGM-INS(INS) 12:2-ARG1(THM) 13:0-rel

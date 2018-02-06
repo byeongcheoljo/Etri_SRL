@@ -1,0 +1,3 @@
+etri#doc_4372.txt 3 설명하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4372.txt 9 쓰다 ----- 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_4372.txt 14 취급되다 ----- 1:1-ARGM-DIS() 6:2-ARGM-LOC(SRC) 13:6-ARG1(THM) 14:0-rel

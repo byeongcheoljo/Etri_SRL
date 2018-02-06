@@ -1,0 +1,5 @@
+etri#doc_3667.txt 3 좌우하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3667.txt 6 떠오르다 ----- 5:2-ARGM-PRD(FNS) 6:0-rel
+etri#doc_3667.txt 10 설계하다 ----- 3:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3667.txt 14 소개하다 ----- 13:6-ARG1(THM) 14:0-rel
+etri#doc_3667.txt 16 나오다 ----- 15:8-ARG0(THM) 16:0-rel

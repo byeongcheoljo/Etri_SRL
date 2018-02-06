@@ -1,0 +1,4 @@
+etri#doc_7205.txt 5 빠지다 ----- 3:2-ARG1(THM) 4:1-ARG2(GOL) 5:0-rel
+etri#doc_7205.txt 8 발생하다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7205.txt 13 겪다 ----- 8:3-ARGM-DIS() 9:1-ARGM-DIS() 10:1-ARG0(EXP) 12:2-ARG1(THM) 13:0-rel
+etri#doc_7205.txt 15 기대하다 ----- 14:1-ARG1(THM) 15:0-rel

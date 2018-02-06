@@ -1,0 +1,2 @@
+etri#doc_4318.txt 10 밝히다 ----- 4:1-ARG0(AGT) 5:1-ARG1(THM) 8:3-ARG1() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4318.txt 17 인식하다 ----- 12:2-ARGM-MNR() 13:1-ARG0(MAG) 14:1-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4623.txt 2 축적되다 ----- 2:0-rel
+etri#doc_4623.txt 4 제거하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4623.txt 8 생존하다 ----- 4:3-ARGM-DIS() 5:1-ARG0(THM) 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_4623.txt 9 뒷받침하다 ----- 8:3-ARGM-DIS() 9:0-rel
+etri#doc_4623.txt 13 진화하다 ----- 12:3-ARG1(THM) 13:0-rel

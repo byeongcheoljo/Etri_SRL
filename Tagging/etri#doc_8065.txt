@@ -1,0 +1,1 @@
+etri#doc_8065.txt 23 포함되다 ----- 3:3-ARG2(GOL) 22:5-ARG1(THM) 23:0-rel

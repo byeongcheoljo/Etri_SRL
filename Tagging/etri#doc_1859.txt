@@ -1,0 +1,4 @@
+etri#doc_1859.txt 3 시들다 ----- 3:0-rel
+etri#doc_1859.txt 14 보내다 ----- 12:4-ARG1(THM) 13:1-ARG2(GOL) 14:0-rel
+etri#doc_1859.txt 17 예견하다 ----- 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_1859.txt 19 택하다 ----- 1:1-ARG0(AGT) 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

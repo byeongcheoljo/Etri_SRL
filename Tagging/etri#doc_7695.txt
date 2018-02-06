@@ -1,0 +1,4 @@
+etri#doc_7695.txt 4 믿다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7695.txt 7 따르다 ----- 2:1-ARG0(AGT) 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_7695.txt 12 가지다 ----- 7:3-ARGM-DIS() 9:2-ARG2(COM) 11:2-ARG1(THM) 12:0-rel
+etri#doc_7695.txt 17 받다 ----- 1:1-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARGM-MNR(INS) 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

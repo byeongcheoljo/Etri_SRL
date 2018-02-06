@@ -1,0 +1,5 @@
+etri#doc_3536.txt 4 당면하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3536.txt 9 들다 ----- 7:3-ARGM-PRP(CNT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_3536.txt 14 줄이다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_3536.txt 18 협력하다 ----- 15:6-ARG2() 17:2-ARG0(AGT) 18:0-rel
+etri#doc_3536.txt 19 강조하다 ----- 2:2-ARG0(EFF) 9:2-ARGM-DIS() 18:3-ARG1() 19:0-rel

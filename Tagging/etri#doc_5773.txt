@@ -1,0 +1,5 @@
+etri#doc_5773.txt 7 신청하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5773.txt 10 늘다 ----- 4:1-ARGM-TMP(LOC) 8:4-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_5773.txt 12 허락하다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_5773.txt 15 미루다 ----- 10:2-ARGM-DIS() 12:2-ARGM-CAU() 13:1-ARGM-CND(CNT) 14:1-ARGM-TMP(FNS) 15:0-rel
+etri#doc_5773.txt 16 말하다 ----- 3:3-ARG0(AGT) 15:2-ARG1(CNT) 16:0-rel

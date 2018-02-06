@@ -1,0 +1,4 @@
+etri#doc_7850.txt 3 태어나다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7850.txt 8 동반하다 ----- 4:1-ARGM-TMP() 5:1-ARGM-MNR() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7850.txt 11 살다 ----- 11:0-rel
+etri#doc_7850.txt 13 가다 ----- 12:1-ARG3(GOL) 13:0-rel

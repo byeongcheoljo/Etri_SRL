@@ -1,0 +1,5 @@
+etri#doc_6108.txt 7 늘어놓다 ----- 3:1-ARGM-DIS() 4:1-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_6108.txt 8 굳다 ----- 8:0-rel
+etri#doc_6108.txt 11 밀리다 ----- 10:2-ARG2(AGT) 11:0-rel
+etri#doc_6108.txt 13 기다리다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6108.txt 16 넘어가다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 7:3-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG3(GOL) 15:1-ARGM-TMP() 16:0-rel

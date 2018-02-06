@@ -1,0 +1,2 @@
+etri#doc_6918.txt 8 결부되다 ----- 6:1-ARGM-MNR(INS) 7:1-ARGM-MNR(LOC) 8:0-rel
+etri#doc_6918.txt 15 몰아가다 ----- 11:1-ARG1(THM) 14:3-ARG2(FNS) 15:0-rel

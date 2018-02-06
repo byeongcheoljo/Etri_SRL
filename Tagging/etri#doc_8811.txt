@@ -1,0 +1,4 @@
+etri#doc_8811.txt 6 설정하다 ----- 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_8811.txt 9 참작하다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_8811.txt 10 인용하다 ----- 2:2-ARG0(AGT) 7:3-ARG1(THM) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_8811.txt 18 얻다 ----- 10:3-ARGM-DIS() 11:1-ARGM-TMP() 15:3-ARG2(SRC) 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6643.txt 7 ø‹ƒ°¥Ÿ ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6643.txt 12 »Í∏Æ¥Ÿ ----- 7:3-ARGM-DIS() 8:1-ARG1(AGT) 9:1-ARG1(COM) 11:2-ARG2(THM) 12:0-rel
+etri#doc_6643.txt 14 ∏‹¥Ÿ ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6643.txt 15 ±‚¥Ÿ∏Æ¥Ÿ ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6643.txt 17 ¿’¥Ÿ ----- 12:3-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARG2(THM) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11882.txt 4 변화시키다 ----- 2:2-ARG0(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11882.txt 6 길들이다 ----- 6:0-rel
+etri#doc_11882.txt 7 재배하다 ----- 5:1-ARG1(THM) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_11882.txt 15 일으키다 ----- 14:2-ARG1(THM) 15:0-rel

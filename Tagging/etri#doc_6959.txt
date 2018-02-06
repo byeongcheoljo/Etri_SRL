@@ -1,0 +1,4 @@
+etri#doc_6959.txt 5 벌다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6959.txt 10 가리다 ----- 7:4-ARGM-CAU() 9:2-ARG1(THM) 10:0-rel
+etri#doc_6959.txt 13 뒤지다 ----- 12:1-ARG2(EFF) 13:0-rel
+etri#doc_6959.txt 15 쓰다 ----- 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3162.txt 3 세우다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3162.txt 6 완성하다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_3162.txt 9 하다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_3162.txt 16 존중되다 ----- 11:4-ARGM-CAU() 12:1-ARG1(THM) 15:2-ARG2(FNS) 16:0-rel

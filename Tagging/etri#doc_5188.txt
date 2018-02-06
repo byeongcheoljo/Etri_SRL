@@ -1,0 +1,5 @@
+etri#doc_5188.txt 3 잘못하다 ----- 3:0-rel
+etri#doc_5188.txt 6 주다 ----- 2:2-ARG0(AGT) 3:1-ARGM-CND() 4:1-ARG2(GOL) 5:1-ARG1(Npr) 6:0-rel
+etri#doc_5188.txt 7 갈다 ----- 7:0-rel
+etri#doc_5188.txt 9 잘못되다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5188.txt 13 하다 ----- 6:2-ARGM-DIS() 9:3-ARGM-CND() 11:2-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel

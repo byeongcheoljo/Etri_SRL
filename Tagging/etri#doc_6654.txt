@@ -1,0 +1,4 @@
+etri#doc_6654.txt 7 비틀다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6654.txt 8 죽이다 ----- 4:2-ARG1(THM) 5:1-ARGM-EXT() 7:2-ARGM-MNR() 8:0-rel
+etri#doc_6654.txt 12 잡다 ----- 9:1-ARGM-MNR() 11:2-ARG1(THM) 12:0-rel
+etri#doc_6654.txt 14 기르다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 8:3-ARGM-DIS() 12:3-ARGM-PRP() 13:1-ARG1(THM) 14:0-rel

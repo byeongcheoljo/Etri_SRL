@@ -1,0 +1,3 @@
+etri#doc_8201.txt 10 충족시키다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_8201.txt 14 드리다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT(EFF) 11:5-ARGM-CAU(EFF) 13:2-ARG1(THM) 14:0-rel
+etri#doc_8201.txt 19 이어지다 ----- 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARGM-TMP() 18:1-ARGM-MNR() 19:0-rel

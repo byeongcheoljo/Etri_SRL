@@ -1,0 +1,6 @@
+etri#doc_2599.txt 6 쉬다 ----- 6:0-rel
+etri#doc_2599.txt 11 가지다 ----- 9:1-ARGM-DIS() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2599.txt 16 확대하다 ----- 15:2-ARGM-ADV(EFF) 16:0-rel
+etri#doc_2599.txt 17 지속하다 ----- 16:3-ARGM-DIS() 17:0-rel
+etri#doc_2599.txt 18 움직이다 ----- 18:0-rel
+etri#doc_2599.txt 19 일하다 ----- 5:5-ARG0() 8:2-ARGM-DIS() 13:2-ARGM-ADV(EFF) 17:4-ARGM-DIS() 18:1-ARGM-DIS() 19:0-rel

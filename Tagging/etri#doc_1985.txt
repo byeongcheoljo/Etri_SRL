@@ -1,0 +1,2 @@
+etri#doc_1985.txt 9 ¼û´Ù ----- 8:2-ARGM-TMP() 9:0-rel
+etri#doc_1985.txt 14 ³»¹Ð´Ù ----- 1:1-ARGM-CND() 6:2-ARGM-LOC() 11:2-ARG0(THM) 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel

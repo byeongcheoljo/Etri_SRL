@@ -1,0 +1,7 @@
+etri#doc_7123.txt 5 업다 ----- 3:1-ARG1(THM) 4:1-ARG2(LOC) 5:0-rel
+etri#doc_7123.txt 7 꺾다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_7123.txt 11 삼다 ----- 10:1-ARG2(FNS) 11:0-rel
+etri#doc_7123.txt 12 이용하다 ----- 9:1-ARG1(THM) 11:2-ARGM-MNR() 12:0-rel
+etri#doc_7123.txt 13 생각하다 ----- 2:2-ARG0(MAG) 8:5-ARG1(THM) 12:3-ARGM-MNR() 13:0-rel
+etri#doc_7123.txt 16 밀약하다 ----- 13:4-ARGM-MNR() 14:1-ARGM-LOC(LOC) 15:1-ARG2(COM) 16:0-rel
+etri#doc_7123.txt 20 체결되다 ----- 16:2-ARGM-MNR() 17:1-ARGM-MNR(INS) 18:1-ARGM-TMP() 19:1-ARG1(THM) 20:0-rel

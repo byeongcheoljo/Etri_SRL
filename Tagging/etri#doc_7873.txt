@@ -1,0 +1,6 @@
+etri#doc_7873.txt 2 말하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_7873.txt 5 읽다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7873.txt 8 해석하다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7873.txt 10 나타나다 ----- 9:1-ARG2(LOC) 10:0-rel
+etri#doc_7873.txt 13 감상하다 ----- 8:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_7873.txt 19 결정하다 ----- 2:2-ARGM-MNR() 3:1-ARG0(AGT) 13:3-ARGM-DIS() 14:1-ARGM-DIS() 16:2-ARG1(THM) 18:2-ARGM-ADV(EFF) 19:0-rel

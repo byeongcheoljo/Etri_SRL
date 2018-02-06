@@ -1,0 +1,5 @@
+etri#doc_24.txt 4 분류되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-ADV() 3:1-ARGM-MNR(FNS) 4:0-rel
+etri#doc_24.txt 8 앞두다 ----- 6:1-ARG1(LOC) 7:1-ARGM-TMP() 8:0-rel
+etri#doc_24.txt 9 제적되다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_24.txt 14 삼다 ----- 12:2-ARGM-MNR(FNS) 13:1-ARG1(THM) 14:0-rel
+etri#doc_24.txt 17 기웃거리다 ----- 5:3-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARGM-TMP() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

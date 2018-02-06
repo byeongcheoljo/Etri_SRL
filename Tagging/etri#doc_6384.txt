@@ -1,0 +1,6 @@
+etri#doc_6384.txt 4 쓰다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_6384.txt 12 참여하다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6384.txt 14 쓰다 ----- 10:1-ARG0(AGT) 13:3-ARG1(THM) 14:0-rel
+etri#doc_6384.txt 18 참여하다 ----- 17:1-ARGM-INS(INS) 18:0-rel
+etri#doc_6384.txt 20 쓰다 ----- 14:4-ARGM-DIS() 15:1-ARG0(AGT) 16:1-ARGM-CAU() 19:3-ARG1(THM) 20:0-rel
+etri#doc_6384.txt 21 주장하다 ----- 9:3-ARGM-DIS() 20:4-ARG1() 21:0-rel

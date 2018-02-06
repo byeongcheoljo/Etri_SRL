@@ -1,0 +1,1 @@
+etri#doc_671.txt 15 전개되다 ----- 1:1-ARGM-DIS() 7:4-ARGM-CAU() 9:2-ARGM-INS(INS) 10:1-ARGM-DIS() 14:3-ARGM-INS(INS) 15:0-rel

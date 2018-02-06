@@ -1,0 +1,2 @@
+etri#doc_5798.txt 5 상영하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_5798.txt 13 걱정하다 ----- 13:0-rel

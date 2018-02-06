@@ -1,0 +1,4 @@
+etri#doc_7266.txt 6 점검하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7266.txt 8 보여주다 ----- 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_7266.txt 11 들다 ----- 10:1-ARG2(THM) 11:0-rel
+etri#doc_7266.txt 15 구성되다 ----- 1:1-ARG1(THM) 14:2-ARG2(INS) 15:0-rel

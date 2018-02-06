@@ -1,0 +1,5 @@
+etri#doc_6578.txt 4 생성하다 ----- 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_6578.txt 9 비교하다 ----- 8:3-ARG2(COM) 9:0-rel
+etri#doc_6578.txt 11 물러나다 ----- 9:4-ARGM-DIS() 10:1-ARGM-DIR(DIR) 11:0-rel
+etri#doc_6578.txt 15 지각하다 ----- 15:0-rel
+etri#doc_6578.txt 16 인식하다 ----- 1:1-ARGM-DIS() 5:3-ARG0(MAG) 13:2-ARGM-MNR() 14:1-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel

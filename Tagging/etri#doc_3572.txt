@@ -1,0 +1,4 @@
+etri#doc_3572.txt 6 받다 ----- 3:1-ARG2(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_3572.txt 11 보충하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_3572.txt 15 채용하다 ----- 2:1-ARGM-TMP() 6:3-ARGM-MNR() 8:2-ARGM-LOC(LOC) 12:4-ARGM-CAU(EFF) 13:1-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_3572.txt 16 말하다 ----- 1:1-ARG0(AGT) 15:2-ARG1(CNT) 16:0-rel

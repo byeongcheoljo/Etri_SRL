@@ -1,0 +1,4 @@
+etri#doc_290.txt 10 눈치보다 ----- 4:3-ARGM-DIS() 8:2-ARGM-CND() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_290.txt 13 덮다 ----- 13:0-rel
+etri#doc_290.txt 14 아부하다 ----- 10:2-ARGM-DIS() 12:2-ARGM-LOC(GOL) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_290.txt 18 동의하다 ----- 1:1-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

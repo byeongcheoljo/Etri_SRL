@@ -1,0 +1,4 @@
+etri#doc_1924.txt 6 익히다 ----- 4:4-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1924.txt 12 생각되다 ----- 11:4-ARG1(FNS) 12:0-rel
+etri#doc_1924.txt 14 자리하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP(LOC) 13:6-ARG2(FNS) 14:0-rel
+etri#doc_1924.txt 17 잇다 ----- 16:2-ARG1(THM) 17:0-rel

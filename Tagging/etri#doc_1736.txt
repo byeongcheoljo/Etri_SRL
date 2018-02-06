@@ -1,0 +1,2 @@
+etri#doc_1736.txt 5 생기다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1736.txt 13 발생하다 ----- 2:2-ARGM-DIS() 6:4-ARG1(THM) 7:1-ARGM-DIS() 12:3-ARG2(LOC) 13:0-rel

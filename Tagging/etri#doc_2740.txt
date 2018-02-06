@@ -1,0 +1,2 @@
+etri#doc_2740.txt 8 생각하다 ----- 2:1-ARG1(THM) 7:3-ARG2(FNS) 8:0-rel
+etri#doc_2740.txt 10 나다 ----- 9:1-ARG1(THM) 10:0-rel

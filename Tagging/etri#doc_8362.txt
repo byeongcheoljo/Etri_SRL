@@ -1,0 +1,3 @@
+etri#doc_8362.txt 8 되다 ----- 5:1-ARG1(THM) 7:2-ARG2(FNS) 8:0-rel
+etri#doc_8362.txt 11 되다 ----- 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_8362.txt 16 이해하다 ----- 15:4-ARG1(THM) 16:0-rel

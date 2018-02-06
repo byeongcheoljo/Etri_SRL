@@ -1,0 +1,4 @@
+etri#doc_8913.txt 7 하다 ----- 2:2-ARG0(AGT) 5:3-ARGM-TMP(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8913.txt 9 지다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_8913.txt 12 피어나다 ----- 7:2-ARGM-EXT() 10:3-ARGM-TMP(LOC) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_8913.txt 16 붙이다 ----- 14:2-ARG1(THM) 15:1-ARG1(CNT) 16:0-rel

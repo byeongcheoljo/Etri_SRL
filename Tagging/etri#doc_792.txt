@@ -1,0 +1,5 @@
+etri#doc_792.txt 6 수학하다 ----- 3:1-ARGM-TMP(CNT) 4:1-ARGM-LOC(LOC) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_792.txt 9 되다 ----- 7:3-ARGM-LOC() 8:1-ARG2(FNS) 9:0-rel
+etri#doc_792.txt 11 측정하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_792.txt 16 다루다 ----- 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_792.txt 22 측정하다 ----- 1:1-ARG0(AGT) 13:6-ARGM-DIS() 14:1-ARGM-EXT() 21:5-ARG1(THM) 22:0-rel

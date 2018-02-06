@@ -1,0 +1,4 @@
+etri#doc_7559.txt 2 주도하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7559.txt 9 지니다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7559.txt 14 구성하다 ----- 11:2-ARG1(THM) 13:2-ARGM-DIS() 14:0-rel
+etri#doc_7559.txt 23 주장하다 ----- 5:2-ARG0(AGT) 9:4-ARGM-DIS() 22:4-ARGM-DIS() 23:0-rel

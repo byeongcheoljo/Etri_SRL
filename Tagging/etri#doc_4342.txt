@@ -1,0 +1,3 @@
+etri#doc_4342.txt 2 들어가다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_4342.txt 10 담당하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_4342.txt 22 맡다 ----- 5:5-ARGM-DIS() 14:4-ARGM-CND() 15:1-ARG0(AGT) 18:3-ARGM-PRD(EFF) 21:3-ARG1(THM) 22:0-rel

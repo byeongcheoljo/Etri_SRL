@@ -1,0 +1,5 @@
+etri#doc_4215.txt 2 앞서다 ----- 1:1-ARGM-DIS(CNT) 2:0-rel
+etri#doc_4215.txt 12 답변하다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4215.txt 14 느끼다 ----- 10:2-ARGM-CAU() 13:3-ARG1(THM) 14:0-rel
+etri#doc_4215.txt 15 하다 ----- 14:4-ARG1(CNT) 15:0-rel
+etri#doc_4215.txt 17 행사하다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARG0(AGT) 15:5-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

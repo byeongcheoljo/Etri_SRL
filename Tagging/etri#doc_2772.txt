@@ -1,0 +1,4 @@
+etri#doc_2772.txt 3 돌아보다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_2772.txt 9 생각하다 ----- 1:1-ARG0(MAG) 3:2-ARGM-DIS() 8:2-ARG1() 9:0-rel
+etri#doc_2772.txt 11 비판하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2772.txt 16 사라지다 ----- 9:3-ARGM-CND() 12:3-ARG1(THM) 14:2-ARGM-LOC(SRC) 15:1-ARGM-MNR(CRT) 16:0-rel

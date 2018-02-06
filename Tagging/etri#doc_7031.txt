@@ -1,0 +1,6 @@
+etri#doc_7031.txt 7 볶다 ----- 7:0-rel
+etri#doc_7031.txt 9 넣다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_7031.txt 11 만들다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_7031.txt 13 나누다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 3:1-ARGM-TMP() 6:2-ARGM-TMP(LOC) 11:5-ARGM-MNR() 12:1-ARGM-LOC(GOL) 13:0-rel
+etri#doc_7031.txt 16 해치다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_7031.txt 19 쫓다 ----- 18:2-ARG1(THM) 19:0-rel

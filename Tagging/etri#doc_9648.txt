@@ -1,0 +1,4 @@
+etri#doc_9648.txt 4 가지다 ----- 3:2-ARG0(LOC) 4:0-rel
+etri#doc_9648.txt 13 작동시키다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_9648.txt 19 하다 ----- 7:3-ARG0(AGT) 16:3-ARG1(THM) 18:2-ARG1() 19:0-rel
+etri#doc_9648.txt 20 지나치다 ----- 1:1-ARGM-MNR() 19:3-ARG1(THM) 20:0-rel

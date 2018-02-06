@@ -1,0 +1,5 @@
+etri#doc_4813.txt 7 타다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4813.txt 8 흐르다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4813.txt 14 싣다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_4813.txt 16 날리다 ----- 14:3-ARGM-DIS() 15:1-ARGM-INS(INS) 16:0-rel
+etri#doc_4813.txt 21 풀어내다 ----- 5:2-ARGM-DIS() 10:2-ARG0(AGT) 19:3-ARGM-EXT(CRT) 20:1-ARG1(THM) 21:0-rel

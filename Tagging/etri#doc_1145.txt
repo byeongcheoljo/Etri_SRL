@@ -1,0 +1,3 @@
+etri#doc_1145.txt 3 배치하다 ----- 1:1-ARGM-LOC() 2:1-ARG1(THM) 3:0-rel
+etri#doc_1145.txt 6 키우다 ----- 4:1-ARGM-INS(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1145.txt 9 배치하다 ----- 8:1-ARGM-INS(INS) 9:0-rel

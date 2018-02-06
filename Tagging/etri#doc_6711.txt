@@ -1,0 +1,4 @@
+etri#doc_6711.txt 4 ¿–¥Ÿ ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6711.txt 6 ª©¥Ÿ ----- 1:1-ARGM-TMP() 4:3-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_6711.txt 12 ¿Ã«ÿ«œ¥Ÿ ----- 9:3-ARG1(THM) 11:2-ARGM-EXT() 12:0-rel
+etri#doc_6711.txt 14 ¿ÿ¥Ÿ ----- 6:2-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

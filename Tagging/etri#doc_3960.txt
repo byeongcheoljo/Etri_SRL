@@ -1,0 +1,8 @@
+etri#doc_3960.txt 3 살다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT(CRT) 3:0-rel
+etri#doc_3960.txt 6 반성하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3960.txt 7 굳어지다 ----- 7:0-rel
+etri#doc_3960.txt 9 눅이다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_3960.txt 10 녹슬다 ----- 10:0-rel
+etri#doc_3960.txt 12 닦아내다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_3960.txt 15 물려받다 ----- 4:3-ARG0(GOL) 13:4-ARG1(THM) 14:1-ARG2(SRC) 15:0-rel
+etri#doc_3960.txt 17 하다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

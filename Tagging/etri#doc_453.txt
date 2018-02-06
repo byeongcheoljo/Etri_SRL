@@ -1,0 +1,5 @@
+etri#doc_453.txt 4 선택하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_453.txt 7 반대되다 ----- 6:1-ARG1(AGT) 7:0-rel
+etri#doc_453.txt 10 선택하다 ----- 5:3-ARG0(AGT) 8:3-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_453.txt 11 허락하다 ----- 10:2-ARGM-PRP() 11:0-rel
+etri#doc_453.txt 17 침해하다 ----- 1:1-ARGM-DIS() 2:1-ARG1(AGT) 12:4-ARG1(AGT) 15:2-ARG2(THM) 16:1-ARGM-MNR(INS) 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11553.txt 2 ≈Î«œ¥Ÿ ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11553.txt 5 Ω‰¥Ÿ ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11553.txt 7 ∂ﬂ¥Ÿ ----- 6:1-ARG2(LOC) 7:0-rel
+etri#doc_11553.txt 10 ªÓ¥Ÿ ----- 5:3-ARGM-DIS() 8:3-ARGM-MNR(COM) 9:1-ARGM-ADV() 10:0-rel
+etri#doc_11553.txt 14 ∏∂Ω√¥Ÿ ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_11553.txt 16 ∫∏¥Ÿ ----- 2:2-ARGM-CND() 14:2-ARGM-CND() 15:1-ARG1(THM) 16:0-rel

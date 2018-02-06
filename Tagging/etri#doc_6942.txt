@@ -1,0 +1,2 @@
+etri#doc_6942.txt 8 아끼다 ----- 6:1-ARG0(AGT) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6942.txt 20 선사하다 ----- 12:6-ARGM-DIS() 13:1-ARG0(AGT) 14:1-ARGM-DIS() 16:2-ARG1(THM) 18:2-ARG2(GOL) 19:1-ARGM-DIS() 20:0-rel

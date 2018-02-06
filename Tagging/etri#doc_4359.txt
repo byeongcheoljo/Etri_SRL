@@ -1,0 +1,4 @@
+etri#doc_4359.txt 5 인식되다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4359.txt 6 단합되다 ----- 6:0-rel
+etri#doc_4359.txt 10 분출되다 ----- 5:2-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4359.txt 20 용납되다 ----- 12:2-ARGM-TMP(LOC) 18:2-ARG1(THM) 19:1-ARGM-EXT() 20:0-rel

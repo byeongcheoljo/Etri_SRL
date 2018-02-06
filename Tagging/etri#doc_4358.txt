@@ -1,0 +1,5 @@
+etri#doc_4358.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4358.txt 4 알다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_4358.txt 6 보다 ----- 6:0-rel
+etri#doc_4358.txt 10 생기다 ----- 5:1-ARGM-TMP(LOC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4358.txt 18 나뉘다 ----- 4:4-ARGM-DIS() 10:3-ARGM-DIS() 12:2-ARGM-TMP(LOC) 15:3-ARG2(LOC) 17:2-ARG1(THM) 18:0-rel

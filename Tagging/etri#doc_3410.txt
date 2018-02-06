@@ -1,0 +1,5 @@
+etri#doc_3410.txt 6 깨닫다 ----- 3:2-ARGM-TMP(LOC) 5:2-ARG2(THM) 6:0-rel
+etri#doc_3410.txt 9 나서다 ----- 6:3-ARGM-CAU() 7:1-ARGM-TMP() 8:1-ARG1(Npr) 9:0-rel
+etri#doc_3410.txt 12 부여잡다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_3410.txt 14 되찾다 ----- 10:1-ARGM-TMP() 13:3-ARG1(THM) 14:0-rel
+etri#doc_3410.txt 16 빠지다 ----- 1:1-ARG1(THM) 9:2-ARGM-DIS() 15:5-ARG2(GOL) 16:0-rel

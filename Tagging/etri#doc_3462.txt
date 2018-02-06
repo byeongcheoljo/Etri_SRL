@@ -1,0 +1,4 @@
+etri#doc_3462.txt 4 축소하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3462.txt 10 이루어지다 ----- 4:3-ARG1() 6:2-ARGM-MNR(CNT) 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_3462.txt 15 달성되다 ----- 10:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_3462.txt 16 설명하다 ----- 1:1-ARG0(AGT) 15:4-ARG1(CNT) 16:0-rel

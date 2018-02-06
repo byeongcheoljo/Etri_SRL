@@ -1,0 +1,5 @@
+etri#doc_4988.txt 3 끓다 ----- 2:1-ARG1() 3:0-rel
+etri#doc_4988.txt 6 불타오르다 ----- 4:3-ARG1(THM) 5:1-ARGM-INS(INS) 6:0-rel
+etri#doc_4988.txt 12 만나다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4988.txt 16 일관하다 ----- 15:3-ARG2(INS) 16:0-rel
+etri#doc_4988.txt 20 듣다 ----- 9:3-ARGM-TMP(LOC) 10:1-ARG0(MAG) 12:2-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel

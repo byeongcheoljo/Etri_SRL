@@ -1,0 +1,5 @@
+etri#doc_3326.txt 5 보다 ----- 2:1-ARG1(THM) 4:2-ARG2(CNT) 5:0-rel
+etri#doc_3326.txt 7 벗어나다 ----- 6:4-ARG0(SRC) 7:0-rel
+etri#doc_3326.txt 10 보다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_3326.txt 12 되다 ----- 1:1-ARG1(THM) 7:5-ARGM-CAU() 11:3-ARG1(THM) 12:0-rel
+etri#doc_3326.txt 20 설정되다 ----- 13:5-ARGM-DIS() 14:1-ARG1(THM) 17:3-ARG1(THM) 19:2-ARG2(FNS) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1227.txt 4 두다 ----- 2:1-ARG2(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1227.txt 14 활용하다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_1227.txt 18 불어넣다 ----- 16:2-ARGM-LOC(LOC) 17:1-ARG2(INS) 18:0-rel
+etri#doc_1227.txt 21 되다 ----- 1:1-ARGM-DIS() 6:2-ARG1(THM) 14:2-ARGM-DIS() 20:2-ARG2(THM) 21:0-rel

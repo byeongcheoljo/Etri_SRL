@@ -1,0 +1,2 @@
+etri#doc_1263.txt 7 몰리다 ----- 6:2-ARGM-CND(EFF) 7:0-rel
+etri#doc_1263.txt 13 택하다 ----- 8:4-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARG0(THM) 12:2-ARG1(THM) 13:0-rel

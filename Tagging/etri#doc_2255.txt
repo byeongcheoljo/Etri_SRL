@@ -1,0 +1,3 @@
+etri#doc_2255.txt 7 ¼Ú´Ù ----- 5:1-ARGM-DIR(DIR) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_2255.txt 13 ÀÚ¶ûÇÏ´Ù ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_2255.txt 20 ÇÏ´Ù ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 9:4-ARGM-DIS() 19:5-ARGM-ADV(EFF) 20:0-rel

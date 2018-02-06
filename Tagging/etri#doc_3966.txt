@@ -1,0 +1,4 @@
+etri#doc_3966.txt 7 찾다 ----- 5:1-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_3966.txt 10 이용하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_3966.txt 13 늘리다 ----- 4:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_3966.txt 14 보이다 ----- 3:3-ARG1(THM) 13:2-ARGM-CAU() 14:0-rel

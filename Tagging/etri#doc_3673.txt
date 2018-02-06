@@ -1,0 +1,9 @@
+etri#doc_3673.txt 3 차다 ----- 2:2-ARG2(LOC) 3:0-rel
+etri#doc_3673.txt 7 눕다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3673.txt 9 즐기다 ----- 7:2-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_3673.txt 12 달이다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3673.txt 14 늙다 ----- 14:0-rel
+etri#doc_3673.txt 15 의지하다 ----- 14:1-ARGM-DIS() 15:0-rel
+etri#doc_3673.txt 19 찾아다니다 ----- 18:2-ARG1() 19:0-rel
+etri#doc_3673.txt 20 타다 ----- 19:3-ARGM-TMP() 20:0-rel
+etri#doc_3673.txt 23 되다 ----- 22:6-ARGM-CND() 23:0-rel

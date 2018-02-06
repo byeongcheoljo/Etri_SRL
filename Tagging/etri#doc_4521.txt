@@ -1,0 +1,4 @@
+etri#doc_4521.txt 3 하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4521.txt 5 건너다 ----- 4:1-ARG1(LOC) 5:0-rel
+etri#doc_4521.txt 8 찾다 ----- 3:2-ARGM-EXT() 5:2-ARGM-TMP() 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4521.txt 12 마주치다 ----- 10:1-ARG1(THM) 11:1-ARGM-LOC(LOC) 12:0-rel

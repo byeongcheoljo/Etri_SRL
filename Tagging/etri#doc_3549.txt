@@ -1,0 +1,4 @@
+etri#doc_3549.txt 7 팔리다 ----- 5:1-ARGM-TMP() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3549.txt 9 보이다 ----- 4:2-ARGM-TMP(GOL) 8:3-ARG1(THM) 9:0-rel
+etri#doc_3549.txt 15 감소하다 ----- 14:1-ARGM-TMP() 15:0-rel
+etri#doc_3549.txt 17 나타나다 ----- 2:2-ARG1(THM) 9:4-ARGM-DIS() 10:1-ARGM-CAU(CNT) 12:2-ARGM-TMP(LOC) 13:1-ARGM-EXT(CRT) 16:3-ARGM-MNR(FNS) 17:0-rel

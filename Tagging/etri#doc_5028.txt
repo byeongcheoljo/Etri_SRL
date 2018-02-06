@@ -1,0 +1,3 @@
+etri#doc_5028.txt 6 구분되다 ----- 2:2-ARG1(THM) 5:3-ARG2(FNS) 6:0-rel
+etri#doc_5028.txt 15 지속되다 ----- 14:5-ARGM-INS(INS) 15:0-rel
+etri#doc_5028.txt 17 지니다 ----- 6:4-ARGM-DIS() 8:2-ARG0(LOC) 9:1-ARGM-MNR() 16:7-ARG1(THM) 17:0-rel

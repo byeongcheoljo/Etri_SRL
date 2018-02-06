@@ -1,0 +1,2 @@
+etri#doc_8932.txt 9 ÆÄ¾ÇÇÏ´Ù ----- 4:3-ARGM-DIS() 6:2-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8932.txt 20 ÆÄ¾ÇÇÏ´Ù ----- 1:1-ARGM-DIS() 10:4-ARG0(MAG) 11:1-ARGM-MNR(INS) 12:1-ARG1(THM) 16:4-ARGM-DIS() 19:2-ARGM-MNR(FNS) 20:0-rel

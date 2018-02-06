@@ -1,0 +1,5 @@
+etri#doc_9947.txt 3 경청하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9947.txt 6 존중하다 ----- 3:3-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_9947.txt 8 요구하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_9947.txt 11 할애하다 ----- 6:3-ARGM-DIS() 8:2-ARGM-MNR() 9:1-ARGM-EXT() 10:1-ARG1(THM) 11:0-rel
+etri#doc_9947.txt 16 풀다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

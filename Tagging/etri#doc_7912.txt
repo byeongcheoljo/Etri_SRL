@@ -1,0 +1,4 @@
+etri#doc_7912.txt 2 쓰러지다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7912.txt 4 기생하다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7912.txt 10 들다 ----- 8:2-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_7912.txt 16 강구하다 ----- 2:2-ARGM-CND() 5:3-ARG0(AGT) 10:2-ARGM-DIS() 11:1-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:0-rel

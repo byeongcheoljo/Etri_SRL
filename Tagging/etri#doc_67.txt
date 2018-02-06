@@ -1,0 +1,3 @@
+etri#doc_67.txt 8 붙이다 ----- 3:2-ARGM-DIS() 4:1-ARGM-PRD(CNT) 6:2-ARGM-PRD(COM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_67.txt 12 감동시키다 ----- 9:1-ARGM-EXT() 10:1-ARGM-CND() 11:1-ARG1(EXP) 12:0-rel
+etri#doc_67.txt 14 통하다 ----- 8:2-ARGM-ADV() 12:2-ARGM-DIS() 13:1-ARGM-MOD(GOL) 14:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11057.txt 7 °È´Ù ----- 6:1-ARG1() 7:0-rel
+etri#doc_11057.txt 9 ³ª¼­´Ù ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11057.txt 11 ¶Ù´Ù ----- 10:1-ARGM-DIR() 11:0-rel
+etri#doc_11057.txt 13 ¶Ù´Ù ----- 11:2-ARGM-DIS() 12:1-ARGM-DIR() 13:0-rel
+etri#doc_11057.txt 17 º¸´Ù ----- 16:2-ARG1() 17:0-rel

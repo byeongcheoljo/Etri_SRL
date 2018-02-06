@@ -1,0 +1,6 @@
+etri#doc_11459.txt 4 질문하다 ----- 1:1-ARGM-ADV(EFF) 3:2-ARGM-DIS() 4:0-rel
+etri#doc_11459.txt 7 물어보다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP() 6:1-ARG2(GOL) 7:0-rel
+etri#doc_11459.txt 11 모르다 ----- 9:1-ARGM-ADV(EFF) 10:1-ARGM-EXT(EFF) 11:0-rel
+etri#doc_11459.txt 12 질문하다 ----- 11:2-ARGM-CAU() 12:0-rel
+etri#doc_11459.txt 13 하다 ----- 12:3-ARGM-MNR(INS) 13:0-rel
+etri#doc_11459.txt 15 되돌다 ----- 7:2-ARGM-CND() 8:1-ARGM-EXT() 14:5-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11241.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11241.txt 4 시작하다 ----- 2:2-ARGM-MNR() 3:1-ARG1(THM) 4:0-rel
+etri#doc_11241.txt 12 더듬다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11241.txt 13 회상하다 ----- 10:2-ARGM-MNR(INS) 12:2-ARGM-MNR() 13:0-rel

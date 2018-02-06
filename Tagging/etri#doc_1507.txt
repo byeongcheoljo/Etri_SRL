@@ -1,0 +1,4 @@
+etri#doc_1507.txt 4 나다 ----- 2:1-ARGM-TMP() 3:1-ARGM-DIS() 4:0-rel
+etri#doc_1507.txt 9 낳다 ----- 6:1-ARGM-TMP(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1507.txt 12 만나다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_1507.txt 16 가지다 ----- 1:1-ARG0(AGT) 5:3-ARGM-PRD(EFF) 9:3-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-EXT(EFF) 16:0-rel

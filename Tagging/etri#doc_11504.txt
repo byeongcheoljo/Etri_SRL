@@ -1,0 +1,3 @@
+etri#doc_11504.txt 4 의존하다 ----- 3:1-ARG1(GOL) 4:0-rel
+etri#doc_11504.txt 8 소비하다 ----- 2:2-ARGM-DIS() 4:2-ARGM-DIS() 5:1-ARGM-EXT(CRT) 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_11504.txt 13 쌓이다 ----- 8:2-ARGM-DIS() 9:1-ARGM-LOC(LOC) 10:1-ARGM-EXT() 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

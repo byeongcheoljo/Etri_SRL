@@ -1,0 +1,4 @@
+etri#doc_4800.txt 2 되다 ----- 1:1-ARG2(FNS) 2:0-rel
+etri#doc_4800.txt 10 듣다 ----- 9:1-ARGM-NEG() 10:0-rel
+etri#doc_4800.txt 18 무시하다 ----- 18:0-rel
+etri#doc_4800.txt 19 천시하다 ----- 14:6-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARGM-DIS() 19:0-rel

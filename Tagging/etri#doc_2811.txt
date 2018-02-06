@@ -1,0 +1,3 @@
+etri#doc_2811.txt 1 이리하다 ----- 1:0-rel
+etri#doc_2811.txt 7 철폐하다 ----- 3:1-ARGM-MNR() 6:3-ARG1(THM) 7:0-rel
+etri#doc_2811.txt 15 연결되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 13:3-ARG2(COM) 14:1-ARGM-MNR() 15:0-rel

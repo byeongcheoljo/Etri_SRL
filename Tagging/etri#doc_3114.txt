@@ -1,0 +1,8 @@
+etri#doc_3114.txt 5 듣다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_3114.txt 6 참다 ----- 6:0-rel
+etri#doc_3114.txt 10 생기다 ----- 8:3-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_3114.txt 11 굳다 ----- 11:0-rel
+etri#doc_3114.txt 13 이겨내다 ----- 10:2-ARGM-DIS() 12:2-() 13:0-rel
+etri#doc_3114.txt 15 노력하다 ----- 5:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_3114.txt 17 얻다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_3114.txt 20 얻다 ----- 15:2-ARGM-CND() 17:2-ARGM-CAU() 19:2-ARG1(THM) 20:0-rel

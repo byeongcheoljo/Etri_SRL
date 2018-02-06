@@ -1,0 +1,5 @@
+etri#doc_2559.txt 7 위치하다 ----- 6:2-ARGM-ADV(EFF) 7:0-rel
+etri#doc_2559.txt 11 생기다 ----- 9:5-ARGM-LOC(LOC) 10:1-ARG1(AGT) 11:0-rel
+etri#doc_2559.txt 15 퍼지다 ----- 13:2-ARGM-LOC(LOC) 14:1-ARGM-DIR(EFF) 15:0-rel
+etri#doc_2559.txt 17 기인하다 ----- 4:3-ARG1() 11:2-ARGM-DIS() 16:3-ARG2(EFF) 17:0-rel
+etri#doc_2559.txt 18 주장하다 ----- 1:1-ARGM-DIS() 17:4-ARGM-DIS() 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_984.txt 5 аж╢ы ----- 1:1-ARG0(AGT) 2:1-ARG2(GOL) 4:2-ARG1(THM) 5:0-rel

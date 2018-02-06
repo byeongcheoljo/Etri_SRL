@@ -1,0 +1,7 @@
+etri#doc_1973.txt 3 쌓다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_1973.txt 7 완성되다 ----- 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_1973.txt 14 쌓다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1973.txt 15 하다 ----- 11:1-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel
+etri#doc_1973.txt 16 하다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_1973.txt 19 내다 ----- 17:1-ARGM-EXT() 18:1-ARG1(THM) 19:0-rel
+etri#doc_1973.txt 22 소리치다 ----- 9:2-ARGM-TMP() 10:1-ARG0(AGT) 16:5-ARGM-DIS() 19:2-ARGM-DIS() 21:2-ARG1(THM) 22:0-rel

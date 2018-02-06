@@ -1,0 +1,6 @@
+etri#doc_8835.txt 3 내보이다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_8835.txt 9 설정하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_8835.txt 11 해결하다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_8835.txt 13 쓰다 ----- 7:1-ARG0(AGT) 11:2-ARGM-PRP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8835.txt 14 부딪치다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_8835.txt 18 부딪치다 ----- 17:1-ARGM-DIS() 18:0-rel

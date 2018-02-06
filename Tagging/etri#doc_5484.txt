@@ -1,0 +1,5 @@
+etri#doc_5484.txt 3 그리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5484.txt 6 만들다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5484.txt 9 감내하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_5484.txt 18 넘다 ----- 16:2-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel
+etri#doc_5484.txt 20 간주되다 ----- 10:3-ARG1(THM) 11:1-ARGM-TMP() 12:1-ARGM-LOC(LOC) 18:2-ARGM-DIS() 19:1-ARG1() 20:0-rel

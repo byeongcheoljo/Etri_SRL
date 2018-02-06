@@ -1,0 +1,2 @@
+etri#doc_11389.txt 9 이루어지다 ----- 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_11389.txt 17 보이다 ----- 5:4-ARGM-LOC(LOC) 16:2-ARG1() 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1222.txt 10 등장하다 ----- 7:2-ARG1(AGT) 8:1-ARGM-TMP() 9:1-ARGM-EXT() 10:0-rel
+etri#doc_1222.txt 12 활동하다 ----- 10:2-ARGM-MNR() 11:1-ARGM-MNR() 12:0-rel

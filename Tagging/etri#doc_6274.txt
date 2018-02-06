@@ -1,0 +1,3 @@
+etri#doc_6274.txt 11 강조하다 ----- 2:2-ARG1(THM) 6:4-ARGM-MNR(INS) 10:2-ARG1(THM) 11:0-rel
+etri#doc_6274.txt 13 하다 ----- 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_6274.txt 16 높아지다 ----- 13:2-ARGM-CND() 15:2-ARG1(THM) 16:0-rel

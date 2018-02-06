@@ -1,0 +1,3 @@
+etri#doc_6737.txt 6 벗어나다 ----- 5:1-ARG1(SRC) 6:0-rel
+etri#doc_6737.txt 10 발벗다 ----- 6:2-ARGM-DIS() 9:3-ARG1(LOC) 10:0-rel
+etri#doc_6737.txt 13 되새기다 ----- 4:2-ARGM-CND() 12:2-ARG1(THM) 13:0-rel

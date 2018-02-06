@@ -1,0 +1,5 @@
+etri#doc_11076.txt 2 장만하다 ----- 2:0-rel
+etri#doc_11076.txt 3 나오다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 3:0-rel
+etri#doc_11076.txt 6 생각하다 ----- 5:2-ARG1() 6:0-rel
+etri#doc_11076.txt 9 사다 ----- 3:2-ARGM-CND() 6:3-ARGM-DIS() 7:1-ARGM-DIS() 8:1-ARGM-EXT() 9:0-rel
+etri#doc_11076.txt 19 시키다 ----- 9:2-ARGM-DIS() 12:2-ARGM-CND() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

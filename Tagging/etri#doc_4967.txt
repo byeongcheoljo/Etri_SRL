@@ -1,0 +1,4 @@
+etri#doc_4967.txt 13 해방되다 ----- 11:2-ARGM-LOC(SRC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4967.txt 15 직시하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_4967.txt 19 보다 ----- 17:4-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel
+etri#doc_4967.txt 22 생각하다 ----- 1:1-ARG0(MAG) 4:2-ARGM-LOC(LOC) 21:4-ARG1() 22:0-rel

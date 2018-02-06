@@ -1,0 +1,4 @@
+etri#doc_2527.txt 4 하다 ----- 2:1-ARGM-EXT() 3:1-ARG1(THM) 4:0-rel
+etri#doc_2527.txt 9 들리다 ----- 6:2-() 8:2-() 9:0-rel
+etri#doc_2527.txt 14 하다 ----- 12:2-ARGM-EXT() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2527.txt 18 나가다 ----- 10:4-ARG0() 14:2-ARGM-DIS(EFF) 16:2-ARGM-ADV(EFF) 17:1-ARG0(AGT) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7265.txt 3 계산하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7265.txt 6 기록하다 ----- 6:0-rel
+etri#doc_7265.txt 8 합하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_7265.txt 12 합하다 ----- 5:4-ARG2(GOL) 9:4-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_7265.txt 16 얻다 ----- 12:3-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

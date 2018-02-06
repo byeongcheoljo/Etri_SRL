@@ -1,0 +1,5 @@
+etri#doc_3615.txt 3 주최하다 ----- 2:2-ARG0(AGT) 3:0-rel
+etri#doc_3615.txt 7 주관하다 ----- 3:3-ARGM-DIS() 5:2-ARG0(AGT) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3615.txt 10 선발되다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_3615.txt 12 참가하다 ----- 12:0-rel
+etri#doc_3615.txt 14 겨루다 ----- 8:3-ARGM-LOC(LOC) 11:3-ARG0(AGT) 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel

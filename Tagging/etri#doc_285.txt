@@ -1,0 +1,3 @@
+etri#doc_285.txt 4 물들다 ----- 3:2-ARGM-MNR() 4:0-rel
+etri#doc_285.txt 18 물들다 ----- 15:1-ARGM-EXT() 17:2-ARG2(FNS) 18:0-rel
+etri#doc_285.txt 21 살랑거리다 ----- 6:5-ARGM-CND() 8:2-ARG0(AGT) 14:2-ARG1(THM) 18:3-ARGM-CND() 19:1-ARGM-EXT(EFF) 20:1-ARGM-MNR() 21:0-rel

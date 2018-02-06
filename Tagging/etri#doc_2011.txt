@@ -1,0 +1,4 @@
+etri#doc_2011.txt 6 속하다 ----- 5:3-ARG2(LOC) 6:0-rel
+etri#doc_2011.txt 9 얻다 ----- 7:5-ARG2(SRC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_2011.txt 12 저항하다 ----- 12:0-rel
+etri#doc_2011.txt 13 수행하다 ----- 11:2-ARGM-LOC(LOC) 12:1-ARGM-CND() 13:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8376.txt 2 하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8376.txt 5 통하다 ----- 4:2-ARG2(THM) 5:0-rel
+etri#doc_8376.txt 7 배우다 ----- 5:3-ARGM-INS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_8376.txt 13 나누다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_8376.txt 15 속하다 ----- 14:3-ARG2(LOC) 15:0-rel
+etri#doc_8376.txt 18 생각되다 ----- 17:6-ARG1() 18:0-rel

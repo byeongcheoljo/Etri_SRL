@@ -1,0 +1,5 @@
+etri#doc_5288.txt 3 쓰다 ----- 2:1-ARGM-ADV(EFF) 3:0-rel
+etri#doc_5288.txt 11 덧붙이다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_5288.txt 13 하다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARGM-DIS() 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5288.txt 16 하다 ----- 15:1-ARG1(CNT) 16:0-rel
+etri#doc_5288.txt 19 하다 ----- 13:2-ARGM-TMP() 14:1-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARGM-MNR() 18:1-ARG1(THM) 19:0-rel

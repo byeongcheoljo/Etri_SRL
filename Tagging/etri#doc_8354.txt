@@ -1,0 +1,3 @@
+etri#doc_8354.txt 11 ¿’¥Ÿ ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_8354.txt 15 ¥Í¥Ÿ ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_8354.txt 18 «œ¥Ÿ ----- 6:3-ARG0(AGT) 7:1-ARGM-TMP(LOC) 16:4-ARGM-MNR(INS) 17:1-ARG1(THM) 18:0-rel

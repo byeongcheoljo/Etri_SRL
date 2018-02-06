@@ -1,0 +1,3 @@
+etri#doc_1649.txt 8 되다 ----- 4:3-ARG1(THM) 7:3-ARG2(FNS) 8:0-rel
+etri#doc_1649.txt 11 동원되다 ----- 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_1649.txt 16 나서다 ----- 15:1-ARG1(LOC) 16:0-rel

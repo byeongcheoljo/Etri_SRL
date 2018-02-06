@@ -1,0 +1,9 @@
+etri#doc_8316.txt 2 젖다 ----- 1:1-ARGM-CAU(EFF) 2:0-rel
+etri#doc_8316.txt 4 지다 ----- 2:2-ARGM-CAU() 3:1-ARG1(Npr) 4:0-rel
+etri#doc_8316.txt 7 묻다 ----- 6:1-ARG2(LOC) 7:0-rel
+etri#doc_8316.txt 11 털다 ----- 8:3-ARG1(THM) 9:1-ARGM-INS(INS) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8316.txt 14 닦아내다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_8316.txt 16 구기다 ----- 16:0-rel
+etri#doc_8316.txt 17 넣다 ----- 15:1-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_8316.txt 19 잡다 ----- 14:2-ARGM-TMP() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel
+etri#doc_8316.txt 21 말리다 ----- 5:3-ARG1(THM) 19:2-ARGM-DIS() 20:1-ARGM-LOC(LOC) 21:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2008.txt 5 받다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_2008.txt 16 받다 ----- 2:2-ARG0(GOL) 3:1-ARGM-TMP(LOC) 5:2-ARGM-TMP() 13:3-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel

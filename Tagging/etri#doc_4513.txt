@@ -1,0 +1,6 @@
+etri#doc_4513.txt 5 되다 ----- 4:1-ARG2(FNS) 5:0-rel
+etri#doc_4513.txt 8 동정하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4513.txt 13 기대하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_4513.txt 14 불나다 ----- 14:0-rel
+etri#doc_4513.txt 20 바라다 ----- 13:3-ARGM-DIS() 18:2-ARG1() 19:1-ARGM-MNR() 20:0-rel
+etri#doc_4513.txt 22 보이다 ----- 10:5-ARGM-DIS() 21:3-ARG1(THM) 22:0-rel

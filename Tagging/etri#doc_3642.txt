@@ -1,0 +1,4 @@
+etri#doc_3642.txt 10 얘기하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_3642.txt 14 되다 ----- 11:5-ARG1(THM) 13:2-ARG2(FNS) 14:0-rel
+etri#doc_3642.txt 16 증명하다 ----- 14:3-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel
+etri#doc_3642.txt 18 되다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 17:3-ARG2(FNS) 18:0-rel

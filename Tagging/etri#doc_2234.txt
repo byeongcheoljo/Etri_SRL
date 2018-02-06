@@ -1,0 +1,4 @@
+etri#doc_2234.txt 4 일으키다 ----- 3:1-ARGM-EXT() 4:0-rel
+etri#doc_2234.txt 7 데리다 ----- 1:1-() 2:1-() 5:3-() 6:1-() 7:0-rel
+etri#doc_2234.txt 12 흔들다 ----- 10:1-ARGM-EXT() 11:1-ARG2(THM) 12:0-rel
+etri#doc_2234.txt 13 하다 ----- 13:0-rel

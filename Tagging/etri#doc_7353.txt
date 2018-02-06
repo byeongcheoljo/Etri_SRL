@@ -1,0 +1,4 @@
+etri#doc_7353.txt 5 점멸하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7353.txt 10 뽑아내다 ----- 7:2-ARGM-LOC(GOL) 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_7353.txt 12 알다 ----- 11:1-ARG0(MAG) 12:0-rel
+etri#doc_7353.txt 18 지르다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 10:2-ARGM-PRP() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

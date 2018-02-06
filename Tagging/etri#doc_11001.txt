@@ -1,0 +1,1 @@
+etri#doc_11001.txt 18 이루어지다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 17:3-ARG1(THM) 18:0-rel

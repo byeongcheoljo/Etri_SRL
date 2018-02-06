@@ -1,0 +1,2 @@
+etri#doc_3042.txt 4 생산하다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:0-rel
+etri#doc_3042.txt 11 분배되다 ----- 9:2-ARG1(GOL) 10:1-ARGM-MNR() 11:0-rel

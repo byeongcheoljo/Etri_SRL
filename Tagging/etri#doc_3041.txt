@@ -1,0 +1,3 @@
+etri#doc_3041.txt 5 지배하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3041.txt 14 쉬다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_3041.txt 17 뻗다 ----- 1:1-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARGM-TMP(LOC) 14:3-ARGM-DIS() 15:1-ARGM-EXT() 16:1-ARG2(DIR) 17:0-rel

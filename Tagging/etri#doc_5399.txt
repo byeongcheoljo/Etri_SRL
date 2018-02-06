@@ -1,0 +1,4 @@
+etri#doc_5399.txt 4 맡다 ----- 4:0-rel
+etri#doc_5399.txt 5 처리하다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5399.txt 10 보살피다 ----- 5:2-ARGM-DIS() 7:2-ARGM-EXT(CRT) 8:1-ARG0() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_5399.txt 17 알다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

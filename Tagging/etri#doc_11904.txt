@@ -1,0 +1,4 @@
+etri#doc_11904.txt 4 드나들다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11904.txt 5 취재하다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP(SRC) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_11904.txt 11 비교하다 ----- 10:1-ARG2(COM) 11:0-rel
+etri#doc_11904.txt 13 바뀌다 ----- 6:4-ARG0(AGT) 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-EXT() 13:0-rel

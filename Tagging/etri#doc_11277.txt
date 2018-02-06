@@ -1,0 +1,3 @@
+etri#doc_11277.txt 6 비추다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_11277.txt 8 가지다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_11277.txt 12 발견하다 ----- 2:2-ARGM-ADV(EFF) 3:1-ARG0(AGT) 8:5-ARGM-DIS() 11:3-ARG1(THM) 12:0-rel

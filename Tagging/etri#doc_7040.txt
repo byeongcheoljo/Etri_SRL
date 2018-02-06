@@ -1,0 +1,5 @@
+etri#doc_7040.txt 5 건너가다 ----- 3:3-ARGM-TMP() 4:1-ARG3(LOC) 5:0-rel
+etri#doc_7040.txt 8 급제하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_7040.txt 11 일어나다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7040.txt 15 짓다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_7040.txt 18 기여하다 ----- 9:3-ARG0(AGT) 11:2-ARGM-DIS() 13:2-ARGM-PRD(INS) 15:2-ARGM-MNR() 17:2-ARG1(GOL) 18:0-rel

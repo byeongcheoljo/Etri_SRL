@@ -1,0 +1,4 @@
+etri#doc_5852.txt 4 고려하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5852.txt 9 발표하다 ----- 5:5-ARG1(THM) 6:1-ARGM-TMP() 7:1-ARG0(AGT) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_5852.txt 12 보다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_5852.txt 15 금하다 ----- 9:2-ARGM-DIS() 12:3-ARGM-CND() 13:1-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

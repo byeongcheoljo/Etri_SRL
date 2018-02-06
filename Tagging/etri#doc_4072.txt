@@ -1,0 +1,5 @@
+etri#doc_4072.txt 4 늘어지다 ----- 3:1-ARGM-EXT(EFF) 4:0-rel
+etri#doc_4072.txt 5 하다 ----- 2:2-ARGM-PRD() 4:2-ARGM-DIS() 5:0-rel
+etri#doc_4072.txt 8 하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_4072.txt 10 하다 ----- 8:2-ARGM-TMP() 9:1-ARG1(THM) 10:0-rel
+etri#doc_4072.txt 16 담다 ----- 15:1-ARG1(THM) 16:0-rel

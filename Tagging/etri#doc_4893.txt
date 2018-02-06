@@ -1,0 +1,6 @@
+etri#doc_4893.txt 5 자극하다 ----- 3:2-ARG0(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4893.txt 10 전달되다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARGM-INS(INS) 9:1-ARG2(GOL) 10:0-rel
+etri#doc_4893.txt 12 기록되다 ----- 12:0-rel
+etri#doc_4893.txt 13 해독되다 ----- 10:2-ARGM-DIS() 11:1-ARGM-LOC(LOC) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4893.txt 16 상응하다 ----- 15:2-ARG2(CRT) 16:0-rel
+etri#doc_4893.txt 18 생산되다 ----- 1:1-ARGM-DIS() 13:2-ARGM-CAU() 17:4-ARG1(THM) 18:0-rel

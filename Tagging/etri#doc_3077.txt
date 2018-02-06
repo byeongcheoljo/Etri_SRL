@@ -1,0 +1,4 @@
+etri#doc_3077.txt 5 얻다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3077.txt 12 얻다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3077.txt 13 일하다 ----- 12:2-ARGM-CND() 13:0-rel
+etri#doc_3077.txt 16 여기다 ----- 1:1-ARG0(MAG) 10:5-ARGM-DIS() 14:4-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

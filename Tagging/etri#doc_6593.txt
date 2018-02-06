@@ -1,0 +1,4 @@
+etri#doc_6593.txt 11 이야기되다 ----- 10:1-ARGM-LOC() 11:0-rel
+etri#doc_6593.txt 15 증가시키다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_6593.txt 18 흐르다 ----- 9:2-ARG1(THM) 11:2-ARGM-DIS() 16:5-ARGM-DIR(DIR) 17:1-ARGM-TMP() 18:0-rel
+etri#doc_6593.txt 20 되다 ----- 7:3-ARGM-DIS() 18:2-ARGM-CND() 19:1-ARGM-MNR() 20:0-rel

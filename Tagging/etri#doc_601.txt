@@ -1,0 +1,5 @@
+etri#doc_601.txt 4 장악하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_601.txt 7 내세우다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_601.txt 9 실패하다 ----- 8:3-ARG0(AGT) 9:0-rel
+etri#doc_601.txt 15 돌리다 ----- 11:2-ARG1(THM) 14:3-ARG2(GOL) 15:0-rel
+etri#doc_601.txt 17 전개하다 ----- 5:5-() 9:4-() 15:4-() 16:1-() 17:0-rel

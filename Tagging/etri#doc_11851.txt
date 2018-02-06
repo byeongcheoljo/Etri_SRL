@@ -1,0 +1,5 @@
+etri#doc_11851.txt 5 가지다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARGM-LOC(GOL) 5:0-rel
+etri#doc_11851.txt 7 챙기다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_11851.txt 10 챙기다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11851.txt 11 지시하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 7:4-ARGM-DIS() 8:1-ARG2(GOL) 10:2-ARGM-MNR() 11:0-rel
+etri#doc_11851.txt 13 보도되다 ----- 11:3-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:0-rel

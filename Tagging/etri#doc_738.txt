@@ -1,0 +1,1 @@
+etri#doc_738.txt 13 부여하다 ----- 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

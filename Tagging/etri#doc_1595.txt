@@ -1,0 +1,2 @@
+etri#doc_1595.txt 4 발전되다 ----- 2:1-ARG0(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_1595.txt 14 실시하다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel

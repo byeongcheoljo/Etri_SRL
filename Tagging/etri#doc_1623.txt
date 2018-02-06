@@ -1,0 +1,1 @@
+etri#doc_1623.txt 14 го╢ы ----- 5:5-ARG0(THM) 6:1-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-PRP(PUR) 14:0-rel

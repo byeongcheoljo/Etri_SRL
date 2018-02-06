@@ -1,0 +1,7 @@
+etri#doc_545.txt 4 세우다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_545.txt 6 구성하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_545.txt 9 쓰다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_545.txt 10 내려가다 ----- 2:2-ARGM-MNR(INS) 7:3-ARGM-DIS() 9:2-ARGM-MNR() 10:0-rel
+etri#doc_545.txt 13 퇴고하다 ----- 10:3-ARGM-DIS() 12:2-ARGM-MNR(INS) 13:0-rel
+etri#doc_545.txt 15 살펴보다 ----- 13:3-ARG1() 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_545.txt 20 도달하다 ----- 15:2-ARGM-CND() 16:1-ARGM-MNR(INS) 19:3-ARG2(GOL) 20:0-rel

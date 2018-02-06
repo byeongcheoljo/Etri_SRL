@@ -1,0 +1,4 @@
+etri#doc_6542.txt 7 강화하다 ----- 5:3-ARGM-LOC(GOL) 6:1-ARG1(THM) 7:0-rel
+etri#doc_6542.txt 10 내리다 ----- 7:2-ARGM-DIS() 8:1-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6542.txt 13 대비하다 ----- 2:1-ARG0(AGT) 10:2-ARGM-DIS() 12:2-ARG1(GOL) 13:0-rel
+etri#doc_6542.txt 14 말하다 ----- 1:1-ARG0(AGT) 13:3-ARG1() 14:0-rel

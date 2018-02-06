@@ -1,0 +1,4 @@
+etri#doc_6470.txt 3 졸업하다 ----- 2:1-ARG1(SRC) 3:0-rel
+etri#doc_6470.txt 6 되다 ----- 3:2-ARGM-DIS() 4:1-ARG2(FNS) 5:1-ARGM-NEG() 6:0-rel
+etri#doc_6470.txt 13 만나다 ----- 8:1-ARG1(COM) 9:1-ARG0(AGT) 12:3-ARGM-LOC(LOC) 13:0-rel
+etri#doc_6470.txt 16 하다 ----- 1:1-ARGM-DIS() 6:2-ARGM-TMP() 7:1-ARG0(AGT) 13:4-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

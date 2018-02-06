@@ -1,0 +1,5 @@
+etri#doc_4711.txt 7 한정되다 ----- 7:0-rel
+etri#doc_4711.txt 9 놓다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4711.txt 10 벌이다 ----- 6:2-ARGM-DIS() 9:3-ARGM-DIS() 10:0-rel
+etri#doc_4711.txt 16 피하다 ----- 14:4-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_4711.txt 19 되다 ----- 4:3-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel

@@ -1,0 +1,1 @@
+etri#doc_4862.txt 6 추진되다 ----- 4:1-ARGM-CAU(EFF) 5:1-ARGM-MNR() 6:0-rel

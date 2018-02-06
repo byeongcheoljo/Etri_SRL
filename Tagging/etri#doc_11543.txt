@@ -1,0 +1,4 @@
+etri#doc_11543.txt 3 증명하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11543.txt 9 만들다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_11543.txt 11 가르치다 ----- 6:1-ARG2(GOL) 10:4-ARG1(THM) 11:0-rel
+etri#doc_11543.txt 13 하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-PRP() 5:2-ARGM-LOC(LOC) 11:5-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

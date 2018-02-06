@@ -1,0 +1,2 @@
+etri#doc_11832.txt 8 단행되다 ----- 2:2-ARGM-TMP() 6:4-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11832.txt 13 파악하다 ----- 8:2-ARGM-TMP() 9:1-ARGM-LOC(LOC) 10:1-ARGM-INS(INS) 12:2-ARG1(THM) 13:0-rel

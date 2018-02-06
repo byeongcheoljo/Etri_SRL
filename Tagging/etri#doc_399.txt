@@ -1,0 +1,3 @@
+etri#doc_399.txt 7 판단하다 ----- 4:1-ARGM-CND(THM) 6:2-ARG1() 7:0-rel
+etri#doc_399.txt 11 챙기다 ----- 7:3-ARGM-DIS() 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_399.txt 15 벌어지다 ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 14:5-ARG1(THM) 15:0-rel

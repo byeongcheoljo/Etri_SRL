@@ -1,0 +1,5 @@
+etri#doc_5464.txt 2 하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5464.txt 3 일어나다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_5464.txt 8 보다 ----- 6:3-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_5464.txt 12 구입하다 ----- 9:3-ARG0(AGT) 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5464.txt 14 반복되다 ----- 13:3-ARG1(THM) 14:0-rel

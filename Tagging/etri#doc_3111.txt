@@ -1,0 +1,5 @@
+etri#doc_3111.txt 4 의지하다 ----- 3:1-ARG1(GOL) 4:0-rel
+etri#doc_3111.txt 10 떠나다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 6:4-ARGM-CAU() 7:1-ARGM-MNR() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3111.txt 12 벗다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_3111.txt 13 부화하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_3111.txt 18 내다 ----- 10:3-ARGM-DIS() 14:4-ARGM-MNR(INS) 15:1-ARGM-MNR() 17:2-() 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11745.txt 10 하다 ----- 3:2-ARGM-LOC(GOL) 9:3-ARG1(THM) 10:0-rel
+etri#doc_11745.txt 17 가지다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_11745.txt 18 이룩하다 ----- 11:5-ARG0(AGT) 14:2-ARGM-LOC(LOC) 17:3-ARGM-DIS() 18:0-rel
+etri#doc_11745.txt 22 요약되다 ----- 19:5-ARG1(THM) 21:2-ARGM-MNR(FNS) 22:0-rel

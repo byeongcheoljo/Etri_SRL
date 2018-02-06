@@ -1,0 +1,3 @@
+etri#doc_7212.txt 7 하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_7212.txt 10 캐다 ----- 10:0-rel
+etri#doc_7212.txt 15 찾다 ----- 1:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-EXT() 14:2-ARG1(THM) 15:0-rel

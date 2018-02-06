@@ -1,0 +1,2 @@
+etri#doc_3327.txt 9 싹트다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3327.txt 15 나타나다 ----- 1:1-() 2:1-ARG2(LOC) 9:3-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG2(LOC) 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3208.txt 7 사라지다 ----- 5:2-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3208.txt 17 되다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP(LOC) 8:3-ARGM-DIS() 10:2-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:1-ARGM-LOC(LOC) 14:2-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

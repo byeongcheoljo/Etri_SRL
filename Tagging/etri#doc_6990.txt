@@ -1,0 +1,2 @@
+etri#doc_6990.txt 7 되다 ----- 3:3-ARGM-PRP() 6:3-ARG2() 7:0-rel
+etri#doc_6990.txt 16 되다 ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 10:2-ARG1(THM) 12:2-ARGM-PRP() 15:3-ARG2() 16:0-rel

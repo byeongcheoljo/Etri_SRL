@@ -1,0 +1,4 @@
+etri#doc_806.txt 4 추구하다 ----- 3:1-ARG0(AGT) 4:0-rel
+etri#doc_806.txt 8 접근하다 ----- 2:1-ARGM-MNR() 6:4-ARGM-LOC(LOC) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_806.txt 11 앞세우다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_806.txt 15 맞서다 ----- 14:3-ARG1(GOL) 15:0-rel

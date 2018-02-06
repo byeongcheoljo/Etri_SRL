@@ -1,0 +1,2 @@
+etri#doc_8173.txt 6 수용되다 ----- 5:2-ARGM-MNR(FNS) 6:0-rel
+etri#doc_8173.txt 21 나타나다 ----- 1:1-ARG0(AGT) 20:4-ARGM-MNR(FNS) 21:0-rel

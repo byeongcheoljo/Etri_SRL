@@ -1,0 +1,3 @@
+etri#doc_7146.txt 6 시도하다 ----- 2:2-ARGM-DIS(COM) 3:1-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_7146.txt 9 되다 ----- 7:1-ARG2(THM) 8:1-ARG1(FNS) 9:0-rel
+etri#doc_7146.txt 13 향하다 ----- 6:3-ARGM-MNR() 12:2-ARG1(DIR) 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9746.txt 14 갖추다 ----- 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_9746.txt 17 지니다 ----- 16:2-ARG1(THM) 17:0-rel

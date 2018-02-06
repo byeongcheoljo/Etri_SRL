@@ -1,0 +1,9 @@
+etri#doc_8280.txt 2 따돌리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8280.txt 5 따르다 ----- 3:1-ARGM-DIS() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_8280.txt 6 들어오다 ----- 2:2-ARGM-DIS() 5:2-ARGM-DIS() 6:0-rel
+etri#doc_8280.txt 8 앉다 ----- 7:1-ARG1(GOL) 8:0-rel
+etri#doc_8280.txt 9 말하다 ----- 6:3-ARG1() 8:2-ARG1() 9:0-rel
+etri#doc_8280.txt 11 만나다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8280.txt 13 파악하다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_8280.txt 15 전달하다 ----- 11:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_8280.txt 16 부탁하다 ----- 9:3-ARGM-DIS() 15:4-ARG1() 16:0-rel

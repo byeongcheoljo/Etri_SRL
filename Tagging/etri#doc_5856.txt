@@ -1,0 +1,4 @@
+etri#doc_5856.txt 3 발표하다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_5856.txt 10 과장하다 ----- 6:2-ARG1(THM) 8:2-ARGM-MNR(INS) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_5856.txt 12 경계하다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_5856.txt 13 말하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-INS(INS) 12:4-ARG1() 13:0-rel

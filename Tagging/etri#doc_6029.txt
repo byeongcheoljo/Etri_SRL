@@ -1,0 +1,3 @@
+etri#doc_6029.txt 4 되다 ----- 2:1-ARGM-TMP() 3:1-ARG2(FNS) 4:0-rel
+etri#doc_6029.txt 9 대하다 ----- 4:2-ARGM-DIS() 5:1-ARG2(THM) 6:1-ARGM-MNR() 8:2-ARGM-INS(INS) 9:0-rel
+etri#doc_6029.txt 18 추궁하다 ----- 1:1-ARGM-DIS() 9:3-ARGM-DIS() 15:3-ARGM-CND() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

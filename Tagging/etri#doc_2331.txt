@@ -1,0 +1,2 @@
+etri#doc_2331.txt 10 진단하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-TMP() 7:1-ARGM-TMP(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_2331.txt 16 인용하다 ----- 10:3-ARGM-ADV(EFF) 11:1-ARG0() 13:2-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel

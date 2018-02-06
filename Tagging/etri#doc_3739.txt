@@ -1,0 +1,2 @@
+etri#doc_3739.txt 10 부정되다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_3739.txt 16 입다 ----- 12:1-ARG1(GOL) 14:2-ARGM-LOC(LOC) 15:1-ARG2(Npr) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1678.txt 1 하다 ----- 1:0-rel
+etri#doc_1678.txt 6 감추다 ----- 2:1-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_1678.txt 8 보이다 ----- 1:1-() 6:3-ARGM-CND() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1678.txt 13 보다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARG1(THM) 12:2-ARGM-LOC(LOC) 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11431.txt 9 맞다 ----- 1:1-ARGM-DIS() 6:2-ARG2(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11431.txt 14 고정되다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 13:2-ARGM-MNR(INS) 14:0-rel

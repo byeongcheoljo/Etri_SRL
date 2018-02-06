@@ -1,0 +1,6 @@
+etri#doc_4499.txt 1 열리다 ----- 1:0-rel
+etri#doc_4499.txt 7 믿다 ----- 5:1-ARG0(MAG) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4499.txt 10 사랑하다 ----- 7:2-ARGM-DIS() 8:1-ARG0(MAG) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4499.txt 12 긍정하다 ----- 12:0-rel
+etri#doc_4499.txt 13 이해하다 ----- 4:2-() 10:2-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4499.txt 18 사랑하다 ----- 17:1-ARG1(THM) 18:0-rel

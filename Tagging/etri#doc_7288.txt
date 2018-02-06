@@ -1,0 +1,4 @@
+etri#doc_7288.txt 8 압도하다 ----- 6:3-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_7288.txt 13 하다 ----- 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7288.txt 15 지르다 ----- 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_7288.txt 18 널리다 ----- 8:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

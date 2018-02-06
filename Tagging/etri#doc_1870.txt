@@ -1,0 +1,7 @@
+etri#doc_1870.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1870.txt 6 낳다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1870.txt 8 지내다 ----- 6:2-ARGM-DIS() 7:1-ARGM-ADV() 8:0-rel
+etri#doc_1870.txt 10 슬퍼하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_1870.txt 12 죽다 ----- 12:0-rel
+etri#doc_1870.txt 17 보다 ----- 11:5-ARG0(AGT) 12:1-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-ADV() 17:0-rel
+etri#doc_1870.txt 18 일으키다 ----- 17:2-ARGM-DIS() 18:0-rel

@@ -1,0 +1,6 @@
+etri#doc_7909.txt 3 되돌아보다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7909.txt 4 비판하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_7909.txt 10 빠져나가다 ----- 8:2-ARG0(AGT) 9:1-ARG2(SRC) 10:0-rel
+etri#doc_7909.txt 15 당황하다 ----- 13:3-ARG0(EXP) 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_7909.txt 18 발휘하다 ----- 6:1-ARGM-TMP() 10:2-ARGM-CAU() 15:2-ARGM-DIS() 16:1-ARGM-MNR() 17:1-ARG1(THM) 18:0-rel
+etri#doc_7909.txt 19 지적하다 ----- 5:4-ARG0(AGT) 18:2-ARGM-DIS() 19:0-rel

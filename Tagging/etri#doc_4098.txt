@@ -1,0 +1,5 @@
+etri#doc_4098.txt 5 식다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_4098.txt 12 하다 ----- 10:3-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_4098.txt 14 보다 ----- 13:1-ARGM-EXT() 14:0-rel
+etri#doc_4098.txt 17 돌아서다 ----- 15:1-ARG0(AGT) 16:1-ARGM-LOC(LOC) 17:0-rel
+etri#doc_4098.txt 19 걸리다 ----- 12:2-ARGM-DIS() 14:2-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARGM-EXT() 19:0-rel

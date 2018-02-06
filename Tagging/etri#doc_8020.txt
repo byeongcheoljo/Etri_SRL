@@ -1,0 +1,1 @@
+etri#doc_8020.txt 17 ¸¸µé´Ù ----- 12:3-ARGM-DIS() 13:1-ARG0(AGT) 15:2-ARG1(THM) 16:1-ARGM-INS(INS) 17:0-rel

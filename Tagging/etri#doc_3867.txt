@@ -1,0 +1,4 @@
+etri#doc_3867.txt 3 지정하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_3867.txt 6 묶다 ----- 4:3-ARG1(THM) 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_3867.txt 8 활용하다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_3867.txt 11 가르치다 ----- 1:1-ARGM-PRP(PUR) 6:2-ARGM-DIS() 8:2-ARGM-PRP() 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel

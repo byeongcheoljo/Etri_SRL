@@ -1,0 +1,4 @@
+etri#doc_7627.txt 2 배다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7627.txt 3 박다 ----- 2:2-ARGM-MNR() 3:0-rel
+etri#doc_7627.txt 12 주다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_7627.txt 18 입다 ----- 5:2-ARG0(AGT) 12:4-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel

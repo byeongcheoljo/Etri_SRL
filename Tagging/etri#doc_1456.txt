@@ -1,0 +1,4 @@
+etri#doc_1456.txt 5 하직하다 ----- 3:1-ARG1(THM) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_1456.txt 7 떠나다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 5:2-ARGM-MNR() 6:1-() 7:0-rel
+etri#doc_1456.txt 12 돌다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_1456.txt 15 머물다 ----- 14:1-ARGM-LOC() 15:0-rel

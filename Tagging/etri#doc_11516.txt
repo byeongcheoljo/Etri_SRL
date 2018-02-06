@@ -1,0 +1,6 @@
+etri#doc_11516.txt 4 쓰다 ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_11516.txt 8 터지다 ----- 4:2-ARGM-CND() 7:2-ARG1(THM) 8:0-rel
+etri#doc_11516.txt 10 쓰다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11516.txt 13 낫다 ----- 11:1-ARGM-TMP(LOC) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_11516.txt 16 늘어지다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_11516.txt 17 꼬이다 ----- 8:3-ARGM-DIS() 10:2-ARGM-CND() 13:2-ARGM-DIS() 14:1-ARGM-TMP(LOC) 16:2-ARGM-MNR() 17:0-rel

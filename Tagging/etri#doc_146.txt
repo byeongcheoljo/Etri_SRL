@@ -1,0 +1,3 @@
+etri#doc_146.txt 3 날리다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_146.txt 9 하다 ----- 7:1-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_146.txt 12 서다 ----- 9:2-ARGM-DIS() 11:2-ARG1(LOC) 12:0-rel

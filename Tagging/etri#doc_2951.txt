@@ -1,0 +1,6 @@
+etri#doc_2951.txt 1 돌이켜보다 ----- 1:0-rel
+etri#doc_2951.txt 3 오다 ----- 2:1-ARG3(LOC) 3:0-rel
+etri#doc_2951.txt 8 찾다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_2951.txt 12 잘살다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_2951.txt 14 오다 ----- 12:2-ARGM-PRP(PUR) 13:1-ARG3(LOC) 14:0-rel
+etri#doc_2951.txt 15 살다 ----- 10:1-ARG0(AGT) 14:2-ARGM-DIS() 15:0-rel

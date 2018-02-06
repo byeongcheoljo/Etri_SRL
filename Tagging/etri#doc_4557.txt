@@ -1,0 +1,7 @@
+etri#doc_4557.txt 1 썩다 ----- 1:0-rel
+etri#doc_4557.txt 4 되다 ----- 2:2-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_4557.txt 7 되다 ----- 5:1-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_4557.txt 10 되다 ----- 4:2-ARGM-DIS() 7:2-ARGM-CND() 9:2-ARG2(FNS) 10:0-rel
+etri#doc_4557.txt 11 늙다 ----- 11:0-rel
+etri#doc_4557.txt 14 되다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARG2(FNS) 14:0-rel
+etri#doc_4557.txt 18 되다 ----- 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:1-ARG2(FNS) 18:0-rel

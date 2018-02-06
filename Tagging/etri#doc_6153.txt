@@ -1,0 +1,5 @@
+etri#doc_6153.txt 10 받다 ----- 6:4-ARGM-CAU(EFF) 7:1-ARG0(GOL) 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_6153.txt 11 설명하다 ----- 2:2-ARGM-LOC(LOC) 10:2-ARG1() 11:0-rel
+etri#doc_6153.txt 13 내재되다 ----- 13:0-rel
+etri#doc_6153.txt 16 받다 ----- 14:2-ARG2(AGT) 15:1-ARG1(THM) 16:0-rel
+etri#doc_6153.txt 18 논의하다 ----- 11:3-ARGM-DIS() 12:1-ARGM-LOC(LOC) 17:3-ARG1(THM) 18:0-rel

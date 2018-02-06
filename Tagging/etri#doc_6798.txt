@@ -1,0 +1,4 @@
+etri#doc_6798.txt 2 침공하다 ----- 2:0-rel
+etri#doc_6798.txt 5 격퇴시키다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6798.txt 8 맛보다 ----- 5:3-ARGM-CAU() 7:2-ARG2(THM) 8:0-rel
+etri#doc_6798.txt 16 슬퍼하다 ----- 1:1-ARGM-TMP() 9:4-ARG0(EXP) 15:4-ARG1(THM) 16:0-rel

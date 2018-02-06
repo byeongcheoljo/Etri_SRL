@@ -1,0 +1,3 @@
+etri#doc_6420.txt 6 성장하다 ----- 3:2-ARG1(THM) 5:2-ARGM-MNR() 6:0-rel
+etri#doc_6420.txt 12 자라나다 ----- 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_6420.txt 16 고갈시키다 ----- 8:5-ARGM-DIS() 10:2-ARG0(SRC) 14:2-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel

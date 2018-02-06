@@ -1,0 +1,3 @@
+etri#doc_11938.txt 7 포함하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11938.txt 13 늘어나다 ----- 9:1-ARGM-EXT(CRT) 12:3-ARGM-EXT(CRT) 13:0-rel
+etri#doc_11938.txt 15 결정되다 ----- 1:1-ARGM-DIS() 8:4-ARG1(THM) 14:5-ARGM-EXT(FNS) 15:0-rel

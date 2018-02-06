@@ -1,0 +1,5 @@
+etri#doc_7114.txt 4 향유하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_7114.txt 10 들어오다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_7114.txt 13 좇다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7114.txt 16 제조하다 ----- 13:3-ARGM-DIS() 14:1-ARGM-MNR(INS) 15:1-ARG1(THM) 16:0-rel
+etri#doc_7114.txt 17 탈피하다 ----- 1:1-ARG0(AGT) 10:4-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

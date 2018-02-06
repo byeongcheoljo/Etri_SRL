@@ -1,0 +1,4 @@
+etri#doc_706.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARG2(FNS) 3:0-rel
+etri#doc_706.txt 10 조이다 ----- 9:1-ARG1() 10:0-rel
+etri#doc_706.txt 11 살다 ----- 8:3-ARGM-CAU() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_706.txt 16 들다 ----- 15:3-ARG1(THM) 16:0-rel

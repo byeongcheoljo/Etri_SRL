@@ -1,0 +1,4 @@
+etri#doc_11062.txt 4 장만하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11062.txt 11 장만하다 ----- 10:1-ARG1() 11:0-rel
+etri#doc_11062.txt 14 마치다 ----- 8:2-ARGM-DIS() 9:1-ARGM-TMP() 12:3-ARGM-MNR(INS) 13:1-ARG1(THM) 14:0-rel
+etri#doc_11062.txt 20 잊다 ----- 18:4-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel

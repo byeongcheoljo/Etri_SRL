@@ -1,0 +1,3 @@
+etri#doc_1249.txt 8 소생되다 ----- 3:3-ARGM-DIS() 7:4-ARGM-DIS() 8:0-rel
+etri#doc_1249.txt 15 주다 ----- 13:1-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_1249.txt 18 말하다 ----- 8:5-ARGM-DIS() 12:2-ARG1(EFF) 15:2-ARGM-DIS() 17:2-ARGM-ADV(EFF) 18:0-rel

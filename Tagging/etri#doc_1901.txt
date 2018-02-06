@@ -1,0 +1,6 @@
+etri#doc_1901.txt 4 바라다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_1901.txt 6 가지다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_1901.txt 8 변하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_1901.txt 14 발전하다 ----- 14:0-rel
+etri#doc_1901.txt 15 하다 ----- 14:1-ARGM-DIS() 15:0-rel
+etri#doc_1901.txt 17 거부하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS(CRT) 6:4-ARGM-CAU() 9:3-ARGM-DIS(DIR) 10:1-ARG1() 11:1-ARGM-ADV() 16:3-ARG1(THM) 17:0-rel

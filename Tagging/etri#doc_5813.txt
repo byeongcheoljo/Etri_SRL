@@ -1,0 +1,5 @@
+etri#doc_5813.txt 3 말하다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_5813.txt 9 극복하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5813.txt 14 가다 ----- 14:0-rel
+etri#doc_5813.txt 16 찾다 ----- 6:3-ARGM-LOC(LOC) 9:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_5813.txt 19 확인하다 ----- 1:1-ARGM-DIS() 18:5-ARG1(THM) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8628.txt 7 추구하다 ----- 5:5-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_8628.txt 11 세우다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8628.txt 14 완성하다 ----- 7:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_8628.txt 17 살다 ----- 16:2-ARG0(THM) 17:0-rel
+etri#doc_8628.txt 21 열다 ----- 14:3-ARGM-DIS() 20:2-ARG1(THM) 21:0-rel

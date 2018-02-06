@@ -1,0 +1,2 @@
+etri#doc_888.txt 3 뵈다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_888.txt 14 걸려들다 ----- 13:2-ARGM-INS(INS) 14:0-rel

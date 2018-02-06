@@ -1,0 +1,2 @@
+etri#doc_4958.txt 9 울리다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4958.txt 19 지니다 ----- 1:1-ARGM-DIS() 17:3-ARG1(THM) 18:1-ARG0(AGT) 19:0-rel

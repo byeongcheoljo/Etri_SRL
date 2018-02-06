@@ -1,0 +1,4 @@
+etri#doc_11044.txt 3 쓰이다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_11044.txt 5 보다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_11044.txt 7 생산하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_11044.txt 19 소요되다 ----- 5:4-ARGM-CND() 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARG1(THM) 13:3-ARGM-EXT() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:1-ARG1(THM) 18:2-ARG1(THM) 19:0-rel

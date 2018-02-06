@@ -1,0 +1,4 @@
+etri#doc_2529.txt 6 미치다 ----- 5:1-ARG2(EFF) 6:0-rel
+etri#doc_2529.txt 8 미치다 ----- 6:2-ARGM-DIS() 7:1-ARG2(EFF) 8:0-rel
+etri#doc_2529.txt 15 미치다 ----- 8:2-ARGM-DIS() 14:2-ARG2(EFF) 15:0-rel
+etri#doc_2529.txt 17 빠지다 ----- 15:3-ARGM-DIS() 16:1-ARG0() 17:0-rel

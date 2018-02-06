@@ -1,0 +1,6 @@
+etri#doc_4812.txt 4 하다 ----- 3:1-ARG1(CNT) 4:0-rel
+etri#doc_4812.txt 6 들다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_4812.txt 9 짓다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4812.txt 13 두드리다 ----- 7:5-ARG0(AGT) 9:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4812.txt 18 다투다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_4812.txt 19 날아다니다 ----- 16:1-ARG1(THM) 18:2-ARGM-DIS() 19:0-rel

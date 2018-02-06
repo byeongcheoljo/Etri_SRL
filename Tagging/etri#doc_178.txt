@@ -1,0 +1,4 @@
+etri#doc_178.txt 6 계속되다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 4:2-ARGM-DIS() 5:1-ARGM-TMP(GOL) 6:0-rel
+etri#doc_178.txt 7 감안하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_178.txt 11 오다 ----- 9:2-ARG1() 10:1-ARGM-TMP() 11:0-rel
+etri#doc_178.txt 12 기다리다 ----- 7:3-ARGM-TMP() 11:2-ARG1(THM) 12:0-rel

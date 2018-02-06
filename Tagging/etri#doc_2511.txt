@@ -1,0 +1,6 @@
+etri#doc_2511.txt 2 허물어지다 ----- 2:0-rel
+etri#doc_2511.txt 5 하다 ----- 1:1-ARGM-EXT() 4:3-ARG1(THM) 5:0-rel
+etri#doc_2511.txt 8 무너지다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_2511.txt 12 차단하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_2511.txt 15 떨어뜨리다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_2511.txt 18 담당하다 ----- 5:4-ARGM-DIS() 6:1-ARGM-ADV(EFF) 8:2-ARGM-CND() 9:1-ARGM-ADV(EFF) 17:2-ARG1(THM) 18:0-rel

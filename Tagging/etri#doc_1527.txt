@@ -1,0 +1,5 @@
+etri#doc_1527.txt 6 작성하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_1527.txt 8 속하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_1527.txt 11 만들다 ----- 9:3-ARGM-LOC(LOC) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_1527.txt 15 승인하다 ----- 13:4-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1527.txt 18 건의하다 ----- 2:2-ARG0() 6:4-ARGM-DIS() 16:3-ARG1(THM) 17:1-ARG2(GOL) 18:0-rel

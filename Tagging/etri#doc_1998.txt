@@ -1,0 +1,2 @@
+etri#doc_1998.txt 4 °Þ´Ù ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 4:0-rel
+etri#doc_1998.txt 16 ´À³¢´Ù ----- 5:4-ARG0(EXP) 8:3-ARGM-DIS() 13:5-ARG1(THM) 14:1-ARGM-MNR(INS) 15:1-ARGM-MNR() 16:0-rel

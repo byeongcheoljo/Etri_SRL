@@ -1,0 +1,4 @@
+etri#doc_6822.txt 3 죽다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6822.txt 9 하다 ----- 5:4-ARGM-ADV(CNT) 6:1-ARGM-CND(CNT) 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6822.txt 12 일어나다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6822.txt 14 되다 ----- 1:1-ARGM-DIS() 13:4-ARG2(FNS) 14:0-rel

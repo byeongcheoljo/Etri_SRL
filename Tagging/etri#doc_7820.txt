@@ -1,0 +1,2 @@
+etri#doc_7820.txt 15 ¹þ¾î³ª´Ù ----- 14:5-ARG1(SRC) 15:0-rel
+etri#doc_7820.txt 19 »ç·Ú´Ù ----- 8:2-ARGM-MNR() 9:1-ARGM-DIS() 15:6-ARGM-MNR() 16:1-ARG0(AGT) 17:1-ARGM-LOC(LOC) 18:1-ARGM-MNR() 19:0-rel

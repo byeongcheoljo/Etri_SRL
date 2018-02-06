@@ -1,0 +1,1 @@
+etri#doc_8866.txt 24 ³ª¿À´Ù ----- 12:4-ARGM-DIS() 21:3-ARG0(AGT) 23:2-ARG3(LOC) 24:0-rel

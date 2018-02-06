@@ -1,0 +1,2 @@
+etri#doc_7763.txt 6 통과되다 ----- 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_7763.txt 10 창설되다 ----- 9:2-ARGM-TMP(LOC) 10:0-rel

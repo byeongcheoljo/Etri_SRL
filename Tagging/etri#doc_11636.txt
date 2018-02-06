@@ -1,0 +1,4 @@
+etri#doc_11636.txt 5 오다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_11636.txt 9 맞다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_11636.txt 11 졸업하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11636.txt 13 들다 ----- 11:2-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:0-rel

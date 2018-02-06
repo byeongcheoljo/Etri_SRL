@@ -1,0 +1,7 @@
+etri#doc_11066.txt 2 쫓다 ----- 2:0-rel
+etri#doc_11066.txt 4 기다리다 ----- 2:1-ARGM-DIS() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_11066.txt 5 삐치다 ----- 5:0-rel
+etri#doc_11066.txt 7 따지다 ----- 1:1-ARGM-CND() 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_11066.txt 9 흐르다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11066.txt 13 안달하다 ----- 12:2-() 13:0-rel
+etri#doc_11066.txt 15 보이다 ----- 7:3-ARGM-DIS() 10:3-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

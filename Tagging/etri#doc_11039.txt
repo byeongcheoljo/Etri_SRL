@@ -1,0 +1,6 @@
+etri#doc_11039.txt 2 번역되다 ----- 1:1-ARG3(FNS) 2:0-rel
+etri#doc_11039.txt 6 번역되다 ----- 3:3-ARGM-LOC() 5:2-ARGM-TMP() 6:0-rel
+etri#doc_11039.txt 10 하다 ----- 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11039.txt 12 가다 ----- 10:2-ARGM-DIS() 11:1-ARG3(GOL) 12:0-rel
+etri#doc_11039.txt 14 수행하다 ----- 13:1-ARGM-TMP() 14:0-rel
+etri#doc_11039.txt 16 익히다 ----- 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1330.txt 5 잇달다 ----- 5:0-rel
+etri#doc_1330.txt 16 따르다 ----- 2:2-ARG0(THM) 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

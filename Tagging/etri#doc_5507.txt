@@ -1,0 +1,4 @@
+etri#doc_5507.txt 4 결합되다 ----- 3:1-ARGM-DIS() 4:0-rel
+etri#doc_5507.txt 7 조정하다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_5507.txt 17 이루어지다 ----- 16:4-ARGM-INS(INS) 17:0-rel
+etri#doc_5507.txt 21 하다 ----- 2:2-ARGM-LOC(LOC) 7:5-ARGM-PRP() 19:2-ARG0(AGT) 20:1-ARG1(THM) 21:0-rel

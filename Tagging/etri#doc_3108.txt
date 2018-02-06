@@ -1,0 +1,5 @@
+etri#doc_3108.txt 2 지나치다 ----- 2:0-rel
+etri#doc_3108.txt 6 잃어버리다 ----- 3:2-ARGM-MNR(INS) 5:2-ARG1(THM) 6:0-rel
+etri#doc_3108.txt 9 억제하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3108.txt 10 쓰다 ----- 10:0-rel
+etri#doc_3108.txt 15 피하다 ----- 6:3-ARGM-CAU() 9:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

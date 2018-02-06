@@ -1,0 +1,5 @@
+etri#doc_555.txt 2 글쓰다 ----- 2:0-rel
+etri#doc_555.txt 5 비치다 ----- 4:3-ARG2(LOC) 5:0-rel
+etri#doc_555.txt 15 살리다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_555.txt 18 선택하다 ----- 17:5-ARGM-CAU() 18:0-rel
+etri#doc_555.txt 20 일컫다 ----- 11:3-ARGM-DIS() 12:1-ARG0(THM) 19:7-ARG1(FNS) 20:0-rel

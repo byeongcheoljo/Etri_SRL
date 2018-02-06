@@ -1,0 +1,3 @@
+etri#doc_7281.txt 6 하다 ----- 4:1-ARG1(THM) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_7281.txt 10 진치다 ----- 3:3-ARGM-LOC(LOC) 9:2-ARG0(AGT) 10:0-rel
+etri#doc_7281.txt 17 만나다 ----- 10:3-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:1-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

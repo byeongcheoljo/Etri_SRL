@@ -1,0 +1,2 @@
+etri#doc_3154.txt 6 인정하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3154.txt 11 훼손되다 ----- 10:2-ARG1(THM) 11:0-rel

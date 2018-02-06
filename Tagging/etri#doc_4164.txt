@@ -1,0 +1,4 @@
+etri#doc_4164.txt 8 옮기다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4164.txt 11 고용하다 ----- 9:3-ARGM-ADV(EFF) 10:1-ARGM-TMP(LOC) 11:0-rel
+etri#doc_4164.txt 12 결의하다 ----- 3:3-ARG0(AGT) 11:2-ARGM-DIS() 12:0-rel
+etri#doc_4164.txt 15 반발하다 ----- 12:3-ARGM-CAU() 13:1-ARG0(EFF) 14:1-ARG1(CNT) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7542.txt 9 상실되다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_7542.txt 13 고민하다 ----- 13:0-rel
+etri#doc_7542.txt 14 주도하다 ----- 12:2-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_7542.txt 17 자리잡다 ----- 16:2-ARG0(AGT) 17:0-rel

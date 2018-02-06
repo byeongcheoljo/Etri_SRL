@@ -1,0 +1,4 @@
+etri#doc_7501.txt 8 함축하다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_7501.txt 15 방지하다 ----- 13:2-ARG1(THM) 14:1-ARGM-TMP(LOC) 15:0-rel
+etri#doc_7501.txt 16 하다 ----- 15:2-ARGM-MNR() 16:0-rel
+etri#doc_7501.txt 21 알다 ----- 20:4-ARG1() 21:0-rel

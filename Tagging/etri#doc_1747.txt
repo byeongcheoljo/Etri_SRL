@@ -1,0 +1,6 @@
+etri#doc_1747.txt 3 전공하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_1747.txt 6 하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1747.txt 9 전공하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1747.txt 11 되다 ----- 9:2-ARGM-DIS() 10:1-ARG1(FNS) 11:0-rel
+etri#doc_1747.txt 13 빠지다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_1747.txt 15 살다 ----- 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG2(LOC) 15:0-rel

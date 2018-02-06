@@ -1,0 +1,2 @@
+etri#doc_1256.txt 5 우러나다 ----- 4:2-ARGM-CAU(SRC) 5:0-rel
+etri#doc_1256.txt 16 고백하다 ----- 15:2-ARGM-DIS() 16:0-rel

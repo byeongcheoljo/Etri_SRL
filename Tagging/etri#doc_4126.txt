@@ -1,0 +1,6 @@
+etri#doc_4126.txt 5 넘어가다 ----- 3:2-ARGM-EXT() 4:1-ARG1(THM) 5:0-rel
+etri#doc_4126.txt 7 하다 ----- 1:1-ARGM-DIS() 5:2-ARGM-MNR() 6:1-ARG1(CNT) 7:0-rel
+etri#doc_4126.txt 11 보다 ----- 11:0-rel
+etri#doc_4126.txt 12 듣다 ----- 11:1-ARGM-DIS() 12:0-rel
+etri#doc_4126.txt 13 받아들이다 ----- 10:5-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_4126.txt 16 되다 ----- 14:4-ARG1(THM) 15:1-ARGM-NEG() 16:0-rel

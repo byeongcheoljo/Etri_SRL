@@ -1,0 +1,4 @@
+etri#doc_1716.txt 7 숭상하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1716.txt 14 촉진하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_1716.txt 19 도태시키다 ----- 8:1-ARGM-INS(INS) 14:4-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel
+etri#doc_1716.txt 21 기울이다 ----- 2:2-ARGM-DIS(EFF) 4:2-ARG0(AGT) 7:3-ARGM-DIS() 19:3-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

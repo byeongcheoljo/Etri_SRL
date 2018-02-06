@@ -1,0 +1,9 @@
+etri#doc_7235.txt 3 얻다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7235.txt 5 건의하다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7235.txt 7 성사되다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7235.txt 8 주장하다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_7235.txt 12 요구하다 ----- 3:2-ARGM-DIS() 8:3-ARGM-DIS() 9:1-ARG2(GOL) 11:2-ARG1(THM) 12:0-rel
+etri#doc_7235.txt 13 실패하다 ----- 13:0-rel
+etri#doc_7235.txt 15 청하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_7235.txt 19 입히다 ----- 18:1-ARG2(THM) 19:0-rel
+etri#doc_7235.txt 20 주장하다 ----- 12:3-ARGM-DIS() 13:1-ARGM-DIS() 16:3-ARGM-MNR(INS) 17:1-ARG1(GOL) 19:2-ARG1(THM) 20:0-rel

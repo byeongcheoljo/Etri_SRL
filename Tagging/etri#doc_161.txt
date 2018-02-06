@@ -1,0 +1,5 @@
+etri#doc_161.txt 2 풀어지다 ----- 2:0-rel
+etri#doc_161.txt 4 세우다 ----- 3:2-ARG0(THM) 4:0-rel
+etri#doc_161.txt 11 하다 ----- 9:3-ARG1(THM) 10:1-ARGM-EXT(GOL) 11:0-rel
+etri#doc_161.txt 13 꾀하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_161.txt 15 간행하다 ----- 1:1-ARGM-DIS() 6:2-ARGM-MNR(INS) 13:4-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,7 @@
+etri#doc_5759.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5759.txt 6 해코지하다 ----- 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_5759.txt 9 지르다 ----- 4:4-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5759.txt 11 놀라다 ----- 11:0-rel
+etri#doc_5759.txt 13 놓다 ----- 10:1-ARG0(EXP) 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5759.txt 15 놀라다 ----- 15:0-rel
+etri#doc_5759.txt 16 울다 ----- 9:2-ARGM-CAU() 13:2-ARGM-DIS() 14:1-ARG0(AGT) 15:1-ARGM-CAU() 16:0-rel

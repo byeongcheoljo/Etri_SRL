@@ -1,0 +1,5 @@
+etri#doc_3092.txt 2 돕다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3092.txt 7 이해하다 ----- 3:1-ARGM-LOC(LOC) 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3092.txt 8 살펴보다 ----- 2:2-ARGM-PRP() 7:2-ARG1(THM) 8:0-rel
+etri#doc_3092.txt 15 강조되다 ----- 12:3-ARG1(THM) 14:2-ARGM-MNR(INS) 15:0-rel
+etri#doc_3092.txt 16 보다 ----- 8:3-ARGM-CND() 9:1-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

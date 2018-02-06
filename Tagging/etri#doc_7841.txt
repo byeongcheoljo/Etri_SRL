@@ -1,0 +1,5 @@
+etri#doc_7841.txt 4 달래다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_7841.txt 9 불리다 ----- 8:1-ARG2(FNS) 9:0-rel
+etri#doc_7841.txt 11 채취하다 ----- 10:3-ARGM-LOC(LOC) 11:0-rel
+etri#doc_7841.txt 12 끓어오르다 ----- 12:0-rel
+etri#doc_7841.txt 16 마시다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 4:2-ARGM-PRP() 7:3-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:0-rel

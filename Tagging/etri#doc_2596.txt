@@ -1,0 +1,4 @@
+etri#doc_2596.txt 6 갖추다 ----- 2:2-ARGM-ADV() 5:3-ARG0() 6:0-rel
+etri#doc_2596.txt 8 하다 ----- 6:4-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_2596.txt 17 덧붙이다 ----- 10:2-() 11:1-() 15:2-() 16:1-() 17:0-rel
+etri#doc_2596.txt 20 되다 ----- 8:2-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARGM-EXT() 19:1-ARG0(AGT) 20:0-rel

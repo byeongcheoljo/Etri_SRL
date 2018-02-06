@@ -1,0 +1,3 @@
+etri#doc_3199.txt 8 기여하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-CND() 7:2-ARG1(GOL) 8:0-rel
+etri#doc_3199.txt 16 기여하다 ----- 15:2-ARG0(AGT) 16:0-rel
+etri#doc_3199.txt 17 알다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 10:5-ARGM-DIS() 16:3-ARG1() 17:0-rel

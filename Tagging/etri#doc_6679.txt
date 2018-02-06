@@ -1,0 +1,4 @@
+etri#doc_6679.txt 3 계시다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_6679.txt 5 알다 ----- 1:1-ARGM-TMP() 4:3-ARG1(THM) 5:0-rel
+etri#doc_6679.txt 8 생기다 ----- 7:1-ARGM-ADV() 8:0-rel
+etri#doc_6679.txt 18 듣다 ----- 16:2-ARG0(MAG) 17:1-ARGM-TMP() 18:0-rel

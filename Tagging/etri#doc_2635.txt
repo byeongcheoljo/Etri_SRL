@@ -1,0 +1,3 @@
+etri#doc_2635.txt 7 이해하다 ----- 6:2-ARGM-ADV(EFF) 7:0-rel
+etri#doc_2635.txt 12 독립시키다 ----- 4:2-() 8:4-() 11:2-() 12:0-rel
+etri#doc_2635.txt 15 되다 ----- 2:2-ARG2() 12:3-ARGM-DIS() 14:2-ARG0(AGT) 15:0-rel

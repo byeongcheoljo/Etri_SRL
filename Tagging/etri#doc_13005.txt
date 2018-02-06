@@ -1,0 +1,5 @@
+etri#doc_13005.txt 8 그치다 ----- 3:2-ARG1(THM) 5:2-ARGM-CAU(EFF) 6:1-ARGM-TMP() 7:1-ARGM-EXT(CRT) 8:0-rel
+etri#doc_13005.txt 9 보다 ----- 8:2-ARGM-MNR() 9:0-rel
+etri#doc_13005.txt 11 개통되다 ----- 10:1-ARGM-LOC(GOL) 11:0-rel
+etri#doc_13005.txt 13 늘어나다 ----- 11:2-ARGM-CND() 12:1-ARG3(CRT) 13:0-rel
+etri#doc_13005.txt 14 예상하다 ----- 1:1-ARG0(MAG) 9:3-ARGM-DIS() 13:2-ARGM-DIS() 14:0-rel

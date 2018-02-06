@@ -1,0 +1,3 @@
+etri#doc_8784.txt 4 지다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_8784.txt 8 지다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_8784.txt 11 지다 ----- 10:1-ARG0(AGT) 11:0-rel

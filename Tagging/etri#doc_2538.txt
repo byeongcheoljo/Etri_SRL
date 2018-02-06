@@ -1,0 +1,2 @@
+etri#doc_2538.txt 9 담당하다 ----- 4:3-ARGM-ADV(EFF) 6:2-ARGM-ADV(EFF) 8:2-ARG1(THM) 9:0-rel
+etri#doc_2538.txt 15 옮기다 ----- 10:1-() 12:2-() 13:1-() 14:1-() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1344.txt 11 가지다 ----- 7:1-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_1344.txt 17 말하다 ----- 6:5-ARG1(THM) 11:3-ARGM-DIS() 16:4-ARGM-DIS() 17:0-rel

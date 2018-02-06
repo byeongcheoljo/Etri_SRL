@@ -1,0 +1,4 @@
+etri#doc_5441.txt 4 ´Ù´Ï´Ù ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_5441.txt 14 ÆîÄ¡´Ù ----- 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_5441.txt 15 ÆÈ´Ù ----- 12:3-ARG1(THM) 14:2-ARGM-DIS() 15:0-rel
+etri#doc_5441.txt 16 ºÎÅ¹ÇÏ´Ù ----- 1:1-ARG0(AGT) 6:5-ARGM-DIS() 15:3-ARG1() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11643.txt 3 떨어지다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11643.txt 7 쫓기다 ----- 5:2-ARG1(THM) 6:1-ARG2(AGT) 7:0-rel
+etri#doc_11643.txt 9 숨기다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11643.txt 12 모르다 ----- 11:2-ARG0(EXP) 12:0-rel
+etri#doc_11643.txt 13 하다 ----- 9:2-ARGM-DIS() 12:3-ARG1(CNT) 13:0-rel
+etri#doc_11643.txt 15 고집하다 ----- 1:1-ARGM-DIS() 7:2-ARGM-TMP() 13:4-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

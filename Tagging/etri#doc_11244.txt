@@ -1,0 +1,7 @@
+etri#doc_11244.txt 2 패다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11244.txt 4 일구다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_11244.txt 9 해내다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_11244.txt 11 되다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 10:5-ARG2(FNS) 11:0-rel
+etri#doc_11244.txt 14 줄이다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_11244.txt 15 맡기다 ----- 14:2-ARGM-PRP() 15:0-rel
+etri#doc_11244.txt 20 되다 ----- 11:6-ARGM-DIS() 12:1-ARG1(THM) 15:3-ARGM-CAU() 17:2-ARGM-DIS() 19:2-ARG2(FNS) 20:0-rel

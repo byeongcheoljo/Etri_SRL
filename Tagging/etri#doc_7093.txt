@@ -1,0 +1,5 @@
+etri#doc_7093.txt 6 말하다 ----- 5:3-ARGM-DIS() 6:0-rel
+etri#doc_7093.txt 7 모르다 ----- 6:4-ARGM-DIS() 7:0-rel
+etri#doc_7093.txt 13 닦다 ----- 11:2-ARGM-DIS() 12:1-ARGM-MNR() 13:0-rel
+etri#doc_7093.txt 14 신다 ----- 8:1-ARGM-DIS() 13:2-ARGM-MNR() 14:0-rel
+etri#doc_7093.txt 19 받다 ----- 7:5-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARG2(AGT) 17:1-ARG1(Npr) 18:1-ARGM-MNR() 19:0-rel

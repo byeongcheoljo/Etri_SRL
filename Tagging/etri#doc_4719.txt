@@ -1,0 +1,4 @@
+etri#doc_4719.txt 4 비교하다 ----- 3:1-ARGM-MNR(COM) 4:0-rel
+etri#doc_4719.txt 8 적다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4719.txt 13 붙이다 ----- 12:2-ARG1(GOL) 13:0-rel
+etri#doc_4719.txt 14 데리다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARG1(THM) 13:3-ARGM-DIS() 14:0-rel

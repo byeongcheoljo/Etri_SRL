@@ -1,0 +1,4 @@
+etri#doc_9789.txt 3 주장하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_9789.txt 7 하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_9789.txt 10 해치다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_9789.txt 13 숨다 ----- 8:4-ARG2(GOL) 12:2-ARG0(THM) 13:0-rel

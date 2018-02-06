@@ -1,0 +1,1 @@
+etri#doc_8182.txt 15 합의하다 ----- 3:3-ARG0(AGT) 9:5-ARG0(AGT) 10:1-ARGM-LOC(LOC) 14:4-ARG1() 15:0-rel

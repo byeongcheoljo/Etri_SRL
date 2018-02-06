@@ -1,0 +1,3 @@
+etri#doc_1062.txt 9 단축시키다 ----- 6:4-ARG0() 7:1-ARGM-EXT() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1062.txt 11 되다 ----- 10:3-ARGM-ADV(EFF) 11:0-rel
+etri#doc_1062.txt 13 피우다 ----- 12:1-ARG1(THM) 13:0-rel

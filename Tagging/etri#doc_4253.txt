@@ -1,0 +1,1 @@
+etri#doc_4253.txt 14 √À±∏«œ¥Ÿ ----- 1:1-ARG0(AGT) 13:5-ARG1(THM) 14:0-rel

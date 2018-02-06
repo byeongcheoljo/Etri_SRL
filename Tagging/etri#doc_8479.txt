@@ -1,0 +1,6 @@
+etri#doc_8479.txt 2 조달하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8479.txt 5 짜다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_8479.txt 8 거둬들이다 ----- 2:2-ARGM-PRP() 5:3-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_8479.txt 10 쌓다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_8479.txt 13 나가다 ----- 12:1-ARG3(GOL) 13:0-rel
+etri#doc_8479.txt 14 싸우다 ----- 10:2-ARGM-DIS() 11:1-ARGM-MNR() 13:2-ARGM-MNR() 14:0-rel

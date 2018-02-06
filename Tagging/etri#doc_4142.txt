@@ -1,0 +1,6 @@
+etri#doc_4142.txt 7 받다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_4142.txt 12 쫓아내다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4142.txt 13 앞장서다 ----- 10:2-ARG0(AGT) 12:2-ARG1() 13:0-rel
+etri#doc_4142.txt 14 하다 ----- 13:3-ARG1(CNT) 14:0-rel
+etri#doc_4142.txt 16 거부하다 ----- 8:5-ARG0(AGT) 14:4-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4142.txt 19 치다 ----- 1:1-ARGM-LOC(LOC) 16:2-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARG1(THM) 19:0-rel

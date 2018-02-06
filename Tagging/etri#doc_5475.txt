@@ -1,0 +1,7 @@
+etri#doc_5475.txt 3 통틀다 ----- 3:0-rel
+etri#doc_5475.txt 4 살펴보다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5475.txt 5 이름나다 ----- 5:0-rel
+etri#doc_5475.txt 7 치다 ----- 6:2-() 7:0-rel
+etri#doc_5475.txt 10 등용되다 ----- 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_5475.txt 14 이름나다 ----- 14:0-rel
+etri#doc_5475.txt 16 치다 ----- 15:2-() 16:0-rel

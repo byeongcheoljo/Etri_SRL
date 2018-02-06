@@ -1,0 +1,4 @@
+etri#doc_5796.txt 4 하다 ----- 2:1-ARG1(THM) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5796.txt 8 역이용하다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_5796.txt 12 삼다 ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 8:4-ARGM-DIS() 9:1-ARGM-DIS() 11:2-ARG2(FNS) 12:0-rel
+etri#doc_5796.txt 17 요망되다 ----- 12:3-ARGM-PRP() 16:3-ARG1(THM) 17:0-rel

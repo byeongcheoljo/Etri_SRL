@@ -1,0 +1,7 @@
+etri#doc_6866.txt 1 살아가다 ----- 1:0-rel
+etri#doc_6866.txt 2 먹다 ----- 2:0-rel
+etri#doc_6866.txt 4 얻다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6866.txt 13 잇다 ----- 12:2-ARG2(THM) 13:0-rel
+etri#doc_6866.txt 15 살아가다 ----- 15:0-rel
+etri#doc_6866.txt 16 먹다 ----- 16:0-rel
+etri#doc_6866.txt 18 얻다 ----- 17:2-ARG1(THM) 18:0-rel

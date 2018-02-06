@@ -1,0 +1,4 @@
+etri#doc_176.txt 5 먹다 ----- 5:0-rel
+etri#doc_176.txt 11 추진하다 ----- 8:4-ARGM-LOC(GOL) 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_176.txt 13 강화하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_176.txt 16 해결하다 ----- 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

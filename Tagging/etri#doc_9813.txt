@@ -1,0 +1,5 @@
+etri#doc_9813.txt 3 지배하다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_9813.txt 7 삼다 ----- 3:2-ARGM-DIS() 6:3-ARG2(FNS) 7:0-rel
+etri#doc_9813.txt 15 독립하다 ----- 14:1-ARG2(FNS) 15:0-rel
+etri#doc_9813.txt 16 기다리다 ----- 15:2-ARGM-TMP() 16:0-rel
+etri#doc_9813.txt 18 되다 ----- 17:1-ARG2(FNS) 18:0-rel

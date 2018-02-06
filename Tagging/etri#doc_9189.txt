@@ -1,0 +1,4 @@
+etri#doc_9189.txt 5 가다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_9189.txt 7 쉬다 ----- 5:3-ARGM-MNR() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_9189.txt 9 쉬다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_9189.txt 15 타이르다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:2-ARGM-TMP() 14:3-ARGM-DIS() 15:0-rel

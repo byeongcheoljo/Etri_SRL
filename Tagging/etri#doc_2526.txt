@@ -1,0 +1,3 @@
+etri#doc_2526.txt 11 받다 ----- 8:3-ARG0(AGT) 10:2-ARG1(THM) 11:0-rel
+etri#doc_2526.txt 12 따르다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_2526.txt 18 역전되다 ----- 17:1-() 18:0-rel

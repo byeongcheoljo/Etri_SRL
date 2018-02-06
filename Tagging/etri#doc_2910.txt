@@ -1,0 +1,5 @@
+etri#doc_2910.txt 3 팔다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_2910.txt 9 요양하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 5:2-ARGM-INS(INS) 7:2-ARGM-INS(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_2910.txt 13 남다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2910.txt 16 나가다 ----- 15:1-ARG3(GOL) 16:0-rel
+etri#doc_2910.txt 18 수술하다 ----- 16:2-ARGM-DIS() 17:1-ARGM-DIS() 18:0-rel

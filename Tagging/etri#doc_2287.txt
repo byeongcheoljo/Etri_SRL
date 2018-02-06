@@ -1,0 +1,3 @@
+etri#doc_2287.txt 8 보이다 ----- 6:2-() 7:1-() 8:0-rel
+etri#doc_2287.txt 11 쓰다 ----- 8:2-ARGM-ADV() 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2287.txt 19 받다 ----- 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

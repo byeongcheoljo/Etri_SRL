@@ -1,0 +1,4 @@
+etri#doc_5563.txt 2 되다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5563.txt 11 두다 ----- 6:3-ARGM-CAU(EFF) 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_5563.txt 14 막다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5563.txt 17 막다 ----- 14:3-ARGM-MNR() 16:2-ARG1(THM) 17:0-rel

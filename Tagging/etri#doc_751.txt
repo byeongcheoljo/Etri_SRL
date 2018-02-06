@@ -1,0 +1,4 @@
+etri#doc_751.txt 9 굴하다 ----- 9:0-rel
+etri#doc_751.txt 12 가지다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_751.txt 14 탐구하다 ----- 2:2-ARGM-TMP() 4:2-ARG0(AGT) 5:1-ARGM-EXT() 8:3-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARGM-MNR() 14:0-rel
+etri#doc_751.txt 18 알다 ----- 14:2-ARGM-MNR() 15:1-ARGM-ADV(EFF) 17:2-ARG1(THM) 18:0-rel

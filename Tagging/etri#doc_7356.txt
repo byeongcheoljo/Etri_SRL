@@ -1,0 +1,4 @@
+etri#doc_7356.txt 6 참다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7356.txt 11 걸다 ----- 9:2-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7356.txt 14 독서하다 ----- 12:1-ARGM-MNR() 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_7356.txt 17 만들다 ----- 4:2-ARGM-DIS() 7:3-ARG0(AGT) 11:2-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

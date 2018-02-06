@@ -1,0 +1,4 @@
+etri#doc_9923.txt 6 º¸´Ù ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_9923.txt 9 ¾É´Ù ----- 4:2-ARGM-LOC(LOC) 7:3-ARG0(AGT) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_9923.txt 14 ´ã¼ÒÇÏ´Ù ----- 13:1-ARGM-ADV(EFF) 14:0-rel
+etri#doc_9923.txt 17 ¾É´Ù ----- 2:2-() 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 12:2-ARGM-MNR() 15:3-ARG0(AGT) 16:1-ARGM-TMP() 17:0-rel

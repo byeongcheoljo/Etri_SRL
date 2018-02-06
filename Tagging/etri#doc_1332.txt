@@ -1,0 +1,4 @@
+etri#doc_1332.txt 5 축소하다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_1332.txt 9 내다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1332.txt 11 불복하다 ----- 5:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_1332.txt 17 보이다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 14:3-ARG0(THM) 16:2-ARG1(THM) 17:0-rel

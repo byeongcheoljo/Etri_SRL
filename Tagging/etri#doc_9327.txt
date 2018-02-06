@@ -1,0 +1,2 @@
+etri#doc_9327.txt 9 싸이다 ----- 3:2-ARGM-DIS() 4:1-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARGM-TMP() 8:2-ARG2(INS) 9:0-rel
+etri#doc_9327.txt 15 나다 ----- 9:3-ARGM-DIS() 11:2-ARG0(EXP) 13:2-ARGM-DIS() 14:1-ARG1(Npr) 15:0-rel

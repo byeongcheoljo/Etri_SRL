@@ -1,0 +1,2 @@
+etri#doc_5424.txt 6 하다 ----- 4:2-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_5424.txt 13 하다 ----- 8:4-ARGM-DIS() 9:1-ARGM-EXT(CRT) 12:3-ARG1(THM) 13:0-rel

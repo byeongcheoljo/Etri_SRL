@@ -1,0 +1,2 @@
+etri#doc_8976.txt 10 등장하다 ----- 1:1-ARG2(LOC) 9:3-ARG1(THM) 10:0-rel
+etri#doc_8976.txt 16 하다 ----- 11:5-ARG1(THM) 15:4-ARG1(CNT) 16:0-rel

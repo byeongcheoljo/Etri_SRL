@@ -1,0 +1,3 @@
+etri#doc_11490.txt 12 겪다 ----- 6:2-ARGM-DIS() 9:3-ARGM-MNR(INS) 11:2-ARG1(THM) 12:0-rel
+etri#doc_11490.txt 17 남다 ----- 15:1-ARG1(AGT) 16:1-ARGM-EXT() 17:0-rel
+etri#doc_11490.txt 19 받다 ----- 12:3-ARGM-DIS() 13:1-ARGM-MNR() 14:1-ARGM-LOC(LOC) 18:3-ARG1(THM) 19:0-rel

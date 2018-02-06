@@ -1,0 +1,2 @@
+etri#doc_11822.txt 15 대치되다 ----- 14:2-ARG1(FNS) 15:0-rel
+etri#doc_11822.txt 17 간주하다 ----- 1:1-ARGM-LOC(LOC) 9:2-ARGM-CAU() 10:1-ARG0(MAG) 11:1-ARGM-MNR() 12:1-ARG1(THM) 16:4-ARGM-PRD(EFF) 17:0-rel

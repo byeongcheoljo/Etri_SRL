@@ -1,0 +1,4 @@
+etri#doc_5996.txt 3 기초하다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_5996.txt 8 되다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_5996.txt 11 되다 ----- 1:1-ARGM-DIS() 4:3-ARG1(THM) 5:1-ARGM-MNR() 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARG2(FNS) 11:0-rel
+etri#doc_5996.txt 16 수출하다 ----- 13:1-ARG1(THM) 14:1-ARG0(AGT) 15:1-ARG2(GOL) 16:0-rel

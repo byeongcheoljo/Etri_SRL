@@ -1,0 +1,5 @@
+etri#doc_7745.txt 2 ½î´Ù ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_7745.txt 6 ¶³¾îÁö´Ù ----- 3:3-ARG1(THM) 4:1-ARG3(GOL) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_7745.txt 8 ½î´Ù ----- 7:1-ARGM-TMP() 8:0-rel
+etri#doc_7745.txt 12 ¸ÂÃß´Ù ----- 6:2-ARGM-TMP() 9:3-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel
+etri#doc_7745.txt 16 ºñ³¢´Ù ----- 12:3-ARGM-DIS() 13:1-ARG0(AGT) 14:1-ARGM-TMP() 15:1-ARG1(THM) 16:0-rel

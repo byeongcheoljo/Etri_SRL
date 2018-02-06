@@ -1,0 +1,4 @@
+etri#doc_5562.txt 3 진행되다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_5562.txt 8 달리다 ----- 6:2-ARG0(AGT) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_5562.txt 11 진행되다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP(LOC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_5562.txt 17 차지하다 ----- 12:4-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:1-ARG0(AGT) 15:1-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

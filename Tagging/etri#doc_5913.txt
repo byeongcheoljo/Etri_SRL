@@ -1,0 +1,1 @@
+etri#doc_5913.txt 6 ¿­¸®´Ù ----- 2:1-ARGM-PRP(PUR) 4:2-ARGM-TMP() 5:1-ARGM-LOC(LOC) 6:0-rel

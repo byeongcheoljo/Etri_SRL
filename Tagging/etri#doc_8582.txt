@@ -1,0 +1,4 @@
+etri#doc_8582.txt 3 사용하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 3:0-rel
+etri#doc_8582.txt 8 달라지다 ----- 6:3-ARG1(THM) 7:1-ARGM-DIS(CNT) 8:0-rel
+etri#doc_8582.txt 12 나누다 ----- 9:1-ARGM-MNR(INS) 10:1-ARGM-EXT() 11:1-ARG2(FNS) 12:0-rel
+etri#doc_8582.txt 13 살펴보다 ----- 8:2-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_13128.txt 11 수행되다 ----- 8:2-ARGM-DIS() 10:2-ARGM-MNR(INS) 11:0-rel
+etri#doc_13128.txt 14 도입하다 ----- 12:4-ARGM-INS(INS) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_13128.txt 17 줄이다 ----- 14:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel
+etri#doc_13128.txt 18 생각되다 ----- 17:3-ARG1() 18:0-rel

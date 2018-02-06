@@ -1,0 +1,4 @@
+etri#doc_1282.txt 6 파급되다 ----- 3:1-ARG0(THM) 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_1282.txt 9 활성화하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1282.txt 12 기울이다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1282.txt 13 밝히다 ----- 2:2-ARG0(AGT) 7:4-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8252.txt 2 맡다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8252.txt 7 행하다 ----- 5:2-ARG0(AGT) 6:1-ARGM-TMP(LOC) 7:0-rel
+etri#doc_8252.txt 11 모르다 ----- 3:3-ARG0(EXP) 9:2-ARG1(THM) 10:1-ARGM-TMP(LOC) 11:0-rel

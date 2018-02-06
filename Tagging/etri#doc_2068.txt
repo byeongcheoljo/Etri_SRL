@@ -1,0 +1,2 @@
+etri#doc_2068.txt 16 추방당하다 ----- 5:2-() 9:2-() 15:3-() 16:0-rel
+etri#doc_2068.txt 17 알다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV(EFF) 16:4-ARG1(THM) 17:0-rel

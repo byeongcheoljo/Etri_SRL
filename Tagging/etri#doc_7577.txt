@@ -1,0 +1,3 @@
+etri#doc_7577.txt 2 가지다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_7577.txt 8 초래하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_7577.txt 11 되다 ----- 5:2-ARG1(THM) 10:5-ARG2(FNS) 11:0-rel

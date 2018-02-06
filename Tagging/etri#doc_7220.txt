@@ -1,0 +1,8 @@
+etri#doc_7220.txt 4 숨다 ----- 4:0-rel
+etri#doc_7220.txt 5 사다 ----- 3:2-ARGM-LOC(LOC) 4:1-ARGM-DIS() 5:0-rel
+etri#doc_7220.txt 6 떠돌다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_7220.txt 9 교류하다 ----- 8:2-ARG2(COM) 9:0-rel
+etri#doc_7220.txt 15 만나다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_7220.txt 16 꺼리다 ----- 9:3-ARGM-DIS() 15:4-ARGM-DIS() 16:0-rel
+etri#doc_7220.txt 20 듣다 ----- 18:2-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel
+etri#doc_7220.txt 22 옮기다 ----- 1:1-ARG0(AGT) 16:5-ARGM-DIS() 20:2-ARGM-DIS() 21:1-ARG3(GOL) 22:0-rel

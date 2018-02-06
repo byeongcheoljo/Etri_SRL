@@ -1,0 +1,8 @@
+etri#doc_6894.txt 4 비치되다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_6894.txt 7 탈취하다 ----- 5:4-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_6894.txt 9 침입하다 ----- 8:1-ARG1(GOL) 9:0-rel
+etri#doc_6894.txt 11 욕보이다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6894.txt 13 열다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6894.txt 15 석방하다 ----- 11:2-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_6894.txt 17 부수다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_6894.txt 19 약탈하다 ----- 1:1-ARG0(AGT) 15:2-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

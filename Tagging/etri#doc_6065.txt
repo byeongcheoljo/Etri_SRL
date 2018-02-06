@@ -1,0 +1,4 @@
+etri#doc_6065.txt 9 하다 ----- 2:1-ARG0(AGT) 3:1-ARGM-TMP(LOC) 6:2-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_6065.txt 12 교화하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6065.txt 14 들려주다 ----- 1:1-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARGM-EXT() 13:3-ARG1(THM) 14:0-rel
+etri#doc_6065.txt 16 참고되다 ----- 15:1-ARG1() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_510.txt 3 두다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_510.txt 6 뒤잇다 ----- 5:1-ARG2(THM) 6:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4895.txt 6 죽이다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_4895.txt 7 생각하다 ----- 6:4-ARG1() 7:0-rel
+etri#doc_4895.txt 12 열다 ----- 9:2-ARG0(AGT) 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4895.txt 13 가정하다 ----- 1:1-ARG0(MAG) 2:1-ARGM-LOC(LOC) 7:5-ARGM-DIS() 12:2-ARG1() 13:0-rel
+etri#doc_4895.txt 17 나다 ----- 14:1-ARGM-DIS() 15:1-ARGM-EXT() 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1703.txt 2 ¼Ò¸êÇÏ´Ù ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_1703.txt 17 Åº»ýÇÏ´Ù ----- 2:2-ARGM-TMP() 3:1-ARG1(THM) 4:1-ARGM-TMP(LOC) 16:6-ARGM-LOC(LOC) 17:0-rel

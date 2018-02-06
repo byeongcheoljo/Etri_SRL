@@ -1,0 +1,1 @@
+etri#doc_1740.txt 17 °¡´Ù ----- 4:2-ARG0(THM) 12:3-ARGM-DIS() 13:1-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel

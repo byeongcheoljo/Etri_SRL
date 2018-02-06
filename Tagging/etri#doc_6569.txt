@@ -1,0 +1,2 @@
+etri#doc_6569.txt 10 가져오다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_6569.txt 12 들어가다 ----- 2:2-ARG0(AGT) 3:1-ARGM-TMP() 11:5-ARG3(GOL) 12:0-rel

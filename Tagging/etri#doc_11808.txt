@@ -1,0 +1,2 @@
+etri#doc_11808.txt 4 ºô´Ù ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_11808.txt 15 ´À³¢´Ù ----- 10:2-ARGM-DIS() 12:2-ARGM-LOC(GOL) 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

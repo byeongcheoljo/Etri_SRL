@@ -1,0 +1,4 @@
+etri#doc_113.txt 4 표현하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_113.txt 5 형상화되다 ----- 5:0-rel
+etri#doc_113.txt 9 형상화되다 ----- 9:0-rel
+etri#doc_113.txt 12 살리다 ----- 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel

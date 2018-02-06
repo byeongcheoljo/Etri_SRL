@@ -1,0 +1,5 @@
+etri#doc_7342.txt 6 보이다 ----- 5:1-ARG2(EXP) 6:0-rel
+etri#doc_7342.txt 8 잡다 ----- 4:2-ARG1(THM) 7:3-ARG0(AGT) 8:0-rel
+etri#doc_7342.txt 11 돌리다 ----- 8:4-ARGM-CAU() 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7342.txt 15 잡다 ----- 12:1-ARGM-INS(INS) 13:1-ARG1(THM) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_7342.txt 16 매달리다 ----- 2:2-ARG0(AGT) 11:2-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

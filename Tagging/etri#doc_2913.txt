@@ -1,0 +1,5 @@
+etri#doc_2913.txt 3 Á×´Ù ----- 3:0-rel
+etri#doc_2913.txt 10 µè´Ù ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_2913.txt 12 Á×´Ù ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_2913.txt 19 ±â¸£´Ù ----- 14:2-ARGM-DIS() 15:1-ARGM-DIS() 17:2-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel
+etri#doc_2913.txt 21 ºÎÅ¹ÇÏ´Ù ----- 5:3-ARGM-DIS() 6:1-ARG2(GOL) 10:4-ARGM-DIS() 19:2-ARG1() 20:1-ARGM-DIS() 21:0-rel

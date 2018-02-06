@@ -1,0 +1,5 @@
+etri#doc_6466.txt 3 흐르다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6466.txt 8 배우다 ----- 1:1-ARG0(AGT) 3:2-ARGM-TMP() 4:1-ARGM-EXT() 5:1-ARG2(SRC) 6:1-ARGM-TMP() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6466.txt 11 뛰어내리다 ----- 10:1-ARGM-LOC(SRC) 11:0-rel
+etri#doc_6466.txt 14 닿다 ----- 12:1-ARG1(THM) 13:1-ARG2(GOL) 14:0-rel
+etri#doc_6466.txt 16 뒤집다 ----- 11:2-ARGM-TMP() 14:2-ARGM-TMP() 15:1-ARG1(THM) 16:0-rel

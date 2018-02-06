@@ -1,0 +1,5 @@
+etri#doc_9680.txt 2 열리다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_9680.txt 7 되풀이되다 ----- 6:1-ARGM-EXT(EFF) 7:0-rel
+etri#doc_9680.txt 10 뽑다 ----- 8:3-ARG1(THM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_9680.txt 13 조사하다 ----- 10:2-ARGM-PRP() 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_9680.txt 14 주장하다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARG0(AGT) 13:2-ARGM-DIS() 14:0-rel

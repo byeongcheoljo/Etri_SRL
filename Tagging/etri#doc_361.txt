@@ -1,0 +1,5 @@
+etri#doc_361.txt 3 알다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_361.txt 5 공부하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_361.txt 11 공부하다 ----- 3:3-ARGM-CND() 5:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_361.txt 14 공부하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_361.txt 17 걸리다 ----- 11:2-ARGM-CND() 14:3-ARGM-CND() 15:1-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

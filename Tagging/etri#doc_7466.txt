@@ -1,0 +1,4 @@
+etri#doc_7466.txt 6 개척되다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 4:2-ARGM-EXT(CRT) 5:1-ARGM-ADV(EFF) 6:0-rel
+etri#doc_7466.txt 10 적용되다 ----- 7:1-ARG1(THM) 9:2-ARGM-LOC(LOC) 10:0-rel
+etri#doc_7466.txt 14 하다 ----- 6:2-ARGM-DIS() 10:3-ARGM-TMP(GOL) 12:2-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_7466.txt 17 늦추다 ----- 16:2-ARG1(THM) 17:0-rel

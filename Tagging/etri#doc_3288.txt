@@ -1,0 +1,5 @@
+etri#doc_3288.txt 8 수렴되다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3288.txt 10 해소되다 ----- 8:3-ARGM-CAU() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3288.txt 14 달라지다 ----- 3:2-ARG1(THM) 10:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_3288.txt 15 진정하다 ----- 15:0-rel
+etri#doc_3288.txt 18 이루어지다 ----- 14:3-ARGM-CAU() 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6351.txt 4 배우다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_6351.txt 12 개선하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 11:2-ARGM-DIS() 12:0-rel
+etri#doc_6351.txt 15 살아가다 ----- 14:1-ARGM-LOC(LOC) 15:0-rel

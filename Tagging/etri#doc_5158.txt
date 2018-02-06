@@ -1,0 +1,5 @@
+etri#doc_5158.txt 6 소통되다 ----- 4:1-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_5158.txt 11 붙이다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_5158.txt 13 생각되다 ----- 12:3-ARGM-DIS() 13:0-rel
+etri#doc_5158.txt 18 알다 ----- 15:2-ARGM-CAU() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_5158.txt 20 되다 ----- 8:4-ARGM-PRD() 13:4-ARGM-DIS() 18:2-ARGM-CAU() 19:1-ARG1(Npr) 20:0-rel

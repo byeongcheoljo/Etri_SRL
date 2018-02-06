@@ -1,0 +1,4 @@
+etri#doc_3510.txt 7 만들다 ----- 1:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_3510.txt 11 뜯다 ----- 11:0-rel
+etri#doc_3510.txt 12 고치다 ----- 8:1-ARGM-TMP(LOC) 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_3510.txt 14 강화되다 ----- 7:3-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

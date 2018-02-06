@@ -1,0 +1,6 @@
+etri#doc_2647.txt 3 건너다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_2647.txt 4 죽다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_2647.txt 6 얽히다 ----- 5:4-() 6:0-rel
+etri#doc_2647.txt 11 생기다 ----- 8:7-ARGM-CAU(EFF) 10:2-ARG1(AGT) 11:0-rel
+etri#doc_2647.txt 18 죽다 ----- 16:2-ARGM-DIS() 17:1-ARGM-EXT() 18:0-rel
+etri#doc_2647.txt 20 요구되다 ----- 1:1-() 11:3-() 12:1-() 19:3-() 20:0-rel

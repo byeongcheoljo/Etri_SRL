@@ -1,0 +1,6 @@
+etri#doc_4076.txt 3 보다 ----- 2:1-ARGM-EXT() 3:0-rel
+etri#doc_4076.txt 6 달다 ----- 3:2-ARGM-CND() 5:2-ARG1(THM) 6:0-rel
+etri#doc_4076.txt 12 타다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4076.txt 14 내려오다 ----- 7:1-ARGM-LOC(SRC) 9:2-ARG0(AGT) 12:3-ARGM-DIS() 13:1-ARGM-LOC(GOL) 14:0-rel
+etri#doc_4076.txt 16 둘러보다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_4076.txt 19 올라가다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARGM-LOC(GOL) 18:1-ARGM-MNR() 19:0-rel

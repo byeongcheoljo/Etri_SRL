@@ -1,0 +1,5 @@
+etri#doc_4919.txt 3 노래하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4919.txt 7 외다 ----- 5:4-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_4919.txt 13 부르다 ----- 7:2-ARGM-DIS() 11:3-ARGM-LOC(LOC) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4919.txt 14 생각하다 ----- 13:2-ARG1() 14:0-rel
+etri#doc_4919.txt 17 휩싸이다 ----- 1:1-ARG1(THM) 14:3-ARGM-DIS() 15:1-ARGM-MNR() 16:1-ARG0(EFF) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3498.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3498.txt 13 걸리다 ----- 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

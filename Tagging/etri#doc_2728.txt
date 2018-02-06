@@ -1,0 +1,3 @@
+etri#doc_2728.txt 6 집필하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_2728.txt 7 고려하다 ----- 1:1-ARGM-EXT() 2:1-ARGM-EXT() 3:1-ARG0(AGT) 6:3-ARGM-PRP(PUR) 7:0-rel
+etri#doc_2728.txt 15 되다 ----- 11:2-ARG1(THM) 12:1-ARGM-LOC(LOC) 14:2-ARG2(FNS) 15:0-rel

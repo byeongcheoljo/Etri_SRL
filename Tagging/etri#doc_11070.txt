@@ -1,0 +1,6 @@
+etri#doc_11070.txt 1 헤어지다 ----- 1:0-rel
+etri#doc_11070.txt 4 견디다 ----- 1:1-ARGM-CND() 2:1-ARGM-MNR() 3:1-ARG0(EXP) 4:0-rel
+etri#doc_11070.txt 6 헤어지다 ----- 6:0-rel
+etri#doc_11070.txt 12 헤어지다 ----- 12:0-rel
+etri#doc_11070.txt 17 심다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_11070.txt 18 돌아서다 ----- 7:2-ARG1(THM) 10:3-ARGM-MNR() 17:4-ARGM-DIS() 18:0-rel

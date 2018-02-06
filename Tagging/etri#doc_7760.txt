@@ -1,0 +1,4 @@
+etri#doc_7760.txt 3 손잡다 ----- 3:0-rel
+etri#doc_7760.txt 4 지키다 ----- 2:1-ARG0(AGT) 3:1-ARGM-DIS() 4:0-rel
+etri#doc_7760.txt 11 회귀하다 ----- 1:1-ARGM-CND() 5:3-ARG0(AGT) 10:3-ARGM-DIR(DIR) 11:0-rel
+etri#doc_7760.txt 17 승인하다 ----- 11:4-ARGM-CND() 12:1-ARG0(AGT) 13:1-ARGM-MNR() 16:3-ARG1(THM) 17:0-rel

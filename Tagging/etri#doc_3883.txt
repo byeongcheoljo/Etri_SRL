@@ -1,0 +1,3 @@
+etri#doc_3883.txt 6 속이다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3883.txt 11 강요하다 ----- 2:1-ARGM-DIS() 4:2-ARG2(GOL) 6:2-ARGM-MNR() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3883.txt 13 구속되다 ----- 1:1-ARGM-TMP() 12:5-ARG1(THM) 13:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6910.txt 3 열리다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_6910.txt 5 참가하다 ----- 4:3-ARG1(LOC) 5:0-rel
+etri#doc_6910.txt 8 열리다 ----- 6:1-ARGM-TMP() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_6910.txt 10 보류되다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_6910.txt 14 배우다 ----- 5:4-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_6910.txt 16 돌아오다 ----- 14:4-ARGM-DIS() 15:1-ARG3(GOL) 16:0-rel

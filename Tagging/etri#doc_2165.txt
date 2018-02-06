@@ -1,0 +1,4 @@
+etri#doc_2165.txt 3 알다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_2165.txt 4 노력하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_2165.txt 9 알다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_2165.txt 13 알다 ----- 4:4-ARGM-DIS() 5:1-ARGM-DIS() 6:1-ARGM-DIS() 7:1-ARGM-EXT() 9:2-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel

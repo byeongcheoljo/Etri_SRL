@@ -1,0 +1,3 @@
+etri#doc_523.txt 5 되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_523.txt 10 흘러들다 ----- 5:3-ARGM-DIS() 9:4-ARGM-LOC(GOL) 10:0-rel
+etri#doc_523.txt 18 미치다 ----- 2:2-ARG0(AGT) 10:5-ARGM-DIS() 13:3-ARGM-MNR(INS) 16:3-ARG2(GOL) 17:1-ARG1(THM) 18:0-rel

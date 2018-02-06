@@ -1,0 +1,5 @@
+etri#doc_7506.txt 7 들어주다 ----- 3:3-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARGM-EXT() 7:0-rel
+etri#doc_7506.txt 11 하다 ----- 8:3-ARG0(AGT) 9:1-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7506.txt 16 하다 ----- 13:1-ARGM-MNR() 14:1-ARGM-LOC(LOC) 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_7506.txt 19 실현하다 ----- 18:2-ARG1(THM) 19:0-rel
+etri#doc_7506.txt 22 기울이다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 16:2-ARGM-DIS() 19:3-ARGM-PRP() 21:2-ARG1(THM) 22:0-rel

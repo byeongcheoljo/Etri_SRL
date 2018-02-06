@@ -1,0 +1,4 @@
+etri#doc_8030.txt 6 하다 ----- 4:2-ARG1(THM) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_8030.txt 7 되다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_8030.txt 9 오다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8030.txt 15 나오다 ----- 2:2-ARGM-CND() 7:3-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG2(SRC) 14:2-ARG0(THM) 15:0-rel

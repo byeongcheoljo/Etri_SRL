@@ -1,0 +1,5 @@
+etri#doc_964.txt 7 계속되다 ----- 2:2-ARGM-TMP() 6:2-ARG1(THM) 7:0-rel
+etri#doc_964.txt 10 썩다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_964.txt 15 들다 ----- 10:3-ARGM-DIS() 11:1-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:1-ARGM-EXT(CRT) 15:0-rel
+etri#doc_964.txt 17 굶주리다 ----- 16:1-ARGM-LOC(LOC) 17:0-rel
+etri#doc_964.txt 20 어쩌다 ----- 7:3-ARGM-CAU() 15:2-ARGM-DIS() 19:4-ARG1(THM) 20:0-rel

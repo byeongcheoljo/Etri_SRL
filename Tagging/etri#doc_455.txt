@@ -1,0 +1,6 @@
+etri#doc_455.txt 3 태어나다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_455.txt 6 넘다 ----- 5:5-ARGM-EXT(CRT) 6:0-rel
+etri#doc_455.txt 9 보다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_455.txt 10 죽다 ----- 7:7-ARG1(THM) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_455.txt 18 태어나다 ----- 15:2-ARGM-EXT(LOC) 16:1-ARG1(THM) 17:1-ARGM-LOC(LOC) 18:0-rel
+etri#doc_455.txt 20 되다 ----- 12:5-ARG0(AGT) 13:1-ARGM-DIS() 19:3-ARG1(THM) 20:0-rel

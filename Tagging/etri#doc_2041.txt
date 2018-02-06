@@ -1,0 +1,5 @@
+etri#doc_2041.txt 3 모르다 ----- 2:2-ARGM-TMP() 3:0-rel
+etri#doc_2041.txt 8 퍼지다 ----- 7:3-ARG1(Npr) 8:0-rel
+etri#doc_2041.txt 16 추구하다 ----- 14:3-ARG0(AGT) 15:1-ARG1(THM) 16:0-rel
+etri#doc_2041.txt 17 생각하다 ----- 16:2-ARGM-DIS() 17:0-rel
+etri#doc_2041.txt 19 형성되다 ----- 3:3-() 4:1-() 11:2-() 18:4-() 19:0-rel

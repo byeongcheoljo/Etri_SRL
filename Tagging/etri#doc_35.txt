@@ -1,0 +1,2 @@
+etri#doc_35.txt 4 일어나다 ----- 3:3-ARG0(THM) 4:0-rel
+etri#doc_35.txt 6 강요하다 ----- 4:4-ARGM-DIS() 5:1-ARG2(AGT) 6:0-rel

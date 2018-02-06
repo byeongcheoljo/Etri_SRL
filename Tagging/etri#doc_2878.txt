@@ -1,0 +1,5 @@
+etri#doc_2878.txt 5 가다 ----- 5:0-rel
+etri#doc_2878.txt 10 불거지다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_2878.txt 13 꺼지다 ----- 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_2878.txt 17 방불하다 ----- 10:2-ARGM-DIS() 14:3-ARG1(EFF) 15:1-ARGM-TMP() 16:1-ARG2(THM) 17:0-rel
+etri#doc_2878.txt 19 그늘지다 ----- 19:0-rel

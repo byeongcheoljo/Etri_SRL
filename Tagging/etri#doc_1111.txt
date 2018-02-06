@@ -1,0 +1,6 @@
+etri#doc_1111.txt 8 되다 ----- 6:1-ARG1(THM) 7:1-ARG2(FNS) 8:0-rel
+etri#doc_1111.txt 9 설명하다 ----- 5:3-ARG0(AGT) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_1111.txt 10 기도하다 ----- 10:0-rel
+etri#doc_1111.txt 12 먹다 ----- 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_1111.txt 14 불신하다 ----- 12:2-ARGM-CND() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1111.txt 16 갖다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

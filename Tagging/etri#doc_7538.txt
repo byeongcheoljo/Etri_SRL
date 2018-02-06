@@ -1,0 +1,5 @@
+etri#doc_7538.txt 7 떠나다 ----- 5:2-ARGM-DIS() 6:1-ARGM-LOC(DIR) 7:0-rel
+etri#doc_7538.txt 12 살다 ----- 7:2-ARGM-DIS() 11:2-ARG2(LOC) 12:0-rel
+etri#doc_7538.txt 14 나가다 ----- 13:1-ARG3(GOL) 14:0-rel
+etri#doc_7538.txt 17 내다 ----- 2:1-ARGM-TMP(SRC) 3:1-ARG0(AGT) 12:3-ARGM-DIS() 15:3-ARG1(Npr) 16:1-ARGM-NEG() 17:0-rel
+etri#doc_7538.txt 18 알다 ----- 1:1-ARG0(MAG) 17:2-ARG1(THM) 18:0-rel

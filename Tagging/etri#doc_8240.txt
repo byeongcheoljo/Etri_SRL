@@ -1,0 +1,4 @@
+etri#doc_8240.txt 8 보다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_8240.txt 12 돌다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_8240.txt 15 빠지다 ----- 10:1-ARG2(SRC) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_8240.txt 16 생각하다 ----- 8:4-ARGM-TMP() 9:1-ARG0(MAG) 15:2-ARG1() 16:0-rel

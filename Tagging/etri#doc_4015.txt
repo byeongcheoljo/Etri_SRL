@@ -1,0 +1,4 @@
+etri#doc_4015.txt 4 나오다 ----- 2:2-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4015.txt 10 하다 ----- 9:2-ARGM-CAU(COM) 10:0-rel
+etri#doc_4015.txt 18 생각하다 ----- 15:1-ARGM-EXT() 16:1-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel
+etri#doc_4015.txt 21 지내다 ----- 5:3-ARGM-TMP() 6:1-ARGM-TMP() 7:1-ARG0(AGT) 10:3-ARGM-CAU() 20:2-ARG1(THM) 21:0-rel

@@ -1,0 +1,2 @@
+etri#doc_800.txt 13 이해하다 ----- 9:1-ARGM-DIS() 10:1-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel
+etri#doc_800.txt 18 둘러싸다 ----- 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1014.txt 3 µé´Ù ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_1014.txt 11 ÀÐ´Ù ----- 9:2-ARGM-ADV() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_1014.txt 14 µè´Ù ----- 12:3-ARG1(THM) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_1014.txt 18 µè´Ù ----- 1:1-ARGM-DIS() 7:4-ARGM-DIS() 14:2-ARGM-CAU() 15:1-ARG0(AGT) 17:2-ARGM-DIS() 18:0-rel

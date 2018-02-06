@@ -1,0 +1,6 @@
+etri#doc_4434.txt 2 당면하다 ----- 2:0-rel
+etri#doc_4434.txt 5 베다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4434.txt 10 파견하다 ----- 5:2-ARGM-DIS() 8:3-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_4434.txt 12 용서하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_4434.txt 13 삭감되다 ----- 13:0-rel
+etri#doc_4434.txt 17 돌려주다 ----- 12:2-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel

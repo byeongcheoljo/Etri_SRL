@@ -1,0 +1,4 @@
+etri#doc_6080.txt 7 먹이다 ----- 7:0-rel
+etri#doc_6080.txt 8 입히다 ----- 6:1-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_6080.txt 11 봉사하다 ----- 5:1-ARGM-INS(INS) 9:3-ARGM-DIS() 10:1-ARG1(GOL) 11:0-rel
+etri#doc_6080.txt 16 이해하다 ----- 12:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

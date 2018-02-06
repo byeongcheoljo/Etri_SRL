@@ -1,0 +1,7 @@
+etri#doc_8131.txt 3 받다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8131.txt 5 나가다 ----- 3:2-ARGM-DIS() 4:1-ARG3(GOL) 5:0-rel
+etri#doc_8131.txt 9 두다 ----- 6:1-ARG2(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8131.txt 11 모르다 ----- 10:4-ARG1() 11:0-rel
+etri#doc_8131.txt 13 왔다갔다하다 ----- 5:2-ARGM-DIS() 11:5-ARGM-CAU() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8131.txt 15 감추다 ----- 13:2-ARGM-MNR() 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_8131.txt 17 들어가다 ----- 1:1-ARG0(AGT) 15:2-ARGM-DIS() 16:1-ARG3(GOL) 17:0-rel

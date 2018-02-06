@@ -1,0 +1,1 @@
+etri#doc_3929.txt 6 추구하다 ----- 2:1-ARG0(AGT) 4:2-ARGM-LOC(SRC) 5:1-ARG1(THM) 6:0-rel

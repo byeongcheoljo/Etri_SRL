@@ -1,0 +1,5 @@
+etri#doc_1100.txt 2 함유되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1100.txt 7 채취하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1100.txt 9 넣다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1100.txt 12 반죽하다 ----- 7:3-ARGM-DIS() 10:3-ARGM-LOC(LOC) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_1100.txt 16 따르다 ----- 12:2-ARGM-TMP() 13:1-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel

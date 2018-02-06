@@ -1,0 +1,3 @@
+etri#doc_4431.txt 4 배반하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4431.txt 13 싸우다 ----- 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4431.txt 17 만들다 ----- 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

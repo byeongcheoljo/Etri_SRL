@@ -1,0 +1,1 @@
+etri#doc_202.txt 15 го╢ы ----- 2:1-ARG0(AGT) 8:3-ARG1(THM) 9:1-ARG2(SRC) 14:4-ARG3(GOL) 15:0-rel

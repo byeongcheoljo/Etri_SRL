@@ -1,0 +1,2 @@
+etri#doc_2373.txt 12 나아가다 ----- 12:0-rel
+etri#doc_2373.txt 16 자리잡다 ----- 12:1-ARGM-EXT() 15:3-ARG1(LOC) 16:0-rel

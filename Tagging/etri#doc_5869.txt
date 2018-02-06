@@ -1,0 +1,4 @@
+etri#doc_5869.txt 2 닥쳐오다 ----- 1:1-ARGM-LOC(GOL) 2:0-rel
+etri#doc_5869.txt 4 주도하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5869.txt 9 모이다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5869.txt 11 다지다 ----- 6:2-ARG0(AGT) 7:1-ARGM-LOC(LOC) 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

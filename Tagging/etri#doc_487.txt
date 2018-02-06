@@ -1,0 +1,1 @@
+etri#doc_487.txt 17 Ã£´Ù ----- 6:2-ARG0(AGT) 14:3-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_627.txt 18 ¾Ë´Ù ----- 15:3-ARG1(THM) 16:1-ARG0(AGT) 17:1-ARGM-MNR() 18:0-rel

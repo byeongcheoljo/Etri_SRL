@@ -1,0 +1,2 @@
+etri#doc_3417.txt 5 항의하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_3417.txt 10 요구하다 ----- 9:4-ARG1(THM) 10:0-rel

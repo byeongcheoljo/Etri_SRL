@@ -1,0 +1,3 @@
+etri#doc_743.txt 9 죄다 ----- 3:3-ARG1(THM) 4:1-ARGM-EXT() 6:2-ARGM-LOC(LOC) 7:1-ARGM-INS(INS) 8:1-ARGM-ADV() 9:0-rel
+etri#doc_743.txt 12 풀다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_743.txt 14 찾다 ----- 13:4-ARG1(THM) 14:0-rel

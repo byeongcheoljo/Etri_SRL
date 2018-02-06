@@ -1,0 +1,2 @@
+etri#doc_8306.txt 7 들다 ----- 6:1-ARGM-TMP() 7:0-rel
+etri#doc_8306.txt 11 계획하다 ----- 1:1-ARG0(MAG) 5:3-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARGM-ADV(CNT) 10:2-ARG1(THM) 11:0-rel

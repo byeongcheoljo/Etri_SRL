@@ -1,0 +1,2 @@
+etri#doc_1316.txt 6 찾다 ----- 3:3-ARGM-CAU() 5:2-ARG1(THM) 6:0-rel
+etri#doc_1316.txt 16 얻다 ----- 14:3-ARG0(AGT) 15:1-ARGM-INS(INS) 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_403.txt 10 ¡Ÿ¿Ã¥Ÿ ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_403.txt 14 ≤≈¥Ÿ ----- 4:4-ARG2(FNS) 13:3-ARG1(THM) 14:0-rel

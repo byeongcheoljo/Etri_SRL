@@ -1,0 +1,4 @@
+etri#doc_248.txt 5 알다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_248.txt 6 하다 ----- 5:2-ARGM-CND(CNT) 6:0-rel
+etri#doc_248.txt 20 깨닫다 ----- 16:1-ARG0(MAG) 19:3-ARG1(THM) 20:0-rel
+etri#doc_248.txt 21 생각하다 ----- 14:5-ARGM-DIS() 15:1-ARG0(MAG) 20:4-ARG1(THM) 21:0-rel

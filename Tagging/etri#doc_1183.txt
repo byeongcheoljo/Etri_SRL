@@ -1,0 +1,4 @@
+etri#doc_1183.txt 2 살다 ----- 1:1-ARGM-LOC() 2:0-rel
+etri#doc_1183.txt 6 가르치다 ----- 5:3-ARG0(THM) 6:0-rel
+etri#doc_1183.txt 13 단련하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_1183.txt 16 창안하다 ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 15:4-ARGM-PRD(INS) 16:0-rel

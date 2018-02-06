@@ -1,0 +1,2 @@
+etri#doc_3285.txt 12 구현하다 ----- 10:4-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_3285.txt 16 선택하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 6:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

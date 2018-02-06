@@ -1,0 +1,5 @@
+etri#doc_3936.txt 5 확인되다 ----- 3:3-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_3936.txt 7 과세하다 ----- 5:2-ARGM-CND() 6:1-ARGM-MNR(FNS) 7:0-rel
+etri#doc_3936.txt 9 확인되다 ----- 9:0-rel
+etri#doc_3936.txt 14 추정하다 ----- 13:3-ARG1() 14:0-rel
+etri#doc_3936.txt 15 과세하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-CND() 14:4-ARGM-MNR() 15:0-rel

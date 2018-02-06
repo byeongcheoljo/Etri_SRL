@@ -1,0 +1,5 @@
+etri#doc_3529.txt 3 º¸´Ù ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3529.txt 6 Âô±×¸®´Ù ----- 4:1-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3529.txt 8 ¸ô¸®´Ù ----- 7:1-ARG2(FNS) 8:0-rel
+etri#doc_3529.txt 10 ÀÒ´Ù ----- 6:2-ARGM-CAU() 8:2-ARGM-CAU() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3529.txt 18 ÀüÀü±à±àÇÏ´Ù ----- 3:3-ARGM-DIS() 16:2-ARGM-CAU() 17:1-ARG0(EXP) 18:0-rel

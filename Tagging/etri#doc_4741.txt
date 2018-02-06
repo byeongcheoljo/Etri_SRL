@@ -1,0 +1,5 @@
+etri#doc_4741.txt 4 인정받다 ----- 2:1-ARGM-MNR(INS) 3:1-ARGM-PRP(EFF) 4:0-rel
+etri#doc_4741.txt 11 굶주리다 ----- 11:0-rel
+etri#doc_4741.txt 14 놓다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4741.txt 15 경쟁하다 ----- 12:2-ARGM-MNR(COM) 14:2-ARGM-DIS() 15:0-rel
+etri#doc_4741.txt 16 지다 ----- 1:1-ARGM-DIS() 8:2-ARGM-DIS() 10:2-ARG0(AGT) 15:3-ARGM-CND() 16:0-rel

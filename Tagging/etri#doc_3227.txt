@@ -1,0 +1,4 @@
+etri#doc_3227.txt 2 맞다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3227.txt 7 향상시키다 ----- 5:1-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_3227.txt 11 수반하다 ----- 10:2-ARG2(THM) 11:0-rel
+etri#doc_3227.txt 14 애쓰다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(MAG) 8:3-ARGM-PRP(PUR) 13:5-ARGM-PRP() 14:0-rel

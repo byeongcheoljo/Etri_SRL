@@ -1,0 +1,6 @@
+etri#doc_55.txt 4 얻다 ----- 1:1-ARGM-TMP(GOL) 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_55.txt 8 받다 ----- 4:2-ARGM-ADV() 5:1-ARGM-TMP(GOL) 6:1-ARG1(THM) 7:1-ARG1(THM) 8:0-rel
+etri#doc_55.txt 9 되다 ----- 9:0-rel
+etri#doc_55.txt 10 안되다 ----- 9:1-ARGM-ADV() 10:0-rel
+etri#doc_55.txt 15 이루다 ----- 8:2-ARGM-ADV() 10:2-ARGM-ADV() 11:1-ARGM-REC(COM) 14:3-ARG1(THM) 15:0-rel
+etri#doc_55.txt 17 데리다 ----- 15:4-ARGM-ADV() 16:1-ARG1(THM) 17:0-rel

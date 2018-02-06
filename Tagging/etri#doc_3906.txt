@@ -1,0 +1,4 @@
+etri#doc_3906.txt 6 맞추다 ----- 4:2-ARG2(GOL) 5:1-ARG1(THM) 6:0-rel
+etri#doc_3906.txt 9 병행하다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_3906.txt 13 두다 ----- 10:1-ARGM-MNR(COM) 12:2-ARG1(THM) 13:0-rel
+etri#doc_3906.txt 15 유지하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 9:3-ARGM-DIS() 13:3-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

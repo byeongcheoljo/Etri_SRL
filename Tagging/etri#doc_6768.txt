@@ -1,0 +1,5 @@
+etri#doc_6768.txt 3 부임하다 ----- 2:2-ARGM-LOC(GOL) 3:0-rel
+etri#doc_6768.txt 5 안되다 ----- 3:3-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_6768.txt 8 보다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_6768.txt 11 찾다 ----- 9:1-ARGM-CAU(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6768.txt 16 기록되다 ----- 8:5-ARGM-DIS() 12:3-ARG0(THM) 15:3-ARG1(FNS) 16:0-rel

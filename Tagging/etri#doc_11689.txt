@@ -1,0 +1,6 @@
+etri#doc_11689.txt 2 틀다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11689.txt 8 세우다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11689.txt 9 내지르다 ----- 5:1-ARG1(THM) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_11689.txt 11 맞다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11689.txt 14 떨어지다 ----- 12:1-ARG2(SRC) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11689.txt 16 떨어지다 ----- 3:3-ARG1(THM) 4:1-ARGM-TMP(LOC) 9:3-ARGM-MNR() 11:2-ARGM-DIS() 15:3-ARG3(GOL) 16:0-rel

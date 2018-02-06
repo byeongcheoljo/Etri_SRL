@@ -1,0 +1,4 @@
+etri#doc_3606.txt 5 마련하다 ----- 3:2-ARGM-TMP(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3606.txt 11 확정되다 ----- 11:0-rel
+etri#doc_3606.txt 12 시행하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP(GOL) 8:2-ARGM-DIS(INS) 10:2-ARGM-ADV(EFF) 11:1-ARGM-TMP() 12:0-rel
+etri#doc_3606.txt 13 밝히다 ----- 1:1-ARG0(AGT) 12:2-ARG1() 13:0-rel

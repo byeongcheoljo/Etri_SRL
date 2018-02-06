@@ -1,0 +1,4 @@
+etri#doc_11984.txt 4 커지다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_11984.txt 11 논의하다 ----- 9:2-ARG0(AGT) 10:1-ARGM-TMP(LOC) 11:0-rel
+etri#doc_11984.txt 13 알다 ----- 7:2-ARGM-INS(INS) 12:3-ARG1(THM) 13:0-rel
+etri#doc_11984.txt 15 쓰다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 13:4-ARGM-PRP() 14:1-ARG1(THM) 15:0-rel

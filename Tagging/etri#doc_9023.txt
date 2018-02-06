@@ -1,0 +1,3 @@
+etri#doc_9023.txt 14 구속하다 ----- 11:2-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel
+etri#doc_9023.txt 16 애쓰다 ----- 16:0-rel
+etri#doc_9023.txt 17 외면하다 ----- 8:3-ARGM-DIS() 15:4-ARG0(MAG) 16:1-ARGM-DIS() 17:0-rel

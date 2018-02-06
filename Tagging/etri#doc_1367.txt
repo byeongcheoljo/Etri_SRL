@@ -1,0 +1,2 @@
+etri#doc_1367.txt 17 요청하다 ----- 15:4-ARG2(GOL) 16:1-ARG1(THM) 17:0-rel
+etri#doc_1367.txt 21 생각하다 ----- 20:2-ARGM-DIS() 21:0-rel

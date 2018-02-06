@@ -1,0 +1,3 @@
+etri#doc_6398.txt 3 면하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6398.txt 16 되다 ----- 5:2-ARGM-PRD(EFF) 11:2-ARGM-PRD(EFF) 13:2-ARG1(THM) 15:2-ARG2(FNS) 16:0-rel
+etri#doc_6398.txt 18 특기하다 ----- 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_619.txt 2 남다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_619.txt 5 운용하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_619.txt 16 이르다 ----- 3:3-ARG0(AGT) 12:4-ARGM-INS(INS) 15:3-ARG3(GOL) 16:0-rel

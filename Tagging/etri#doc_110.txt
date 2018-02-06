@@ -1,0 +1,3 @@
+etri#doc_110.txt 7 말하다 ----- 4:4-ARG2(EFF) 6:2-ARG1(THM) 7:0-rel
+etri#doc_110.txt 17 할당되다 ----- 16:1-() 17:0-rel
+etri#doc_110.txt 18 알다 ----- 7:3-ARGM-CND() 15:3-ARGM-EXT() 17:2-ARGM-DIS() 18:0-rel

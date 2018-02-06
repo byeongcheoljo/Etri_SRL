@@ -1,0 +1,5 @@
+etri#doc_13057.txt 5 녹화되다 ----- 2:1-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_13057.txt 7 놓다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_13057.txt 8 벌어지다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_13057.txt 12 오다 ----- 11:1-ARG1(Npr) 12:0-rel
+etri#doc_13057.txt 17 보다 ----- 1:1-ARG0(AGT) 16:3-ARGM-MNR() 17:0-rel

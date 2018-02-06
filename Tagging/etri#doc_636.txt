@@ -1,0 +1,5 @@
+etri#doc_636.txt 6 즐기다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_636.txt 8 가지다 ----- 2:2-ARG0(AGT) 7:5-ARG1(THM) 8:0-rel
+etri#doc_636.txt 13 변화하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_636.txt 17 변화하다 ----- 13:2-ARGM-CND() 14:1-ARG1(THM) 16:2-ARGM-TMP(CRT) 17:0-rel
+etri#doc_636.txt 20 지니다 ----- 8:6-ARGM-DIS() 10:2-ARG0(LOC) 19:2-ARG1(THM) 20:0-rel

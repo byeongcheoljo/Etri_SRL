@@ -1,0 +1,2 @@
+etri#doc_6840.txt 18 방지하다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_6840.txt 21 하다 ----- 1:1-ARGM-MNR(INS) 4:2-ARG0(AGT) 6:2-ARGM-DIS() 15:2-ARGM-DIS() 18:3-ARGM-PRP() 19:1-ARG0(AGT) 20:1-ARG1(THM) 21:0-rel

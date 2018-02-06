@@ -1,0 +1,4 @@
+etri#doc_5390.txt 5 ³î´Ù ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_5390.txt 8 ³º´Ù ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5390.txt 10 ³º´Ù ----- 6:1-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5390.txt 16 ¸»ÇÏ´Ù ----- 1:1-ARG0(AGT) 3:2-ARG2(GOL) 5:2-ARG1() 15:4-ARGM-MNR(INS) 16:0-rel

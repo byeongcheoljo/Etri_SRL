@@ -1,0 +1,4 @@
+etri#doc_5103.txt 7 축소되다 ----- 3:2-ARG1(THM) 6:3-ARG2(FNS) 7:0-rel
+etri#doc_5103.txt 9 다루다 ----- 8:1-ARG0(LOC) 9:0-rel
+etri#doc_5103.txt 18 다루다 ----- 17:3-ARG2(FNS) 18:0-rel
+etri#doc_5103.txt 22 감소되다 ----- 7:4-ARGM-DIS() 13:4-ARGM-TMP(LOC) 19:5-ARG1(THM) 21:2-ARG1(THM) 22:0-rel

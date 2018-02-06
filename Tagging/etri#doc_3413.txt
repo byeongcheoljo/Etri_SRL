@@ -1,0 +1,5 @@
+etri#doc_3413.txt 6 제한되다 ----- 6:0-rel
+etri#doc_3413.txt 9 이용하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_3413.txt 14 향하다 ----- 5:3-ARG0(AGT) 9:4-ARGM-MNR() 11:2-ARGM-DIS() 12:1-ARGM-LOC(SRC) 13:1-ARG2(DIR) 14:0-rel
+etri#doc_3413.txt 16 막다 ----- 14:2-ARGM-CND() 15:1-ARG1(THM) 16:0-rel
+etri#doc_3413.txt 17 덧붙이다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 16:2-ARG1(CNT) 17:0-rel

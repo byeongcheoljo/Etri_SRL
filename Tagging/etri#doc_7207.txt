@@ -1,0 +1,5 @@
+etri#doc_7207.txt 3 정박하다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_7207.txt 7 기다리다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7207.txt 13 싸우다 ----- 12:2-ARG1(COM) 13:0-rel
+etri#doc_7207.txt 16 지치다 ----- 13:3-ARGM-DIS() 14:1-ARG1(EFF) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_7207.txt 21 풀다 ----- 4:3-ARG0(AGT) 7:3-ARGM-MNR() 9:2-ARGM-LOC(LOC) 18:2-ARG1(THM) 20:2-ARGM-MNR(INS) 21:0-rel

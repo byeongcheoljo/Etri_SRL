@@ -1,0 +1,5 @@
+etri#doc_7647.txt 4 감사하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7647.txt 6 잃다 ----- 6:0-rel
+etri#doc_7647.txt 9 되찾다 ----- 1:1-ARGM-TMP() 4:3-ARGM-PRD() 5:1-ARG0(AGT) 7:2-ARG1(THM) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_7647.txt 16 가지다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_7647.txt 19 지켜보다 ----- 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARGM-EXT() 12:1-ARG0(AGT) 16:3-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2616.txt 7 되살아나다 ----- 5:1-ARG1(AGT) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_2616.txt 16 만나다 ----- 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:1-ARGM-EXT() 16:0-rel
+etri#doc_2616.txt 17 애쓰다 ----- 1:1-ARGM-EXT() 4:3-ARG0() 12:2-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6539.txt 4 비판하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6539.txt 6 설명하다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_6539.txt 7 지니다 ----- 2:2-ARG0(AGT) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_6539.txt 13 참여하다 ----- 11:1-ARG1(LOC) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6539.txt 14 토론하다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_6539.txt 15 지니다 ----- 10:2-ARG0(AGT) 14:3-ARGM-TMP() 15:0-rel

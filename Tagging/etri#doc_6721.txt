@@ -1,0 +1,5 @@
+etri#doc_6721.txt 4 살아가다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-PRD(INS) 4:0-rel
+etri#doc_6721.txt 6 출발하다 ----- 5:3-ARG2(SRC) 6:0-rel
+etri#doc_6721.txt 10 살아가다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_6721.txt 12 이르다 ----- 6:4-ARGM-DIS() 11:5-ARG3(GOL) 12:0-rel
+etri#doc_6721.txt 16 견디다 ----- 14:1-ARG1(EFF) 15:1-ARGM-INS(INS) 16:0-rel

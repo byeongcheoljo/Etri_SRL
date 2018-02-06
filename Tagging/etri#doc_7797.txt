@@ -1,0 +1,3 @@
+etri#doc_7797.txt 4 평가하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7797.txt 12 증가하다 ----- 9:1-ARGM-CAU(EFF) 10:1-ARGM-PRD(EFF) 11:1-ARG1(THM) 12:0-rel
+etri#doc_7797.txt 14 내포하다 ----- 2:2-ARG0(LOC) 8:6-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel

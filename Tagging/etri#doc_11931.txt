@@ -1,0 +1,4 @@
+etri#doc_11931.txt 2 대하다 ----- 1:1-ARGM-DIS(CNT) 2:0-rel
+etri#doc_11931.txt 6 보좌하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11931.txt 11 지키다 ----- 7:3-ARG0(AGT) 8:1-ARGM-EXT() 10:2-ARG1(THM) 11:0-rel
+etri#doc_11931.txt 12 달리다 ----- 3:3-ARG0(AGT) 11:3-ARG2() 12:0-rel

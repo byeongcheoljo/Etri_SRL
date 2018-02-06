@@ -1,0 +1,3 @@
+etri#doc_932.txt 2 신축되다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_932.txt 10 갖추다 ----- 9:6-ARG1(THM) 10:0-rel
+etri#doc_932.txt 13 모시다 ----- 10:7-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

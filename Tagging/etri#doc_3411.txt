@@ -1,0 +1,5 @@
+etri#doc_3411.txt 3 듣다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3411.txt 4 달려오다 ----- 3:2-ARGM-CAU() 4:0-rel
+etri#doc_3411.txt 8 발각되다 ----- 7:3-ARG0(AGT) 8:0-rel
+etri#doc_3411.txt 10 달아나다 ----- 8:4-ARGM-CAU() 9:1-ARGM-EXT() 10:0-rel
+etri#doc_3411.txt 16 붙잡히다 ----- 1:1-ARG1(THM) 10:2-ARGM-DIS() 12:2-ARGM-TMP() 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:1-ARG0(AGT) 16:0-rel

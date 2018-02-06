@@ -1,0 +1,2 @@
+etri#doc_5624.txt 7 따지다 ----- 7:0-rel
+etri#doc_5624.txt 14 꼬집다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:4-ARG1() 14:0-rel

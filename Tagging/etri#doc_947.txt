@@ -1,0 +1,5 @@
+etri#doc_947.txt 2 오다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_947.txt 8 떨어지다 ----- 5:1-ARG2(SRC) 6:1-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_947.txt 13 꺼내다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_947.txt 15 늘어놓다 ----- 8:2-ARGM-CAU() 9:1-ARG0(AGT) 11:2-ARG1(THM) 13:2-ARGM-DIS() 14:1-ARG2(LOC) 15:0-rel
+etri#doc_947.txt 20 들이치다 ----- 4:4-ARGM-CND() 15:2-ARGM-DIS() 18:2-ARGM-CAU() 19:1-ARG1(THM) 20:0-rel

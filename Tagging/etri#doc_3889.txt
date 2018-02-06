@@ -1,0 +1,1 @@
+etri#doc_3889.txt 15 포기하다 ----- 7:4-ARGM-DIS() 10:3-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel

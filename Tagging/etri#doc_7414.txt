@@ -1,0 +1,4 @@
+etri#doc_7414.txt 3 ¸Î´Ù ----- 2:1-ARGM-MNR(COM) 3:0-rel
+etri#doc_7414.txt 6 ÀÌÅ»µÇ´Ù ----- 1:1-ARG0(AGT) 5:2-ARG1(SRC) 6:0-rel
+etri#doc_7414.txt 9 ´«Ä¡Ã¤´Ù ----- 7:4-ARG1() 8:1-ARG0(MAG) 9:0-rel
+etri#doc_7414.txt 15 ¼ÓÇÏ´Ù ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARG1(THM) 15:0-rel

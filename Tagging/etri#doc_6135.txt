@@ -1,0 +1,6 @@
+etri#doc_6135.txt 3 구제하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6135.txt 7 구제하다 ----- 5:1-ARG1(THM) 6:1-ARG2(SRC) 7:0-rel
+etri#doc_6135.txt 13 체계화시키다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_6135.txt 16 보급하다 ----- 13:3-ARGM-DIS() 15:2-ARG2(GOL) 16:0-rel
+etri#doc_6135.txt 18 펴내다 ----- 16:3-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_6135.txt 19 밝히다 ----- 1:1-ARG0(AGT) 10:5-ARGM-DIS() 18:2-ARG1() 19:0-rel

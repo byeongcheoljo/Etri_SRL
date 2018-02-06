@@ -1,0 +1,3 @@
+etri#doc_5458.txt 9 전개되다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5458.txt 11 맞다 ----- 10:5-ARG2(THM) 11:0-rel
+etri#doc_5458.txt 22 인식되다 ----- 1:1-ARGM-DIS() 12:7-ARGM-TMP() 13:1-ARG1(THM) 17:3-ARGM-DIS() 18:1-ARGM-DIS() 21:3-ARG1(FNS) 22:0-rel

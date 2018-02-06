@@ -1,0 +1,6 @@
+etri#doc_8745.txt 4 가다 ----- 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_8745.txt 6 나다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 4:2-ARGM-DIS() 5:1-ARG1(Npr) 6:0-rel
+etri#doc_8745.txt 12 여기다 ----- 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_8745.txt 16 찾아가다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_8745.txt 18 사정하다 ----- 14:2-ARG0(AGT) 16:2-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel
+etri#doc_8745.txt 20 무마되다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 18:2-ARGM-CAU() 19:1-ARGM-DIS() 20:0-rel

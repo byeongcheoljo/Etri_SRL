@@ -1,0 +1,4 @@
+etri#doc_4805.txt 2 얻다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4805.txt 8 돌리다 ----- 3:3-ARG0(AGT) 4:1-ARGM-MNR() 6:2-ARG2(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_4805.txt 13 얻다 ----- 12:1-ARGM-TMP(LOC) 13:0-rel
+etri#doc_4805.txt 15 과소평가하다 ----- 11:3-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3520.txt 7 균형되다 ----- 7:0-rel
+etri#doc_3520.txt 9 발휘하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3520.txt 14 격파시키다 ----- 1:1-ARGM-DIS() 9:3-ARGM-MNR() 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:1-ARGM-ADV() 14:0-rel
+etri#doc_3520.txt 19 확신하다 ----- 17:2-ARG1() 18:1-ARG0(MAG) 19:0-rel

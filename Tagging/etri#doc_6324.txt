@@ -1,0 +1,6 @@
+etri#doc_6324.txt 6 돌보다 ----- 5:1-(THM) 6:0-rel
+etri#doc_6324.txt 9 하다 ----- 4:2-ARGM-TMP(LOC) 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_6324.txt 11 비난하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_6324.txt 13 발설하다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_6324.txt 18 밝히다 ----- 17:2-ARGM-DIS() 18:0-rel
+etri#doc_6324.txt 19 요구하다 ----- 1:1-ARG0(AGT) 11:5-ARGM-DIS() 18:3-ARG1() 19:0-rel

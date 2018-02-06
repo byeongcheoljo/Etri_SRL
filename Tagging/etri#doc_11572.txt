@@ -1,0 +1,3 @@
+etri#doc_11572.txt 5 보다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11572.txt 14 강조하다 ----- 9:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11572.txt 20 알다 ----- 5:3-ARGM-CND() 19:4-ARG1() 20:0-rel

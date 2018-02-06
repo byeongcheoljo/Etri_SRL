@@ -1,0 +1,4 @@
+etri#doc_8818.txt 4 그려지다 ----- 1:1-ARG1(THM) 3:2-ARGM-INS(INS) 4:0-rel
+etri#doc_8818.txt 9 그려지다 ----- 4:3-ARGM-DIS() 5:1-ARG1(THM) 8:3-ARGM-INS(INS) 9:0-rel
+etri#doc_8818.txt 12 발생시키다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8818.txt 14 되다 ----- 10:5-ARG1(THM) 13:3-ARG2(FNS) 14:0-rel

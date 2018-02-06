@@ -1,0 +1,4 @@
+etri#doc_220.txt 3 두다 ----- 1:1-ARG2(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_220.txt 8 연결하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_220.txt 15 가지다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_220.txt 19 노력하다 ----- 3:2-ARGM-DIS() 18:5-ARG1(LOC) 19:0-rel

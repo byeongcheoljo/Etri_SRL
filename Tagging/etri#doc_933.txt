@@ -1,0 +1,3 @@
+etri#doc_933.txt 6 보내다 ----- 4:2-ARG1(THM) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_933.txt 9 파견하다 ----- 2:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARG2(GOL) 9:0-rel
+etri#doc_933.txt 16 전파되다 ----- 11:4-ARGM-ADV(INS) 14:2-ARG1(THM) 15:1-ARG2(GOL) 16:0-rel

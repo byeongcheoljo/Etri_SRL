@@ -1,0 +1,3 @@
+etri#doc_7890.txt 4 알다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_7890.txt 13 찾아오다 ----- 12:1-ARG2(THM) 13:0-rel
+etri#doc_7890.txt 15 만나다 ----- 6:2-ARG0(AGT) 7:1-ARGM-MNR() 8:1-ARGM-TMP() 11:2-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:0-rel

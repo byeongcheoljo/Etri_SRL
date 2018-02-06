@@ -1,0 +1,4 @@
+etri#doc_223.txt 7 이용하다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_223.txt 12 만들다 ----- 7:5-ARGM-MNR() 11:2-ARG1(THM) 12:0-rel
+etri#doc_223.txt 14 거듭하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_223.txt 19 쓰다 ----- 2:2-ARG0(AGT) 12:3-ARGM-MNR() 17:3-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

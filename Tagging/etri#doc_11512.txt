@@ -1,0 +1,5 @@
+etri#doc_11512.txt 3 제거하다 ----- 1:1-ARGM-MNR() 2:1-ARG1(THM) 3:0-rel
+etri#doc_11512.txt 8 만들다 ----- 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_11512.txt 12 활성화하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11512.txt 14 하다 ----- 4:3-ARGM-CAU(CRT) 8:2-ARGM-DIS() 10:2-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_11512.txt 15 밝히다 ----- 14:2-ARGM-DIS() 15:0-rel

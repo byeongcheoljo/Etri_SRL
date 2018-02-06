@@ -1,0 +1,5 @@
+etri#doc_1960.txt 2 오르내리다 ----- 1:1-(CRT) 2:0-rel
+etri#doc_1960.txt 7 자리잡다 ----- 6:3-ARG1(LOC) 7:0-rel
+etri#doc_1960.txt 12 덮이다 ----- 11:1-ARG1(LOC) 12:0-rel
+etri#doc_1960.txt 15 바라보다 ----- 10:1-ARGM-EXT() 14:4-ARG1(THM) 15:0-rel
+etri#doc_1960.txt 18 하다 ----- 3:3-ARGM-LOC(LOC) 9:2-ARG0(AGT) 15:5-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

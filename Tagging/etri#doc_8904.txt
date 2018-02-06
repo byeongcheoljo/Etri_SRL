@@ -1,0 +1,4 @@
+etri#doc_8904.txt 4 일어서다 ----- 2:1-ARG1(THM) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_8904.txt 6 막다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_8904.txt 14 빠지다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8904.txt 17 전락하다 ----- 9:3-ARGM-DIS() 11:2-ARG2(FNS) 12:1-ARG1(THM) 16:4-ARG2(FNS) 17:0-rel

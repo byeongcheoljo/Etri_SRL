@@ -1,0 +1,5 @@
+etri#doc_81.txt 4 ½Î´Ù ----- 2:2-ARG1(THM) 3:1-ARG2(GOL) 4:0-rel
+etri#doc_81.txt 6 ±«´Ù ----- 4:2-ARGM-MNR() 5:1-ARGM-DIR(DIR) 6:0-rel
+etri#doc_81.txt 10 ¿Ã¸®´Ù ----- 6:2-ARGM-DIS() 8:2-ARGM-DIR(DIR) 9:1-() 10:0-rel
+etri#doc_81.txt 14 ´¯È÷´Ù ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 13:2-ARGM-DIR(DIR) 14:0-rel
+etri#doc_81.txt 18 ÇâÇÏ´Ù ----- 14:3-ARGM-DIS() 15:1-ARG1(THM) 17:2-ARGM-DIR(DIR) 18:0-rel

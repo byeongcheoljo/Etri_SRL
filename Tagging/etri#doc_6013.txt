@@ -1,0 +1,4 @@
+etri#doc_6013.txt 7 걸리다 ----- 6:1-ARG1(EFF) 7:0-rel
+etri#doc_6013.txt 11 거스르다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6013.txt 14 경험하다 ----- 8:3-ARG1(EXP) 11:2-ARGM-DIS() 12:1-ARG2(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_6013.txt 17 가지다 ----- 4:3-ARGM-CND() 5:1-ARG0(LOC) 16:2-ARG1(THM) 17:0-rel

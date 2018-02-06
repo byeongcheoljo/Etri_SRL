@@ -1,0 +1,1 @@
+etri#doc_8372.txt 15 일어나다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 14:3-ARG2(LOC) 15:0-rel

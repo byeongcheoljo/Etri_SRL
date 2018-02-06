@@ -1,0 +1,4 @@
+etri#doc_11123.txt 4 입단하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARG1(GOL) 4:0-rel
+etri#doc_11123.txt 7 하다 ----- 4:2-ARGM-MNR() 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11123.txt 14 차지하다 ----- 8:1-ARGM-TMP(SRC) 9:1-ARGM-TMP(GOL) 10:1-ARGM-TMP() 11:1-ARGM-PRD(EFF) 12:1-ARGM-EXT(EFF) 13:1-ARG1(THM) 14:0-rel
+etri#doc_11123.txt 17 얻다 ----- 7:2-ARGM-TMP() 14:2-ARGM-MNR() 16:2-ARG1(THM) 17:0-rel

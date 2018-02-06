@@ -1,0 +1,5 @@
+etri#doc_6975.txt 3 기르다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6975.txt 6 취하다 ----- 3:3-ARGM-PRP() 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_6975.txt 9 닦다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_6975.txt 13 즐기다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_6975.txt 18 찾아다니다 ----- 16:2-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

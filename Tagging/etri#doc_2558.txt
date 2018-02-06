@@ -1,0 +1,3 @@
+etri#doc_2558.txt 4 지나다 ----- 1:1-ARGM-TMP() 3:2-ARGM-TMP() 4:0-rel
+etri#doc_2558.txt 10 형성되다 ----- 6:1-() 7:1-() 9:2-() 10:0-rel
+etri#doc_2558.txt 13 움직이다 ----- 12:1-ARG1(AGT) 13:0-rel

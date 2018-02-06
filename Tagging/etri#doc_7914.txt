@@ -1,0 +1,2 @@
+etri#doc_7914.txt 4 둘러싸다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7914.txt 15 하다 ----- 6:2-ARGM-LOC(LOC) 7:1-ARG0(AGT) 8:1-ARGM-TMP(SRC) 13:5-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5005.txt 3 결성하다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:0-rel
+etri#doc_5005.txt 6 하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5005.txt 8 쓰다 ----- 3:2-ARGM-TMP() 4:1-ARG0(AGT) 6:2-ARGM-TMP() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_5005.txt 13 결집하다 ----- 12:3-ARGM-MNR() 13:0-rel
+etri#doc_5005.txt 16 대표하다 ----- 15:2-ARG1(THM) 16:0-rel

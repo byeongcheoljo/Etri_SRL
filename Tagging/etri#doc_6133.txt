@@ -1,0 +1,4 @@
+etri#doc_6133.txt 4 살다 ----- 3:3-ARG2(LOC) 4:0-rel
+etri#doc_6133.txt 8 보다 ----- 6:1-ARG1() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6133.txt 10 먹다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6133.txt 17 살다 ----- 5:5-ARG0(AGT) 8:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARGM-MNR() 17:0-rel

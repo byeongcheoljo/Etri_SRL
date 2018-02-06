@@ -1,0 +1,2 @@
+etri#doc_8097.txt 4 ¿‚¥Ÿ ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8097.txt 16 ø≥∫∏¥Ÿ ----- 8:3-ARG1(THM) 12:4-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel

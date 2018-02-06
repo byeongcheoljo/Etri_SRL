@@ -1,0 +1,3 @@
+etri#doc_1171.txt 6 모르다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_1171.txt 12 벗다 ----- 7:1-ARG0(AGT) 8:1-ARGM-LOC(LOC) 10:2-ARGM-EXT(CRT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_1171.txt 13 생기다 ----- 12:2-ARGM-CAU() 13:0-rel

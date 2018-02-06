@@ -1,0 +1,4 @@
+etri#doc_11775.txt 6 해당하다 ----- 4:2-ARGM-MNR(INS) 5:1-ARGM-EXT(EFF) 6:0-rel
+etri#doc_11775.txt 10 환원하다 ----- 8:2-ARG1(THM) 9:1-ARG2(FNS) 10:0-rel
+etri#doc_11775.txt 14 공개되다 ----- 12:4-ARG1(THM) 13:1-ARGM-LOC(GOL) 14:0-rel
+etri#doc_11775.txt 17 놀라다 ----- 2:2-ARGM-TMP(LOC) 14:2-ARGM-DIS() 16:2-ARG1(EXP) 17:0-rel

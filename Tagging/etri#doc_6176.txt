@@ -1,0 +1,2 @@
+etri#doc_6176.txt 18 적응하다 ----- 15:1-ARG1(AGT) 17:2-ARG2(LOC) 18:0-rel
+etri#doc_6176.txt 21 주다 ----- 10:10-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARG1() 19:4-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1682.txt 2 죽이다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1682.txt 7 뛰다 ----- 5:2-ARG0(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_1682.txt 11 쉬다 ----- 3:3-ARGM-DIS() 7:2-ARGM-DIS() 9:2-ARGM-INS(INS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_1682.txt 12 움직이다 ----- 11:2-ARGM-DIS() 12:0-rel

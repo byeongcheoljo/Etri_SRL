@@ -1,0 +1,6 @@
+etri#doc_6316.txt 3 낳다 ----- 1:1-ARG1() 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6316.txt 4 권장하다 ----- 3:2-ARG1() 4:0-rel
+etri#doc_6316.txt 7 낳다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_6316.txt 11 주다 ----- 4:3-ARGM-DIS() 5:1-ARG0(AGT) 8:3-ARG2(GOL) 10:2-ARG1(THM) 11:0-rel
+etri#doc_6316.txt 13 나가다 ----- 12:1-ARGM-MNR() 13:0-rel
+etri#doc_6316.txt 18 폭발하다 ----- 11:3-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG1(THM) 17:2-ARGM-CAU(EFF) 18:0-rel

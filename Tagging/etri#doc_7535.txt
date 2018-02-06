@@ -1,0 +1,4 @@
+etri#doc_7535.txt 2 °¡´Ù ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_7535.txt 12 ¶ì´Ù ----- 9:2-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel
+etri#doc_7535.txt 18 Èçµé´Ù ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_7535.txt 20 ´À³¢´Ù ----- 6:2-ARGM-DIS() 7:1-ARGM-DIS() 12:3-ARGM-DIS() 19:4-ARG1(THM) 20:0-rel

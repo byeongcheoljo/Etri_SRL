@@ -1,0 +1,4 @@
+etri#doc_11850.txt 10 썩다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11850.txt 12 나다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_11850.txt 15 사다 ----- 14:2-ARG0(AGT) 15:0-rel
+etri#doc_11850.txt 17 되다 ----- 12:2-ARGM-DIS() 16:4-ARG2(THM) 17:0-rel

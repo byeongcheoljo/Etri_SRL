@@ -1,0 +1,2 @@
+etri#doc_6369.txt 8 노력하다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_6369.txt 14 기여하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 3:1-ARGM-TMP() 8:3-ARGM-DIS() 13:3-ARG1(GOL) 14:0-rel

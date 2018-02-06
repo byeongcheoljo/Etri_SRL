@@ -1,0 +1,6 @@
+etri#doc_5681.txt 3 어려워지다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_5681.txt 4 알다 ----- 4:0-rel
+etri#doc_5681.txt 5 가다 ----- 3:2-ARGM-DIS() 4:1-ARGM-DIS() 5:0-rel
+etri#doc_5681.txt 13 하다 ----- 12:3-ARG1(CNT) 13:0-rel
+etri#doc_5681.txt 16 대처하다 ----- 15:2-ARG1(LOC) 16:0-rel
+etri#doc_5681.txt 19 묻다 ----- 7:4-ARGM-ADV(COM) 8:1-ARGM-DIS() 13:4-ARGM-DIS() 18:5-ARG1(CNT) 19:0-rel

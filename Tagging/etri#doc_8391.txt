@@ -1,0 +1,1 @@
+etri#doc_8391.txt 15 นเว๔ม๖ดู ----- 1:1-ARGM-CND(LOC) 4:2-ARGM-DIS(EFF) 13:4-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

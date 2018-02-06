@@ -1,0 +1,5 @@
+etri#doc_5396.txt 5 하다 ----- 3:3-ARGM-INS(INS) 4:1-ARG1() 5:0-rel
+etri#doc_5396.txt 7 드리우다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_5396.txt 10 삼다 ----- 5:2-ARGM-DIS() 8:3-ARG1(THM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5396.txt 15 눕다 ----- 13:3-ARGM-LOC() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_5396.txt 16 지새다 ----- 10:2-ARGM-MNR() 15:2-ARGM-DIS() 16:0-rel

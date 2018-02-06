@@ -1,0 +1,4 @@
+etri#doc_2115.txt 3 걸리다 ----- 2:1-ARG1(GOL) 3:0-rel
+etri#doc_2115.txt 9 갖다 ----- 6:5-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_2115.txt 10 파악하다 ----- 9:3-ARGM-DIS() 10:0-rel
+etri#doc_2115.txt 14 생기다 ----- 13:1-ARG1(THM) 14:0-rel

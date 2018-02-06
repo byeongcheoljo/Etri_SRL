@@ -1,0 +1,4 @@
+etri#doc_3333.txt 5 지니다 ----- 2:2-ARG2(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_3333.txt 10 계속되다 ----- 6:1-ARGM-ADV() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3333.txt 14 떨치다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_3333.txt 16 일어서다 ----- 5:3-ARGM-CND() 10:3-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel

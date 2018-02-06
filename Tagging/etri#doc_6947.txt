@@ -1,0 +1,5 @@
+etri#doc_6947.txt 3 품다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_6947.txt 8 채색되다 ----- 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_6947.txt 10 버리다 ----- 1:1-ARG0(AGT) 9:4-ARG1(THM) 10:0-rel
+etri#doc_6947.txt 14 요청되다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_6947.txt 19 직시하다 ----- 10:5-ARGM-DIS() 15:5-ARGM-TMP() 18:3-ARG1(THM) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9944.txt 9 맞다 ----- 7:1-ARG2(COM) 8:1-ARGM-DIS() 9:0-rel
+etri#doc_9944.txt 11 만나다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_9944.txt 14 빠지다 ----- 6:2-ARGM-TMP() 11:4-ARGM-DIS() 12:1-ARGM-MNR() 13:1-ARG2(FNS) 14:0-rel
+etri#doc_9944.txt 18 쓰다 ----- 2:2-() 4:2-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG0(AGT) 16:1-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

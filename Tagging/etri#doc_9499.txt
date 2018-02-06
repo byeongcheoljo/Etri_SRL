@@ -1,0 +1,2 @@
+etri#doc_9499.txt 6 넓히다 ----- 4:4-ARG1(THM) 5:1-ARGM-DIR(DIR) 6:0-rel
+etri#doc_9499.txt 10 던지다 ----- 6:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel

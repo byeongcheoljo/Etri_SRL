@@ -1,0 +1,3 @@
+etri#doc_3231.txt 7 거두다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_3231.txt 14 의존하다 ----- 2:1-ARG0(THM) 3:1-ARGM-LOC(LOC) 4:1-ARGM-TMP() 8:4-ARGM-EXT(CRT) 11:2-ARG1(GOL) 12:1-ARGM-MNR(INS) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3231.txt 16 의미하다 ----- 1:1-ARG1(EFF) 15:3-ARG2(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4193.txt 5 받아들이다 ----- 2:1-ARG2(SRC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4193.txt 7 보관되다 ----- 6:1-ARG2(LOC) 7:0-rel
+etri#doc_4193.txt 8 알려지다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4193.txt 14 실시하다 ----- 1:1-ARG0(AGT) 5:3-ARGM-DIS() 10:5-ARG1(THM) 12:2-ARGM-TMP() 13:1-ARGM-LOC(LOC) 14:0-rel

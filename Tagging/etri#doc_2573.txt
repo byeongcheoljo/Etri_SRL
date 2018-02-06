@@ -1,0 +1,4 @@
+etri#doc_2573.txt 9 증명하다 ----- 4:2-ARGM-MNR(EFF) 7:2-ARG1(THM) 8:1-ARGM-MNR(EFF) 9:0-rel
+etri#doc_2573.txt 12 기대하다 ----- 11:2-ARG1(AGT) 12:0-rel
+etri#doc_2573.txt 15 실행하다 ----- 13:4-ARGM-ADV(EFF) 14:1-ARG1(THM) 15:0-rel
+etri#doc_2573.txt 17 벗어나다 ----- 16:1-ARGM-LOC(LOC) 17:0-rel

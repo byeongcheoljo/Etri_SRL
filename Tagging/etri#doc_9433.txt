@@ -1,0 +1,4 @@
+etri#doc_9433.txt 8 생각하다 ----- 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_9433.txt 11 말하다 ----- 10:1-ARGM-INS(INS) 11:0-rel
+etri#doc_9433.txt 14 행동하다 ----- 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_9433.txt 18 환원되다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 17:2-ARGM-MNR(INS) 18:0-rel

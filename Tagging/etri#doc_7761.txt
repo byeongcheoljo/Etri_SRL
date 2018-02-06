@@ -1,0 +1,5 @@
+etri#doc_7761.txt 4 바라다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7761.txt 7 실망시키다 ----- 6:2-ARG1(EXP) 7:0-rel
+etri#doc_7761.txt 9 물다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_7761.txt 14 돌려놓다 ----- 7:3-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:1-ARGM-DIR(DIR) 14:0-rel
+etri#doc_7761.txt 17 되다 ----- 2:2-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

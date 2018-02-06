@@ -1,0 +1,1 @@
+etri#doc_1029.txt 15 조직하다 ----- 8:4-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

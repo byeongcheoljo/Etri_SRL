@@ -1,0 +1,2 @@
+etri#doc_815.txt 9 닿다 ----- 2:1-ARGM-DIS() 6:4-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_815.txt 14 일어나다 ----- 13:1-ARGM-LOC(LOC) 14:0-rel

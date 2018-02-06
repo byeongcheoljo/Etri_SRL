@@ -1,0 +1,4 @@
+etri#doc_750.txt 4 ¿–¥Ÿ ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_750.txt 16 ≥Ï¿Ã¥Ÿ ----- 14:1-ARG1(THM) 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_750.txt 17 ªÃ¥Ÿ ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 16:2-ARGM-MNR() 17:0-rel
+etri#doc_750.txt 18 æÀ¥Ÿ ----- 5:4-ARG0(AGT) 17:3-ARG1() 18:0-rel

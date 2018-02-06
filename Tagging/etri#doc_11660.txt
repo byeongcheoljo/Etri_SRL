@@ -1,0 +1,2 @@
+etri#doc_11660.txt 11 되다 ----- 1:1-ARG1(THM) 7:3-ARGM-MNR(INS) 10:3-ARG2(FNS) 11:0-rel
+etri#doc_11660.txt 17 이루어지다 ----- 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

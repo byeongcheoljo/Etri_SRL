@@ -1,0 +1,3 @@
+etri#doc_5739.txt 6 살다 ----- 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5739.txt 14 주다 ----- 7:3-ARG2(GOL) 9:2-ARGM-EXT(CRT) 13:3-ARG1(THM) 14:0-rel
+etri#doc_5739.txt 16 들다 ----- 1:1-ARGM-DIS() 2:1-ARGM-CAU() 4:2-ARGM-DIS() 15:5-ARG1(THM) 16:0-rel

@@ -1,0 +1,7 @@
+etri#doc_1476.txt 2 소개하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_1476.txt 8 선택하다 ----- 6:3-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1476.txt 11 불리다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_1476.txt 14 가지다 ----- 8:2-ARGM-CND() 12:4-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_1476.txt 15 나오다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_1476.txt 17 주문하다 ----- 16:1-ARG0(AGT) 17:0-rel
+etri#doc_1476.txt 20 확인시키다 ----- 2:2-ARGM-CND() 19:4-ARGM-DIS() 20:0-rel

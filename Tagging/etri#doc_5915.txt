@@ -1,0 +1,4 @@
+etri#doc_5915.txt 5 참여하다 ----- 2:1-ARG0() 4:2-ARG1(LOC) 5:0-rel
+etri#doc_5915.txt 9 주장하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5915.txt 16 보이다 ----- 6:4-ARGM-DIS() 14:4-ARG0(AGT) 15:1-ARG1(Npr) 16:0-rel
+etri#doc_5915.txt 19 주장하다 ----- 16:2-ARG1() 18:2-ARG0(AGT) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_2655.txt 5 무너지다 ----- 4:2-ARG1(AGT) 5:0-rel
+etri#doc_2655.txt 9 깨어지다 ----- 5:3-() 8:3-() 9:0-rel
+etri#doc_2655.txt 19 강화하다 ----- 14:2-ARG0(AGT) 15:1-ARGM-EXT() 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel
+etri#doc_2655.txt 21 오다 ----- 9:4-ARGM-DIS() 20:3-ARG0(AGT) 21:0-rel

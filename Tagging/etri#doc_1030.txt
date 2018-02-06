@@ -1,0 +1,2 @@
+etri#doc_1030.txt 8 머무르다 ----- 1:1-ARGM-TMP() 7:2-ARG0(AGT) 8:0-rel
+etri#doc_1030.txt 14 위치하다 ----- 10:5-ARGM-DIS() 13:3-ARG2(LOC) 14:0-rel

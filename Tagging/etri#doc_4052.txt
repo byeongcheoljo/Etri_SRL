@@ -1,0 +1,2 @@
+etri#doc_4052.txt 4 휘어잡다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4052.txt 5 끌려가다 ----- 2:1-ARG0(THM) 4:2-ARGM-DIS() 5:0-rel

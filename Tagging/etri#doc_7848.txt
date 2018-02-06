@@ -1,0 +1,4 @@
+etri#doc_7848.txt 2 놀다 ----- 2:0-rel
+etri#doc_7848.txt 4 취하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_7848.txt 8 보다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_7848.txt 10 수행하다 ----- 4:2-ARGM-TMP() 6:2-ARG0(AGT) 9:3-ARG1(THM) 10:0-rel

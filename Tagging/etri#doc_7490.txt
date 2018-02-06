@@ -1,0 +1,6 @@
+etri#doc_7490.txt 4 깨닫다 ----- 3:1-ARGM-LOC(SRC) 4:0-rel
+etri#doc_7490.txt 6 성장시키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7490.txt 8 기록하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-MNR() 7:3-ARGM-TMP() 8:0-rel
+etri#doc_7490.txt 10 배우다 ----- 9:5-ARGM-MNR(INS) 10:0-rel
+etri#doc_7490.txt 11 기억시키다 ----- 10:6-ARGM-MNR() 11:0-rel
+etri#doc_7490.txt 16 되다 ----- 11:7-ARGM-DIS() 12:1-ARGM-DIS() 13:1-ARG0(AGT) 15:2-ARG1(FNS) 16:0-rel

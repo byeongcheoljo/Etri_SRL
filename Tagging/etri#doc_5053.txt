@@ -1,0 +1,2 @@
+etri#doc_5053.txt 4 지배하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_5053.txt 17 존재하다 ----- 16:3-ARG1(THM) 17:0-rel

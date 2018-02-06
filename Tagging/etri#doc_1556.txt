@@ -1,0 +1,5 @@
+etri#doc_1556.txt 7 보내다 ----- 4:2-ARGM-CAU() 5:1-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_1556.txt 10 모으다 ----- 8:1-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1556.txt 12 설립하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_1556.txt 14 세우다 ----- 7:2-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1556.txt 17 가르치다 ----- 16:1-ARG1(THM) 17:0-rel

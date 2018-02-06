@@ -1,0 +1,3 @@
+etri#doc_5004.txt 6 보다 ----- 3:3-ARG1(THM) 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_5004.txt 9 수반하다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_5004.txt 17 전환하다 ----- 6:3-ARGM-CND() 9:3-ARGM-CAU() 12:2-ARG0(AGT) 13:1-ARG2(SRC) 15:2-ARG3(FNS) 16:1-ARGM-EXT() 17:0-rel

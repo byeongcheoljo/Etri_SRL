@@ -1,0 +1,2 @@
+etri#doc_3620.txt 7 이어지다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3620.txt 10 놓치다 ----- 10:0-rel

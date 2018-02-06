@@ -1,0 +1,3 @@
+etri#doc_7322.txt 4 사용하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-INS(INS) 4:0-rel
+etri#doc_7322.txt 6 살펴보다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_7322.txt 12 이루어지다 ----- 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel

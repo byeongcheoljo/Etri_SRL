@@ -1,0 +1,2 @@
+etri#doc_1443.txt 4 ¿Ã∑Á¥Ÿ ----- 2:2-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1443.txt 7 ª∏¥Ÿ ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:1-ARGM-DIR(DIR) 7:0-rel

@@ -1,0 +1,5 @@
+etri#doc_9249.txt 4 갈다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 4:0-rel
+etri#doc_9249.txt 8 마시다 ----- 4:2-ARGM-MNR() 5:1-ARG0(AGT) 7:2-ARG1(THM) 8:0-rel
+etri#doc_9249.txt 11 정화시키다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_9249.txt 13 하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_9249.txt 16 하다 ----- 8:3-ARGM-DIS() 9:1-ARG0(AGT) 13:4-ARGM-MNR() 14:1-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

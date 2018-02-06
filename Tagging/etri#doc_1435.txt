@@ -1,0 +1,4 @@
+etri#doc_1435.txt 3 발원하다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_1435.txt 12 모으다 ----- 5:2-ARGM-DIS() 11:6-ARG1(THM) 12:0-rel
+etri#doc_1435.txt 17 만나다 ----- 12:7-ARGM-DIS() 15:3-ARGM-LOC(LOC) 16:1-ARG1(COM) 17:0-rel
+etri#doc_1435.txt 19 흘러들다 ----- 1:1-ARG0(THM) 17:2-ARGM-DIS() 18:1-ARGM-DIR(DIR) 19:0-rel

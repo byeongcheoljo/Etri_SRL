@@ -1,0 +1,5 @@
+etri#doc_8908.txt 3 앓다 ----- 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8908.txt 9 가리키다 ----- 1:1-ARG0(AGT) 8:4-ARG1(THM) 9:0-rel
+etri#doc_8908.txt 12 하다 ----- 11:1-ARG1(CNT) 12:0-rel
+etri#doc_8908.txt 16 앓다 ----- 14:2-ARGM-CAU() 15:1-ARGM-TMP() 16:0-rel
+etri#doc_8908.txt 18 말하다 ----- 9:5-ARGM-DIS() 10:1-ARG0(AGT) 12:2-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

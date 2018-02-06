@@ -1,0 +1,2 @@
+etri#doc_2587.txt 9 버티다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARGM-LOC(LOC) 5:1-ARGM-LOC(LOC) 6:1-ARGM-EXT() 7:1-ARG0(AGT) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_2587.txt 16 활용하다 ----- 11:2-ARGM-ADV(EFF) 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

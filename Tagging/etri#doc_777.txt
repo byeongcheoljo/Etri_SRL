@@ -1,0 +1,5 @@
+etri#doc_777.txt 4 Á×´Ù ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_777.txt 9 ´à´Ù ----- 8:1-ARG2() 9:0-rel
+etri#doc_777.txt 12 ´à´Ù ----- 11:1-ARG2() 12:0-rel
+etri#doc_777.txt 15 ´à´Ù ----- 14:1-ARG2() 15:0-rel
+etri#doc_777.txt 17 Áö´Ï´Ù ----- 16:3-ARG1(THM) 17:0-rel

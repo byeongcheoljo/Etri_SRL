@@ -1,0 +1,4 @@
+etri#doc_2569.txt 4 나타나다 ----- 3:2-ARG1(EFF) 4:0-rel
+etri#doc_2569.txt 13 기울다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2569.txt 15 입다 ----- 6:5-ARGM-ADV() 11:3-ARGM-ADV(EFF) 14:3-ARG1(THM) 15:0-rel
+etri#doc_2569.txt 19 들다 ----- 1:1-ARGM-DIS() 15:4-ARGM-DIS() 16:1-ARGM-ADV(EFF) 17:1-ARG0(AGT) 18:1-ARGM-EXT() 19:0-rel

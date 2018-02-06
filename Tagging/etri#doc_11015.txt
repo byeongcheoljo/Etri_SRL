@@ -1,0 +1,4 @@
+etri#doc_11015.txt 5 보이다 ----- 5:0-rel
+etri#doc_11015.txt 8 발달되다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11015.txt 11 뻗다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11015.txt 13 꺾이다 ----- 11:2-ARGM-DIS() 12:1-ARGM-MNR(INS) 13:0-rel

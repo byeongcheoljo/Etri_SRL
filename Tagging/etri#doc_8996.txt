@@ -1,0 +1,3 @@
+etri#doc_8996.txt 4 지적되다 ----- 1:1-ARGM-DIS() 2:1-ARG1() 3:1-ARGM-DIS() 4:0-rel
+etri#doc_8996.txt 9 하다 ----- 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8996.txt 12 매몰되다 ----- 5:3-ARG1(THM) 9:3-ARGM-DIS() 11:2-ARG2(LOC) 12:0-rel

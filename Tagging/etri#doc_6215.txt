@@ -1,0 +1,4 @@
+etri#doc_6215.txt 2 가지다 ----- 1:1-ARG0(LOC) 2:0-rel
+etri#doc_6215.txt 5 인식하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6215.txt 10 깨닫다 ----- 5:3-ARGM-CND() 9:4-ARG2(THM) 10:0-rel
+etri#doc_6215.txt 15 갖다 ----- 10:5-ARGM-DIS() 12:2-ARGM-CAU(EFF) 14:2-ARG1(THM) 15:0-rel

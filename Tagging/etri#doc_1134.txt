@@ -1,0 +1,4 @@
+etri#doc_1134.txt 5 자라다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_1134.txt 9 사랑하다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1134.txt 15 알다 ----- 15:0-rel
+etri#doc_1134.txt 18 안다 ----- 14:4-ARGM-DIS() 16:2-ARG0(AGT) 17:1-ARGM-EXT() 18:0-rel

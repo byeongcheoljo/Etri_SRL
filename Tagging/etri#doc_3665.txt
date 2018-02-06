@@ -1,0 +1,4 @@
+etri#doc_3665.txt 7 취급하다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_3665.txt 11 대여하다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_3665.txt 14 만들다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_3665.txt 18 알려지다 ----- 8:3-ARG1(THM) 17:2-ARG1() 18:0-rel

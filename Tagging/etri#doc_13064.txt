@@ -1,0 +1,3 @@
+etri#doc_13064.txt 8 스며들다 ----- 2:2-ARGM-TMP() 5:3-ARGM-LOC(GOL) 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_13064.txt 12 호소하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 11:2-ARG1(THM) 12:0-rel
+etri#doc_13064.txt 16 받다 ----- 12:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

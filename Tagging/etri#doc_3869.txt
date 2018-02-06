@@ -1,0 +1,3 @@
+etri#doc_3869.txt 5 제한되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3869.txt 9 시달리다 ----- 8:2-ARG0(EFF) 9:0-rel
+etri#doc_3869.txt 13 옮기다 ----- 6:4-ARGM-LOC(LOC) 11:2-ARG0(AGT) 12:1-ARG3(DIR) 13:0-rel

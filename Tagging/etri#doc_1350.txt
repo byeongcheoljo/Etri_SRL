@@ -1,0 +1,4 @@
+etri#doc_1350.txt 5 말하다 ----- 4:2-ARGM-PRD(EFF) 5:0-rel
+etri#doc_1350.txt 8 살다 ----- 5:3-ARGM-DIS() 7:2-ARGM-INS(INS) 8:0-rel
+etri#doc_1350.txt 11 부르다 ----- 8:3-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_1350.txt 14 행하다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7117.txt 6 하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7117.txt 8 준비되다 ----- 3:1-ARGM-TMP() 4:1-ARGM-LOC(LOC) 7:3-ARG1(THM) 8:0-rel
+etri#doc_7117.txt 10 들다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_7117.txt 15 펼쳐지다 ----- 2:2-ARG0(AGT) 8:4-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel
+etri#doc_7117.txt 16 틀리다 ----- 15:3-ARGM-DIS() 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4966.txt 4 적용되다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4966.txt 11 보다 ----- 10:3-ARGM-LOC(LOC) 11:0-rel
+etri#doc_4966.txt 14 근거하다 ----- 12:1-ARG2(LOC) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4966.txt 15 보다 ----- 7:2-ARGM-ADV(EFF) 11:4-ARGM-DIS() 14:2-ARG1() 15:0-rel
+etri#doc_4966.txt 17 한하다 ----- 16:4-ARG2(CRT) 17:0-rel
+etri#doc_4966.txt 18 적용되다 ----- 1:1-ARGM-CAU() 4:3-ARGM-CND() 17:5-ARGM-DIS() 18:0-rel

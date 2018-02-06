@@ -1,0 +1,4 @@
+etri#doc_5412.txt 7 쓰다 ----- 2:1-ARG0(AGT) 5:3-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_5412.txt 14 조사하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5412.txt 16 담기다 ----- 15:1-ARGM-LOC() 16:0-rel
+etri#doc_5412.txt 19 투사하다 ----- 1:1-ARG0(AGT) 7:2-ARGM-CND() 10:3-ARG0(AGT) 14:3-ARGM-DIS() 17:3-ARG1(THM) 18:1-ARGM-LOC(GOL) 19:0-rel

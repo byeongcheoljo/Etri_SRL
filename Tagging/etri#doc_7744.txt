@@ -1,0 +1,6 @@
+etri#doc_7744.txt 7 가르치다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7744.txt 9 되다 ----- 8:3-ARG2(FNS) 9:0-rel
+etri#doc_7744.txt 10 보이다 ----- 1:1-ARG0(AGT) 4:3-ARG1(EXP) 5:1-ARGM-MNR() 9:4-ARGM-EXT() 10:0-rel
+etri#doc_7744.txt 13 두다 ----- 11:1-ARGM-TMP(LOC) 12:1-ARG1() 13:0-rel
+etri#doc_7744.txt 17 짓다 ----- 16:1-ARG1(Npr) 17:0-rel
+etri#doc_7744.txt 18 대답하다 ----- 10:5-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG0(AGT) 17:2-ARGM-DIS() 18:0-rel

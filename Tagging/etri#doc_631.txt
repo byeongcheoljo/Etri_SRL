@@ -1,0 +1,5 @@
+etri#doc_631.txt 4 신다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_631.txt 6 바르다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_631.txt 11 나다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_631.txt 15 잡다 ----- 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 12:3-ARG0(AGT) 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_631.txt 20 되다 ----- 6:2-ARGM-DIS() 15:2-ARGM-DIS() 17:2-ARG1(THM) 19:2-ARG2(FNS) 20:0-rel

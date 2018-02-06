@@ -1,0 +1,5 @@
+etri#doc_5222.txt 5 얻어먹다 ----- 3:1-ARGM-LOC() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5222.txt 8 올리다 ----- 2:2-ARGM-TMP(LOC) 5:2-ARGM-DIS() 6:1-ARGM-EXT() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5222.txt 11 들여가다 ----- 10:1-ARG2(THM) 11:0-rel
+etri#doc_5222.txt 15 하다 ----- 9:3-ARG0(AGT) 11:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_5222.txt 17 터지다 ----- 16:1-ARG1(Npr) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5635.txt 6 진단하다 ----- 3:2-ARG1(THM) 5:2-ARGM-MNR(FNS) 6:0-rel
+etri#doc_5635.txt 10 제시하다 ----- 9:2-ARG1(THM) 10:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3773.txt 12 ´Ã¾î³ª´Ù ----- 5:3-ARG1(THM) 7:2-ARGM-PRD(FNS) 10:2-ARGM-EXT(CRT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_3773.txt 13 ¹àÈ÷´Ù ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 12:2-ARG1() 13:0-rel

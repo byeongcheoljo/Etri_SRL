@@ -1,0 +1,4 @@
+etri#doc_119.txt 6 잉태하다 ----- 4:2-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_119.txt 9 찾다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_119.txt 11 박멸하다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_119.txt 15 강구하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

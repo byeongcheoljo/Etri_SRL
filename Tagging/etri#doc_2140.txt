@@ -1,0 +1,2 @@
+etri#doc_2140.txt 6 지향하다 ----- 2:1-ARGM-TMP() 5:3-ARG1(THM) 6:0-rel
+etri#doc_2140.txt 16 이루다 ----- 1:1-ARG1() 6:4-ARGM-DIS() 11:3-ARGM-DIS() 14:2-ARG1() 15:1-ARGM-TMP() 16:0-rel

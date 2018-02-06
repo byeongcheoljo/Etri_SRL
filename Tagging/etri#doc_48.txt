@@ -1,0 +1,6 @@
+etri#doc_48.txt 7 되다 ----- 6:4-ARG0(AGT) 7:0-rel
+etri#doc_48.txt 8 빈발하다 ----- 8:0-rel
+etri#doc_48.txt 14 나가다 ----- 13:1-ARG2(GOL) 14:0-rel
+etri#doc_48.txt 16 찔리다 ----- 15:1-ARG1(EFF) 16:0-rel
+etri#doc_48.txt 17 죽다 ----- 14:2-ARGM-DIR() 16:2-ARGM-MNR() 17:0-rel
+etri#doc_48.txt 21 보이다 ----- 12:5-ARG0(SRC) 18:4-ARGM-EXT() 19:1-ARGM-ADV() 20:1-ARG1(THM) 21:0-rel

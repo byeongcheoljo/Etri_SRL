@@ -1,0 +1,2 @@
+etri#doc_2564.txt 11 사랑하다 ----- 8:3-ARGM-EXT() 9:1-ARGM-EXT() 10:1-ARG1(THM) 11:0-rel
+etri#doc_2564.txt 16 바치다 ----- 3:2-ARGM-EXT() 4:1-ARG0() 11:2-ARGM-DIS() 12:1-ARGM-PRP(EFF) 15:2-ARG1(THM) 16:0-rel

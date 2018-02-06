@@ -1,0 +1,2 @@
+etri#doc_5712.txt 6 ∞Ë»π«œ¥Ÿ ----- 5:2-ARG0(MAG) 6:0-rel
+etri#doc_5712.txt 14 µ°∫Ÿ¿Ã¥Ÿ ----- 1:1-ARG0(AGT) 13:4-ARG1() 14:0-rel

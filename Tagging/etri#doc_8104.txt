@@ -1,0 +1,4 @@
+etri#doc_8104.txt 3 핥다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8104.txt 4 지나가다 ----- 3:3-ARGM-EXT() 4:0-rel
+etri#doc_8104.txt 10 생각하다 ----- 9:2-ARG1() 10:0-rel
+etri#doc_8104.txt 20 들다 ----- 19:1-ARG1(THM) 20:0-rel

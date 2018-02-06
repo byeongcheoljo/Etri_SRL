@@ -1,0 +1,5 @@
+etri#doc_5036.txt 5 견디다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_5036.txt 6 뛰쳐나오다 ----- 5:4-ARGM-CAU() 6:0-rel
+etri#doc_5036.txt 13 감당하다 ----- 12:2-ARG2(THM) 13:0-rel
+etri#doc_5036.txt 14 그리하다 ----- 7:6-ARG0(AGT) 8:1-ARGM-DIS() 13:3-ARGM-CAU() 14:0-rel
+etri#doc_5036.txt 16 생각하다 ----- 14:4-ARG1() 15:1-ARG0(MAG) 16:0-rel

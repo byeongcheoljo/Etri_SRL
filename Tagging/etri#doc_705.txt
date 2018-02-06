@@ -1,0 +1,5 @@
+etri#doc_705.txt 2 하늘거리다 ----- 2:0-rel
+etri#doc_705.txt 3 하늘거리다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_705.txt 4 흔들리다 ----- 4:0-rel
+etri#doc_705.txt 5 흔들리다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:0-rel
+etri#doc_705.txt 11 어울리다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 10:2-ARG1(COM) 11:0-rel

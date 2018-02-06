@@ -1,0 +1,2 @@
+etri#doc_7408.txt 8 입다 ----- 1:1-ARG0(AGT) 3:2-ARGM-MNR(INS) 5:2-ARG1(EFF) 7:2-ARG2(Npr) 8:0-rel
+etri#doc_7408.txt 16 참여하다 ----- 8:3-ARGM-DIS() 11:2-ARGM-LOC(LOC) 15:4-ARG0(AGT) 16:0-rel

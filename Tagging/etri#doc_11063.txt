@@ -1,0 +1,5 @@
+etri#doc_11063.txt 9 ªÁ¥Ÿ ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_11063.txt 10 ¥Á√∑µ«¥Ÿ ----- 9:4-ARGM-DIS() 10:0-rel
+etri#doc_11063.txt 13 ∆»¥Ÿ ----- 10:5-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:0-rel
+etri#doc_11063.txt 14 æ…¥Ÿ ----- 14:0-rel
+etri#doc_11063.txt 17 π˙¿Ã¥Ÿ ----- 1:1-ARGM-CND() 4:3-ARG0(AGT) 5:1-ARGM-DIS() 13:3-ARGM-DIS() 15:2-ARGM-LOC(LOC) 16:1-ARGM-EXT() 17:0-rel

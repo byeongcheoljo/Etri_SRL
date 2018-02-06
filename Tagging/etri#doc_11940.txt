@@ -1,0 +1,1 @@
+etri#doc_11940.txt 15 알려지다 ----- 14:2-ARGM-MNR() 15:0-rel

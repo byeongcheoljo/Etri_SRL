@@ -1,0 +1,2 @@
+etri#doc_3475.txt 10 포함되다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_3475.txt 11 알려지다 ----- 7:2-ARGM-DIS() 10:3-ARG1() 11:0-rel

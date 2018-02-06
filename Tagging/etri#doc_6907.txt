@@ -1,0 +1,3 @@
+etri#doc_6907.txt 7 언급하다 ----- 1:1-ARG0(AGT) 5:2-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_6907.txt 15 일어나다 ----- 14:2-ARGM-CAU() 15:0-rel
+etri#doc_6907.txt 20 파악하다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 19:2-ARG1(FNS) 20:0-rel

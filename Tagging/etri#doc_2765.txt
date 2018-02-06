@@ -1,0 +1,4 @@
+etri#doc_2765.txt 4 몰다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_2765.txt 5 오다 ----- 2:2-ARGM-DIS() 4:2-ARGM-DIS() 5:0-rel
+etri#doc_2765.txt 17 벗어나다 ----- 15:3-ARGM-LOC(SRC) 16:1-ARGM-TMP(LOC) 17:0-rel
+etri#doc_2765.txt 21 생각하다 ----- 11:3-ARGM-DIS() 12:1-ARG0(MAG) 20:2-ARG1() 21:0-rel

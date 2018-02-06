@@ -1,0 +1,2 @@
+etri#doc_3859.txt 8 Áþ´Ù ----- 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3859.txt 11 Áþ´Ù ----- 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel

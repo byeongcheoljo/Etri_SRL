@@ -1,0 +1,2 @@
+etri#doc_11046.txt 9 흐르다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARG3(DIR) 9:0-rel
+etri#doc_11046.txt 15 나타나다 ----- 9:2-ARGM-CAU() 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

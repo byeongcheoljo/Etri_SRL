@@ -1,0 +1,4 @@
+etri#doc_3837.txt 4 말하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3837.txt 13 강조하다 ----- 4:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_3837.txt 17 관련되다 ----- 16:2-ARG2(COM) 17:0-rel
+etri#doc_3837.txt 19 띠다 ----- 1:1-ARGM-CAU() 14:5-ARG0(LOC) 18:4-ARG1(THM) 19:0-rel

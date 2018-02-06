@@ -1,0 +1,5 @@
+etri#doc_11646.txt 6 이루다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11646.txt 9 싸우다 ----- 4:2-ARG0(AGT) 6:2-ARGM-DIS() 8:2-ARGM-MNR(COM) 9:0-rel
+etri#doc_11646.txt 11 이기다 ----- 9:3-ARGM-CND() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11646.txt 14 합하다 ----- 13:2-ARG0(AGT) 14:0-rel
+etri#doc_11646.txt 16 지다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 14:3-ARGM-CND() 15:1-ARGM-DIS() 16:0-rel

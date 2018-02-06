@@ -1,0 +1,5 @@
+etri#doc_6899.txt 3 발굴하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6899.txt 7 재평가하다 ----- 3:3-ARGM-DIS() 6:3-ARG1(THM) 7:0-rel
+etri#doc_6899.txt 10 재구성하다 ----- 8:1-ARGM-ADV(CNT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6899.txt 12 파악하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_6899.txt 16 체계화되다 ----- 7:4-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-EXT() 15:1-ARGM-MNR(INS) 16:0-rel

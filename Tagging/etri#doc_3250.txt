@@ -1,0 +1,6 @@
+etri#doc_3250.txt 7 향상시키다 ----- 4:2-ARG0(EFF) 6:2-ARG1(THM) 7:0-rel
+etri#doc_3250.txt 8 깨닫다 ----- 7:3-ARG2() 8:0-rel
+etri#doc_3250.txt 12 사용하다 ----- 10:1-ARG1(THM) 11:1-ARG2(LOC) 12:0-rel
+etri#doc_3250.txt 17 넣다 ----- 13:1-ARGM-MNR() 15:2-ARG1(THM) 16:1-ARG2(GOL) 17:0-rel
+etri#doc_3250.txt 18 끓이다 ----- 12:2-ARGM-TMP() 17:2-ARGM-DIS() 18:0-rel
+etri#doc_3250.txt 20 만들다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 9:5-ARGM-TMP() 18:3-ARGM-MNR() 19:1-ARG1(THM) 20:0-rel

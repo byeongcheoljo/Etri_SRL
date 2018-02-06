@@ -1,0 +1,3 @@
+etri#doc_7969.txt 7 설명하다 ----- 6:3-ARG0(AGT) 7:0-rel
+etri#doc_7969.txt 15 들다 ----- 11:1-ARGM-DIS() 12:1-ARG0(AGT) 14:2-ARG1(THM) 15:0-rel
+etri#doc_7969.txt 17 제기하다 ----- 1:1-ARGM-DIS() 9:6-ARGM-DIS() 10:1-ARGM-LOC(LOC) 16:4-ARG1(THM) 17:0-rel

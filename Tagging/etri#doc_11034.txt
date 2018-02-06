@@ -1,0 +1,5 @@
+etri#doc_11034.txt 3 알다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11034.txt 7 하다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_11034.txt 8 내버리다 ----- 5:2-ARG0(AGT) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_11034.txt 12 출가하다 ----- 11:1-ARG0(AGT) 12:0-rel
+etri#doc_11034.txt 17 깎이다 ----- 12:2-ARGM-CND() 14:2-ARGM-LOC(LOC) 15:1-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

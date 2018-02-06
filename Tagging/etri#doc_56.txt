@@ -1,0 +1,1 @@
+etri#doc_56.txt 9 작용하다 ----- 7:1-ARG2(LOC) 8:1-ARGM-ADV(FNS) 9:0-rel

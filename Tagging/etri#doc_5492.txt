@@ -1,0 +1,3 @@
+etri#doc_5492.txt 3 던지다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_5492.txt 7 소화되다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5492.txt 13 참여하다 ----- 11:3-ARG1(LOC) 12:1-ARG0(AGT) 13:0-rel

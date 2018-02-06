@@ -1,0 +1,3 @@
+etri#doc_6705.txt 3 바라다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6705.txt 8 줄이다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6705.txt 13 들리다 ----- 9:4-ARG1(THM) 12:2-ARGM-EXT() 13:0-rel

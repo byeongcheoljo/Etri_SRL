@@ -1,0 +1,4 @@
+etri#doc_9326.txt 4 보다 ----- 2:1-ARG0(AGT) 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_9326.txt 6 만들다 ----- 5:1-ARGM-INS(INS) 6:0-rel
+etri#doc_9326.txt 11 패배하다 ----- 11:0-rel
+etri#doc_9326.txt 14 누르다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel

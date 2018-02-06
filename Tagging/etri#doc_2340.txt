@@ -1,0 +1,2 @@
+etri#doc_2340.txt 9 나다 ----- 3:2-ARGM-DIS() 7:2-ARGM-ADV(GOL) 8:1-ARG1(AGT) 9:0-rel
+etri#doc_2340.txt 19 기용하다 ----- 10:3-ARGM-DIS() 11:1-ARG0() 14:3-ARGM-INS(INS) 15:1-ARGM-EXT() 17:2-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

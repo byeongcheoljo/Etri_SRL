@@ -1,0 +1,5 @@
+etri#doc_8537.txt 3 찍히다 ----- 2:2-ARGM-MNR() 3:0-rel
+etri#doc_8537.txt 7 비추다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_8537.txt 11 담기다 ----- 10:2-ARG2(LOC) 11:0-rel
+etri#doc_8537.txt 14 움직이다 ----- 12:4-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_8537.txt 15 보이다 ----- 7:2-ARGM-CND() 8:1-ARGM-LOC(LOC) 14:2-ARGM-EXT() 15:0-rel

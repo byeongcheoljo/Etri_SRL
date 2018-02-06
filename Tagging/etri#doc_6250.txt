@@ -1,0 +1,4 @@
+etri#doc_6250.txt 6 따라오다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARGM-MNR(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_6250.txt 10 따라오다 ----- 8:1-ARGM-MNR(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_6250.txt 15 식별하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6250.txt 18 받다 ----- 1:1-ARG0(GOL) 2:1-ARGM-TMP(LOC) 16:4-ARG1(THM) 17:1-ARG2(AGT) 18:0-rel

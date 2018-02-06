@@ -1,0 +1,2 @@
+etri#doc_4542.txt 6 들다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_4542.txt 16 한정되다 ----- 4:2-ARGM-DIS() 7:3-ARG1(THM) 15:3-ARG2(LOC) 16:0-rel

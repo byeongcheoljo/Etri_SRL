@@ -1,0 +1,4 @@
+etri#doc_6427.txt 5 지니다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_6427.txt 8 관련되다 ----- 5:3-ARGM-DIS() 7:2-ARG2(LOC) 8:0-rel
+etri#doc_6427.txt 13 총괄하다 ----- 13:0-rel
+etri#doc_6427.txt 14 초월하다 ----- 12:4-ARG1(THM) 13:1-ARGM-DIS() 14:0-rel

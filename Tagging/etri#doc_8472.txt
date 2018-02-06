@@ -1,0 +1,5 @@
+etri#doc_8472.txt 4 지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8472.txt 8 헤치다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_8472.txt 10 가다 ----- 6:2-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARG3(GOL) 10:0-rel
+etri#doc_8472.txt 18 대하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(AGT) 13:1-ARGM-MNR() 15:2-ARG2(THM) 17:2-ARGM-MNR() 18:0-rel
+etri#doc_8472.txt 20 보다 ----- 19:1-ARG1(THM) 20:0-rel

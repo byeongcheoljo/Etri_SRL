@@ -1,0 +1,3 @@
+etri#doc_8397.txt 2 개최되다 ----- 2:0-rel
+etri#doc_8397.txt 8 보내오다 ----- 1:1-ARGM-LOC(LOC) 4:3-ARGM-LOC(LOC) 5:1-ARG2(GOL) 6:1-ARGM-MNR(INS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_8397.txt 12 파견하다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS(CNT) 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel

@@ -1,0 +1,5 @@
+etri#doc_278.txt 3 두다 ----- 1:1-ARG2(LOC) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_278.txt 7 하다 ----- 5:2-ARG0(AGT) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_278.txt 9 저어되다 ----- 7:2-ARGM-CND() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_278.txt 12 이끌리다 ----- 11:2-ARGM-LOC(THM) 12:0-rel
+etri#doc_278.txt 14 뜨다 ----- 9:2-ARGM-DIS() 12:3-ARGM-CND() 13:1-ARG2(LOC) 14:0-rel

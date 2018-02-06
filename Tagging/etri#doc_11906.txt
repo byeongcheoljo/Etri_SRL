@@ -1,0 +1,3 @@
+etri#doc_11906.txt 4 퍼지다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_11906.txt 12 정비하다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_11906.txt 15 개선하다 ----- 2:2-ARGM-TMP(LOC) 10:6-ARG1(THM) 12:2-ARGM-DIS() 14:2-ARGM-MNR() 15:0-rel

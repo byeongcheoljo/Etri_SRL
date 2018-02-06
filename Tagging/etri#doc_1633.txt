@@ -1,0 +1,2 @@
+etri#doc_1633.txt 4 바꾸다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_1633.txt 5 평가되다 ----- 4:2-ARGM-DIS() 5:0-rel

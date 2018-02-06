@@ -1,0 +1,3 @@
+etri#doc_11968.txt 7 비교하다 ----- 6:2-ARG2(COM) 7:0-rel
+etri#doc_11968.txt 11 잦아지다 ----- 4:2-ARGM-EXT(CRT) 7:3-ARGM-DIS() 8:1-ARGM-TMP() 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_11968.txt 12 의미하다 ----- 2:2-ARG1(EFF) 11:2-ARG2() 12:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1127.txt 3 가지다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1127.txt 8 살다 ----- 5:1-ARG0(AGT) 7:2-ARGM-MNR(FNS) 8:0-rel
+etri#doc_1127.txt 13 가다 ----- 10:2-ARG0(THM) 11:1-ARGM-TMP() 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1127.txt 15 면하다 ----- 1:1-ARG0(THM) 4:3-ARGM-DIS() 8:3-ARGM-DIS() 13:2-ARGM-CAU() 14:1-ARG1(THM) 15:0-rel

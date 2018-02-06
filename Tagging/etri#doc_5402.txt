@@ -1,0 +1,4 @@
+etri#doc_5402.txt 15 되다 ----- 14:1-ARG2(FNS) 15:0-rel
+etri#doc_5402.txt 18 먹다 ----- 18:0-rel
+etri#doc_5402.txt 19 자다 ----- 17:2-ARGM-LOC(LOC) 18:1-ARGM-DIS() 19:0-rel
+etri#doc_5402.txt 22 드나들다 ----- 13:2-ARGM-CAU() 15:2-ARGM-CND() 19:2-ARGM-DIS() 20:1-ARGM-MNR(INS) 21:1-ARG1(THM) 22:0-rel

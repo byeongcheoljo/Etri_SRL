@@ -1,0 +1,5 @@
+etri#doc_11621.txt 3 감상하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_11621.txt 6 마감되다 ----- 5:1-() 6:0-rel
+etri#doc_11621.txt 8 잊다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_11621.txt 14 구매하다 ----- 9:5-ARGM-DIS() 12:3-ARGM-CAU(EFF) 13:1-ARG1(THM) 14:0-rel
+etri#doc_11621.txt 18 말하다 ----- 1:1-ARG0(EFF) 17:5-ARG1(THM) 18:0-rel

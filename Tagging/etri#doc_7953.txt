@@ -1,0 +1,4 @@
+etri#doc_7953.txt 4 발견되다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7953.txt 7 갖다 ----- 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7953.txt 9 인정되다 ----- 2:2-ARG1(THM) 4:2-ARGM-CND() 7:2-ARGM-DIS() 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_7953.txt 12 부정하다 ----- 11:1-ARG1(THM) 12:0-rel

@@ -1,0 +1,1 @@
+etri#doc_729.txt 8 ¼Ú¾Æ³ª´Ù ----- 2:2-ARG1(THM) 5:3-ARGM-NEG() 7:2-ARGM-LOC(LOC) 8:0-rel

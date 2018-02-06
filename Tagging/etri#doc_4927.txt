@@ -1,0 +1,2 @@
+etri#doc_4927.txt 7 받다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_4927.txt 9 설정하다 ----- 7:4-ARGM-PRP() 8:1-ARGM-MNR() 9:0-rel

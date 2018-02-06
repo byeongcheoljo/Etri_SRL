@@ -1,0 +1,4 @@
+etri#doc_2897.txt 5 재촉하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT() 4:2-ARG1(THM) 5:0-rel
+etri#doc_2897.txt 6 흘러내리다 ----- 6:0-rel
+etri#doc_2897.txt 13 어찌하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_2897.txt 15 모르다 ----- 5:3-ARGM-DIS() 9:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

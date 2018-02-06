@@ -1,0 +1,4 @@
+etri#doc_7781.txt 3 일하다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_7781.txt 8 일하다 ----- 4:3-ARG0(AGT) 7:3-ARGM-MNR() 8:0-rel
+etri#doc_7781.txt 11 만들다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_7781.txt 13 두다 ----- 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

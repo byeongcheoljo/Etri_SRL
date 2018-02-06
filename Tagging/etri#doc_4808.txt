@@ -1,0 +1,5 @@
+etri#doc_4808.txt 7 이루어지다 ----- 3:2-ARG1(THM) 4:1-ARGM-DIS() 6:2-ARGM-PRD(EFF) 7:0-rel
+etri#doc_4808.txt 11 하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4808.txt 14 받다 ----- 8:1-ARG1() 11:3-ARGM-DIS() 12:1-ARGM-EXT() 13:1-ARG1(THM) 14:0-rel
+etri#doc_4808.txt 15 하다 ----- 14:2-ARG1() 15:0-rel
+etri#doc_4808.txt 20 나다 ----- 7:3-ARGM-DIS() 16:4-ARG0(AGT) 17:1-ARG1(THM) 18:1-ARGM-MNR(INS) 19:1-ARG1(Npr) 20:0-rel

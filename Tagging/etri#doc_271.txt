@@ -1,0 +1,6 @@
+etri#doc_271.txt 2 불타오르다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_271.txt 5 가려지다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:1-ARGM-INS(EFF) 5:0-rel
+etri#doc_271.txt 11 배회하다 ----- 9:2-ARGM-EXT(EFF) 10:1-ARG1(LOC) 11:0-rel
+etri#doc_271.txt 13 타락하다 ----- 12:1-ARGM-CAU(CNT) 13:0-rel
+etri#doc_271.txt 15 미치다 ----- 15:0-rel
+etri#doc_271.txt 20 찍다 ----- 7:2-ARG0(AGT) 11:2-ARGM-MNR() 16:2-ARGM-CAU(CNT) 18:2-ARGM-LOC(LOC) 19:1-ARG1(THM) 20:0-rel

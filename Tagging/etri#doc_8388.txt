@@ -1,0 +1,2 @@
+etri#doc_8388.txt 2 말하다 ----- 1:1-ARGM-MNR(INS) 2:0-rel
+etri#doc_8388.txt 13 제기되다 ----- 6:1-ARGM-TMP() 12:3-ARGM-PRD(INS) 13:0-rel

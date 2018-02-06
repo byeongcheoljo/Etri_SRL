@@ -1,0 +1,4 @@
+etri#doc_9138.txt 3 연구하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9138.txt 7 진정하다 ----- 7:0-rel
+etri#doc_9138.txt 11 받아들이다 ----- 8:2-ARG1(THM) 9:1-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_9138.txt 20 던지다 ----- 14:3-ARG0(AGT) 15:1-ARGM-MNR() 19:3-ARG1(THM) 20:0-rel

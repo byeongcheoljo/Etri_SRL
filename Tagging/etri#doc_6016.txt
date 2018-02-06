@@ -1,0 +1,5 @@
+etri#doc_6016.txt 4 시달리다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-CAU(EFF) 3:1-ARG0(EFF) 4:0-rel
+etri#doc_6016.txt 7 들어오다 ----- 6:1-ARG3(GOL) 7:0-rel
+etri#doc_6016.txt 10 풀리다 ----- 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6016.txt 12 시작하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6016.txt 15 나다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP(LOC) 7:2-ARGM-DIS() 10:2-ARGM-DIS() 13:3-ARG1(Npr) 14:1-ARGM-NEG() 15:0-rel

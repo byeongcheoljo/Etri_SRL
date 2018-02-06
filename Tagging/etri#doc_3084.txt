@@ -1,0 +1,4 @@
+etri#doc_3084.txt 4 빠지다 ----- 3:1-ARG2(GOL) 4:0-rel
+etri#doc_3084.txt 10 머무르다 ----- 8:2-ARGM-LOC(LOC) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_3084.txt 12 모르다 ----- 11:3-ARGM-DIS() 12:0-rel
+etri#doc_3084.txt 14 살다 ----- 13:1-ARGM-MNR() 14:0-rel

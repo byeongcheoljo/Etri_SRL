@@ -1,0 +1,2 @@
+etri#doc_674.txt 2 대응하다 ----- 1:1-ARG1(GOL) 2:0-rel
+etri#doc_674.txt 15 비판하다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 6:3-ARGM-ADV(LOC) 14:3-ARG1() 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3893.txt 11 ³·¾ÆÁö´Ù ----- 3:2-ARG1(THM) 5:2-ARG2(SRC) 10:5-ARG3(GOL) 11:0-rel
+etri#doc_3893.txt 15 ¶³¾îÁö´Ù ----- 11:6-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARG2(SRC) 14:1-ARG3(GOL) 15:0-rel
+etri#doc_3893.txt 19 ³·¾ÆÁö´Ù ----- 1:1-ARGM-LOC(LOC) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARG2(SRC) 18:1-ARG3(GOL) 19:0-rel

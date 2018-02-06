@@ -1,0 +1,5 @@
+etri#doc_2508.txt 4 단장하다 ----- 3:1-() 4:0-rel
+etri#doc_2508.txt 6 하다 ----- 2:2-ARGM-ADV(EFF) 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_2508.txt 11 보다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_2508.txt 13 보다 ----- 12:1-ARGM-TMP() 13:0-rel
+etri#doc_2508.txt 18 떠오르다 ----- 11:3-ARGM-DIS() 17:3-ARG0(AGT) 18:0-rel

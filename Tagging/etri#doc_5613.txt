@@ -1,0 +1,4 @@
+etri#doc_5613.txt 6 따다 ----- 4:1-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5613.txt 8 쫓기다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_5613.txt 10 되다 ----- 3:2-ARG1(THM) 6:2-ARGM-CAU() 9:3-ARG2(FNS) 10:0-rel
+etri#doc_5613.txt 15 이룩하다 ----- 14:3-ARG1(THM) 15:0-rel

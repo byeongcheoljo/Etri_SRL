@@ -1,0 +1,5 @@
+etri#doc_2820.txt 5 하다 ----- 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_2820.txt 7 벌이다 ----- 2:1-ARGM-DIS() 6:3-ARG1(Npr) 7:0-rel
+etri#doc_2820.txt 13 저지하다 ----- 11:1-ARG1(THM) 12:1-ARGM-INS(INS) 13:0-rel
+etri#doc_2820.txt 17 꺾다 ----- 13:2-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel
+etri#doc_2820.txt 19 보이다 ----- 9:6-ARGM-DIS() 10:1-ARG1(THM) 17:4-ARGM-PRP() 18:1-ARG1(FNS) 19:0-rel

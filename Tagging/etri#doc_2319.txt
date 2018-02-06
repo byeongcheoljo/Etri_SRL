@@ -1,0 +1,6 @@
+etri#doc_2319.txt 3 나아가다 ----- 1:1-ARG2() 2:1-ARGM-EXT() 3:0-rel
+etri#doc_2319.txt 5 매달리다 ----- 4:1-() 5:0-rel
+etri#doc_2319.txt 10 닿다 ----- 3:2-ARGM-DIS() 7:2-ARG1(AGT) 8:1-ARGM-EXT() 9:1-ARG2(LOC) 10:0-rel
+etri#doc_2319.txt 11 알다 ----- 10:2-() 11:0-rel
+etri#doc_2319.txt 13 지치다 ----- 13:0-rel
+etri#doc_2319.txt 14 달리다 ----- 11:3-ARGM-DIS() 12:1-ARG0() 13:1-ARGM-DIS() 14:0-rel

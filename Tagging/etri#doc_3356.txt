@@ -1,0 +1,6 @@
+etri#doc_3356.txt 3 요구하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_3356.txt 5 범하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3356.txt 9 만족시키다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3356.txt 11 지각하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_3356.txt 12 선택하다 ----- 5:4-ARGM-DIS() 11:5-ARGM-DIS() 12:0-rel
+etri#doc_3356.txt 16 조화시키다 ----- 1:1-ARG0(AGT) 12:6-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

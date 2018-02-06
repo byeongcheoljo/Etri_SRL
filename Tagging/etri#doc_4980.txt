@@ -1,0 +1,3 @@
+etri#doc_4980.txt 4 유발하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4980.txt 9 띠다 ----- 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4980.txt 17 유발시키다 ----- 1:1-ARGM-DIS() 4:3-ARGM-DIS() 11:5-ARGM-CND() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

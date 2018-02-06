@@ -1,0 +1,3 @@
+etri#doc_3580.txt 4 ¿ôµ¹´Ù ----- 2:1-ARG2(CRT) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_3580.txt 6 ³«ÂûµÇ´Ù ----- 5:3-ARGM-EXT(CRT) 6:0-rel
+etri#doc_3580.txt 16 ÇãºñµÇ´Ù ----- 9:2-ARGM-DIS() 12:3-ARGM-CAU(CNT) 15:3-ARG1(THM) 16:0-rel

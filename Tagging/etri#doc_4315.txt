@@ -1,0 +1,5 @@
+etri#doc_4315.txt 4 설명하다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_4315.txt 6 주장하다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_4315.txt 13 살다 ----- 13:0-rel
+etri#doc_4315.txt 16 이루어지다 ----- 15:3-ARGM-LOC(LOC) 16:0-rel
+etri#doc_4315.txt 19 지칭하다 ----- 9:1-ARG0(AGT) 12:3-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel

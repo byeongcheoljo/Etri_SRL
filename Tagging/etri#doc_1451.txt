@@ -1,0 +1,3 @@
+etri#doc_1451.txt 10 들어오다 ----- 2:1-ARGM-TMP() 7:4-ARG1(THM) 9:2-ARGM-MNR() 10:0-rel
+etri#doc_1451.txt 15 맞다 ----- 10:3-ARGM-DIS() 13:3-ARG1(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_1451.txt 18 마련하다 ----- 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

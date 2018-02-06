@@ -1,0 +1,1 @@
+etri#doc_5821.txt 14 호도하다 ----- 8:2-ARGM-DIS() 11:3-ARGM-MNR(INS) 13:2-ARG1(THM) 14:0-rel

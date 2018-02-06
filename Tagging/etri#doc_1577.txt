@@ -1,0 +1,6 @@
+etri#doc_1577.txt 10 요구하다 ----- 5:5-ARG0(THM) 9:2-ARG1(THM) 10:0-rel
+etri#doc_1577.txt 12 초월하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1577.txt 16 가로막다 ----- 15:2-ARG1(CNT) 16:0-rel
+etri#doc_1577.txt 10 요구하다 ----- 5:5-ARG0(THM) 9:2-ARG1(THM) 10:0-rel
+etri#doc_1577.txt 12 초월하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1577.txt 16 가로막다 ----- 15:2-ARG1(CNT) 16:0-rel

@@ -1,0 +1,8 @@
+etri#doc_6097.txt 3 만나다 ----- 1:1-ARGM-TMP() 2:1-ARGM-MNR(COM) 3:0-rel
+etri#doc_6097.txt 5 하다 ----- 3:2-ARG1() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6097.txt 9 이루어지다 ----- 6:1-ARG1(THM) 8:2-ARGM-TMP() 9:0-rel
+etri#doc_6097.txt 11 모르다 ----- 5:2-ARGM-DIS() 10:4-ARG1(THM) 11:0-rel
+etri#doc_6097.txt 13 애쓰다 ----- 13:0-rel
+etri#doc_6097.txt 14 놀라다 ----- 14:0-rel
+etri#doc_6097.txt 16 감추다 ----- 13:1-ARGM-DIS() 15:2-ARG2(THM) 16:0-rel
+etri#doc_6097.txt 18 묻다 ----- 12:6-ARG0(AGT) 16:3-ARGM-DIS() 17:1-ARGM-TMP() 18:0-rel

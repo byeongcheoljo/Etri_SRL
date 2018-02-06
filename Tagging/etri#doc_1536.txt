@@ -1,0 +1,4 @@
+etri#doc_1536.txt 1 이리하다 ----- 1:0-rel
+etri#doc_1536.txt 6 맞다 ----- 5:1-ARG2(CRT) 6:0-rel
+etri#doc_1536.txt 13 지나다 ----- 4:2-ARGM-DIS() 7:3-ARG0(THM) 12:3-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1536.txt 23 주장되다 ----- 1:1-ARGM-DIS() 18:2-ARG0(THM) 22:3-ARGM-DIS() 23:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4669.txt 5 태어나다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4669.txt 8 찾아가다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4669.txt 11 시작하다 ----- 3:2-ARGM-CND() 10:2-ARG1(THM) 11:0-rel
+etri#doc_4669.txt 15 넘다 ----- 14:1-ARG2(CRT) 15:0-rel
+etri#doc_4669.txt 17 여행하다 ----- 1:1-ARG0(AGT) 11:3-ARGM-DIS() 13:2-ARGM-TMP(LOC) 16:3-ARG1(LOC) 17:0-rel

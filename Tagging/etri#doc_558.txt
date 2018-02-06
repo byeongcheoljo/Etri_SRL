@@ -1,0 +1,6 @@
+etri#doc_558.txt 3 완성시키다 ----- 1:1-ARG1(THM) 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_558.txt 5 쓰다 ----- 5:0-rel
+etri#doc_558.txt 6 내려가다 ----- 3:2-ARGM-DIS() 4:1-ARGM-TMP() 5:1-ARGM-DIS() 6:0-rel
+etri#doc_558.txt 10 잃다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_558.txt 16 체계화하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_558.txt 18 작성하다 ----- 13:1-ARGM-TMP() 16:3-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

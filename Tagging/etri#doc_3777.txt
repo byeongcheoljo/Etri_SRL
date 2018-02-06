@@ -1,0 +1,4 @@
+etri#doc_3777.txt 8 바꾸다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3777.txt 11 보내다 ----- 3:3-ARGM-DIS() 5:2-ARG0(AGT) 8:3-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_3777.txt 14 반감시키다 ----- 11:3-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel
+etri#doc_3777.txt 21 퇴색하다 ----- 20:4-ARG1(THM) 21:0-rel

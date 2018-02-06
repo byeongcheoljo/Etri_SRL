@@ -1,0 +1,4 @@
+etri#doc_6665.txt 2 즐기다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_6665.txt 14 먹다 ----- 14:0-rel
+etri#doc_6665.txt 15 마시다 ----- 13:3-ARG0(AGT) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_6665.txt 17 퍼지다 ----- 9:7-ARG1(THM) 10:1-ARGM-EXT() 15:2-ARGM-DIS() 16:1-ARGM-LOC(LOC) 17:0-rel

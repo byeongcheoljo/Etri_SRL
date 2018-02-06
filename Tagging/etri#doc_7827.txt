@@ -1,0 +1,5 @@
+etri#doc_7827.txt 2 ¾ó·èÁö´Ù ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_7827.txt 5 µû¸£´Ù ----- 4:4-ARG1() 5:0-rel
+etri#doc_7827.txt 8 ¸¸µé´Ù ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_7827.txt 14 ¹þ»ï´Ù ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_7827.txt 16 ´ã½×´Ù ----- 5:5-ARGM-DIS() 6:1-ARGM-MNR() 9:3-ARGM-EXT(EFF) 10:1-ARGM-DIS() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

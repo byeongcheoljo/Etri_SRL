@@ -1,0 +1,5 @@
+etri#doc_8755.txt 1 근심하다 ----- 1:0-rel
+etri#doc_8755.txt 7 지나치다 ----- 5:3-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_8755.txt 9 끝나다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_8755.txt 13 구속하다 ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_8755.txt 19 지니다 ----- 15:2-ARGM-DIS() 16:1-ARG0(AGT) 18:2-ARG1(THM) 19:0-rel

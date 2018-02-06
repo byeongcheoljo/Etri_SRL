@@ -1,0 +1,6 @@
+etri#doc_2786.txt 2 끝나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2786.txt 4 집권하다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 4:0-rel
+etri#doc_2786.txt 6 들다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_2786.txt 7 나오다 ----- 4:2-ARGM-DIS() 6:2-ARGM-MNR() 7:0-rel
+etri#doc_2786.txt 11 개항되다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARGM-LOC(LOC) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_2786.txt 17 전락하다 ----- 7:3-ARGM-DIS() 11:2-ARGM-DIS() 13:2-ARGM-TMP() 14:1-ARGM-TMP(LOC) 16:2-ARG2(FNS) 17:0-rel

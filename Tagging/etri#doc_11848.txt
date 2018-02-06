@@ -1,0 +1,5 @@
+etri#doc_11848.txt 2 중독되다 ----- 1:1-ARGM-INS(EFF) 2:0-rel
+etri#doc_11848.txt 5 걸리다 ----- 4:1-ARG1(GOL) 5:0-rel
+etri#doc_11848.txt 8 돌아가다 ----- 7:1-ARGM-INS(INS) 8:0-rel
+etri#doc_11848.txt 11 모르다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11848.txt 13 잃다 ----- 12:1-ARG1() 13:0-rel

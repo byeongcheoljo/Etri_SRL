@@ -1,0 +1,4 @@
+etri#doc_11391.txt 5 받다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARGM-ADV(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11391.txt 8 들어서다 ----- 7:1-ARGM-TMP(LOC) 8:0-rel
+etri#doc_11391.txt 12 드러나다 ----- 9:1-ARGM-MNR(INS) 11:2-ARG1(THM) 12:0-rel
+etri#doc_11391.txt 14 받다 ----- 1:1-ARG1(THM) 5:2-ARGM-DIS() 6:1-ARGM-TMP() 8:2-ARGM-DIS() 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

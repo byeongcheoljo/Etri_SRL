@@ -1,0 +1,4 @@
+etri#doc_5249.txt 5 축소하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR(FNS) 5:0-rel
+etri#doc_5249.txt 7 취하다 ----- 2:1-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_5249.txt 9 거두다 ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_5249.txt 14 허용하다 ----- 1:1-ARG0(AGT) 9:2-ARGM-CAU() 10:1-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel

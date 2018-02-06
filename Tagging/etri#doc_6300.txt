@@ -1,0 +1,5 @@
+etri#doc_6300.txt 7 보이다 ----- 5:1-ARGM-TMP() 6:1-ARG0(AGT) 7:0-rel
+etri#doc_6300.txt 11 따르다 ----- 4:3-ARG0(AGT) 10:2-ARG1(THM) 11:0-rel
+etri#doc_6300.txt 13 그리다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_6300.txt 17 그리다 ----- 15:1-ARGM-TMP() 16:1-ARG0(AGT) 17:0-rel
+etri#doc_6300.txt 20 묻다 ----- 11:3-ARGM-CND() 19:4-ARG1(CNT) 20:0-rel

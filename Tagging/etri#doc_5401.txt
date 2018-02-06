@@ -1,0 +1,4 @@
+etri#doc_5401.txt 8 ÈÖ¸»¸®´Ù ----- 7:2-ARG2(EFF) 8:0-rel
+etri#doc_5401.txt 9 ¾ø¾îÁö´Ù ----- 1:1-ARG1(THM) 2:1-ARG1(THM) 3:1-ARG1(THM) 4:1-ARGM-EXT() 8:3-ARGM-DIS() 9:0-rel
+etri#doc_5401.txt 13 ¸Â´ê´Ù ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_5401.txt 16 Á£´Ù ----- 9:4-ARGM-DIS() 10:1-ARGM-DIS(EFF) 14:4-ARGM-LOC(GOL) 15:1-ARG1() 16:0-rel

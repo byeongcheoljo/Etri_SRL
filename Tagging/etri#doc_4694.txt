@@ -1,0 +1,3 @@
+etri#doc_4694.txt 8 갖다 ----- 2:1-ARG0(AGT) 4:2-ARGM-ADV(EFF) 7:3-ARG1(THM) 8:0-rel
+etri#doc_4694.txt 10 포함하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4694.txt 15 이해하다 ----- 1:1-ARGM-DIS() 8:4-ARGM-CND() 12:4-ARG1(THM) 14:2-ARGM-EXT() 15:0-rel

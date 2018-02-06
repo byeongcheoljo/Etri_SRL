@@ -1,0 +1,1 @@
+etri#doc_589.txt 9 결정하다 ----- 5:2-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel

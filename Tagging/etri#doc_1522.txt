@@ -1,0 +1,3 @@
+etri#doc_1522.txt 7 기다리다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1522.txt 9 살다 ----- 7:3-ARGM-DIS() 8:1-ARG1(LOC) 9:0-rel
+etri#doc_1522.txt 10 가다 ----- 9:2-ARGM-DIS() 10:0-rel

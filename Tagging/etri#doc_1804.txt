@@ -1,0 +1,5 @@
+etri#doc_1804.txt 3 이루다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1804.txt 11 조절하다 ----- 5:1-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-MNR(DIR) 11:0-rel
+etri#doc_1804.txt 12 지휘하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_1804.txt 15 맺다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_1804.txt 19 하다 ----- 1:1-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8043.txt 1 산발하다 ----- 1:0-rel
+etri#doc_8043.txt 4 휘날리다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_8043.txt 7 울리다 ----- 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_8043.txt 9 드러나다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8043.txt 13 굳다 ----- 12:2-ARGM-MNR(INS) 13:0-rel
+etri#doc_8043.txt 16 보다 ----- 7:3-ARGM-DIS() 10:3-ARG0(AGT) 13:3-ARGM-CAU() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

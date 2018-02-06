@@ -1,0 +1,9 @@
+etri#doc_7621.txt 2 짓다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_7621.txt 3 가다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_7621.txt 4 바느질하다 ----- 4:0-rel
+etri#doc_7621.txt 7 적다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7621.txt 9 신다 ----- 8:1-ARG1() 9:0-rel
+etri#doc_7621.txt 10 입다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7621.txt 13 밟히다 ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_7621.txt 15 맞추다 ----- 13:2-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_7621.txt 17 당부하다 ----- 3:3-ARGM-DIS() 5:2-ARG2(GOL) 7:2-ARGM-TMP() 15:2-ARGM-DIS() 16:1-ARGM-TMP() 17:0-rel

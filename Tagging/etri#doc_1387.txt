@@ -1,0 +1,7 @@
+etri#doc_1387.txt 3 흥하다 ----- 3:0-rel
+etri#doc_1387.txt 4 망하다 ----- 3:1-ARGM-DIS() 4:0-rel
+etri#doc_1387.txt 7 알다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_1387.txt 10 나서다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_1387.txt 12 통합하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1387.txt 14 건설하다 ----- 8:1-() 10:2-() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1387.txt 17 계승하다 ----- 7:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

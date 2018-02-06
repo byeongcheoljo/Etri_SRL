@@ -1,0 +1,2 @@
+etri#doc_520.txt 10 일어나다 ----- 9:3-ARG2(LOC) 10:0-rel
+etri#doc_520.txt 14 나누다 ----- 13:2-ARGM-LOC(LOC) 14:0-rel

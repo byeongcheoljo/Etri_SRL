@@ -1,0 +1,6 @@
+etri#doc_6565.txt 10 제거하다 ----- 3:1-ARG0(AGT) 7:2-ARG1(THM) 8:1-ARGM-LOC(LOC) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6565.txt 11 하다 ----- 10:2-ARG1(CNT) 11:0-rel
+etri#doc_6565.txt 14 주장하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6565.txt 17 거부하다 ----- 15:4-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel
+etri#doc_6565.txt 19 처벌하다 ----- 17:2-ARGM-CND() 18:1-ARGM-MNR() 19:0-rel
+etri#doc_6565.txt 20 주장하다 ----- 2:2-ARG0(AGT) 11:3-ARGM-DIS() 19:2-ARG1(CNT) 20:0-rel

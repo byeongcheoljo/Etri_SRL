@@ -1,0 +1,2 @@
+etri#doc_1374.txt 11 받다 ----- 8:2-ARGM-DIS() 10:2-ARG1(Npr) 11:0-rel
+etri#doc_1374.txt 19 나타나다 ----- 1:1-ARGM-MNR(LOC) 16:4-ARG1(LOC) 18:2-ARG0(THM) 19:0-rel

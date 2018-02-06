@@ -1,0 +1,4 @@
+etri#doc_11054.txt 3 들여다보다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_11054.txt 8 결정나다 ----- 7:1-ARGM-TMP() 8:0-rel
+etri#doc_11054.txt 11 결정되다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:1-ARGM-EXT(SRC) 6:1-ARGM-EXT(GOL) 8:2-ARGM-DIS() 10:2-ARGM-EXT(CRT) 11:0-rel
+etri#doc_11054.txt 12 알리다 ----- 1:1-ARGM-DIS() 11:3-ARGM-MNR() 12:0-rel

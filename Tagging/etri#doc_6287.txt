@@ -1,0 +1,5 @@
+etri#doc_6287.txt 3 벌다 ----- 2:1-ARGM-EXT() 3:0-rel
+etri#doc_6287.txt 5 하다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6287.txt 7 늙다 ----- 6:1-ARG1(EXP) 7:0-rel
+etri#doc_6287.txt 10 돌보다 ----- 7:2-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_6287.txt 13 만들다 ----- 5:2-ARGM-EXT() 12:2-ARG1(THM) 13:0-rel

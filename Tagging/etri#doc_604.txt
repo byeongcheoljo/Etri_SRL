@@ -1,0 +1,3 @@
+etri#doc_604.txt 3 추진되다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_604.txt 11 살피다 ----- 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_604.txt 15 가지다 ----- 1:1-ARG0(AGT) 4:3-ARGM-MNR(EFF) 8:3-ARGM-DIS() 11:3-ARGM-CND() 14:3-ARG1(THM) 15:0-rel

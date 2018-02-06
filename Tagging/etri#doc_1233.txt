@@ -1,0 +1,2 @@
+etri#doc_1233.txt 7 되다 ----- 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_1233.txt 18 줄어들다 ----- 15:3-ARGM-DIS() 17:2-ARG1(THM) 18:0-rel

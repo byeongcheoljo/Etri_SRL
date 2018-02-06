@@ -1,0 +1,2 @@
+etri#doc_4782.txt 5 들다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4782.txt 16 하다 ----- 10:5-ARGM-DIS() 11:1-ARGM-EXT() 15:3-ARG1(CNT) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6142.txt 2 가다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_6142.txt 4 묵다 ----- 2:2-ARGM-DIS() 3:1-ARG1() 4:0-rel
+etri#doc_6142.txt 7 떠나다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARG2(LOC) 7:0-rel
+etri#doc_6142.txt 9 전진하다 ----- 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_6142.txt 12 뒤떨어지다 ----- 7:2-ARGM-DIS() 10:3-ARGM-LOC(SRC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_6142.txt 14 들다 ----- 4:2-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel

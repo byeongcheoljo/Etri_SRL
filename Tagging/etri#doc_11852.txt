@@ -1,0 +1,4 @@
+etri#doc_11852.txt 11 급제하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-INS(INS) 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_11852.txt 14 지내다 ----- 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11852.txt 18 다녀오다 ----- 14:3-ARGM-DIS() 15:1-ARGM-TMP(LOC) 16:1-ARGM-INS(INS) 17:1-ARG1(GOL) 18:0-rel
+etri#doc_11852.txt 21 지내다 ----- 18:2-ARGM-DIS() 20:2-ARG1(THM) 21:0-rel

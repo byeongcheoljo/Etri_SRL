@@ -1,0 +1,4 @@
+etri#doc_3073.txt 7 다투다 ----- 5:1-ARGM-ADV() 6:1-ARG1(THM) 7:0-rel
+etri#doc_3073.txt 12 좌우되다 ----- 9:2-ARGM-EXT() 11:2-ARG0(EFF) 12:0-rel
+etri#doc_3073.txt 14 거부하다 ----- 13:4-ARG1(THM) 14:0-rel
+etri#doc_3073.txt 17 하다 ----- 2:2-ARGM-MNR(INS) 4:2-ARG0(AGT) 7:2-ARGM-DIS() 15:6-ARGM-MNR(INS) 16:1-ARG1(THM) 17:0-rel

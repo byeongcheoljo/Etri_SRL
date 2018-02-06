@@ -1,0 +1,2 @@
+etri#doc_2530.txt 5 포기하다 ----- 3:3-ARGM-DIS() 4:1-ARGM-EXT() 5:0-rel
+etri#doc_2530.txt 14 나누다 ----- 10:2-ARGM-ADV(EFF) 13:3-ARG1(THM) 14:0-rel

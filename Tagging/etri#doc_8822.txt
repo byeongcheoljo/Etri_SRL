@@ -1,0 +1,2 @@
+etri#doc_8822.txt 2 불리다 ----- 1:1-ARG1(FNS) 2:0-rel
+etri#doc_8822.txt 12 유발하다 ----- 8:3-ARGM-DIS() 10:2-ARGM-TMP(LOC) 11:1-ARGM-MNR() 12:0-rel

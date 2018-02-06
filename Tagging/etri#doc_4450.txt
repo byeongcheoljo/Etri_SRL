@@ -1,0 +1,4 @@
+etri#doc_4450.txt 6 내리다 ----- 4:1-ARG0(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_4450.txt 10 달려오다 ----- 8:4-ARG2(SRC) 9:1-ARG0(AGT) 10:0-rel
+etri#doc_4450.txt 12 모르다 ----- 10:2-ARG1() 11:1-ARGM-NEG() 12:0-rel
+etri#doc_4450.txt 14 건너다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1(LOC) 14:0-rel

@@ -1,0 +1,6 @@
+etri#doc_9139.txt 6 뚫다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_9139.txt 7 올라가다 ----- 2:2-ARGM-DIS(EFF) 6:4-ARGM-DIS() 7:0-rel
+etri#doc_9139.txt 11 믿다 ----- 11:0-rel
+etri#doc_9139.txt 13 하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_9139.txt 15 갖다 ----- 8:6-ARGM-LOC(LOC) 14:4-ARG1(THM) 15:0-rel
+etri#doc_9139.txt 19 되다 ----- 16:6-ARG1(THM) 18:2-ARG2(FNS) 19:0-rel

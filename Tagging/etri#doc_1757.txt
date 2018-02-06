@@ -1,0 +1,2 @@
+etri#doc_1757.txt 3 빌리다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_1757.txt 17 지니다 ----- 16:2-ARG1(THM) 17:0-rel

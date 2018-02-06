@@ -1,0 +1,4 @@
+etri#doc_1572.txt 3 넘기다 ----- 2:1-ARG1(CRT) 3:0-rel
+etri#doc_1572.txt 9 마시다 ----- 5:4-ARGM-LOC(LOC) 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1572.txt 14 하다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1572.txt 17 되다 ----- 10:3-ARG0(THM) 16:2-ARG1(THM) 17:0-rel

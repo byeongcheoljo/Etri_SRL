@@ -1,0 +1,2 @@
+etri#doc_9623.txt 6 당하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 3:1-ARGM-MNR(INS) 5:2-ARG2(THM) 6:0-rel
+etri#doc_9623.txt 11 보이다 ----- 7:4-ARG0(AGT) 8:1-ARGM-TMP() 10:2-ARG1(THM) 11:0-rel

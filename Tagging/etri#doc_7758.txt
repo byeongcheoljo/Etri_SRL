@@ -1,0 +1,3 @@
+etri#doc_7758.txt 3 쓰다 ----- 2:2-ARGM-CAU() 3:0-rel
+etri#doc_7758.txt 10 쓰다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_7758.txt 15 쓰다 ----- 3:3-ARGM-DIS() 10:2-ARG1() 12:2-ARGM-PRD() 14:2-ARGM-EXT() 15:0-rel

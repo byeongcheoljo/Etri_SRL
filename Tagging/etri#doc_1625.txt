@@ -1,0 +1,3 @@
+etri#doc_1625.txt 5 하다 ----- 3:1-ARG1(THM) 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_1625.txt 13 그치다 ----- 2:2-ARG1(THM) 5:2-ARGM-TMP() 7:2-ARGM-DIR(INS) 11:4-ARGM-ADV(EFF) 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1625.txt 14 알다 ----- 13:2-ARG1(THM) 14:0-rel

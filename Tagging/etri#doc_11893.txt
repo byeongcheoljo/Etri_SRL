@@ -1,0 +1,2 @@
+etri#doc_11893.txt 5 생기다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11893.txt 17 나타나다 ----- 5:2-ARGM-CAU() 7:2-ARG2(LOC) 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1141.txt 4 없어지다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARGM-LOC(THM) 4:0-rel
+etri#doc_1141.txt 9 소생되다 ----- 5:3-ARG1(THM) 6:1-ARGM-TMP(LOC) 8:2-ARGM-MNR() 9:0-rel
+etri#doc_1141.txt 10 믿다 ----- 9:3-ARGM-DIS() 10:0-rel
+etri#doc_1141.txt 14 심다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_1141.txt 16 장식하다 ----- 1:1-ARG0(AGT) 10:4-ARGM-DIS() 11:1-ARGM-TMP() 14:2-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel

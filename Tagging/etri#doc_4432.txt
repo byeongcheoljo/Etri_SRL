@@ -1,0 +1,7 @@
+etri#doc_4432.txt 12 ª©æ—¥Ÿ ----- 9:1-ARGM-MNR(INS) 11:2-ARG1(THM) 12:0-rel
+etri#doc_4432.txt 14 Ω√≈∞¥Ÿ ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4432.txt 15 ≈∫«Ÿ«œ¥Ÿ ----- 15:0-rel
+etri#doc_4432.txt 16 ∞Ë∑˘«œ¥Ÿ ----- 15:1-ARGM-DIS() 16:0-rel
+etri#doc_4432.txt 17 Ω…πÆ«œ¥Ÿ ----- 16:2-ARGM-DIS() 17:0-rel
+etri#doc_4432.txt 18 ¥‹¡À«œ¥Ÿ ----- 8:3-ARGM-DIS() 12:3-ARGM-DIS() 14:2-ARGM-DIS() 17:3-ARGM-DIS() 18:0-rel
+etri#doc_4432.txt 20 øÂ∫∏¿Ã¥Ÿ ----- 18:4-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5652.txt 2 넘어서다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_5652.txt 5 넘어오다 ----- 3:3-ARG1(THM) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_5652.txt 7 넘다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_5652.txt 8 생각하다 ----- 5:2-ARGM-DIS() 7:2-ARG1() 8:0-rel
+etri#doc_5652.txt 9 하다 ----- 8:3-ARG1(CNT) 9:0-rel
+etri#doc_5652.txt 14 보이다 ----- 9:4-ARGM-DIS() 10:1-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:0-rel

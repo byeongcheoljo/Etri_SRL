@@ -1,0 +1,5 @@
+etri#doc_9449.txt 3 주목하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9449.txt 15 병들다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_9449.txt 17 이해하다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_9449.txt 18 치료하다 ----- 17:4-ARGM-DIS() 18:0-rel
+etri#doc_9449.txt 20 되다 ----- 12:4-ARGM-DIS() 13:1-ARG0(AGT) 18:5-ARGM-DIS() 19:1-ARG2(FNS) 20:0-rel

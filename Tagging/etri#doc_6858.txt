@@ -1,0 +1,4 @@
+etri#doc_6858.txt 8 하다 ----- 4:1-ARG0(AGT) 5:1-ARGM-TMP() 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_6858.txt 11 지배하다 ----- 8:2-ARGM-TMP() 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_6858.txt 17 없어지다 ----- 15:3-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_6858.txt 18 생각하다 ----- 1:1-ARGM-TMP() 3:2-ARG0(MAG) 17:2-ARG1() 18:0-rel

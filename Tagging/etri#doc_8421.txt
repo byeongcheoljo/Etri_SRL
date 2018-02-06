@@ -1,0 +1,5 @@
+etri#doc_8421.txt 6 약속하다 ----- 4:2-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_8421.txt 7 않다 ----- 6:2-ARGM-MNR() 7:0-rel
+etri#doc_8421.txt 8 남다 ----- 8:0-rel
+etri#doc_8421.txt 13 몰려가다 ----- 11:1-ARGM-TMP() 12:1-ARG2(GOL) 13:0-rel
+etri#doc_8421.txt 18 실현시키다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-TMP() 16:1-ARGM-LOC(LOC) 17:1-ARGM-TMP() 18:0-rel

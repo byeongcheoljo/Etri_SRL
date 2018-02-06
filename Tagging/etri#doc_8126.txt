@@ -1,0 +1,2 @@
+etri#doc_8126.txt 7 서두르다 ----- 5:3-ARGM-INS(INS) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8126.txt 9 나오다 ----- 8:1-ARGM-DIS() 9:0-rel

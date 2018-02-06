@@ -1,0 +1,6 @@
+etri#doc_5723.txt 5 하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_5723.txt 8 듣다 ----- 2:1-ARG2(AGT) 3:1-ARGM-TMP() 7:4-ARG1(THM) 8:0-rel
+etri#doc_5723.txt 11 막히다 ----- 9:1-ARGM-EXT() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5723.txt 13 막히다 ----- 8:5-ARGM-TMP() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_5723.txt 14 하다 ----- 13:2-ARG1(CNT) 14:0-rel
+etri#doc_5723.txt 19 나타내다 ----- 1:1-ARG0(AGT) 14:3-ARGM-DIS() 17:2-ARGM-ADV(CNT) 18:1-ARG1(THM) 19:0-rel

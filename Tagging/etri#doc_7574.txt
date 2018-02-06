@@ -1,0 +1,2 @@
+etri#doc_7574.txt 8 붙이다 ----- 3:3-ARG0(AGT) 4:1-ARGM-TMP() 5:1-ARGM-TMP() 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_7574.txt 12 갖다 ----- 8:2-ARGM-MNR() 9:1-ARG0() 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

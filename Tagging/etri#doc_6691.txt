@@ -1,0 +1,4 @@
+etri#doc_6691.txt 4 내다 ----- 2:1-ARG0(AGT) 3:1-ARG2(GOL) 4:0-rel
+etri#doc_6691.txt 12 변동되다 ----- 6:4-ARG1(THM) 10:4-ARGM-DIS(EFF) 11:1-ARGM-TMP() 12:0-rel
+etri#doc_6691.txt 17 증가되다 ----- 15:2-ARG1(THM) 16:1-ARGM-TMP() 17:0-rel
+etri#doc_6691.txt 19 보이다 ----- 1:1-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARGM-MNR(INS) 18:3-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7529.txt 15 종합하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_7529.txt 19 제시하다 ----- 15:4-ARGM-MNR() 18:3-ARG1(THM) 19:0-rel

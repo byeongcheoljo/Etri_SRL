@@ -1,0 +1,2 @@
+etri#doc_3446.txt 8 증가하다 ----- 4:1-ARGM-EXT() 5:1-ARG3(FNS) 6:1-ARGM-EXT(CRT) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_3446.txt 11 이르다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 8:2-ARGM-CAU() 10:2-ARG3(FNS) 11:0-rel

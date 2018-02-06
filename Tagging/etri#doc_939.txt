@@ -1,0 +1,2 @@
+etri#doc_939.txt 10 열다 ----- 5:2-ARGM-DIS() 8:3-ARG1(THM) 9:1-ARGM-EXT(CRT) 10:0-rel
+etri#doc_939.txt 13 소개하다 ----- 11:1-ARG1(THM) 12:1-ARG2(GOL) 13:0-rel

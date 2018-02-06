@@ -1,0 +1,2 @@
+etri#doc_5040.txt 15 하다 ----- 11:3-ARGM-PRP(PUR) 12:1-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel
+etri#doc_5040.txt 19 외치다 ----- 17:5-ARG1() 18:1-ARG0(AGT) 19:0-rel

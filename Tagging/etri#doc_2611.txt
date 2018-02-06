@@ -1,0 +1,4 @@
+etri#doc_2611.txt 10 보다 ----- 3:2-ARGM-EXT() 6:3-ARG0() 7:1-ARGM-ADV(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_2611.txt 13 먹다 ----- 11:1-ARGM-PRD(EFF) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2611.txt 14 부정하다 ----- 14:0-rel
+etri#doc_2611.txt 19 내리다 ----- 1:1-ARGM-EXT() 10:3-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARGM-DIS() 18:1-ARGM-ADV(EFF) 19:0-rel

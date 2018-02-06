@@ -1,0 +1,3 @@
+etri#doc_8740.txt 7 되다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_8740.txt 12 되다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel
+etri#doc_8740.txt 15 자랑하다 ----- 4:3-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

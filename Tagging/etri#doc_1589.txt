@@ -1,0 +1,4 @@
+etri#doc_1589.txt 7 알다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1589.txt 12 보다 ----- 3:2-ARGM-DIS() 11:4-ARGM-CAU(EFF) 12:0-rel
+etri#doc_1589.txt 15 꾸미다 ----- 13:1-ARGM-EXT() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1589.txt 16 알다 ----- 12:5-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

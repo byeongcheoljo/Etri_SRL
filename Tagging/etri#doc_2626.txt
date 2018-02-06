@@ -1,0 +1,4 @@
+etri#doc_2626.txt 5 차지하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2626.txt 8 떨치다 ----- 5:4-() 7:2-() 8:0-rel
+etri#doc_2626.txt 12 내려다보다 ----- 11:1-() 12:0-rel
+etri#doc_2626.txt 14 서다 ----- 10:1-ARGM-TMP() 12:2-ARGM-DIS() 13:1-ARGM-EXT() 14:0-rel

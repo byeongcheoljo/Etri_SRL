@@ -1,0 +1,2 @@
+etri#doc_849.txt 9 이루다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_849.txt 12 갖추다 ----- 11:5-ARG1(THM) 12:0-rel

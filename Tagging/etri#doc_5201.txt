@@ -1,0 +1,4 @@
+etri#doc_5201.txt 6 검사하다 ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_5201.txt 10 만나다 ----- 9:6-ARG1(THM) 10:0-rel
+etri#doc_5201.txt 16 보다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_5201.txt 18 말하다 ----- 1:1-ARGM-CND() 10:7-ARGM-DIS() 16:3-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel

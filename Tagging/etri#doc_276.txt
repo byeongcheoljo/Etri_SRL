@@ -1,0 +1,4 @@
+etri#doc_276.txt 8 보내다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARGM-ADV(LOC) 6:1-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_276.txt 11 야위다 ----- 9:1-ARGM-CAU() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_276.txt 19 끝내다 ----- 16:4-ARGM-DIS() 17:1-ARGM-TMP() 18:1-ARG1(THM) 19:0-rel
+etri#doc_276.txt 20 묻다 ----- 19:2-ARG1() 20:0-rel

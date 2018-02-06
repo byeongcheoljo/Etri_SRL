@@ -1,0 +1,3 @@
+etri#doc_4538.txt 5 대응하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-MNR() 3:1-ARG0(AGT) 4:1-ARG1(GOL) 5:0-rel
+etri#doc_4538.txt 13 여닫다 ----- 11:3-ARGM-ADV(EFF) 12:1-ARGM-EXT(CRT) 13:0-rel
+etri#doc_4538.txt 17 생겨나다 ----- 5:2-ARGM-DIS() 16:5-ARG1(THM) 17:0-rel

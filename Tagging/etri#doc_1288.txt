@@ -1,0 +1,1 @@
+etri#doc_1288.txt 15 го╢ы ----- 4:4-ARG0(AGT) 7:3-ARGM-LOC() 12:5-ARGM-ADV(EFF) 14:2-ARG1(THM) 15:0-rel

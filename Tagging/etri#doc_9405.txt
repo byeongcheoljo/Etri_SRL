@@ -1,0 +1,3 @@
+etri#doc_9405.txt 7 알아듣다 ----- 2:2-ARG0(MAG) 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_9405.txt 11 보이다 ----- 7:2-ARGM-DIS() 8:1-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel
+etri#doc_9405.txt 16 들어오다 ----- 11:3-ARGM-DIS() 14:2-ARG0(AGT) 15:1-ARGM-MNR(INS) 16:0-rel

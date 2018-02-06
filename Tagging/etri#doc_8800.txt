@@ -1,0 +1,3 @@
+etri#doc_8800.txt 11 되다 ----- 6:2-ARG1(THM) 8:2-ARGM-PRD(INS) 10:2-ARG2(FNS) 11:0-rel
+etri#doc_8800.txt 16 지내다 ----- 4:1-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARGM-LOC(LOC) 14:1-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_8800.txt 17 보다 ----- 3:3-ARG1(THM) 16:2-ARG1() 17:0-rel

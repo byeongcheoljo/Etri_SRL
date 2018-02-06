@@ -1,0 +1,7 @@
+etri#doc_4004.txt 3 오다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4004.txt 7 유행하다 ----- 1:1-ARGM-TMP() 6:5-ARG0(AGT) 7:0-rel
+etri#doc_4004.txt 10 보다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_4004.txt 12 보다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_4004.txt 13 소원하다 ----- 10:2-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4004.txt 17 보다 ----- 14:1-ARGM-DIS() 15:1-ARGM-TMP(LOC) 16:1-ARGM-MNR() 17:0-rel
+etri#doc_4004.txt 20 사다 ----- 7:6-ARGM-DIS() 8:1-ARG0(AGT) 13:3-ARGM-CAU() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:1-ARGM-EXT() 20:0-rel

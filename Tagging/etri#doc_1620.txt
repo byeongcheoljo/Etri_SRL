@@ -1,0 +1,2 @@
+etri#doc_1620.txt 4 보다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1620.txt 16 유지하다 ----- 4:3-ARGM-CND() 6:2-ARG0(EFF) 11:4-ARGM-DIS() 12:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

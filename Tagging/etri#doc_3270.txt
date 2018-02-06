@@ -1,0 +1,6 @@
+etri#doc_3270.txt 5 고수하다 ----- 3:1-ARGM-EXT(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3270.txt 7 하다 ----- 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3270.txt 12 쌓이다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_3270.txt 14 버리다 ----- 13:5-ARG1(THM) 14:0-rel
+etri#doc_3270.txt 16 건설하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_3270.txt 17 천도하다 ----- 14:6-ARGM-DIS() 16:2-ARGM-MNR() 17:0-rel

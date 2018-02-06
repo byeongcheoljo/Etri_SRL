@@ -1,0 +1,3 @@
+etri#doc_13082.txt 11 이루다 ----- 9:3-ARGM-CAU(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_13082.txt 13 추구하다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_13082.txt 20 인정받다 ----- 11:2-ARGM-CAU() 16:5-ARGM-DIS() 17:1-ARGM-EXT() 18:1-ARG1(THM) 19:1-ARGM-EXT() 20:0-rel

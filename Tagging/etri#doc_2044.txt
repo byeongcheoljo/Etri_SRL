@@ -1,0 +1,6 @@
+etri#doc_2044.txt 6 빠지다 ----- 4:2-ARGM-MNR() 5:1-ARG1(GOL) 6:0-rel
+etri#doc_2044.txt 9 안주하다 ----- 6:2-() 8:2-() 9:0-rel
+etri#doc_2044.txt 12 교류하다 ----- 11:2-ARGM-DIS() 12:0-rel
+etri#doc_2044.txt 16 되찾다 ----- 12:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_2044.txt 18 참여하다 ----- 17:4-ARG1(LOC) 18:0-rel
+etri#doc_2044.txt 19 두려워하다 ----- 2:2-() 9:3-() 18:5-() 19:0-rel

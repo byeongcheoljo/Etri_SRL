@@ -1,0 +1,6 @@
+etri#doc_4963.txt 5 오르다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4963.txt 7 부축하다 ----- 7:0-rel
+etri#doc_4963.txt 9 거부하다 ----- 3:3-ARG0(AGT) 6:3-ARG1(THM) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4963.txt 10 걷다 ----- 10:0-rel
+etri#doc_4963.txt 13 떨리다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4963.txt 16 싸우다 ----- 15:2-ARGM-MNR(COM) 16:0-rel

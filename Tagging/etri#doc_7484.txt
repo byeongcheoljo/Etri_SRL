@@ -1,0 +1,4 @@
+etri#doc_7484.txt 8 파견되다 ----- 5:2-ARGM-TMP() 7:2-ARG2(GOL) 8:0-rel
+etri#doc_7484.txt 13 짓다 ----- 9:4-ARG1(THM) 10:1-ARGM-MNR(INS) 11:1-ARGM-TMP() 12:1-ARG1(Npr) 13:0-rel
+etri#doc_7484.txt 16 꾸미다 ----- 3:2-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7484.txt 18 늦어지다 ----- 16:3-ARGM-CAU() 17:1-ARGM-TMP() 18:0-rel

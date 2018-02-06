@@ -1,0 +1,1 @@
+etri#doc_12026.txt 16 국한시키다 ----- 1:1-ARG0(AGT) 7:2-ARGM-EXT(CRT) 13:3-ARG2(LOC) 15:2-ARG1(THM) 16:0-rel

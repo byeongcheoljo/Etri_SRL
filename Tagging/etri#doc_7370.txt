@@ -1,0 +1,4 @@
+etri#doc_7370.txt 4 붙다 ----- 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7370.txt 9 태우다 ----- 2:2-ARGM-MNR(INS) 5:3-ARG0(EXP) 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_7370.txt 15 요구하다 ----- 9:2-ARGM-DIS() 12:2-ARGM-CAU(EFF) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_7370.txt 19 베풀다 ----- 18:2-ARG0(AGT) 19:0-rel

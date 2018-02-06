@@ -1,0 +1,3 @@
+etri#doc_1200.txt 8 진전되다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_1200.txt 16 이용하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_1200.txt 17 극복하다 ----- 8:2-ARGM-DIS() 14:6-ARG1(THM) 16:2-ARGM-DIS() 17:0-rel

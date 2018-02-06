@@ -1,0 +1,3 @@
+etri#doc_5744.txt 5 이기다 ----- 2:1-ARGM-TMP() 3:1-ARG0(AGT) 4:1-ARGM-MNR(FNS) 5:0-rel
+etri#doc_5744.txt 8 몰아붙이다 ----- 1:1-ARG0(AGT) 6:3-ARG1(THM) 7:1-ARGM-DIS() 8:0-rel
+etri#doc_5744.txt 16 발휘하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARGM-CAU() 15:1-ARG1(THM) 16:0-rel

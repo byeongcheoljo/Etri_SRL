@@ -1,0 +1,3 @@
+etri#doc_5061.txt 3 조직하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5061.txt 7 배설하다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 5:2-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_5061.txt 17 실현하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-TMP(LOC) 11:2-ARGM-LOC(LOC) 14:3-ARGM-MNR(INS) 16:2-ARG1(THM) 17:0-rel

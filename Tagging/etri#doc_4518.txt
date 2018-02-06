@@ -1,0 +1,2 @@
+etri#doc_4518.txt 10 갖다 ----- 9:2-ARG0(AGT) 10:0-rel
+etri#doc_4518.txt 15 변화시키다 ----- 14:4-ARG1(THM) 15:0-rel

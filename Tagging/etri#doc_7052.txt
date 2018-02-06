@@ -1,0 +1,3 @@
+etri#doc_7052.txt 7 투입하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7052.txt 12 갖추다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_7052.txt 14 완공되다 ----- 1:1-ARGM-LOC(LOC) 4:3-ARGM-EXT(CRT) 7:3-ARGM-DIS() 12:5-ARGM-DIS() 13:1-ARGM-TMP() 14:0-rel

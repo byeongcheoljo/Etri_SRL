@@ -1,0 +1,6 @@
+etri#doc_4118.txt 6 넣다 ----- 4:1-ARG1(THM) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_4118.txt 8 보다 ----- 3:1-ARGM-LOC(LOC) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4118.txt 11 보다 ----- 2:1-ARG0(AGT) 9:3-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_4118.txt 14 따지다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4118.txt 16 선정하다 ----- 14:2-ARGM-CND() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4118.txt 19 따르다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG0(AGT) 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

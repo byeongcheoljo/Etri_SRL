@@ -1,0 +1,1 @@
+etri#doc_6742.txt 14 го╢ы ----- 12:4-ARG1(THM) 13:1-ARG2(FNS) 14:0-rel

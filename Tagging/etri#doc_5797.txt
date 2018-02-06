@@ -1,0 +1,2 @@
+etri#doc_5797.txt 7 나다 ----- 4:1-ARG2(LOC) 6:2-ARG1(Npr) 7:0-rel
+etri#doc_5797.txt 11 내다 ----- 2:2-ARGM-DIS(EFF) 3:1-ARGM-LOC(LOC) 7:3-ARGM-DIS() 10:2-ARG1(Npr) 11:0-rel

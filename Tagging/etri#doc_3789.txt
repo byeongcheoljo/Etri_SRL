@@ -1,0 +1,8 @@
+etri#doc_3789.txt 5 달다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3789.txt 6 하다 ----- 5:4-ARG1(CNT) 6:0-rel
+etri#doc_3789.txt 8 주다 ----- 1:1-ARG2(GOL) 6:5-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3789.txt 9 떨어지다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_3789.txt 12 돌리다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3789.txt 13 요구하다 ----- 9:3-ARGM-DIS() 12:3-ARG1() 13:0-rel
+etri#doc_3789.txt 14 거절당하다 ----- 13:4-ARGM-DIS() 14:0-rel
+etri#doc_3789.txt 15 고소하다 ----- 14:5-ARGM-CAU() 15:0-rel

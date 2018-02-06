@@ -1,0 +1,4 @@
+etri#doc_1622.txt 3 주도하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_1622.txt 5 설치하다 ----- 1:1-ARGM-TMP(LOC) 4:3-ARG1(THM) 5:0-rel
+etri#doc_1622.txt 10 분석하다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_1622.txt 15 발표되다 ----- 5:4-ARGM-DIS() 6:1-ARGM-TMP(LOC) 14:2-ARG1(THM) 15:0-rel

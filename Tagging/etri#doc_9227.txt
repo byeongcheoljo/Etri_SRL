@@ -1,0 +1,4 @@
+etri#doc_9227.txt 2 내리다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9227.txt 4 마비되다 ----- 2:2-ARGM-CND() 3:1-ARG1(THM) 4:0-rel
+etri#doc_9227.txt 8 섞이다 ----- 4:2-ARGM-DIS() 6:2-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_9227.txt 15 생각하다 ----- 9:3-ARGM-CND(EFF) 10:1-ARGM-TMP() 12:2-ARG0(MAG) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

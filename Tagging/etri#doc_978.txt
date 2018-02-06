@@ -1,0 +1,5 @@
+etri#doc_978.txt 3 넣다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_978.txt 4 빼다 ----- 1:1-ARGM-DIS() 3:2-ARGM-DIS() 4:0-rel
+etri#doc_978.txt 7 묻히다 ----- 5:1-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_978.txt 9 두다 ----- 7:2-ARGM-MNR() 8:1-ARG2(LOC) 9:0-rel
+etri#doc_978.txt 12 두들기다 ----- 4:3-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-MNR() 11:1-ARGM-MNR() 12:0-rel

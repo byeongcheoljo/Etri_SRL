@@ -1,0 +1,6 @@
+etri#doc_4639.txt 3 받다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4639.txt 6 독립되다 ----- 6:0-rel
+etri#doc_4639.txt 8 형성하다 ----- 4:3-ARGM-MNR(COM) 7:2-ARG1(FNS) 8:0-rel
+etri#doc_4639.txt 11 들어오다 ----- 10:2-ARG2(SRC) 11:0-rel
+etri#doc_4639.txt 16 유지하다 ----- 12:4-ARGM-ADV(EFF) 14:2-ARG1(THM) 15:1-ARGM-TMP() 16:0-rel
+etri#doc_4639.txt 17 작용하다 ----- 1:1-ARG1(THM) 8:3-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1657.txt 3 잃다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_1657.txt 5 살다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_1657.txt 10 재다 ----- 7:2-ARGM-LOC(LOC) 9:2-ARGM-INS(INS) 10:0-rel
+etri#doc_1657.txt 17 되다 ----- 3:2-ARGM-DIS() 14:3-ARG1(THM) 15:1-ARGM-EXT() 16:1-ARG0(THM) 17:0-rel

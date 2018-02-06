@@ -1,0 +1,3 @@
+etri#doc_1922.txt 3 ÀÕ´Ù ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1922.txt 9 °è½ÂÇÏ´Ù ----- 6:3-ARGM-EXT(CRT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1922.txt 15 ÇÇ´Ù ----- 10:4-ARG0(AGT) 11:1-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

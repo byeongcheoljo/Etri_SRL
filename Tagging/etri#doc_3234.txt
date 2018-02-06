@@ -1,0 +1,3 @@
+etri#doc_3234.txt 11 강조하다 ----- 5:2-ARG0(AGT) 9:3-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3234.txt 18 얻다 ----- 12:1-ARG2(LOC) 13:1-ARG0(AGT) 16:3-ARGM-DIS() 17:1-ARG1(Npr) 18:0-rel
+etri#doc_3234.txt 19 한몫하다 ----- 11:2-ARGM-CAU() 18:2-ARGM-DIS() 19:0-rel

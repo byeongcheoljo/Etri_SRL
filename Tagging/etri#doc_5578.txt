@@ -1,0 +1,5 @@
+etri#doc_5578.txt 4 얘기하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5578.txt 8 포함되다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_5578.txt 10 거론하다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_5578.txt 13 담기다 ----- 13:0-rel
+etri#doc_5578.txt 16 달라지다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS(EFF) 11:6-ARGM-TMP(LOC) 14:2-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

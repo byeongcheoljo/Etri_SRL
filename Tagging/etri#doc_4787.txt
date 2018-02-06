@@ -1,0 +1,7 @@
+etri#doc_4787.txt 2 씻다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_4787.txt 4 제거되다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4787.txt 7 담다 ----- 4:2-ARGM-CND() 6:2-ARG2(GOL) 7:0-rel
+etri#doc_4787.txt 12 붓다 ----- 7:3-ARGM-DIS() 11:4-ARG1(THM) 12:0-rel
+etri#doc_4787.txt 13 밀봉하다 ----- 12:5-ARGM-DIS() 13:0-rel
+etri#doc_4787.txt 16 저장하다 ----- 13:6-ARGM-DIS() 15:2-ARG2(LOC) 16:0-rel
+etri#doc_4787.txt 18 먹다 ----- 16:3-ARGM-TMP() 17:1-ARGM-TMP(LOC) 18:0-rel

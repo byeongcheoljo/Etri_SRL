@@ -1,0 +1,4 @@
+etri#doc_8836.txt 4 ±ÿ∫π«œ¥Ÿ ----- 1:1-ARG1(THM) 3:2-ARG0(AGT) 4:0-rel
+etri#doc_8836.txt 7 »˚¿‘¥Ÿ ----- 7:0-rel
+etri#doc_8836.txt 9 æ≤¥Ÿ ----- 4:3-ARGM-TMP() 5:1-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_8836.txt 14 ±ÿ∫π«œ¥Ÿ ----- 9:3-ARGM-DIS() 10:1-ARGM-CND(CNT) 11:1-ARG0(AGT) 13:2-ARG1(THM) 14:0-rel

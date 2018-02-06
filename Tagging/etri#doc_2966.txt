@@ -1,0 +1,4 @@
+etri#doc_2966.txt 6 되다 ----- 3:2-ARG2(THM) 5:2-ARGM-EXT() 6:0-rel
+etri#doc_2966.txt 9 얻다 ----- 7:4-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_2966.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_2966.txt 13 의심하다 ----- 1:1-ARGM-CAU() 9:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG0(THM) 13:0-rel

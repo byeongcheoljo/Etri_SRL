@@ -1,0 +1,1 @@
+etri#doc_3829.txt 10 °®Ãß´Ù ----- 1:1-ARGM-LOC(LOC) 3:2-ARG0(AGT) 7:4-ARGM-PRP() 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel

@@ -1,0 +1,3 @@
+etri#doc_3004.txt 12 결합되다 ----- 11:1-ARG0(COM) 12:0-rel
+etri#doc_3004.txt 16 기술하다 ----- 13:3-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel
+etri#doc_3004.txt 19 하다 ----- 4:4-ARG0(AGT) 17:4-ARG1(THM) 18:1-ARG2(FNS) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5698.txt 3 불리다 ----- 1:1-ARGM-EXT() 2:1-ARG3(FNS) 3:0-rel
+etri#doc_5698.txt 11 조성하다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_5698.txt 13 도시화되다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5698.txt 18 개발하다 ----- 6:3-ARG0(AGT) 11:5-ARGM-DIS() 14:3-ARGM-LOC(LOC) 17:3-ARG1(THM) 18:0-rel

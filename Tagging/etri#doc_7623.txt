@@ -1,0 +1,4 @@
+etri#doc_7623.txt 5 가다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7623.txt 7 비치되다 ----- 1:1-ARG1(THM) 5:3-ARGM-DIS() 6:1-ARG1(COM) 7:0-rel
+etri#doc_7623.txt 9 끊다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7623.txt 12 사다 ----- 7:2-ARGM-DIS() 9:2-ARGM-TMP() 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel

@@ -1,0 +1,3 @@
+etri#doc_11917.txt 8 확립되다 ----- 8:0-rel
+etri#doc_11917.txt 10 축적하다 ----- 1:1-ARGM-TMP() 3:2-ARG0(AGT) 5:2-ARGM-DIS() 7:2-ARGM-CAU(EFF) 9:2-ARG1(THM) 10:0-rel
+etri#doc_11917.txt 18 되다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-TMP() 17:2-ARG2(FNS) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8616.txt 7 미치다 ----- 4:4-ARG0(AGT) 6:2-ARG2(GOL) 7:0-rel
+etri#doc_8616.txt 17 시달리다 ----- 8:4-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-CAU(EFF) 16:5-ARG0(EFF) 17:0-rel

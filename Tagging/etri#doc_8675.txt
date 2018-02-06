@@ -1,0 +1,6 @@
+etri#doc_8675.txt 1 »ì´Ù ----- 1:0-rel
+etri#doc_8675.txt 3 ´ê´Ù ----- 2:1-ARG2() 3:0-rel
+etri#doc_8675.txt 7 ±ò´Ù ----- 1:1-ARGM-EXT() 4:3-ARGM-LOC(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_8675.txt 11 »ý±â´Ù ----- 7:3-ARGM-DIS() 8:1-ARGM-TMP() 10:2-ARG1(THM) 11:0-rel
+etri#doc_8675.txt 16 ´ê´Ù ----- 15:1-ARG2() 16:0-rel
+etri#doc_8675.txt 18 °¡´Ù ----- 11:3-ARGM-CND() 12:1-ARG0(AGT) 14:2-ARGM-DIS(CNT) 17:3-ARG3(GOL) 18:0-rel

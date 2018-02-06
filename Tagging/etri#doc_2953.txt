@@ -1,0 +1,2 @@
+etri#doc_2953.txt 9 일다 ----- 2:2-ARGM-MNR(COM) 8:4-ARG1(THM) 9:0-rel
+etri#doc_2953.txt 18 가지다 ----- 10:6-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

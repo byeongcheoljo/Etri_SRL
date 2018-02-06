@@ -1,0 +1,3 @@
+etri#doc_41.txt 9 듣다 ----- 4:3-ARGM-DIS() 7:3-ARG1(THM) 8:1-ARGM-ADV() 9:0-rel
+etri#doc_41.txt 14 빠지다 ----- 13:3-ARGM-LOC(DIR) 14:0-rel
+etri#doc_41.txt 18 개입하다 ----- 1:1-ARGM-DIS() 9:2-ARGM-NEG() 10:1-ARG0(AGT) 14:4-ARGM-DIS() 15:1-ARGM-ADV() 17:2-ARG1(LOC) 18:0-rel

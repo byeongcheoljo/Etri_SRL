@@ -1,0 +1,1 @@
+etri#doc_1778.txt 17 ¾È´Ù ----- 7:3-ARGM-MNR(DIR) 10:3-ARGM-DIS() 15:5-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel

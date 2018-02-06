@@ -1,0 +1,5 @@
+etri#doc_13076.txt 2 참다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_13076.txt 5 되다 ----- 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_13076.txt 8 요구하다 ----- 2:2-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARG2(GOL) 7:1-ARG1(THM) 8:0-rel
+etri#doc_13076.txt 11 밀리다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARG2(AGT) 11:0-rel
+etri#doc_13076.txt 13 그치다 ----- 11:2-ARGM-MNR() 12:1-ARG2(FNS) 13:0-rel

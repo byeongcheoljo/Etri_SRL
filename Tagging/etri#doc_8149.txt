@@ -1,0 +1,4 @@
+etri#doc_8149.txt 8 종사하다 ----- 4:3-ARGM-CND() 5:1-ARG0(AGT) 6:1-ARGM-MNR() 7:1-ARG1(LOC) 8:0-rel
+etri#doc_8149.txt 11 채집하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8149.txt 13 기르다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_8149.txt 15 맡다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

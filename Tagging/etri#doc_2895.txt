@@ -1,0 +1,5 @@
+etri#doc_2895.txt 6 잡다 ----- 6:0-rel
+etri#doc_2895.txt 10 따르다 ----- 9:1-ARGM-DIR() 10:0-rel
+etri#doc_2895.txt 11 끌리다 ----- 5:2-ARGM-CAU() 7:2-ARGM-DIS(COM) 8:1-ARG1(THM) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_2895.txt 15 앞두다 ----- 13:1-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel
+etri#doc_2895.txt 17 찢어지다 ----- 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1223.txt 6 지니다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_1223.txt 13 나타나다 ----- 12:2-ARG0(THM) 13:0-rel
+etri#doc_1223.txt 16 들먹이다 ----- 10:3-ARGM-CAU() 14:4-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

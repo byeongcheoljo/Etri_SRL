@@ -1,0 +1,4 @@
+etri#doc_719.txt 7 분석하다 ----- 5:2-ARG1(THM) 6:1-ARGM-INS(INS) 7:0-rel
+etri#doc_719.txt 10 살해되다 ----- 8:1-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_719.txt 15 자수하다 ----- 14:1-ARG0(AGT) 15:0-rel
+etri#doc_719.txt 19 보다 ----- 18:2-ARG2() 19:0-rel

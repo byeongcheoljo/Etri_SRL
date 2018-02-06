@@ -1,0 +1,6 @@
+etri#doc_9643.txt 2 ºû³ª´Ù ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_9643.txt 6 ¸Àº¸´Ù ----- 5:2-ARG2(THM) 6:0-rel
+etri#doc_9643.txt 10 ¸Â´Ù ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_9643.txt 11 ¾²·¯Áö´Ù ----- 6:3-ARGM-DIS() 8:2-ARG2(GOL) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_9643.txt 14 ¸Àº¸´Ù ----- 13:1-ARG2(THM) 14:0-rel
+etri#doc_9643.txt 18 ±¾´Ù ----- 12:4-ARGM-DIS() 16:4-ARGM-DIS() 17:1-ARGM-MNR() 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3134.txt 15 느끼다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_3134.txt 20 전달되다 ----- 2:2-ARG1(THM) 3:1-ARGM-DIS() 18:2-ARGM-MNR(INS) 19:1-ARG2(GOL) 20:0-rel

@@ -1,0 +1,5 @@
+etri#doc_8326.txt 3 뽑다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8326.txt 6 옮기다 ----- 6:0-rel
+etri#doc_8326.txt 7 심다 ----- 3:3-ARGM-DIS() 5:2-ARG2(LOC) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_8326.txt 11 겪다 ----- 9:1-ARGM-CAU(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_8326.txt 15 거두다 ----- 8:3-ARG0(AGT) 12:3-ARG2(LOC) 14:2-ARG1(THM) 15:0-rel

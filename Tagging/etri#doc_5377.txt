@@ -1,0 +1,5 @@
+etri#doc_5377.txt 6 흘리다 ----- 5:1-ARG1() 6:0-rel
+etri#doc_5377.txt 8 갈다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5377.txt 10 얻다 ----- 4:1-ARGM-CAU() 8:2-ARGM-CND() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5377.txt 11 알리다 ----- 3:3-ARGM-LOC(LOC) 10:2-ARG2() 11:0-rel
+etri#doc_5377.txt 14 끄집어내다 ----- 11:3-ARGM-PRP() 13:2-ARG1(THM) 14:0-rel

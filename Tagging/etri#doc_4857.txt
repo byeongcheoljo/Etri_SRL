@@ -1,0 +1,5 @@
+etri#doc_4857.txt 4 일소하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4857.txt 6 양도하다 ----- 6:0-rel
+etri#doc_4857.txt 9 선언하다 ----- 2:1-ARGM-LOC(LOC) 8:3-ARG1() 9:0-rel
+etri#doc_4857.txt 16 주장하다 ----- 9:4-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel
+etri#doc_4857.txt 19 요구하다 ----- 1:1-ARGM-DIS() 16:4-ARGM-PRD() 18:2-ARG1(THM) 19:0-rel

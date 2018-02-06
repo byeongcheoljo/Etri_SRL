@@ -1,0 +1,4 @@
+etri#doc_3242.txt 5 교환하다 ----- 2:1-ARG0(AGT) 3:1-ARGM-INS(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3242.txt 7 밝혀지다 ----- 1:1-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_3242.txt 10 이루다 ----- 7:4-ARGM-CAU() 9:2-ARG1(THM) 10:0-rel
+etri#doc_3242.txt 13 풀리다 ----- 10:3-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel

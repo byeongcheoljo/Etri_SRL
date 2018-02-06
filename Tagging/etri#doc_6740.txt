@@ -1,0 +1,4 @@
+etri#doc_6740.txt 6 관련하다 ----- 5:1-ARG2(COM) 6:0-rel
+etri#doc_6740.txt 11 지적하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_6740.txt 13 수립되다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6740.txt 14 주장하다 ----- 1:1-ARG0(AGT) 11:4-ARGM-TMP() 13:2-ARG1() 14:0-rel

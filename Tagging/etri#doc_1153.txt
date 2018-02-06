@@ -1,0 +1,5 @@
+etri#doc_1153.txt 6 숨기다 ----- 4:4-ARG1(THM) 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_1153.txt 7 들다 ----- 6:2-ARGM-MNR() 7:0-rel
+etri#doc_1153.txt 8 가다 ----- 7:3-ARGM-MNR() 8:0-rel
+etri#doc_1153.txt 9 울다 ----- 9:0-rel
+etri#doc_1153.txt 11 맞추다 ----- 10:2-ARGM-TMP(CRT) 11:0-rel

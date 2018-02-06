@@ -1,0 +1,4 @@
+etri#doc_7503.txt 3 넘다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7503.txt 5 서다 ----- 1:1-ARGM-TMP() 3:2-ARGM-MNR() 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7503.txt 13 대표하다 ----- 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_7503.txt 19 벗기다 ----- 16:3-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARGM-MNR() 19:0-rel

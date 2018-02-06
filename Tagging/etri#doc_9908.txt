@@ -1,0 +1,2 @@
+etri#doc_9908.txt 9 해체시키다 ----- 5:1-ARG0(AGT) 7:2-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_9908.txt 16 파괴하다 ----- 4:4-() 9:2-ARGM-DIS() 12:2-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

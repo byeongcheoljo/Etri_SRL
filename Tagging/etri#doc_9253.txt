@@ -1,0 +1,2 @@
+etri#doc_9253.txt 7 치료하다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_9253.txt 10 보다 ----- 2:2-ARGM-CAU(EFF) 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel

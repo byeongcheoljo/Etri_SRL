@@ -1,0 +1,8 @@
+etri#doc_8150.txt 2 사용하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8150.txt 5 오다 ----- 4:4-ARG3(GOL) 5:0-rel
+etri#doc_8150.txt 7 떨어지다 ----- 6:1-ARG2(SRC) 7:0-rel
+etri#doc_8150.txt 11 손질하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_8150.txt 12 사용하다 ----- 5:5-ARGM-DIS() 11:4-ARGM-MNR() 12:0-rel
+etri#doc_8150.txt 15 갈다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_8150.txt 18 만들다 ----- 15:2-ARGM-DIS() 17:2-ARGM-MNR() 18:0-rel
+etri#doc_8150.txt 20 사용하다 ----- 12:5-ARGM-DIS() 13:1-ARGM-TMP() 19:4-ARG1(THM) 20:0-rel

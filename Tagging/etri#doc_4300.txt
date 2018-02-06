@@ -1,0 +1,3 @@
+etri#doc_4300.txt 3 말하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_4300.txt 21 구체화하다 ----- 4:1-ARGM-LOC(LOC) 6:2-ARGM-EXT(CRT) 17:4-ARGM-DIS() 18:1-ARG0(AGT) 20:2-ARG1(THM) 21:0-rel
+etri#doc_4300.txt 22 생각하다 ----- 1:1-ARG0(MAG) 3:2-ARGM-DIS() 21:3-ARG1() 22:0-rel

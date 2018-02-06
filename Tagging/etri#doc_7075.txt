@@ -1,0 +1,2 @@
+etri#doc_7075.txt 5 캐내다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7075.txt 22 시키다 ----- 10:4-ARGM-DIS() 11:1-ARG0(AGT) 18:3-ARGM-INS(INS) 20:2-ARG1(THM) 21:1-ARGM-MNR() 22:0-rel

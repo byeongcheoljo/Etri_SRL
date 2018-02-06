@@ -1,0 +1,4 @@
+etri#doc_3030.txt 4 역행하다 ----- 3:2-ARG2(CRT) 4:0-rel
+etri#doc_3030.txt 9 들어서다 ----- 8:1-ARG1(GOL) 9:0-rel
+etri#doc_3030.txt 11 양성화하다 ----- 6:1-ARG0(AGT) 7:1-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3030.txt 16 요구하다 ----- 1:1-ARGM-CND() 4:3-ARGM-DIS() 5:1-ARG0(AGT) 12:5-ARG1(THM) 13:1-ARGM-TMP() 14:1-ARGM-MNR() 15:1-ARGM-LOC(GOL) 16:0-rel

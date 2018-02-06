@@ -1,0 +1,2 @@
+etri#doc_5880.txt 1 따지다 ----- 1:0-rel
+etri#doc_5880.txt 17 보다 ----- 1:1-ARGM-CND() 5:3-ARG1(THM) 16:7-ARGM-PRD(FNS) 17:0-rel

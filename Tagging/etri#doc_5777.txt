@@ -1,0 +1,5 @@
+etri#doc_5777.txt 2 튀다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5777.txt 12 받다 ----- 9:3-ARGM-CAU(EFF) 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_5777.txt 15 담기다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_5777.txt 18 전하다 ----- 17:2-ARG1() 18:0-rel
+etri#doc_5777.txt 19 말하다 ----- 13:3-ARG0(AGT) 18:3-ARG1(CNT) 19:0-rel

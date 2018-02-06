@@ -1,0 +1,2 @@
+etri#doc_2651.txt 17 따르다 ----- 16:3-ARG2(EFF) 17:0-rel
+etri#doc_2651.txt 20 표현하다 ----- 19:2-ARG1(THM) 20:0-rel

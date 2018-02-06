@@ -1,0 +1,2 @@
+etri#doc_5508.txt 8 명명하다 ----- 1:1-ARG0(AGT) 5:4-ARG1(THM) 6:1-ARGM-TMP() 7:1-ARG2(FNS) 8:0-rel
+etri#doc_5508.txt 19 경작하다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARGM-LOC() 14:4-ARG0(AGT) 16:2-ARGM-MNR(INS) 17:1-ARGM-MNR(INS) 18:1-ARG1(THM) 19:0-rel

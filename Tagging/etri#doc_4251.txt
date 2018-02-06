@@ -1,0 +1,4 @@
+etri#doc_4251.txt 10 요구하다 ----- 7:2-ARGM-TMP(SRC) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4251.txt 11 거듭되다 ----- 11:0-rel
+etri#doc_4251.txt 15 악화되다 ----- 12:2-ARGM-CAU(EFF) 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_4251.txt 16 전해지다 ----- 5:4-ARG1(THM) 15:2-ARG1() 16:0-rel

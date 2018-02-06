@@ -1,0 +1,3 @@
+etri#doc_3754.txt 3 터뜨리다 ----- 1:1-ARG0(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_3754.txt 6 지나가다 ----- 5:2-ARGM-NEG() 6:0-rel
+etri#doc_3754.txt 15 피다 ----- 13:1-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel

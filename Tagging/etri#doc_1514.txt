@@ -1,0 +1,3 @@
+etri#doc_1514.txt 5 ¾ñ´Ù ----- 1:1-ARGM-TMP() 3:2-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_1514.txt 11 ½ñ´Ù ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1514.txt 12 ±â¸£´Ù ----- 8:1-ARG0(AGT) 9:1-ARGM-MNR() 11:2-ARGM-DIS() 12:0-rel

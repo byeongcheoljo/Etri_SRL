@@ -1,0 +1,4 @@
+etri#doc_11573.txt 6 전하다 ----- 5:1-ARGM-TMP() 6:0-rel
+etri#doc_11573.txt 11 끊어지다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_11573.txt 14 살아나다 ----- 4:3-ARGM-CND(EFF) 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11573.txt 15 보다 ----- 14:2-ARG1() 15:0-rel

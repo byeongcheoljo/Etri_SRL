@@ -1,0 +1,3 @@
+etri#doc_1858.txt 5 æÚ¥Ÿ ----- 2:1-ARG0(AGT) 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_1858.txt 8 ¿Ã∑Ë«œ¥Ÿ ----- 7:2-ARGM-ADV(FNS) 8:0-rel
+etri#doc_1858.txt 15 ¿’¥Ÿ ----- 13:1-ARGM-EXT() 14:1-ARGM-EXT() 15:0-rel

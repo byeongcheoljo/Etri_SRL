@@ -1,0 +1,4 @@
+etri#doc_7012.txt 5 수행하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_7012.txt 12 전달하다 ----- 2:1-ARG0(AGT) 5:2-ARGM-PRP() 6:1-ARGM-INS(INS) 8:2-ARG1(THM) 11:3-ARGM-DIS() 12:0-rel
+etri#doc_7012.txt 16 침해하다 ----- 13:1-ARGM-CND() 15:2-ARG1(THM) 16:0-rel
+etri#doc_7012.txt 18 커지다 ----- 1:1-ARGM-DIS() 12:4-ARGM-CAU() 17:4-ARG1(THM) 18:0-rel

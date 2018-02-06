@@ -1,0 +1,4 @@
+etri#doc_11380.txt 2 대하다 ----- 1:1-ARGM-DIS(CNT) 2:0-rel
+etri#doc_11380.txt 8 가공하다 ----- 7:3-ARGM-MNR(FNS) 8:0-rel
+etri#doc_11380.txt 10 발전되다 ----- 9:1-ARGM-EXT() 10:0-rel
+etri#doc_11380.txt 13 제시하다 ----- 2:2-ARGM-ADV() 4:2-ARGM-ADV(EFF) 8:4-ARGM-ADV() 11:3-ARGM-MNR(INS) 12:1-ARG1(THM) 13:0-rel

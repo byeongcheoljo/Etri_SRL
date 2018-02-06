@@ -1,0 +1,6 @@
+etri#doc_8732.txt 5 수발하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_8732.txt 7 챙기다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_8732.txt 9 팔리다 ----- 3:1-ARG1(THM) 7:2-ARG2() 8:1-ARG1(THM) 9:0-rel
+etri#doc_8732.txt 11 알다 ----- 2:2-ARGM-DIS() 9:2-ARG1() 10:1-ARG0(MAG) 11:0-rel
+etri#doc_8732.txt 14 시키다 ----- 12:3-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_8732.txt 15 대들다 ----- 14:2-ARG1() 15:0-rel

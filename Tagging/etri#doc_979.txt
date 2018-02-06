@@ -1,0 +1,4 @@
+etri#doc_979.txt 3 배다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_979.txt 10 씹히다 ----- 9:2-ARGM-MNR() 10:0-rel
+etri#doc_979.txt 15 퍼지다 ----- 13:1-ARG2(LOC) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_979.txt 19 좋아지다 ----- 5:4-ARGM-DIS() 12:5-ARGM-DIS() 17:2-ARGM-CAU(EFF) 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8191.txt 5 순교하다 ----- 4:3-ARGM-PRP(PUR) 5:0-rel
+etri#doc_8191.txt 13 인정되다 ----- 11:3-ARGM-MNR(FNS) 12:1-ARG1() 13:0-rel
+etri#doc_8191.txt 15 격리되다 ----- 8:2-() 14:3-ARG2(SRC) 15:0-rel

@@ -1,0 +1,5 @@
+etri#doc_2904.txt 7 탓하다 ----- 3:1-ARGM-EXT(CRT) 4:1-ARGM-EXT() 5:1-ARGM-EXT() 6:1-ARG1(THM) 7:0-rel
+etri#doc_2904.txt 9 생각하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_2904.txt 12 지다 ----- 10:1-() 11:1-ARG1(Npr) 12:0-rel
+etri#doc_2904.txt 16 돌다 ----- 13:3-ARGM-EXT(CRT) 14:1-ARGM-TMP() 15:1-ARG1(LOC) 16:0-rel
+etri#doc_2904.txt 18 들어오다 ----- 2:2-ARG0(AGT) 9:4-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG3(GOL) 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7971.txt 5 배제하다 ----- 1:1-ARG0(AGT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_7971.txt 14 옹호하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_7971.txt 16 되다 ----- 5:3-ARGM-DIS() 10:2-ARG1() 11:1-ARGM-MNR() 15:4-ARG2(FNS) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6592.txt 2 생성하다 ----- 1:1-ARGM-INS(INS) 2:0-rel
+etri#doc_6592.txt 9 찾아가다 ----- 7:2-ARGM-DIR(DIR) 8:1-ARG1(THM) 9:0-rel
+etri#doc_6592.txt 18 되살리다 ----- 2:2-ARGM-PRP() 9:2-ARGM-DIS() 14:2-ARGM-LOC(LOC) 17:3-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1146.txt 10 맞다 ----- 9:3-ARGM-LOC(LOC) 10:0-rel
+etri#doc_1146.txt 12 심다 ----- 6:3-ARG1(THM) 11:5-ARGM-LOC(LOC) 12:0-rel
+etri#doc_1146.txt 14 배치하다 ----- 12:6-ARGM-DIS() 13:1-ARGM-LOC() 14:0-rel
+etri#doc_1146.txt 16 두다 ----- 3:2-ARGM-TMP() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

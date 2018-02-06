@@ -1,0 +1,2 @@
+etri#doc_2414.txt 7 설치되다 ----- 3:1-() 6:3-() 7:0-rel
+etri#doc_2414.txt 17 제공하다 ----- 2:2-ARG0() 7:4-ARGM-DIS() 12:5-ARG0() 16:3-ARG1(THM) 17:0-rel

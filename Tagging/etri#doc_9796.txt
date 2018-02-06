@@ -1,0 +1,6 @@
+etri#doc_9796.txt 5 강화되다 ----- 5:0-rel
+etri#doc_9796.txt 6 개방되다 ----- 4:1-ARGM-MNR(INS) 5:1-ARGM-DIS() 6:0-rel
+etri#doc_9796.txt 11 업히다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_9796.txt 12 수입되다 ----- 9:2-ARG1(THM) 11:2-ARGM-MNR() 12:0-rel
+etri#doc_9796.txt 16 위협하다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_9796.txt 19 가지다 ----- 18:2-ARG1(THM) 19:0-rel

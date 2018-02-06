@@ -1,0 +1,4 @@
+etri#doc_5093.txt 3 쌓다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_5093.txt 9 잃어버리다 ----- 4:3-ARG1(THM) 7:3-ARGM-LOC(LOC) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_5093.txt 11 벌어들이다 ----- 10:1-ARG0(AGT) 11:0-rel
+etri#doc_5093.txt 19 인식시키다 ----- 1:1-ARGM-DIS() 9:2-ARGM-CND() 17:5-ARG1(THM) 18:1-ARG1(GOL) 19:0-rel

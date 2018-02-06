@@ -1,0 +1,7 @@
+etri#doc_8985.txt 2 만들다 ----- 1:1-ARGM-INS(INS) 2:0-rel
+etri#doc_8985.txt 5 야위다 ----- 5:0-rel
+etri#doc_8985.txt 8 하다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_8985.txt 11 걸터앉다 ----- 4:4-ARGM-LOC(LOC) 10:2-ARG0(AGT) 11:0-rel
+etri#doc_8985.txt 14 끼다 ----- 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_8985.txt 17 건지다 ----- 11:3-ARGM-MNR() 15:3-ARG2(SRC) 16:1-ARG1(THM) 17:0-rel
+etri#doc_8985.txt 19 씹다 ----- 17:2-ARGM-MNR() 18:1-ARGM-MNR() 19:0-rel

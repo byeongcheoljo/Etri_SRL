@@ -1,0 +1,4 @@
+etri#doc_2668.txt 2 실리다 ----- 1:1-() 2:0-rel
+etri#doc_2668.txt 9 그치다 ----- 4:4-ARGM-ADV(EFF) 5:1-ARG1(AGT) 7:2-ARGM-DIS() 8:1-ARGM-ADV(EFF) 9:0-rel
+etri#doc_2668.txt 14 만연되다 ----- 11:2-() 13:2-() 14:0-rel
+etri#doc_2668.txt 15 말하다 ----- 9:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

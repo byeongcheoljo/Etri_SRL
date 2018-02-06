@@ -1,0 +1,1 @@
+etri#doc_8693.txt 15 ÀÐ´Ù ----- 11:1-ARGM-LOC(LOC) 12:1-ARGM-TMP(LOC) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_602.txt 4 표방하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_602.txt 9 확보하다 ----- 5:3-ARG0(AGT) 6:1-ARGM-INS(INS) 8:2-ARG1(THM) 9:0-rel

@@ -1,0 +1,4 @@
+etri#doc_13137.txt 5 방지하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_13137.txt 8 강화시키다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_13137.txt 9 위하다 ----- 6:4-ARGM-DIS() 8:2-ARGM-DIS() 9:0-rel
+etri#doc_13137.txt 17 도입하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 14:3-ARGM-MNR() 15:1-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel

@@ -1,0 +1,6 @@
+etri#doc_7413.txt 2 말하다 ----- 1:1-ARGM-DIS() 2:0-rel
+etri#doc_7413.txt 5 되다 ----- 2:2-ARGM-DIS() 3:1-ARG2(Npr) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_7413.txt 6 어찌하다 ----- 6:0-rel
+etri#doc_7413.txt 11 하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7413.txt 18 보다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_7413.txt 20 솟구치다 ----- 16:3-ARG0(AGT) 18:2-ARGM-DIS() 19:1-ARGM-DIS() 20:0-rel

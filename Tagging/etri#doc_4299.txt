@@ -1,0 +1,5 @@
+etri#doc_4299.txt 9 비교하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4299.txt 12 찾다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_4299.txt 16 암시하다 ----- 6:3-ARGM-LOC(LOC) 12:3-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel
+etri#doc_4299.txt 22 되다 ----- 17:5-ARG1(THM) 18:1-ARG1(GOL) 21:3-ARG2(FNS) 22:0-rel
+etri#doc_4299.txt 23 생각하다 ----- 3:3-ARGM-DIS() 22:4-ARG1() 23:0-rel

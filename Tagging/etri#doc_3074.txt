@@ -1,0 +1,4 @@
+etri#doc_3074.txt 8 되다 ----- 2:1-ARGM-TMP() 5:3-ARGM-TMP(LOC) 6:1-ARG2(FNS) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_3074.txt 11 벗어나다 ----- 9:1-ARG0(AGT) 10:1-ARG1(SRC) 11:0-rel
+etri#doc_3074.txt 14 신장하다 ----- 8:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_3074.txt 18 실시되다 ----- 1:1-ARG1(THM) 14:2-ARGM-DIS() 16:2-ARGM-CAU(CNT) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8148.txt 7 차지하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-MNR() 6:3-ARG1(THM) 7:0-rel
+etri#doc_8148.txt 12 의미하다 ----- 7:4-ARG1() 8:1-ARGM-TMP() 11:3-ARG2(THM) 12:0-rel
+etri#doc_8148.txt 14 용납되다 ----- 12:4-ARGM-CAU() 13:1-ARGM-DIS() 14:0-rel
+etri#doc_8148.txt 18 추방당하다 ----- 14:2-ARGM-DIS() 15:1-ARGM-CND() 16:1-ARG1(THM) 17:1-ARG2(SRC) 18:0-rel

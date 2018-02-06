@@ -1,0 +1,1 @@
+etri#doc_8381.txt 17 ¸Â´Ù ----- 7:4-ARGM-CAU() 9:2-ARGM-DIS(CNT) 12:2-ARG1(AGT) 13:1-ARGM-TMP() 16:3-ARG2(THM) 17:0-rel

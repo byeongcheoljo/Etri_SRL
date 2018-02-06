@@ -1,0 +1,4 @@
+etri#doc_1284.txt 6 되살리다 ----- 4:2-ARG1(THM) 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_1284.txt 9 잇다 ----- 1:1-ARG0(THM) 6:2-ARGM-MNR() 8:2-ARG1(THM) 9:0-rel
+etri#doc_1284.txt 14 개최하다 ----- 11:1-ARGM-TMP(LOC) 12:1-ARG2(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_1284.txt 18 높이다 ----- 15:3-ARG0(EFF) 17:2-ARG1(THM) 18:0-rel

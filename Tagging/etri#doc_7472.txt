@@ -1,0 +1,5 @@
+etri#doc_7472.txt 4 파견되다 ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_7472.txt 9 가지다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7472.txt 10 오다 ----- 9:4-ARGM-DIS() 10:0-rel
+etri#doc_7472.txt 16 교환하다 ----- 15:5-ARG2(COM) 16:0-rel
+etri#doc_7472.txt 17 요구하다 ----- 1:1-ARGM-TMP(LOC) 5:4-ARG0(AGT) 10:5-ARGM-DIS() 16:6-ARG1() 17:0-rel

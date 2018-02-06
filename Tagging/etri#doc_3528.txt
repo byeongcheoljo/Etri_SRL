@@ -1,0 +1,2 @@
+etri#doc_3528.txt 15 피하다 ----- 15:0-rel
+etri#doc_3528.txt 17 다가오다 ----- 9:3-ARGM-MNR(INS) 12:2-ARGM-DIS() 13:1-ARGM-TMP() 14:1-ARG0(THM) 16:2-ARGM-TMP(GOL) 17:0-rel

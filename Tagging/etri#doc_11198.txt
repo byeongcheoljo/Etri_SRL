@@ -1,0 +1,5 @@
+etri#doc_11198.txt 4 긁다 ----- 3:2-ARGM-INS(INS) 4:0-rel
+etri#doc_11198.txt 5 긁히다 ----- 4:3-ARGM-CND() 5:0-rel
+etri#doc_11198.txt 8 되다 ----- 7:2-ARGM-MNR(INS) 8:0-rel
+etri#doc_11198.txt 15 담그다 ----- 14:1-ARG2(GOL) 15:0-rel
+etri#doc_11198.txt 18 되다 ----- 1:1-ARG1(THM) 9:4-ARGM-DIS() 13:3-ARGM-MNR() 15:2-ARGM-TMP() 16:1-ARG1(THM) 17:1-ARG2(CRT) 18:0-rel

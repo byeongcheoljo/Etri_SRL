@@ -1,0 +1,4 @@
+etri#doc_3944.txt 6 빚다 ----- 3:2-ARG0(AGT) 4:1-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_3944.txt 9 미치다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_3944.txt 12 인정하다 ----- 6:2-ARGM-DIS() 11:5-ARG1(THM) 12:0-rel
+etri#doc_3944.txt 13 주장하다 ----- 1:1-ARG0(AGT) 12:6-ARG1(CNT) 13:0-rel

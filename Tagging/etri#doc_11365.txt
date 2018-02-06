@@ -1,0 +1,5 @@
+etri#doc_11365.txt 3 방치하다 ----- 2:2-ARGM-TMP() 3:0-rel
+etri#doc_11365.txt 8 무너지다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11365.txt 10 돋아나다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11365.txt 12 부서지다 ----- 11:1-ARG1() 12:0-rel
+etri#doc_11365.txt 16 널리다 ----- 6:3-ARGM-LOC(LOC) 8:2-ARGM-DIS() 10:2-ARGM-TMP() 14:4-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

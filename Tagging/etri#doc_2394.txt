@@ -1,0 +1,7 @@
+etri#doc_2394.txt 2 예방하다 ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_2394.txt 5 미끄러지다 ----- 4:2-() 5:0-rel
+etri#doc_2394.txt 9 착용하다 ----- 5:3-() 8:3-() 9:0-rel
+etri#doc_2394.txt 10 미끄러지다 ----- 10:0-rel
+etri#doc_2394.txt 13 잡다 ----- 10:1-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_2394.txt 16 주다 ----- 14:1-ARGM-ADV(EFF) 15:1-ARG1(THM) 16:0-rel
+etri#doc_2394.txt 19 피하다 ----- 2:2-ARGM-CND() 9:4-ARGM-DIS() 13:2-ARGM-PRP() 18:2-ARG0() 19:0-rel

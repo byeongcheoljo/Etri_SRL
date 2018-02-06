@@ -1,0 +1,4 @@
+etri#doc_6738.txt 4 소요되다 ----- 3:3-ARG2(LOC) 4:0-rel
+etri#doc_6738.txt 6 감당하다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_6738.txt 9 늘리다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_6738.txt 12 말하다 ----- 11:5-ARG1() 12:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5258.txt 12 설정되다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_5258.txt 15 치다 ----- 4:3-ARGM-DIS() 12:4-ARGM-CND() 14:2-ARG1(Npr) 15:0-rel

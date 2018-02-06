@@ -1,0 +1,6 @@
+etri#doc_3141.txt 3 알다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_3141.txt 4 지나치다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_3141.txt 7 지나치다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_3141.txt 13 경계하다 ----- 11:1-ARG0(AGT) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_3141.txt 15 조장하다 ----- 8:3-ARG0(EFF) 10:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel
+etri#doc_3141.txt 19 되돌아보다 ----- 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

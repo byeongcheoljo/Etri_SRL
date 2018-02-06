@@ -1,0 +1,5 @@
+etri#doc_4703.txt 6 확대시키다 ----- 4:2-ARG1(THM) 5:1-ARGM-MNR(INS) 6:0-rel
+etri#doc_4703.txt 8 가지다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_4703.txt 9 원하다 ----- 9:0-rel
+etri#doc_4703.txt 13 실현시키다 ----- 9:1-ARGM-CND() 12:2-ARG1(THM) 13:0-rel
+etri#doc_4703.txt 15 가지다 ----- 1:1-ARG0(LOC) 8:4-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

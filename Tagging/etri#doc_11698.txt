@@ -1,0 +1,4 @@
+etri#doc_11698.txt 3 제정되다 ----- 2:1-ARGM-CAU(EFF) 3:0-rel
+etri#doc_11698.txt 6 체포당하다 ----- 6:0-rel
+etri#doc_11698.txt 7 구금당하다 ----- 5:1-ARGM-MNR(INS) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_11698.txt 16 두다 ----- 4:3-ARG0(AGT) 13:3-ARGM-INS(INS) 15:2-ARG1(THM) 16:0-rel

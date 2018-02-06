@@ -1,0 +1,2 @@
+etri#doc_8368.txt 11 발달하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_8368.txt 16 분화되다 ----- 15:1-ARGM-MNR() 16:0-rel

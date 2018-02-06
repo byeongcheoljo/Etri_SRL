@@ -1,0 +1,2 @@
+etri#doc_6535.txt 2 해방되다 ----- 1:1-ARGM-LOC(SRC) 2:0-rel
+etri#doc_6535.txt 16 집중시키다 ----- 4:2-ARG0(AGT) 9:3-ARGM-LOC(LOC) 11:2-ARG1(THM) 15:3-ARG2(GOL) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_4347.txt 12 공양하다 ----- 5:2-ARGM-TMP() 7:2-ARG2(GOL) 11:4-ARG1(THM) 12:0-rel
+etri#doc_4347.txt 17 켜다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_4347.txt 19 열다 ----- 3:3-ARG0(AGT) 12:5-ARGM-DIS() 13:1-ARGM-TMP(LOC) 14:1-ARGM-DIS() 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4351.txt 2 보다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_4351.txt 6 해당되다 ----- 5:2-ARG2(CRT) 6:0-rel
+etri#doc_4351.txt 10 해명하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_4351.txt 16 계승하다 ----- 16:0-rel
+etri#doc_4351.txt 17 혁신하다 ----- 15:2-ARG1(THM) 16:1-ARGM-DIS() 17:0-rel
+etri#doc_4351.txt 19 출발하다 ----- 13:6-ARG0(AGT) 18:3-ARG2(SRC) 19:0-rel

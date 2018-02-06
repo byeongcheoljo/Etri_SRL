@@ -1,0 +1,4 @@
+etri#doc_6119.txt 4 믿다 ----- 1:1-ARG0(MAG) 2:1-ARGM-MNR() 3:1-ARG1(CNT) 4:0-rel
+etri#doc_6119.txt 11 나타나다 ----- 9:2-ARGM-TMP(LOC) 10:1-ARGM-EXT(EFF) 11:0-rel
+etri#doc_6119.txt 13 사라지다 ----- 11:2-ARGM-DIS() 12:1-ARGM-LOC(SRC) 13:0-rel
+etri#doc_6119.txt 19 지나다 ----- 5:3-ARG0(AGT) 6:1-ARGM-DIS() 18:4-ARG2(CRT) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4317.txt 16 하다 ----- 10:2-ARGM-DIS() 14:3-ARGM-MNR(INS) 15:1-ARG1() 16:0-rel
+etri#doc_4317.txt 21 하다 ----- 16:2-ARGM-CND() 19:3-ARG1(THM) 20:1-ARGM-INS(INS) 21:0-rel
+etri#doc_4317.txt 23 서술하다 ----- 21:2-ARGM-DIS() 22:1-ARG1(THM) 23:0-rel
+etri#doc_4317.txt 25 지니다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 24:3-ARG1(THM) 25:0-rel

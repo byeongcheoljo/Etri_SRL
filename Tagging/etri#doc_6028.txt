@@ -1,0 +1,5 @@
+etri#doc_6028.txt 4 보다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6028.txt 6 주의하다 ----- 4:2-ARGM-DIS() 5:1-ARG0(MAG) 6:0-rel
+etri#doc_6028.txt 10 보다 ----- 8:2-ARGM-TMP(LOC) 9:1-ARG1() 10:0-rel
+etri#doc_6028.txt 15 보다 ----- 13:2-ARGM-TMP(LOC) 14:1-ARG1() 15:0-rel
+etri#doc_6028.txt 19 묻다 ----- 6:2-ARGM-CND() 18:2-ARG1(CNT) 19:0-rel

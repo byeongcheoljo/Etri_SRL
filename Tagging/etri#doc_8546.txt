@@ -1,0 +1,5 @@
+etri#doc_8546.txt 3 잡다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_8546.txt 5 뽑다 ----- 3:2-ARGM-DIS() 4:1-ARG1() 5:0-rel
+etri#doc_8546.txt 10 돌다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8546.txt 13 띠다 ----- 6:3-ARGM-LOC(LOC) 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_8546.txt 16 만지다 ----- 15:1-ARGM-DIS() 16:0-rel

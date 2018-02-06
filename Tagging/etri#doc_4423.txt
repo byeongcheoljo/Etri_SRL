@@ -1,0 +1,5 @@
+etri#doc_4423.txt 3 설득하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_4423.txt 5 가다 ----- 3:2-ARGM-TMP() 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_4423.txt 9 생기다 ----- 5:2-ARGM-DIS() 6:1-ARGM-DIS() 7:1-ARG2(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_4423.txt 13 들어가다 ----- 9:2-ARGM-DIS() 10:1-ARG0(THM) 12:2-ARG3(GOL) 13:0-rel
+etri#doc_4423.txt 15 죽다 ----- 13:3-ARGM-DIS() 14:1-ARGM-DIS() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_8610.txt 11 오다 ----- 4:2-ARGM-CAU(EFF) 5:1-ARGM-MNR() 7:2-ARG3(GOL) 9:2-ARG3(GOL) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_8610.txt 15 하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

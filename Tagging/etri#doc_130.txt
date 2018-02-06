@@ -1,0 +1,1 @@
+etri#doc_130.txt 5 가중되다 ----- 2:2-ARG1(THM) 4:2-ARGM-NEG() 5:0-rel

@@ -1,0 +1,2 @@
+etri#doc_155.txt 7 표기하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_155.txt 14 이용되다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 5:2-ARGM-EXT(CRT) 11:2-ARG2(GOL) 13:2-ARGM-MNR(INS) 14:0-rel

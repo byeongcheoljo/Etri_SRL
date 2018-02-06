@@ -1,0 +1,5 @@
+etri#doc_4396.txt 4 »Ñ¸®´Ù ----- 3:2-ARGM-EXT() 4:0-rel
+etri#doc_4396.txt 7 »Ñ¸®´Ù ----- 1:1-ARG1(THM) 4:3-ARGM-DIS() 6:2-ARGM-EXT() 7:0-rel
+etri#doc_4396.txt 8 ¾ÈµÇ´Ù ----- 7:3-ARGM-DIS() 8:0-rel
+etri#doc_4396.txt 14 ±ú´Ý´Ù ----- 9:5-ARG1(THM) 12:2-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_4396.txt 16 ÀØÈ÷´Ù ----- 14:2-ARGM-CAU() 15:1-ARG1(THM) 16:0-rel

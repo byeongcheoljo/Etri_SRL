@@ -1,0 +1,3 @@
+etri#doc_3258.txt 5 의도하다 ----- 4:1-ARG0(EFF) 5:0-rel
+etri#doc_3258.txt 11 얻다 ----- 8:5-ARG2(SRC) 10:2-ARG1(THM) 11:0-rel
+etri#doc_3258.txt 16 추구하다 ----- 15:2-ARG1(THM) 16:0-rel

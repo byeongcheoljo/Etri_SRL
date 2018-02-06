@@ -1,0 +1,5 @@
+etri#doc_7081.txt 4 들어서다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7081.txt 5 두려워하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7081.txt 9 끌다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7081.txt 10 걷다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7081.txt 16 따라오다 ----- 12:2-ARGM-CAU() 13:1-ARG0(AGT) 14:1-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel

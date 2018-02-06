@@ -1,0 +1,2 @@
+etri#doc_2468.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_2468.txt 13 다루다 ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

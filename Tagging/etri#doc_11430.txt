@@ -1,0 +1,2 @@
+etri#doc_11430.txt 9 하다 ----- 8:2-ARG1(CNT) 9:0-rel
+etri#doc_11430.txt 15 보여주다 ----- 14:2-ARG1(THM) 15:0-rel

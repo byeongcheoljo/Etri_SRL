@@ -1,0 +1,4 @@
+etri#doc_1213.txt 2 간음하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_1213.txt 13 치다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_1213.txt 18 빠지다 ----- 17:2-ARG2(SRC) 18:0-rel
+etri#doc_1213.txt 25 부리다 ----- 15:1-ARG0(AGT) 18:3-ARGM-DIS() 24:2-ARGM-DIS() 25:0-rel

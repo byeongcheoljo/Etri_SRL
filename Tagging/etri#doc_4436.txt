@@ -1,0 +1,8 @@
+etri#doc_4436.txt 3 전념하다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_4436.txt 7 전수받다 ----- 7:0-rel
+etri#doc_4436.txt 10 치료하다 ----- 10:0-rel
+etri#doc_4436.txt 11 진단하다 ----- 8:2-ARGM-INS(INS) 9:1-ARG1(THM) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_4436.txt 12 죽다 ----- 12:0-rel
+etri#doc_4436.txt 13 살다 ----- 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4436.txt 14 예측하다 ----- 6:5-ARGM-TMP(LOC) 11:2-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_4436.txt 17 말씀드리다 ----- 1:1-ARGM-DIS() 16:2-ARG1() 17:0-rel

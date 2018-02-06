@@ -1,0 +1,5 @@
+etri#doc_3308.txt 3 표현하다 ----- 2:2-ARGM-MNR(INS) 3:0-rel
+etri#doc_3308.txt 5 내재하다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_3308.txt 8 고취하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3308.txt 12 제어하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_3308.txt 13 승화시키다 ----- 3:3-ARGM-CND() 9:4-ARGM-DIS() 12:3-ARGM-DIS() 13:0-rel

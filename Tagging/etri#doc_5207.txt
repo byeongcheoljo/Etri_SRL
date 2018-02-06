@@ -1,0 +1,3 @@
+etri#doc_5207.txt 13 소집하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_5207.txt 16 막다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_5207.txt 19 서두르다 ----- 1:1-ARGM-DIS() 8:5-ARG0(AGT) 13:5-ARGM-MNR() 18:5-ARG1(THM) 19:0-rel

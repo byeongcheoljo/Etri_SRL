@@ -1,0 +1,4 @@
+etri#doc_7545.txt 5 빌리다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7545.txt 7 설정하다 ----- 6:1-ARG0(AGT) 7:0-rel
+etri#doc_7545.txt 9 달성하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_7545.txt 17 이루다 ----- 2:2-ARGM-DIS() 5:3-ARGM-DIS() 13:4-ARG0(AGT) 16:3-ARG1(THM) 17:0-rel

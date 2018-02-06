@@ -1,0 +1,7 @@
+etri#doc_5584.txt 2 보다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_5584.txt 4 하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5584.txt 6 신고하다 ----- 5:1-ARG2(GOL) 6:0-rel
+etri#doc_5584.txt 7 보복하다 ----- 6:2-ARGM-CND() 7:0-rel
+etri#doc_5584.txt 10 주다 ----- 7:3-ARG1(CNT) 8:1-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5584.txt 15 적다 ----- 13:3-ARG1(THM) 14:1-ARG2(LOC) 15:0-rel
+etri#doc_5584.txt 16 잊다 ----- 2:2-ARGM-DIS() 4:2-ARGM-TMP() 10:2-ARGM-DIS() 15:2-ARG1() 16:0-rel

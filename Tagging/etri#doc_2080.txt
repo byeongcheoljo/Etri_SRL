@@ -1,0 +1,3 @@
+etri#doc_2080.txt 5 결정되다 ----- 4:1-() 5:0-rel
+etri#doc_2080.txt 12 보이다 ----- 9:2-() 11:2-() 12:0-rel
+etri#doc_2080.txt 15 유지하다 ----- 12:3-ARGM-DIS() 13:1-ARG2(INS) 14:1-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_401.txt 9 진출시키다 ----- 4:2-ARG1(THM) 7:3-ARG3(GOL) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_401.txt 11 극대화시키다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_401.txt 18 추진하다 ----- 9:2-ARGM-DIS() 11:2-ARGM-PRP() 16:5-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_401.txt 19 결정하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-INS(INS) 18:2-ARG2() 19:0-rel

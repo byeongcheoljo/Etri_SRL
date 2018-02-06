@@ -1,0 +1,2 @@
+etri#doc_7438.txt 11 추격하다 ----- 8:1-ARGM-TMP() 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7438.txt 17 처지다 ----- 16:5-ARGM-ADV(CRT) 17:0-rel

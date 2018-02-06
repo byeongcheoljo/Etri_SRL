@@ -1,0 +1,5 @@
+etri#doc_4553.txt 6 키우다 ----- 3:2-ARGM-INS(INS) 4:1-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_4553.txt 10 짓다 ----- 7:3-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:1-ARG1(FNS) 10:0-rel
+etri#doc_4553.txt 12 키우다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4553.txt 16 만들다 ----- 12:2-ARGM-DIS() 14:2-ARGM-INS(INS) 15:1-ARG1(THM) 16:0-rel
+etri#doc_4553.txt 18 모으다 ----- 1:1-ARG0(AGT) 10:2-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

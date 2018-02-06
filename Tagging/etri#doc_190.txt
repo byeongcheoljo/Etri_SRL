@@ -1,0 +1,5 @@
+etri#doc_190.txt 3 모으다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_190.txt 7 베다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_190.txt 8 흘리다 ----- 7:2-ARGM-MNR() 8:0-rel
+etri#doc_190.txt 12 울다 ----- 12:0-rel
+etri#doc_190.txt 13 흘리다 ----- 12:1-ARGM-MNR() 13:0-rel

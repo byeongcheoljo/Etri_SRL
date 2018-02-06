@@ -1,0 +1,4 @@
+etri#doc_7432.txt 5 중시하다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_7432.txt 9 제거하다 ----- 5:5-ARGM-DIS() 6:1-ARGM-MNR(INS) 8:2-ARG1(THM) 9:0-rel
+etri#doc_7432.txt 12 동감하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_7432.txt 21 하다 ----- 12:3-ARGM-MNR() 13:1-ARGM-DIS() 19:5-ARG1(THM) 20:1-ARGM-MNR() 21:0-rel

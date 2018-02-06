@@ -1,0 +1,3 @@
+etri#doc_1119.txt 5 살해되다 ----- 4:2-ARG0(THM) 5:0-rel
+etri#doc_1119.txt 10 적히다 ----- 2:2-ARGM-LOC(LOC) 6:4-ARGM-LOC(LOC) 9:3-ARG1(THM) 10:0-rel
+etri#doc_1119.txt 16 흩어지다 ----- 10:4-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-LOC(LOC) 14:1-ARGM-EXT() 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,7 @@
+etri#doc_352.txt 10 담다 ----- 8:4-ARG2(GOL) 9:1-ARG1(THM) 10:0-rel
+etri#doc_352.txt 13 자다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_352.txt 14 붙다 ----- 13:2-ARGM-CND() 14:0-rel
+etri#doc_352.txt 16 자다 ----- 15:1-ARGM-TMP() 16:0-rel
+etri#doc_352.txt 17 떨어지다 ----- 14:3-ARGM-DIS() 16:2-ARGM-CND() 17:0-rel
+etri#doc_352.txt 19 생기다 ----- 18:4-ARGM-CAU(CNT) 19:0-rel
+etri#doc_352.txt 21 하다 ----- 3:2-ARGM-CAU() 4:1-ARG0(AGT) 10:2-ARGM-DIS() 20:6-ARG1(THM) 21:0-rel

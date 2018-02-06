@@ -1,0 +1,5 @@
+etri#doc_11607.txt 6 타다 ----- 4:1-ARG1(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11607.txt 10 떠나다 ----- 3:3-ARG0(AGT) 6:2-ARGM-DIS() 9:3-ARG2(DIR) 10:0-rel
+etri#doc_11607.txt 13 받다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_11607.txt 15 떠나다 ----- 10:4-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARGM-PRP() 14:1-ARG2(DIR) 15:0-rel
+etri#doc_11607.txt 16 알려지다 ----- 15:2-ARG1() 16:0-rel

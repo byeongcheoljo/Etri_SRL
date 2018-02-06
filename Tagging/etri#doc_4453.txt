@@ -1,0 +1,4 @@
+etri#doc_4453.txt 4 차다 ----- 3:1-ARG2(INS) 4:0-rel
+etri#doc_4453.txt 7 건너다보다 ----- 5:3-ARGM-INS(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4453.txt 10 다물다 ----- 1:1-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4453.txt 14 다물다 ----- 11:1-ARG1(THM) 13:2-ARGM-MNR() 14:0-rel

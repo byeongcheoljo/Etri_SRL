@@ -1,0 +1,1 @@
+etri#doc_9512.txt 9 ¿­¸®´Ù ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-LOC(LOC) 8:3-ARG1(THM) 9:0-rel

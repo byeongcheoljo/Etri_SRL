@@ -1,0 +1,2 @@
+etri#doc_2347.txt 8 쓰다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP(EFF) 4:1-ARG0(AGT) 7:2-ARGM-MNR(EFF) 8:0-rel
+etri#doc_2347.txt 15 쓰다 ----- 13:1-ARGM-TMP() 14:1-ARG0(AGT) 15:0-rel

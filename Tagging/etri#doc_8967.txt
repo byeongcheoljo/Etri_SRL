@@ -1,0 +1,5 @@
+etri#doc_8967.txt 4 열리다 ----- 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_8967.txt 7 가결하다 ----- 5:3-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8967.txt 10 내리다 ----- 8:3-ARG1(Npr) 9:1-ARG2(GOL) 10:0-rel
+etri#doc_8967.txt 11 잘못되다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_8967.txt 14 하다 ----- 1:1-ARG0(AGT) 12:4-ARG1(THM) 13:1-ARG1(THM) 14:0-rel

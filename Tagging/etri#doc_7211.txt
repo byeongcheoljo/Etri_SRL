@@ -1,0 +1,4 @@
+etri#doc_7211.txt 4 보다 ----- 2:1-ARGM-MNR(FNS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_7211.txt 10 두다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7211.txt 14 장수하다 ----- 10:2-ARGM-DIS() 12:2-ARGM-EXT(CNT) 13:1-ARGM-DIS() 14:0-rel
+etri#doc_7211.txt 18 되다 ----- 6:4-ARGM-DIS() 8:2-ARG1(THM) 14:2-ARGM-DIS() 15:1-ARGM-TMP(LOC) 17:2-ARG2(FNS) 18:0-rel

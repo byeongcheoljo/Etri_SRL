@@ -1,0 +1,5 @@
+etri#doc_2823.txt 4 두르다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_2823.txt 6 섞이다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_2823.txt 10 요구하다 ----- 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2823.txt 14 나오다 ----- 12:1-ARGM-EXT() 13:1-ARGM-EXT() 14:0-rel
+etri#doc_2823.txt 18 일으키다 ----- 11:3-ARG0(EFF) 14:2-ARGM-DIS() 15:1-ARG2(GOL) 17:2-ARG1(THM) 18:0-rel

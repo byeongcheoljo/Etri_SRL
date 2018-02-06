@@ -1,0 +1,2 @@
+etri#doc_62.txt 12 발전하다 ----- 10:1-ARGM-TMP() 11:1-ARGM-EXT() 12:0-rel
+etri#doc_62.txt 19 나타나다 ----- 1:1-ARGM-DIS() 3:2-ARGM-TMP(SRC) 9:6-ARGM-REC(SRC) 14:4-ARGM-DIS() 18:3-ARG1(THM) 19:0-rel

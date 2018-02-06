@@ -1,0 +1,3 @@
+etri#doc_2392.txt 4 치료하다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_2392.txt 7 맞추다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_2392.txt 8 고정시키다 ----- 5:1-() 7:2-() 8:0-rel

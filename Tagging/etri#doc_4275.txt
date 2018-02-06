@@ -1,0 +1,6 @@
+etri#doc_4275.txt 4 벗기다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 4:0-rel
+etri#doc_4275.txt 7 통하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_4275.txt 9 묶다 ----- 5:1-ARG1(THM) 7:2-ARGM-EXT() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_4275.txt 11 놀리다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_4275.txt 13 견디다 ----- 11:2-ARGM-CND() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_4275.txt 14 하다 ----- 4:3-ARGM-DIS() 9:2-ARGM-DIS() 13:2-ARG1() 14:0-rel

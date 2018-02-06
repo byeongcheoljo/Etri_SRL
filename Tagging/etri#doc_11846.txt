@@ -1,0 +1,4 @@
+etri#doc_11846.txt 10 뒤지다 ----- 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_11846.txt 12 벌이다 ----- 7:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_11846.txt 15 비난하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_11846.txt 18 하다 ----- 12:2-ARGM-MNR() 13:1-ARG0(AGT) 17:4-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6277.txt 5 부르다 ----- 2:1-ARG1(THM) 3:1-() 4:1-ARG3(FNS) 5:0-rel
+etri#doc_6277.txt 8 살다 ----- 6:1-ARGM-TMP() 7:1-ARG2(LOC) 8:0-rel
+etri#doc_6277.txt 11 살다 ----- 10:4-ARG0(AGT) 11:0-rel
+etri#doc_6277.txt 16 붙다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 13:7-ARGM-CAU() 15:2-ARG0(THM) 16:0-rel

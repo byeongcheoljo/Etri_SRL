@@ -1,0 +1,2 @@
+etri#doc_7361.txt 14 È¹µæÇÏ´Ù ----- 11:2-ARGM-MNR() 13:2-ARG2(LOC) 14:0-rel
+etri#doc_7361.txt 18 »ý°¢ÇÏ´Ù ----- 5:4-ARGM-DIS(EFF) 7:2-ARG0(MAG) 9:2-ARG1(THM) 17:3-ARGM-DIS() 18:0-rel

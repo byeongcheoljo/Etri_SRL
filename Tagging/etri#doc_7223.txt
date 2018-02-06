@@ -1,0 +1,5 @@
+etri#doc_7223.txt 3 ¹Ï´Ù ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7223.txt 7 Ä¡´Ù ----- 3:2-ARGM-DIS() 5:2-ARGM-MNR(INS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_7223.txt 12 º¸´Ù ----- 1:1-ARG0(AGT) 7:2-ARGM-DIS() 8:1-ARGM-LOC(LOC) 10:2-ARG1(THM) 11:1-ARGM-INS() 12:0-rel
+etri#doc_7223.txt 15 µé´Ù ----- 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel
+etri#doc_7223.txt 18 Á×´Ù ----- 12:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG0(AGT) 17:1-ARGM-LOC(LOC) 18:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7298.txt 3 논하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7298.txt 9 가져오다 ----- 6:1-ARG0(AGT) 7:1-ARG2(GOL) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7298.txt 10 인정하다 ----- 9:2-ARG1() 10:0-rel
+etri#doc_7298.txt 13 내세우다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_7298.txt 16 지적하다 ----- 5:2-ARG0(AGT) 10:3-ARGM-DIS() 13:3-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7510.txt 5 들어오다 ----- 3:2-ARGM-LOC(LOC) 4:1-ARGM-TMP() 5:0-rel
+etri#doc_7510.txt 9 지나다 ----- 1:1-ARG0(AGT) 5:2-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_7510.txt 11 빌리다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7510.txt 16 짓다 ----- 13:2-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel
+etri#doc_7510.txt 17 마련하다 ----- 9:2-ARGM-DIS() 11:2-ARGM-DIS() 16:2-ARGM-MNR() 17:0-rel

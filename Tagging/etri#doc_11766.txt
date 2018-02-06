@@ -1,0 +1,5 @@
+etri#doc_11766.txt 5 만들다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_11766.txt 6 제시하다 ----- 5:4-ARGM-PRP() 6:0-rel
+etri#doc_11766.txt 11 생각되다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_11766.txt 13 선정하다 ----- 12:4-ARG1(THM) 13:0-rel
+etri#doc_11766.txt 16 만들다 ----- 13:5-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel

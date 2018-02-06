@@ -1,0 +1,5 @@
+etri#doc_7566.txt 6 다하다 ----- 1:1-ARG0(THM) 2:1-ARGM-MNR() 3:1-ARGM-PRP(PUR) 5:2-ARG1(THM) 6:0-rel
+etri#doc_7566.txt 7 알다 ----- 6:3-ARGM-MNR() 7:0-rel
+etri#doc_7566.txt 13 강구하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_7566.txt 16 다하다 ----- 14:5-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_7566.txt 18 안다 ----- 7:4-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

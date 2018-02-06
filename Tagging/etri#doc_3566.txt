@@ -1,0 +1,3 @@
+etri#doc_3566.txt 11 즐기다 ----- 9:1-ARGM-TMP(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3566.txt 13 예약하다 ----- 8:3-ARGM-DIS() 11:2-ARGM-PRP() 12:1-ARGM-TMP(LOC) 13:0-rel
+etri#doc_3566.txt 14 하다 ----- 3:3-ARG0(AGT) 13:2-ARG1(CNT) 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5380.txt 6 회복하다 ----- 2:1-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_5380.txt 11 빠지다 ----- 10:2-ARG2(GOL) 11:0-rel
+etri#doc_5380.txt 17 업신여기다 ----- 11:3-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_5380.txt 22 깨닫다 ----- 21:2-ARGM-DIS() 22:0-rel

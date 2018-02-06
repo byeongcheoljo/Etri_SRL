@@ -1,0 +1,6 @@
+etri#doc_4186.txt 6 풀려나다 ----- 5:1-ARG2(SRC) 6:0-rel
+etri#doc_4186.txt 8 들르다 ----- 6:2-ARGM-TMP() 7:1-ARG1(GOL) 8:0-rel
+etri#doc_4186.txt 10 쟁취하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4186.txt 11 계속하다 ----- 11:0-rel
+etri#doc_4186.txt 12 싸우다 ----- 10:2-ARGM-TMP() 11:1-ARGM-DIS() 12:0-rel
+etri#doc_4186.txt 14 다짐하다 ----- 1:1-ARGM-TMP() 4:3-ARG0(AGT) 8:2-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel

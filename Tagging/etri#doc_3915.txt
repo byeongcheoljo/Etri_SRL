@@ -1,0 +1,1 @@
+etri#doc_3915.txt 13 부여하다 ----- 9:2-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel

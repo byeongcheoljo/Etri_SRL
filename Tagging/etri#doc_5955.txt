@@ -1,0 +1,2 @@
+etri#doc_5955.txt 4 안다 ----- 3:1-ARG0(EXP) 4:0-rel
+etri#doc_5955.txt 16 다루다 ----- 2:2-ARGM-LOC(LOC) 9:2-ARG1(THM) 14:2-ARGM-INS(INS) 15:1-ARGM-MNR(INS) 16:0-rel

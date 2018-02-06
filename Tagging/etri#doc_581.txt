@@ -1,0 +1,2 @@
+etri#doc_581.txt 10 삼다 ----- 5:1-ARG1(THM) 9:3-ARG2(FNS) 10:0-rel
+etri#doc_581.txt 14 기여하다 ----- 4:3-ARGM-CAU() 10:4-ARGM-DIS() 12:2-ARG1(GOL) 13:1-ARGM-MNR() 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2400.txt 2 알리다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2400.txt 8 건너뛰다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_2400.txt 11 명명하다 ----- 6:6-ARGM-PRD(INS) 8:2-ARGM-DIS() 10:2-ARG2() 11:0-rel

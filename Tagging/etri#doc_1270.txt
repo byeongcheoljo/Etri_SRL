@@ -1,0 +1,2 @@
+etri#doc_1270.txt 6 향유하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_1270.txt 15 제기하다 ----- 2:1-ARGM-TMP() 13:3-ARGM-ADV(EFF) 14:1-ARG0(AGT) 15:0-rel

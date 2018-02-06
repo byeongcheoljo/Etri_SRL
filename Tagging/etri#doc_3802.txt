@@ -1,0 +1,3 @@
+etri#doc_3802.txt 15 읽다 ----- 14:1-ARGM-MNR() 15:0-rel
+etri#doc_3802.txt 16 존중하다 ----- 13:2-ARG1(THM) 15:2-ARGM-DIS() 16:0-rel
+etri#doc_3802.txt 20 보다 ----- 2:2-ARG1(THM) 3:1-ARG0(AGT) 19:3-ARGM-DIS() 20:0-rel

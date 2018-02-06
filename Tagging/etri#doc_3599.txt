@@ -1,0 +1,4 @@
+etri#doc_3599.txt 4 항의하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3599.txt 8 뿌리다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3599.txt 10 붙이다 ----- 2:1-ARG0(AGT) 4:2-ARGM-DIS() 6:2-ARG2(GOL) 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3599.txt 14 전소되다 ----- 1:1-ARGM-TMP(LOC) 10:2-ARGM-CAU() 13:3-ARG1(THM) 14:0-rel

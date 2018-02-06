@@ -1,0 +1,5 @@
+etri#doc_2598.txt 5 저지르다 ----- 4:1-ARGM-EXT() 5:0-rel
+etri#doc_2598.txt 11 썩다 ----- 11:0-rel
+etri#doc_2598.txt 13 죽다 ----- 13:0-rel
+etri#doc_2598.txt 17 병들다 ----- 17:0-rel
+etri#doc_2598.txt 23 하다 ----- 19:3-ARGM-DIS() 21:2-ARG0() 22:1-ARGM-EXT() 23:0-rel

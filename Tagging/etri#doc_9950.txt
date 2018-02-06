@@ -1,0 +1,2 @@
+etri#doc_9950.txt 10 쓰이다 ----- 7:3-ARGM-DIS() 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_9950.txt 16 앓다 ----- 13:3-ARGM-DIS() 14:1-ARGM-ADV() 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,1 @@
+etri#doc_3682.txt 14 ³ª´Ù ----- 4:2-ARGM-CAU() 8:4-ARGM-LOC(LOC) 10:2-ARG1(THM) 11:1-ARG2(COM) 12:1-ARGM-EXT() 13:1-ARG1(Npr) 14:0-rel

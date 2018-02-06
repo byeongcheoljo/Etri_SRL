@@ -1,0 +1,2 @@
+etri#doc_11003.txt 5 이루어지다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_11003.txt 15 대두되다 ----- 12:3-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

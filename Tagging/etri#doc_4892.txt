@@ -1,0 +1,4 @@
+etri#doc_4892.txt 4 만들다 ----- 1:1-ARG1(THM) 3:2-ARGM-INS(INS) 4:0-rel
+etri#doc_4892.txt 10 일으키다 ----- 6:1-ARGM-MNR() 7:1-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_4892.txt 11 설명하다 ----- 10:3-ARG1() 11:0-rel
+etri#doc_4892.txt 12 느끼다 ----- 4:3-ARGM-CAU() 5:1-ARG0(EXP) 11:4-ARG1() 12:0-rel

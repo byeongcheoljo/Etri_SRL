@@ -1,0 +1,3 @@
+etri#doc_652.txt 3 읽다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_652.txt 9 자라다 ----- 9:0-rel
+etri#doc_652.txt 16 쌓이다 ----- 15:2-ARGM-LOC(LOC) 16:0-rel

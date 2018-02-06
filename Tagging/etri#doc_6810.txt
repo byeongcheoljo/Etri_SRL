@@ -1,0 +1,5 @@
+etri#doc_6810.txt 5 회복하다 ----- 2:2-ARGM-TMP() 3:1-ARGM-TMP() 4:1-ARG1(THM) 5:0-rel
+etri#doc_6810.txt 10 보다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6810.txt 12 듣다 ----- 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6810.txt 18 사랑하다 ----- 17:1-ARGM-EXT() 18:0-rel
+etri#doc_6810.txt 21 불러들이다 ----- 6:3-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-TMP() 16:2-ARG1(THM) 18:2-ARGM-CAU() 19:1-ARGM-TMP() 20:1-ARG2(GOL) 21:0-rel

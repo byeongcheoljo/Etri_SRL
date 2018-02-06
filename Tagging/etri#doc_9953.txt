@@ -1,0 +1,6 @@
+etri#doc_9953.txt 3 확립되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9953.txt 7 의미하다 ----- 4:4-ARG1(EFF) 5:1-ARGM-DIS() 6:1-ARG2(THM) 7:0-rel
+etri#doc_9953.txt 11 부상하다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_9953.txt 13 이르다 ----- 11:2-ARG1(THM) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_9953.txt 20 변하다 ----- 19:1-ARGM-MNR() 20:0-rel
+etri#doc_9953.txt 22 적응하다 ----- 7:2-ARGM-DIS() 13:2-ARGM-DIS() 17:3-ARGM-DIS() 18:1-ARG1(AGT) 21:3-ARG2(LOC) 22:0-rel

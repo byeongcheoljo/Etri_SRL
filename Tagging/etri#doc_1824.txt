@@ -1,0 +1,1 @@
+etri#doc_1824.txt 20 µÇ´Ù ----- 1:1-ARGM-TMP(LOC) 16:4-ARGM-DIS() 17:1-ARG3(GOL) 18:1-ARGM-EXT() 19:1-ARG2(FNS) 20:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2152.txt 6 맞추다 ----- 1:1-ARGM-EXT() 3:2-ARG0(AGT) 4:1-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_2152.txt 10 맞추다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP(EFF) 8:1-ARGM-TMP(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2152.txt 12 둘러싸다 ----- 11:1-ARG1(LOC) 12:0-rel

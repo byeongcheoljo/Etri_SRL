@@ -1,0 +1,2 @@
+etri#doc_2723.txt 15 하다 ----- 4:4-ARGM-DIS() 7:3-ARG0(THM) 11:3-ARGM-PRP(PUR) 12:1-ARGM-TMP() 14:2-ARG1(FNS) 15:0-rel
+etri#doc_2723.txt 17 외치다 ----- 15:3-ARG1(CNT) 16:1-ARG0(AGT) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9273.txt 6 예상하다 ----- 3:1-ARGM-CAU(EFF) 5:2-ARG1(THM) 6:0-rel
+etri#doc_9273.txt 8 맞추다 ----- 6:3-ARGM-DIS() 7:1-ARG2(CRT) 8:0-rel
+etri#doc_9273.txt 9 입원하다 ----- 8:2-ARGM-MNR() 9:0-rel
+etri#doc_9273.txt 12 예상하다 ----- 2:2-ARG0(MAG) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARG1(THM) 12:0-rel

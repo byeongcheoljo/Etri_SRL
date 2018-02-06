@@ -1,0 +1,2 @@
+etri#doc_8609.txt 10 대비시키다 ----- 5:1-ARGM-TMP(LOC) 7:2-ARG1(THM) 8:1-ARGM-MNR(FNS) 9:1-ARG1(GOL) 10:0-rel
+etri#doc_8609.txt 13 정의되다 ----- 4:3-ARG1(THM) 11:3-ARG1(THM) 12:1-ARGM-TMP() 13:0-rel

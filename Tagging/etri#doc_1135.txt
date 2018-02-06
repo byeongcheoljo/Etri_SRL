@@ -1,0 +1,5 @@
+etri#doc_1135.txt 1 썩다 ----- 1:0-rel
+etri#doc_1135.txt 3 살다 ----- 3:0-rel
+etri#doc_1135.txt 6 바꾸다 ----- 2:2-ARG1(THM) 5:2-ARG3(GOL) 6:0-rel
+etri#doc_1135.txt 10 옮기다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1135.txt 21 믿다 ----- 20:6-ARGM-DIS() 21:0-rel

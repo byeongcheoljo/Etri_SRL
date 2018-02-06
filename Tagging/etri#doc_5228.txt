@@ -1,0 +1,5 @@
+etri#doc_5228.txt 3 바꾸다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_5228.txt 4 부르다 ----- 3:2-ARGM-MNR() 4:0-rel
+etri#doc_5228.txt 9 맛보다 ----- 6:5-ARGM-EXT(EFF) 8:2-ARG2(THM) 9:0-rel
+etri#doc_5228.txt 11 되다 ----- 9:3-ARGM-DIS() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_5228.txt 13 지배하다 ----- 12:1-ARG0(AGT) 13:0-rel

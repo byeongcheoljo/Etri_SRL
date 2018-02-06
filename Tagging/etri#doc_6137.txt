@@ -1,0 +1,4 @@
+etri#doc_6137.txt 3 못살다 ----- 3:0-rel
+etri#doc_6137.txt 5 위하다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_6137.txt 7 짓다 ----- 2:1-ARGM-TMP(LOC) 5:3-ARGM-PRP() 6:1-ARG1() 7:0-rel
+etri#doc_6137.txt 8 하다 ----- 7:2-ARG1() 8:0-rel

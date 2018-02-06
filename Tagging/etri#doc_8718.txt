@@ -1,0 +1,4 @@
+etri#doc_8718.txt 3 들이다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:0-rel
+etri#doc_8718.txt 7 그리다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_8718.txt 10 치다 ----- 5:4-ARGM-DIS() 8:3-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_8718.txt 18 듣다 ----- 10:2-ARGM-EXT() 15:5-ARG2(AGT) 17:2-ARG1(THM) 18:0-rel

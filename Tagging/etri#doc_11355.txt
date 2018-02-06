@@ -1,0 +1,6 @@
+etri#doc_11355.txt 2 대결하다 ----- 1:1-ARG2(COM) 2:0-rel
+etri#doc_11355.txt 5 되다 ----- 5:0-rel
+etri#doc_11355.txt 10 지껄이다 ----- 4:1-ARGM-EXT() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11355.txt 13 지르다 ----- 2:2-ARGM-DIS() 3:1-ARG0(AGT) 10:2-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_11355.txt 15 가위눌리다 ----- 15:0-rel
+etri#doc_11355.txt 19 잦아들다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 17:3-ARGM-DIS() 18:1-ARGM-EXT() 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9038.txt 1 태어나다 ----- 1:0-rel
+etri#doc_9038.txt 5 덮다 ----- 3:3-ARG1(THM) 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_9038.txt 9 재생시키다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:1-ARGM-TMP() 9:0-rel
+etri#doc_9038.txt 13 되새기다 ----- 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

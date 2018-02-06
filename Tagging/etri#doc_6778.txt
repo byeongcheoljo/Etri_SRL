@@ -1,0 +1,2 @@
+etri#doc_6778.txt 18 파괴되다 ----- 18:0-rel
+etri#doc_6778.txt 19 변화되다 ----- 2:2-ARG1(THM) 12:3-ARG3(FNS) 16:4-ARGM-CAU() 17:1-ARGM-MNR() 18:1-ARGM-DIS() 19:0-rel

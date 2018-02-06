@@ -1,0 +1,2 @@
+etri#doc_2887.txt 9 Áö´Ù ----- 6:2-ARGM-TMP(LOC) 7:1-ARGM-LOC(LOC) 8:1-ARGM-TMP(LOC) 9:0-rel
+etri#doc_2887.txt 16 ÀØ´Ù ----- 1:1-ARG0(EXP) 2:1-ARGM-TMP() 15:3-ARG1(THM) 16:0-rel

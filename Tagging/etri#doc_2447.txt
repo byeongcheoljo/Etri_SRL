@@ -1,0 +1,1 @@
+etri#doc_2447.txt 13 ¹þ¾î³ª´Ù ----- 6:3-ARGM-DIS() 9:2-ARGM-EXT() 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

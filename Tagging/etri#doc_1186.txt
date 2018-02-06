@@ -1,0 +1,5 @@
+etri#doc_1186.txt 5 주다 ----- 3:1-ARG1(THM) 4:1-ARGM-ADV() 5:0-rel
+etri#doc_1186.txt 6 사들이다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_1186.txt 9 주다 ----- 8:1-ARG2(THM) 9:0-rel
+etri#doc_1186.txt 10 사다 ----- 2:2-ARGM-DIS() 6:3-ARGM-DIS() 7:1-ARGM-LOC(LOC) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_1186.txt 15 들이다 ----- 13:3-ARGM-DIS() 14:1-ARGM-ADV() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1388.txt 9 건너다 ----- 7:2-ARGM-DIS() 8:1-ARG1(LOC) 9:0-rel
+etri#doc_1388.txt 12 옮기다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel

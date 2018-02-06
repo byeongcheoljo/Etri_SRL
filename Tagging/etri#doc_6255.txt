@@ -1,0 +1,4 @@
+etri#doc_6255.txt 7 제한하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_6255.txt 8 간주하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARG0(MAG) 3:1-ARGM-DIS() 7:4-ARG1() 8:0-rel
+etri#doc_6255.txt 13 성숙하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_6255.txt 15 생각하다 ----- 8:5-ARGM-DIS() 11:3-ARG0(MAG) 14:3-ARG1() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4269.txt 1 인용되다 ----- 1:0-rel
+etri#doc_4269.txt 18 띠다 ----- 14:2-ARG0(AGT) 15:1-ARGM-MNR() 17:2-ARG1(THM) 18:0-rel

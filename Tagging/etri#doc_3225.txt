@@ -1,0 +1,3 @@
+etri#doc_3225.txt 5 확보하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_3225.txt 9 안다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_3225.txt 14 커지다 ----- 1:1-ARGM-TMP() 10:5-ARGM-CND(LOC) 12:2-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

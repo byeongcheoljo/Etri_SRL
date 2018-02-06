@@ -1,0 +1,6 @@
+etri#doc_13075.txt 4 °É´Ù ----- 1:1-ARGM-DIS() 2:1-ARG2(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_13075.txt 9 ¹úÀÌ´Ù ----- 5:3-ARGM-DIS() 6:1-ARGM-ADV(COM) 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_13075.txt 10 ´ÚÄ¡´Ù ----- 10:0-rel
+etri#doc_13075.txt 13 ±ú¶ß¸®´Ù ----- 9:2-ARGM-DIS() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_13075.txt 14 µé´Ù ----- 13:2-ARGM-MNR() 14:0-rel
+etri#doc_13075.txt 16 Èê¸®´Ù ----- 14:3-ARGM-DIS() 15:1-ARG2(THM) 16:0-rel

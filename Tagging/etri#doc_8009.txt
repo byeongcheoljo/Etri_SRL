@@ -1,0 +1,3 @@
+etri#doc_8009.txt 4 앞두다 ----- 1:1-ARG1(LOC) 2:1-ARGM-TMP() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_8009.txt 10 몰고오다 ----- 7:3-ARG0(AGT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_8009.txt 19 계산하다 ----- 18:1-ARG1(THM) 19:0-rel

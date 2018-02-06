@@ -1,0 +1,4 @@
+etri#doc_6901.txt 8 완성하다 ----- 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6901.txt 15 되다 ----- 4:1-ARG1(THM) 8:2-ARGM-DIS() 11:2-ARGM-INS(INS) 14:2-ARG2(FNS) 15:0-rel
+etri#doc_6901.txt 16 보다 ----- 15:3-ARG1() 16:0-rel
+etri#doc_6901.txt 20 가입하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 3:1-ARGM-TMP() 16:4-ARGM-DIS() 17:1-ARGM-PRD(INS) 18:1-ARGM-TMP(LOC) 19:1-ARG2(GOL) 20:0-rel

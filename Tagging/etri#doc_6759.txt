@@ -1,0 +1,4 @@
+etri#doc_6759.txt 3 도입되다 ----- 2:1-ARG3(LOC) 3:0-rel
+etri#doc_6759.txt 7 적용되다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_6759.txt 13 나아지다 ----- 9:4-ARGM-MNR(INS) 12:3-ARG1(THM) 13:0-rel
+etri#doc_6759.txt 21 말하다 ----- 1:1-ARG0(AGT) 20:2-ARG1(CNT) 21:0-rel

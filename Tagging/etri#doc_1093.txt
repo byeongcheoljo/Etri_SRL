@@ -1,0 +1,5 @@
+etri#doc_1093.txt 2 연소시키다 ----- 1:1-ARG2(THM) 2:0-rel
+etri#doc_1093.txt 4 쓰다 ----- 2:2-ARGM-MNR() 3:1-ARG2(LOC) 4:0-rel
+etri#doc_1093.txt 5 남아돌다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_1093.txt 6 섭취하다 ----- 5:3-ARGM-EXT(FNS) 6:0-rel
+etri#doc_1093.txt 14 저장시키다 ----- 6:4-ARGM-CND() 8:2-ARG1(THM) 13:2-ARG2(LOC) 14:0-rel

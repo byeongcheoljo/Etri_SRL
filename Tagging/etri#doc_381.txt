@@ -1,0 +1,3 @@
+etri#doc_381.txt 11 줄어들다 ----- 9:2-ARGM-ADV() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_381.txt 14 확대되다 ----- 7:3-ARG1(THM) 11:2-ARGM-CAU() 12:1-ARGM-EXT(CRT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_381.txt 20 이르다 ----- 4:2-ARGM-CAU(EFF) 14:2-ARGM-DIS() 15:1-ARG1(THM) 18:2-ARGM-CAU() 19:1-ARG3(GOL) 20:0-rel

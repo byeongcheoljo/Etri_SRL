@@ -1,0 +1,4 @@
+etri#doc_8708.txt 10 대접하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8708.txt 14 하다 ----- 11:1-ARGM-DIS() 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_8708.txt 15 주선하다 ----- 10:2-ARGM-DIS() 14:2-ARGM-PRP() 15:0-rel
+etri#doc_8708.txt 18 상의하다 ----- 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-MNR(COM) 18:0-rel

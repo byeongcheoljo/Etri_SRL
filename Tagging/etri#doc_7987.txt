@@ -1,0 +1,1 @@
+etri#doc_7987.txt 5 Æ÷¼·ÇÏ´Ù ----- 2:1-ARGM-INS(INS) 4:2-ARG1(THM) 5:0-rel

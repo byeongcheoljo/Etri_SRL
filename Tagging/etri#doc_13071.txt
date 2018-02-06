@@ -1,0 +1,4 @@
+etri#doc_13071.txt 6 갖다 ----- 3:2-ARGM-TMP() 4:1-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_13071.txt 8 발표하다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_13071.txt 10 철회하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_13071.txt 13 요구하다 ----- 1:1-ARG0(AGT) 8:2-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARG2(GOL) 13:0-rel

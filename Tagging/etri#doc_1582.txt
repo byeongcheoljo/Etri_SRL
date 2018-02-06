@@ -1,0 +1,2 @@
+etri#doc_1582.txt 9 실현되다 ----- 4:3-ARGM-DIS() 8:4-ARGM-DIS() 9:0-rel
+etri#doc_1582.txt 14 기대되다 ----- 9:5-ARGM-DIS() 11:2-ARG1(THM) 13:2-ARGM-LOC(LOC) 14:0-rel

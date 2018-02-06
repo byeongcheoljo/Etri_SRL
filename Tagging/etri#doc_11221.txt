@@ -1,0 +1,3 @@
+etri#doc_11221.txt 3 말하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_11221.txt 13 물러나다 ----- 7:4-ARG0(AGT) 9:2-ARGM-CND() 10:1-ARGM-DIR(DIR) 12:2-ARGM-EXT() 13:0-rel
+etri#doc_11221.txt 15 인정하다 ----- 1:1-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel

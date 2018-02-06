@@ -1,0 +1,2 @@
+etri#doc_6640.txt 9 일어나다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_6640.txt 17 띠다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 7:2-ARGM-TMP() 11:2-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

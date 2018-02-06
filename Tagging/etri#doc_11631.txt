@@ -1,0 +1,6 @@
+etri#doc_11631.txt 3 잘못되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11631.txt 5 쉬다 ----- 3:3-ARGM-CND() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_11631.txt 8 멈추다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_11631.txt 11 정지하다 ----- 5:2-ARGM-DIS() 8:3-ARGM-CND() 10:2-ARG0(AGT) 11:0-rel
+etri#doc_11631.txt 14 멎다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_11631.txt 16 움직이다 ----- 11:3-ARGM-DIS() 14:3-ARGM-CND() 15:1-ARG0(AGT) 16:0-rel

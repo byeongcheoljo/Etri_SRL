@@ -1,0 +1,2 @@
+etri#doc_7359.txt 8 부딪히다 ----- 4:3-ARG1(THM) 7:3-ARGM-MNR(COM) 8:0-rel
+etri#doc_7359.txt 13 포개다 ----- 8:4-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:1-ARGM-LOC(LOC) 13:0-rel

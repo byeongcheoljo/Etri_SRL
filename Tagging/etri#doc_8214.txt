@@ -1,0 +1,4 @@
+etri#doc_8214.txt 3 이용하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8214.txt 4 계산하다 ----- 3:3-ARGM-MNR() 4:0-rel
+etri#doc_8214.txt 9 기여하다 ----- 7:1-ARG1(GOL) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_8214.txt 10 분석되다 ----- 4:4-ARGM-CND() 6:2-ARG1(THM) 9:2-ARG1() 10:0-rel

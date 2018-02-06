@@ -1,0 +1,2 @@
+etri#doc_8681.txt 10 ¸Ã±â´Ù ----- 5:1-ARGM-TMP(LOC) 8:2-ARG1(THM) 9:1-ARG0(GOL) 10:0-rel
+etri#doc_8681.txt 17 °®´Ù ----- 4:2-ARGM-CAU() 15:3-ARG1(THM) 16:1-ARG0(AGT) 17:0-rel

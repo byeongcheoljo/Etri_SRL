@@ -1,0 +1,2 @@
+etri#doc_9220.txt 10 주다 ----- 6:2-ARG0(AGT) 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_9220.txt 17 입다 ----- 11:3-ARGM-DIS() 12:1-ARG0(AGT) 15:3-ARG1(THM) 16:1-ARGM-MNR() 17:0-rel

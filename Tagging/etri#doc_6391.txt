@@ -1,0 +1,4 @@
+etri#doc_6391.txt 7 떨어지다 ----- 6:2-ARGM-MNR(COM) 7:0-rel
+etri#doc_6391.txt 8 존재하다 ----- 3:1-ARGM-DIS() 4:1-ARG1(THM) 7:3-ARGM-DIS() 8:0-rel
+etri#doc_6391.txt 15 고려하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_6391.txt 17 야기되다 ----- 8:4-ARGM-ADV() 13:5-ARGM-LOC(LOC) 16:3-ARGM-CAU(EFF) 17:0-rel

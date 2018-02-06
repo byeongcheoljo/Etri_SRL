@@ -1,0 +1,4 @@
+etri#doc_6668.txt 4 받다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_6668.txt 9 생각하다 ----- 2:2-ARG1(THM) 7:3-ARGM-MNR(INS) 8:1-ARG0(MAG) 9:0-rel
+etri#doc_6668.txt 11 살다 ----- 10:1-ARG2(LOC) 11:0-rel
+etri#doc_6668.txt 16 지나다 ----- 9:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-DIS(EFF) 15:1-ARG2(CRT) 16:0-rel

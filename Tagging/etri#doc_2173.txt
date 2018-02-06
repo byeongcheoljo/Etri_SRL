@@ -1,0 +1,5 @@
+etri#doc_2173.txt 5 받다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2173.txt 9 시작되다 ----- 7:5-() 8:1-() 9:0-rel
+etri#doc_2173.txt 14 나빠지다 ----- 11:2-() 12:1-() 13:1-() 14:0-rel
+etri#doc_2173.txt 17 지연되다 ----- 14:2-() 16:2-() 17:0-rel
+etri#doc_2173.txt 19 오르다 ----- 2:2-ARGM-TMP() 9:2-ARGM-CND() 17:3-ARGM-DIS() 18:1-ARG2(LOC) 19:0-rel

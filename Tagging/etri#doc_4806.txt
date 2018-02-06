@@ -1,0 +1,4 @@
+etri#doc_4806.txt 5 선택하다 ----- 2:1-ARGM-PRD(EFF) 4:2-ARG1(THM) 5:0-rel
+etri#doc_4806.txt 12 따르다 ----- 11:2-ARG2(THM) 12:0-rel
+etri#doc_4806.txt 14 갖다 ----- 13:4-ARG0(AGT) 14:0-rel
+etri#doc_4806.txt 19 작용하다 ----- 9:4-ARGM-EXT(CRT) 15:6-ARG1(THM) 18:3-ARGM-PRD(EFF) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_518.txt 3 쓰다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_518.txt 6 짓다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_518.txt 10 보다 ----- 1:1-ARG0(AGT) 4:3-ARGM-EXT(COM) 7:3-ARG1(THM) 9:2-ARGM-EXT() 10:0-rel
+etri#doc_518.txt 16 초래하다 ----- 11:4-ARG0(EFF) 12:1-ARGM-TMP(CRT) 15:2-ARG1(THM) 16:0-rel

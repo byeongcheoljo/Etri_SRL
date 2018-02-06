@@ -1,0 +1,2 @@
+etri#doc_1763.txt 7 피하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1763.txt 9 표현하다 ----- 4:4-ARGM-CND(EFF) 7:3-ARGM-DIS() 8:1-ARGM-PRD(EFF) 9:0-rel

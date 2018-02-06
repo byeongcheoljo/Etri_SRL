@@ -1,0 +1,4 @@
+etri#doc_9054.txt 7 의미하다 ----- 5:3-ARG1(EFF) 6:1-ARG2(THM) 7:0-rel
+etri#doc_9054.txt 13 의미하다 ----- 7:2-ARGM-DIS() 11:2-ARG1(EFF) 12:1-ARG2(THM) 13:0-rel
+etri#doc_9054.txt 17 의미하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(EFF) 16:2-ARG2(THM) 17:0-rel
+etri#doc_9054.txt 19 이해하다 ----- 2:2-ARG0(MAG) 17:3-ARGM-DIS() 18:1-ARGM-EXT() 19:0-rel

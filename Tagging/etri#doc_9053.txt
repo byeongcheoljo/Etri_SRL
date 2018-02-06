@@ -1,0 +1,5 @@
+etri#doc_9053.txt 4 지키다 ----- 2:2-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_9053.txt 8 내던지다 ----- 4:2-ARGM-PRP() 7:2-ARG1(GOL) 8:0-rel
+etri#doc_9053.txt 12 보다 ----- 9:4-ARG1(THM) 10:1-ARG0(AGT) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_9053.txt 19 덮이다 ----- 16:1-ARGM-TMP() 17:1-ARG1(THM) 18:1-ARG2(LOC) 19:0-rel
+etri#doc_9053.txt 22 생각하다 ----- 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM0() 20:3-ARG1(THM) 21:1-ARGM-MNR(INS) 22:0-rel

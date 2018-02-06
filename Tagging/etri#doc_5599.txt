@@ -1,0 +1,5 @@
+etri#doc_5599.txt 4 뻗치다 ----- 2:1-ARGM-LOC(GOL) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5599.txt 7 보다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5599.txt 12 무서워하다 ----- 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5599.txt 17 되다 ----- 13:1-ARG1(THM) 16:3-ARG2(FNS) 17:0-rel
+etri#doc_5599.txt 19 하다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 18:5-ARG1(CNT) 19:0-rel

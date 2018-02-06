@@ -1,0 +1,5 @@
+etri#doc_5233.txt 4 선포하다 ----- 1:1-ARGM-TMP() 2:1-ARG2(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5233.txt 10 용납하다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5233.txt 14 유보하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5233.txt 16 가지다 ----- 10:3-ARGM-DIS() 11:1-ARGM-CND(LOC) 15:4-ARG1(THM) 16:0-rel
+etri#doc_5233.txt 18 선포하다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP(LOC) 16:5-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

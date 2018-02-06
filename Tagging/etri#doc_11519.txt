@@ -1,0 +1,4 @@
+etri#doc_11519.txt 6 돌다 ----- 5:1-ARGM-LOC(LOC) 6:0-rel
+etri#doc_11519.txt 11 생기다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_11519.txt 14 빨아들이다 ----- 9:2-ARG1(THM) 12:3-ARG0(AGT) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11519.txt 16 이해되다 ----- 4:2-ARG1() 14:2-ARGM-CND() 15:1-ARGM-MNR() 16:0-rel

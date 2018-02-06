@@ -1,0 +1,4 @@
+etri#doc_8341.txt 6 들어가다 ----- 6:0-rel
+etri#doc_8341.txt 11 졸업하다 ----- 10:1-ARG1(SRC) 11:0-rel
+etri#doc_8341.txt 13 원하다 ----- 13:0-rel
+etri#doc_8341.txt 15 가다 ----- 11:2-ARGM-DIS() 12:1-ARG0(AGT) 14:2-ARG3(GOL) 15:0-rel

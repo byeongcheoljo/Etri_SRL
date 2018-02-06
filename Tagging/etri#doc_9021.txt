@@ -1,0 +1,2 @@
+etri#doc_9021.txt 10 깃들다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_9021.txt 15 그리다 ----- 5:3-ARGM-MNR() 11:4-ARG1(THM) 12:1-ARGM-MNR(INS) 13:1-ARG0(EFF) 14:1-ARG1(THM) 15:0-rel

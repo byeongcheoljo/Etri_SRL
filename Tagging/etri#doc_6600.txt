@@ -1,0 +1,5 @@
+etri#doc_6600.txt 4 Á×´Ù ----- 3:1-ARGM-TMP() 4:0-rel
+etri#doc_6600.txt 7 »ý¼ºÇÏ´Ù ----- 6:4-ARGM-EXT(EFF) 7:0-rel
+etri#doc_6600.txt 9 Á×´Ù ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6600.txt 13 ´Ä´Ù ----- 11:2-ARGM-LOC(LOC) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_6600.txt 15 »ý¼ºÇÏ´Ù ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 7:5-ARGM-DIS() 9:2-ARGM-DIS() 14:3-ARGM-EXT(EFF) 15:0-rel

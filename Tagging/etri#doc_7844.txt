@@ -1,0 +1,3 @@
+etri#doc_7844.txt 6 열리다 ----- 3:2-ARGM-ADV(EFF) 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7844.txt 11 둘러싸다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_7844.txt 15 전해지다 ----- 8:2-ARGM-TMP() 9:1-ARG2(GOL) 14:2-ARG1(THM) 15:0-rel

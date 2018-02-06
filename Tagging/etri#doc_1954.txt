@@ -1,0 +1,4 @@
+etri#doc_1954.txt 5 부응하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_1954.txt 10 거론되다 ----- 5:3-ARGM-DIS() 7:2-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:1-ARG2(FNS) 10:0-rel
+etri#doc_1954.txt 13 발표되다 ----- 12:1-ARGM-TMP(LOC) 13:0-rel
+etri#doc_1954.txt 16 들다 ----- 1:1-ARGM-DIS() 11:3-ARG1(THM) 15:2-ARG1(FNS) 16:0-rel

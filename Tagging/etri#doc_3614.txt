@@ -1,0 +1,4 @@
+etri#doc_3614.txt 8 검토하다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_3614.txt 13 참작하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3614.txt 15 내다 ----- 8:2-ARGM-TMP() 13:3-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_3614.txt 16 말하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV(CNT) 15:2-ARG1() 16:0-rel

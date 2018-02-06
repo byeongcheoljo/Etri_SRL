@@ -1,0 +1,3 @@
+etri#doc_199.txt 5 완료되다 ----- 3:3-ARG1(THM) 4:1-ARGM-MNR(FNS) 5:0-rel
+etri#doc_199.txt 12 대체하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_199.txt 18 처리하다 ----- 5:2-ARGM-CND() 6:1-(AGT) 8:2-ARGM-LOC(LOC) 13:3-ARGM-MNR(INS) 15:2-ARG1(THM) 17:2-ARGM-LOC(LOC) 18:0-rel

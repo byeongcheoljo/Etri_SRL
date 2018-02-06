@@ -1,0 +1,7 @@
+etri#doc_235.txt 3 관찰하다 ----- 1:1-ARGM-TMP() 2:1-ARG1(THM) 3:0-rel
+etri#doc_235.txt 4 식사하다 ----- 4:0-rel
+etri#doc_235.txt 8 꾸부리다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_235.txt 9 앉다 ----- 6:2-ARGM-DIS() 8:2-ARGM-DIS() 9:0-rel
+etri#doc_235.txt 12 가다 ----- 10:1-ARG1(THM) 11:1-ARG3(GOL) 12:0-rel
+etri#doc_235.txt 14 숙이다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_235.txt 16 움직이다 ----- 3:2-ARGM-DIS() 9:3-ARGM-CND() 12:2-ARGM-DIS() 14:2-ARGM-CND() 15:1-ARG1(THM) 16:0-rel

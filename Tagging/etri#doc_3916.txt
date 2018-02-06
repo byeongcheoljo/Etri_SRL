@@ -1,0 +1,3 @@
+etri#doc_3916.txt 4 제외하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_3916.txt 8 보이다 ----- 6:2-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_3916.txt 19 떨어지다 ----- 1:1-ARGM-ADV(EFF) 8:2-ARGM-DIS() 9:1-ARGM-EXT() 10:1-ARGM-ADV(COM) 16:6-ARG1(THM) 18:2-ARG3(FNS) 19:0-rel

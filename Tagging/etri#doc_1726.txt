@@ -1,0 +1,2 @@
+etri#doc_1726.txt 10 중요시하다 ----- 5:3-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_1726.txt 17 중시하다 ----- 2:2-ARG0(THM) 10:2-ARGM-DIS() 16:4-ARGM-DIS() 17:0-rel

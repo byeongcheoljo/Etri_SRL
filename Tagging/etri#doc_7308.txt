@@ -1,0 +1,3 @@
+etri#doc_7308.txt 15 갖다 ----- 6:3-ARG0(AGT) 7:1-ARGM-PRD(FNS) 9:2-ARG0(AGT) 10:1-ARGM-PRD(FNS) 12:2-ARGM-CAU(EFF) 14:2-ARG1(THM) 15:0-rel
+etri#doc_7308.txt 18 성립되다 ----- 3:2-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel
+etri#doc_7308.txt 19 말하다 ----- 1:1-ARGM-DIS() 18:3-ARGM-DIS() 19:0-rel

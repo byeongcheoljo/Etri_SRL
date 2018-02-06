@@ -1,0 +1,5 @@
+etri#doc_136.txt 6 실시되다 ----- 4:3-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_136.txt 10 가지다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_136.txt 12 임하다 ----- 10:3-ARGM-DIS() 11:1-ARG1(LOC) 12:0-rel
+etri#doc_136.txt 14 뽑다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARG1(EFF) 14:0-rel
+etri#doc_136.txt 19 맞추다 ----- 1:1-ARGM-DIS() 15:3-ARGM-DIS() 17:2-ARG0(AGT) 18:1-ARG1(THM) 19:0-rel

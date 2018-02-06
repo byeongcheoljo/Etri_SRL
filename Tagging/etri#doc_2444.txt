@@ -1,0 +1,4 @@
+etri#doc_2444.txt 4 해결하다 ----- 2:1-ARG2(THM) 3:1-ARGM-MNR(EFF) 4:0-rel
+etri#doc_2444.txt 5 동의하다 ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_2444.txt 8 내팽개치다 ----- 7:2-() 8:0-rel
+etri#doc_2444.txt 12 몰다 ----- 11:2-ARG0(AGT) 12:0-rel

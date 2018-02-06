@@ -1,0 +1,4 @@
+etri#doc_1543.txt 9 공양하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_1543.txt 11 빌다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-TMP(LOC) 3:1-ARG0(AGT) 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1543.txt 14 낳다 ----- 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_1543.txt 19 부르다 ----- 14:2-ARGM-CND() 17:3-ARG0(AGT) 18:1-ARGM-MNR(INS) 19:0-rel

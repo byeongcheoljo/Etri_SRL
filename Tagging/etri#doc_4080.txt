@@ -1,0 +1,7 @@
+etri#doc_4080.txt 3 하다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_4080.txt 5 놀라다 ----- 5:0-rel
+etri#doc_4080.txt 10 자다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4080.txt 11 칩거하다 ----- 11:0-rel
+etri#doc_4080.txt 15 이르다 ----- 7:3-ARGM-DIS() 8:1-ARG0() 14:4-ARG1(CNT) 15:0-rel
+etri#doc_4080.txt 17 하다 ----- 16:1-() 17:0-rel
+etri#doc_4080.txt 20 하다 ----- 3:2-ARGM-DIS() 15:5-ARGM-DIS() 18:3-ARG0(AGT) 19:1-() 20:0-rel

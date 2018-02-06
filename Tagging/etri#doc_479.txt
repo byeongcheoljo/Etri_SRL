@@ -1,0 +1,4 @@
+etri#doc_479.txt 7 단정하다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_479.txt 14 열리다 ----- 10:3-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:0-rel
+etri#doc_479.txt 20 기인하다 ----- 18:1-ARGM-TMP(INS) 19:1-ARG2(FNS) 20:0-rel
+etri#doc_479.txt 21 보이다 ----- 17:7-ARG1(THM) 20:2-ARG1() 21:0-rel

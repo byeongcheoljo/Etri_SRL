@@ -1,0 +1,5 @@
+etri#doc_193.txt 6 규제하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_193.txt 10 마련하다 ----- 3:1-ARG0(AGT) 9:3-ARG1(THM) 10:0-rel
+etri#doc_193.txt 11 나오다 ----- 10:4-ARGM-MNR() 11:0-rel
+etri#doc_193.txt 16 미치다 ----- 11:5-ARGM-MNR() 13:2-ARG2(GOL) 15:2-ARG1(THM) 16:0-rel
+etri#doc_193.txt 17 보이다 ----- 2:2-ARG1(THM) 16:3-ARG1() 17:0-rel

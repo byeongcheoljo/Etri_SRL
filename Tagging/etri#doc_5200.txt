@@ -1,0 +1,4 @@
+etri#doc_5200.txt 8 내주다 ----- 3:1-ARG0(AGT) 4:1-ARG1(THM) 6:2-ARGM-MNR() 7:1-ARG1(THM) 8:0-rel
+etri#doc_5200.txt 10 잘되다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_5200.txt 16 내주다 ----- 12:1-ARG0(AGT) 13:1-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel
+etri#doc_5200.txt 19 안되다 ----- 2:2-ARGM-LOC(LOC) 11:3-ARGM-DIS() 16:3-ARGM-CAU() 17:1-ARG1(THM) 18:1-ARGM-EXT() 19:0-rel

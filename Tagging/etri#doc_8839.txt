@@ -1,0 +1,2 @@
+etri#doc_8839.txt 6 가르치다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8839.txt 15 기여하다 ----- 14:2-ARG1(GOL) 15:0-rel

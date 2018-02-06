@@ -1,0 +1,5 @@
+etri#doc_11747.txt 4 진정하다 ----- 4:0-rel
+etri#doc_11747.txt 11 재개하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_11747.txt 13 성립하다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 12:5-ARGM-LOC(LOC) 13:0-rel
+etri#doc_11747.txt 17 소진되다 ----- 14:1-ARGM-TMP() 16:2-ARG1(THM) 17:0-rel
+etri#doc_11747.txt 22 지향하다 ----- 13:6-ARGM-CAU() 21:4-ARG1(THM) 22:0-rel

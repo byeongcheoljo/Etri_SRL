@@ -1,0 +1,6 @@
+etri#doc_4287.txt 3 들다 ----- 2:1-ARGM-TMP(LOC) 3:0-rel
+etri#doc_4287.txt 4 부각되다 ----- 3:2-ARGM-DIS() 4:0-rel
+etri#doc_4287.txt 12 더하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4287.txt 15 재음미하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_4287.txt 18 극복하다 ----- 9:8-ARG0(AGT) 12:3-ARGM-CND() 15:3-ARGM-DIS() 17:2-ARGM-DIR(DIR) 18:0-rel
+etri#doc_4287.txt 21 생각하다 ----- 1:1-ARGM-DIS() 20:5-ARG1() 21:0-rel

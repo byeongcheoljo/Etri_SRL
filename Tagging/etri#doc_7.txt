@@ -1,0 +1,2 @@
+etri#doc_7.txt 10 ÆîÄ¡´Ù ----- 4:4-ARG0(AGT) 6:2-ARG1(THM) 7:1-ARGM-ADV() 9:2-ARGM-MNR(EXP) 10:0-rel
+etri#doc_7.txt 14 ±¾ÁÖ¸®´Ù ----- 14:0-rel

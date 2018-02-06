@@ -1,0 +1,4 @@
+etri#doc_7668.txt 5 넘어가다 ----- 1:1-ARG1(THM) 3:2-ARGM-TMP() 4:1-ARG3(GOL) 5:0-rel
+etri#doc_7668.txt 8 오가다 ----- 7:1-ARG2(LOC) 8:0-rel
+etri#doc_7668.txt 15 나르다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_7668.txt 20 지나가다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP() 16:4-ARG0(AGT) 17:1-ARG1(THM) 18:1-ARGM-EXT() 19:1-ARGM-TMP() 20:0-rel

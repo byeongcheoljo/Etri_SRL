@@ -1,0 +1,6 @@
+etri#doc_9456.txt 5 만들다 ----- 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_9456.txt 11 사용하다 ----- 7:1-ARG0(AGT) 10:3-ARG1(THM) 11:0-rel
+etri#doc_9456.txt 16 사용하다 ----- 11:4-ARGM-DIS() 12:1-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel
+etri#doc_9456.txt 19 꼬다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_9456.txt 20 만들다 ----- 19:2-ARGM-DIS() 20:0-rel
+etri#doc_9456.txt 22 사용하다 ----- 2:2-ARG0(AGT) 6:4-ARGM-MNR(INS) 16:4-ARGM-DIS() 17:1-ARG0(AGT) 21:4-ARG1(THM) 22:0-rel

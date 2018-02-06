@@ -1,0 +1,2 @@
+etri#doc_3878.txt 5 들이다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_3878.txt 14 확충하다 ----- 5:5-ARGM-MNR() 10:4-ARG1(THM) 12:2-ARG3(FNS) 13:1-ARGM-EXT() 14:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1687.txt 4 제시되다 ----- 3:2-ARG1(INS) 4:0-rel
+etri#doc_1687.txt 7 붕괴하다 ----- 1:1-ARGM-DIS() 5:4-ARG1(THM) 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_1687.txt 14 찾다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1687.txt 17 서다 ----- 7:2-ARGM-CAU() 8:1-ARG0(AGT) 9:1-ARGM-TMP() 16:2-ARG1(LOC) 17:0-rel

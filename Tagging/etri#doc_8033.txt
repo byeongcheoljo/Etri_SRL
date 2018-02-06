@@ -1,0 +1,4 @@
+etri#doc_8033.txt 12 하다 ----- 3:2-ARGM-DIS() 11:3-ARG1(CNT) 12:0-rel
+etri#doc_8033.txt 15 보다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_8033.txt 16 죽다 ----- 16:0-rel
+etri#doc_8033.txt 18 무서워하다 ----- 17:2-ARG1(THM) 18:0-rel

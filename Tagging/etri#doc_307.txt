@@ -1,0 +1,2 @@
+etri#doc_307.txt 9 맞다 ----- 7:1-ARG1(COM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_307.txt 14 버리다 ----- 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel

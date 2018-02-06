@@ -1,0 +1,4 @@
+etri#doc_5415.txt 7 해체하다 ----- 5:3-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_5415.txt 8 나타나다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_5415.txt 14 자극하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5415.txt 21 받다 ----- 1:1-ARGM-LOC(LOC) 11:2-ARG0(GOL) 14:3-ARGM-DIS() 15:1-ARG2(AGT) 19:4-ARG1(THM) 20:1-ARGM-TMP() 21:0-rel

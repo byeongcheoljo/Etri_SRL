@@ -1,0 +1,4 @@
+etri#doc_2965.txt 2 실패하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_2965.txt 7 알다 ----- 2:2-ARGM-CAU() 5:3-ARG1() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_2965.txt 11 만들다 ----- 8:1-ARGM-MNR() 10:2-ARG1(THM) 11:0-rel
+etri#doc_2965.txt 14 도전하다 ----- 7:2-ARGM-CAU() 11:3-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG2(GOL) 14:0-rel

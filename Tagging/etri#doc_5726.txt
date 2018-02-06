@@ -1,0 +1,2 @@
+etri#doc_5726.txt 6 구성되다 ----- 3:1-ARG1(THM) 5:2-ARG2(INS) 6:0-rel
+etri#doc_5726.txt 10 응용하다 ----- 9:1-ARG1(THM) 10:0-rel

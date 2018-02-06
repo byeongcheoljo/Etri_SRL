@@ -1,0 +1,4 @@
+etri#doc_2057.txt 3 되돌아가다 ----- 1:1-ARGM-EXT() 2:1-ARG2(GOL) 3:0-rel
+etri#doc_2057.txt 7 하다 ----- 4:3-ARG0(AGT) 6:2-ARG1(FNS) 7:0-rel
+etri#doc_2057.txt 8 의지하다 ----- 8:0-rel
+etri#doc_2057.txt 10 주다 ----- 8:1-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel

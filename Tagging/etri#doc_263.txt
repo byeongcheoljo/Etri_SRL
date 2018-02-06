@@ -1,0 +1,2 @@
+etri#doc_263.txt 7 다루다 ----- 7:0-rel
+etri#doc_263.txt 14 선행하다 ----- 13:2-ARG1(CRT) 14:0-rel

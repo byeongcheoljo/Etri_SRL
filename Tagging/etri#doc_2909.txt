@@ -1,0 +1,4 @@
+etri#doc_2909.txt 9 하다 ----- 5:2-ARGM-INS(INS) 8:3-ARG1(THM) 9:0-rel
+etri#doc_2909.txt 14 받다 ----- 11:2-ARGM-INS(INS) 13:2-ARG1(THM) 14:0-rel
+etri#doc_2909.txt 16 끌려가다 ----- 9:4-ARGM-CAU() 14:3-ARGM-DIS() 15:1-ARG2(GOL) 16:0-rel
+etri#doc_2909.txt 19 당하다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1(GOL) 16:2-ARGM-DIS() 17:1-ARGM-TMP(LOC) 18:1-ARG2(Npr) 19:0-rel

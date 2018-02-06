@@ -1,0 +1,2 @@
+etri#doc_8876.txt 4 ÇÏ´Ù ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_8876.txt 16 ¹¯´Ù ----- 9:2-ARG1(THM) 15:4-ARG2(LOC) 16:0-rel

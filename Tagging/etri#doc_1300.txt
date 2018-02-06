@@ -1,0 +1,7 @@
+etri#doc_1300.txt 2 막다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1300.txt 4 비틀거리다 ----- 4:0-rel
+etri#doc_1300.txt 7 잡다 ----- 5:2-ARGM-CAU(FNS) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1300.txt 11 지르다 ----- 8:3-ARGM-DIS() 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1300.txt 14 묻다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-LOC(LOC) 14:0-rel
+etri#doc_1300.txt 16 걷다 ----- 14:2-ARGM-MNR() 15:1-ARG1(THM) 16:0-rel
+etri#doc_1300.txt 22 들다 ----- 17:3-ARG0(AGT) 19:2-ARGM-MNR() 20:1-ARGM-LOC(LOC) 21:1-ARGM-EXT() 22:0-rel

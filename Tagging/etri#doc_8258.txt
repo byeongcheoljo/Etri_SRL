@@ -1,0 +1,7 @@
+etri#doc_8258.txt 2 비난하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8258.txt 4 도와주다 ----- 2:2-ARGM-DIS() 3:1-ARGM-MNR() 4:0-rel
+etri#doc_8258.txt 5 사랑하다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_8258.txt 10 잘살다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_8258.txt 12 버리다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_8258.txt 14 잘살다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_8258.txt 17 가지다 ----- 8:3-ARGM-DIS() 12:4-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

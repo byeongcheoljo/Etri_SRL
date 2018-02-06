@@ -1,0 +1,1 @@
+etri#doc_5450.txt 12 지적하다 ----- 10:3-ARG1(THM) 11:1-ARG2(FNS) 12:0-rel

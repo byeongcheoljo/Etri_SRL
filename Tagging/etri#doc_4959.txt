@@ -1,0 +1,3 @@
+etri#doc_4959.txt 3 혼란시키다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4959.txt 8 하다 ----- 3:3-ARGM-PRP() 7:4-ARG1(THM) 8:0-rel
+etri#doc_4959.txt 17 달려나가다 ----- 11:3-ARG0(AGT) 12:1-ARGM-ADV() 16:2-ARGM-DIR(DIR) 17:0-rel

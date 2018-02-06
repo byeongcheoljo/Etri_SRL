@@ -1,0 +1,5 @@
+etri#doc_6248.txt 3 억제하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6248.txt 6 폐지하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_6248.txt 9 시정하다 ----- 6:3-ARGM-DIS() 8:2-ARG0(THM) 9:0-rel
+etri#doc_6248.txt 13 강구하다 ----- 9:3-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel
+etri#doc_6248.txt 16 바뀌다 ----- 1:1-ARGM-DIS() 14:5-ARGM-DIR(DIR) 15:1-ARG1(THM) 16:0-rel

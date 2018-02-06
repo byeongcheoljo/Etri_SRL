@@ -1,0 +1,3 @@
+etri#doc_215.txt 9 알다 ----- 7:1-ARGM-EXT() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_215.txt 10 만족시키다 ----- 3:2-ARGM-LOC(LOC) 6:3-ARG1(THM) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_215.txt 17 동의하다 ----- 1:1-ARG0(AGT) 15:2-ARG1(THM) 16:1-ARGM-EXT() 17:0-rel

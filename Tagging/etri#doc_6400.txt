@@ -1,0 +1,5 @@
+etri#doc_6400.txt 4 노골화하다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_6400.txt 7 가열되다 ----- 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_6400.txt 10 대응하다 ----- 9:1-ARG1(GOL) 10:0-rel
+etri#doc_6400.txt 16 띠다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_6400.txt 17 나타나다 ----- 1:1-ARGM-TMP(LOC) 8:4-ARGM-LOC(LOC) 11:3-ARG0(AGT) 13:2-ARGM-LOC(LOC) 16:3-ARGM-DIS() 17:0-rel

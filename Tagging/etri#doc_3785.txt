@@ -1,0 +1,4 @@
+etri#doc_3785.txt 7 불리다 ----- 2:2-ARGM-CAU(EFF) 6:2-ARG3(FNS) 7:0-rel
+etri#doc_3785.txt 13 겹치다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_3785.txt 15 주저앉다 ----- 9:5-ARG1(THM) 13:4-ARGM-CAU() 14:1-ARG3(FNS) 15:0-rel
+etri#doc_3785.txt 17 나오다 ----- 16:3-ARG0(THM) 17:0-rel

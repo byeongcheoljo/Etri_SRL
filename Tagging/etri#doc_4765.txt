@@ -1,0 +1,7 @@
+etri#doc_4765.txt 3 볶다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4765.txt 5 달이다 ----- 3:2-ARGM-DIS() 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4765.txt 8 빚다 ----- 6:3-ARGM-INS(INS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_4765.txt 10 들어가다 ----- 9:1-ARG3(GOL) 10:0-rel
+etri#doc_4765.txt 14 달이다 ----- 13:1-ARG1() 14:0-rel
+etri#doc_4765.txt 16 하다 ----- 8:2-ARGM-DIS() 11:3-ARG1(THM) 12:1-ARG1() 15:3-ARGM-INS(INS) 16:0-rel
+etri#doc_4765.txt 18 발효시키다 ----- 1:1-() 16:4-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

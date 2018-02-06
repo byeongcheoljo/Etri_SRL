@@ -1,0 +1,2 @@
+etri#doc_7197.txt 11 모색되다 ----- 3:3-ARGM-PRP(PUR) 10:2-ARG0(THM) 11:0-rel
+etri#doc_7197.txt 17 떠오르다 ----- 11:3-ARGM-DIS() 14:3-ARG1(THM) 16:2-ARG2(FNS) 17:0-rel

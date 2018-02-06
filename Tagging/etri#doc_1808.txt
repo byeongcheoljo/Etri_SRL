@@ -1,0 +1,4 @@
+etri#doc_1808.txt 13 담보하다 ----- 10:2-ARG1(THM) 12:2-ARGM-INS(INS) 13:0-rel
+etri#doc_1808.txt 17 차지하다 ----- 16:1-ARGM-LOC(LOC) 17:0-rel
+etri#doc_1808.txt 21 규정하다 ----- 20:2-ARG1(THM) 21:0-rel
+etri#doc_1808.txt 23 되다 ----- 1:1-ARGM-EXT() 2:1-ARG1(THM) 15:5-ARGM-CAU() 22:4-ARG2(FNS) 23:0-rel

@@ -1,0 +1,3 @@
+etri#doc_8669.txt 2 쏟아지다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8669.txt 7 돋히다 ----- 2:2-ARGM-DIS() 4:2-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_8669.txt 16 내비치다 ----- 7:2-ARGM-DIS() 8:1-ARG0(AGT) 13:4-ARGM-INS(INS) 15:2-ARG1(THM) 16:0-rel

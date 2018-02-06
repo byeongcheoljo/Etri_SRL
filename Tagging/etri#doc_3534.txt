@@ -1,0 +1,3 @@
+etri#doc_3534.txt 2 갈라지다 ----- 1:1-ARGM-DIR(FNS) 2:0-rel
+etri#doc_3534.txt 4 지나다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP(LOC) 4:0-rel
+etri#doc_3534.txt 13 설명하다 ----- 11:4-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

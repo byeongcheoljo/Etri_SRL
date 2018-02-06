@@ -1,0 +1,7 @@
+etri#doc_464.txt 3 무리하다 ----- 2:1-ARGM-EXT() 3:0-rel
+etri#doc_464.txt 7 생산하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_464.txt 9 폭발하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_464.txt 11 발생하다 ----- 10:5-ARG1(THM) 11:0-rel
+etri#doc_464.txt 14 줄어들다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_464.txt 17 상승되다 ----- 14:3-ARGM-CAU() 16:2-ARG1(THM) 17:0-rel
+etri#doc_464.txt 19 발생하다 ----- 1:1-ARGM-DIS() 5:4-ARGM-DIS() 11:6-ARGM-CND() 18:4-ARG1(THM) 19:0-rel

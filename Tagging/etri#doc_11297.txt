@@ -1,0 +1,5 @@
+etri#doc_11297.txt 5 ³ª´Ù ----- 1:1-ARG2(LOC) 2:1-ARGM-DIS() 3:1-ARG1(Npr) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_11297.txt 7 Å¸´Ù ----- 5:2-ARGM-DIS() 6:1-ARG2(EFF) 7:0-rel
+etri#doc_11297.txt 14 ÈÉÄ¡´Ù ----- 14:0-rel
+etri#doc_11297.txt 15 »©¾Ñ´Ù ----- 13:1-ARGM-EXT() 14:1-ARGM-DIS() 15:0-rel
+etri#doc_11297.txt 17 ³²´Ù ----- 12:3-ARGM-DIS() 16:3-ARG2(LOC) 17:0-rel

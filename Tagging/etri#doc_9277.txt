@@ -1,0 +1,6 @@
+etri#doc_9277.txt 7 적어지다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_9277.txt 8 멀어지다 ----- 7:4-ARGM-DIS() 8:0-rel
+etri#doc_9277.txt 10 내다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_9277.txt 15 믿다 ----- 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_9277.txt 16 만족하다 ----- 12:4-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel
+etri#doc_9277.txt 18 되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 8:5-ARGM-CAU() 17:4-ARG2(FNS) 18:0-rel

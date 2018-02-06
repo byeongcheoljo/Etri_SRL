@@ -1,0 +1,2 @@
+etri#doc_4624.txt 14 병행하다 ----- 13:2-ARGM-MNR(COM) 14:0-rel
+etri#doc_4624.txt 15 향상되다 ----- 1:1-ARGM-DIS() 7:3-ARGM-DIS() 8:1-ARGM-MNR(INS) 10:2-ARG1(THM) 11:1-ARGM-LOC(LOC) 14:3-ARGM-DIS() 15:0-rel

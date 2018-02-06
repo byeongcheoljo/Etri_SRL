@@ -1,0 +1,4 @@
+etri#doc_4192.txt 5 배포하다 ----- 3:1-ARG1(THM) 4:1-ARG2(GOL) 5:0-rel
+etri#doc_4192.txt 7 가다 ----- 5:2-ARGM-PRP() 6:1-ARG3(GOL) 7:0-rel
+etri#doc_4192.txt 9 걸리다 ----- 2:1-ARGM-TMP() 7:2-ARGM-DIS() 8:1-ARG2(AGT) 9:0-rel
+etri#doc_4192.txt 13 구속되다 ----- 1:1-ARG0(AGT) 9:2-ARGM-DIS() 12:3-ARGM-TMP() 13:0-rel

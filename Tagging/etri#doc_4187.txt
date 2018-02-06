@@ -1,0 +1,5 @@
+etri#doc_4187.txt 8 따르다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_4187.txt 9 권고하다 ----- 4:1-ARGM-ADV(CNT) 8:3-ARG1() 9:0-rel
+etri#doc_4187.txt 10 보이다 ----- 3:2-ARG0(AGT) 9:4-ARG1(AGT) 10:0-rel
+etri#doc_4187.txt 14 맺다 ----- 12:2-ARGM-MNR(EFF) 13:1-ARG1(THM) 14:0-rel
+etri#doc_4187.txt 19 예상되다 ----- 1:1-ARGM-DIS(EFF) 10:5-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

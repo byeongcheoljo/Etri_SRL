@@ -1,0 +1,4 @@
+etri#doc_2195.txt 5 ¹ú¾î¸Ô´Ù ----- 2:1-() 3:1-() 4:1-() 5:0-rel
+etri#doc_2195.txt 11 »ý±â´Ù ----- 9:1-ARGM-MNR() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_2195.txt 13 ±¼·¯¸Ô´Ù ----- 12:1-() 13:0-rel
+etri#doc_2195.txt 15 ¸¸³ª´Ù ----- 14:3-ARG1(THM) 15:0-rel

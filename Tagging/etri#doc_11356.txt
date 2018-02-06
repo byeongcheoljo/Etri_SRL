@@ -1,0 +1,2 @@
+etri#doc_11356.txt 10 ¾Î´Ù ----- 6:4-ARGM-DIS() 7:1-ARGM-MNR() 8:1-ARG0(EXP) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11356.txt 16 ¶ì´Ù ----- 10:2-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARGM-TMP() 14:2-ARG1(THM) 15:1-ARGM-LOC(LOC) 16:0-rel

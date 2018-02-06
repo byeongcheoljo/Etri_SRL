@@ -1,0 +1,4 @@
+etri#doc_6816.txt 5 달리다 ----- 2:2-ARG1(THM) 4:2-ARG2(LOC) 5:0-rel
+etri#doc_6816.txt 11 나오다 ----- 8:3-ARG0(THM) 10:2-ARG2(SRC) 11:0-rel
+etri#doc_6816.txt 14 다투다 ----- 13:1-ARG0(AGT) 14:0-rel
+etri#doc_6816.txt 16 아첨하다 ----- 11:3-ARGM-DIS() 12:1-ARGM-CAU(EFF) 14:2-ARGM-DIS() 15:1-ARG2(GOL) 16:0-rel

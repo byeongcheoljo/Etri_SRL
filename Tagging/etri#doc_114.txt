@@ -1,0 +1,1 @@
+etri#doc_114.txt 9 °í¹ÎÇÏ´Ù ----- 5:2-ARG0(MAG) 8:3-ARG1(THM) 9:0-rel

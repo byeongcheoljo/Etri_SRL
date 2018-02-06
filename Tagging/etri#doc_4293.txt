@@ -1,0 +1,6 @@
+etri#doc_4293.txt 3 찾다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_4293.txt 5 내포되다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_4293.txt 7 탐색하다 ----- 3:2-ARGM-MNR() 6:3-ARG1(THM) 7:0-rel
+etri#doc_4293.txt 9 찾다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4293.txt 16 형성되다 ----- 15:4-ARGM-LOC(LOC) 16:0-rel
+etri#doc_4293.txt 19 추적하다 ----- 7:4-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

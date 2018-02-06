@@ -1,0 +1,2 @@
+etri#doc_5842.txt 17 보이다 ----- 4:3-ARGM-LOC(LOC) 7:3-ARG0(AGT) 13:2-ARGM-MNR(INS) 16:2-ARG1(THM) 17:0-rel
+etri#doc_5842.txt 19 채근하다 ----- 17:3-ARGM-PRP() 18:1-ARGM-EXT() 19:0-rel

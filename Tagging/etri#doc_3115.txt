@@ -1,0 +1,5 @@
+etri#doc_3115.txt 2 일하다 ----- 1:1-() 2:0-rel
+etri#doc_3115.txt 10 맞아떨어지다 ----- 7:2-ARG1(THM) 8:1-ARGM-EXT() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_3115.txt 11 하다 ----- 11:0-rel
+etri#doc_3115.txt 13 만개하다 ----- 13:0-rel
+etri#doc_3115.txt 17 보다 ----- 3:3-ARGM-TMP(LOC) 5:2-ARGM-CAU() 10:2-ARGM-CAU() 12:2-ARG0(AGT) 14:2-ARGM-EXT(EFF) 16:2-ARG1(THM) 17:0-rel

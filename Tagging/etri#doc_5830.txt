@@ -1,0 +1,3 @@
+etri#doc_5830.txt 2 오다 ----- 1:1-ARGM-CAU(EFF) 2:0-rel
+etri#doc_5830.txt 10 터지다 ----- 7:1-ARG1(THM) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_5830.txt 16 하다 ----- 6:2-ARGM-DIS() 10:3-ARGM-DIS() 15:3-ARG1() 16:0-rel

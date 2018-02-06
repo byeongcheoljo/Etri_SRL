@@ -1,0 +1,5 @@
+etri#doc_7368.txt 6 매달리다 ----- 3:2-ARG2(GOL) 4:1-ARGM-CAU() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7368.txt 7 생각하다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_7368.txt 11 던지다 ----- 11:0-rel
+etri#doc_7368.txt 12 맡기다 ----- 9:2-ARG1(THM) 10:1-ARG0(GOL) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_7368.txt 15 달려가다 ----- 1:1-ARG0(AGT) 7:3-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARGM-LOC(GOL) 15:0-rel

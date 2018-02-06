@@ -1,0 +1,4 @@
+etri#doc_8448.txt 2 불러일으키다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8448.txt 6 높아지다 ----- 4:4-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_8448.txt 11 보이다 ----- 8:1-ARG0(AGT) 9:1-ARGM-TMP() 10:1-ARG1(THM) 11:0-rel
+etri#doc_8448.txt 12 분석되다 ----- 7:3-ARG1(THM) 11:2-ARG1() 12:0-rel

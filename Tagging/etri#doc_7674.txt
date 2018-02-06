@@ -1,0 +1,5 @@
+etri#doc_7674.txt 7 지나다 ----- 4:4-ARGM-TMP() 5:1-ARGM-TMP() 6:1-ARG1(CRT) 7:0-rel
+etri#doc_7674.txt 12 금지시키다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_7674.txt 15 시도하다 ----- 13:1-ARG0(AGT) 14:1-ARG1(THM) 15:0-rel
+etri#doc_7674.txt 18 면하다 ----- 16:3-ARG0(EXP) 17:1-ARG1(THM) 18:0-rel
+etri#doc_7674.txt 19 명령하다 ----- 7:2-ARGM-DIS() 9:2-ARG0(AGT) 12:3-ARGM-DIS() 18:2-ARG1() 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9847.txt 6 하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_9847.txt 9 하다 ----- 2:2-ARGM-TMP() 4:2-ARGM-LOC(LOC) 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_9847.txt 16 만나다 ----- 15:2-ARG1() 16:0-rel
+etri#doc_9847.txt 17 결혼하다 ----- 16:3-ARGM-MNR() 17:0-rel

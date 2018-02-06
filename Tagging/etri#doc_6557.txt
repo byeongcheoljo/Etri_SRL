@@ -1,0 +1,3 @@
+etri#doc_6557.txt 3 실시되다 ----- 2:2-ARGM-TMP() 3:0-rel
+etri#doc_6557.txt 6 승리하다 ----- 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_6557.txt 12 선출하다 ----- 7:4-ARG0(AGT) 8:1-ARGM-TMP() 9:1-ARG1(THM) 11:2-ARG2(FNS) 12:0-rel

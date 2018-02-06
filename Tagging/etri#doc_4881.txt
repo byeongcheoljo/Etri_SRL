@@ -1,0 +1,4 @@
+etri#doc_4881.txt 6 생각하다 ----- 3:1-ARG1(THM) 5:2-ARG1(CNT) 6:0-rel
+etri#doc_4881.txt 14 갖다 ----- 9:1-ARG0(AGT) 13:3-ARG1(THM) 14:0-rel
+etri#doc_4881.txt 15 분할하다 ----- 15:0-rel
+etri#doc_4881.txt 18 간주하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 6:3-ARGM-DIS() 8:2-ARG0(MAG) 17:3-ARG1(FNS) 18:0-rel

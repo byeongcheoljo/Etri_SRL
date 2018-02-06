@@ -1,0 +1,3 @@
+etri#doc_3647.txt 5 주목받다 ----- 2:1-ARGM-TMP() 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_3647.txt 14 담아내다 ----- 9:4-ARGM-INS(INS) 12:2-ARG1(THM) 13:1-ARG2(LOC) 14:0-rel
+etri#doc_3647.txt 17 주력하다 ----- 1:1-ARG0(AGT) 5:3-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-TMP() 16:1-ARG1(LOC) 17:0-rel

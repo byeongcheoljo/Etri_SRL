@@ -1,0 +1,4 @@
+etri#doc_8816.txt 2 밀집하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8816.txt 12 내리쬐다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:1-ARG3(GOL) 12:0-rel
+etri#doc_8816.txt 15 비치다 ----- 14:1-ARG2(LOC) 15:0-rel
+etri#doc_8816.txt 19 달라지다 ----- 13:3-ARG0(AGT) 18:2-ARG1(THM) 19:0-rel

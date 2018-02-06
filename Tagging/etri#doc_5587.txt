@@ -1,0 +1,4 @@
+etri#doc_5587.txt 4 못하다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_5587.txt 8 들이닥치다 ----- 7:2-ARG0(AGT) 8:0-rel
+etri#doc_5587.txt 13 제하다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_5587.txt 15 대응하다 ----- 1:1-ARGM-DIS() 8:3-ARGM-CAU() 10:2-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:0-rel

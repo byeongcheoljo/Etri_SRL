@@ -1,0 +1,5 @@
+etri#doc_765.txt 6 좇다 ----- 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_765.txt 10 자행하다 ----- 6:3-ARGM-MNR() 9:2-ARG1(THM) 10:0-rel
+etri#doc_765.txt 12 늘어나다 ----- 3:3-ARGM-LOC(LOC) 11:4-ARG1(THM) 12:0-rel
+etri#doc_765.txt 16 가중되다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_765.txt 18 보이다 ----- 12:5-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

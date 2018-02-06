@@ -1,0 +1,4 @@
+etri#doc_5672.txt 4 경계하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_5672.txt 8 보다 ----- 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_5672.txt 12 보다 ----- 11:1-ARGM-LOC(LOC) 12:0-rel
+etri#doc_5672.txt 16 제기되다 ----- 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

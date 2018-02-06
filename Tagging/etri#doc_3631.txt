@@ -1,0 +1,4 @@
+etri#doc_3631.txt 5 실시하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 4:2-ARGM-LOC(GOL) 5:0-rel
+etri#doc_3631.txt 11 나타나다 ----- 10:1-ARGM-EXT(FNS) 11:0-rel
+etri#doc_3631.txt 14 상승하다 ----- 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-EXT(CRT) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3631.txt 15 조사되다 ----- 7:5-ARGM-DIS(EFF) 14:2-ARGM-PRD() 15:0-rel

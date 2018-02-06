@@ -1,0 +1,2 @@
+etri#doc_9376.txt 4 자부하다 ----- 3:2-ARGM-MNR(INS) 4:0-rel
+etri#doc_9376.txt 16 착각하다 ----- 14:1-ARG1(THM) 15:1-ARG1(FNS) 16:0-rel

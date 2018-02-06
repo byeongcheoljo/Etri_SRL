@@ -1,0 +1,1 @@
+etri#doc_1197.txt 4 지적하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-DIS() 4:0-rel

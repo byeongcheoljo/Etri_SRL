@@ -1,0 +1,2 @@
+etri#doc_13117.txt 7 판단하다 ----- 4:1-ARGM-DIS() 6:2-ARGM-MNR(CRT) 7:0-rel
+etri#doc_13117.txt 14 구분하다 ----- 3:2-() 7:3-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-EXT(EFF) 13:1-ARG2(FNS) 14:0-rel

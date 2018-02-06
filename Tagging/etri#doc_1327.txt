@@ -1,0 +1,3 @@
+etri#doc_1327.txt 7 변화하다 ----- 7:0-rel
+etri#doc_1327.txt 10 변화하다 ----- 10:0-rel
+etri#doc_1327.txt 11 남다 ----- 6:3-ARG1(THM) 9:3-ARGM-LOC(LOC) 10:1-ARGM-DIS() 11:0-rel

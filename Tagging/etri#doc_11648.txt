@@ -1,0 +1,4 @@
+etri#doc_11648.txt 4 생각하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11648.txt 5 어찌하다 ----- 2:1-ARG0(AGT) 4:2-ARGM-DIS() 5:0-rel
+etri#doc_11648.txt 11 이루어지다 ----- 9:2-ARGM-LOC(LOC) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11648.txt 14 밀다 ----- 1:1-ARGM-LOC(LOC) 5:3-ARGM-DIS() 7:2-ARG0(AGT) 11:2-ARGM-TMP() 13:2-ARG3(GOL) 14:0-rel

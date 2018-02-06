@@ -1,0 +1,3 @@
+etri#doc_785.txt 2 제시하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_785.txt 7 종합하다 ----- 4:2-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_785.txt 21 뽑아내다 ----- 7:3-ARGM-CND() 19:3-ARG1(THM) 20:1-ARGM-MNR() 21:0-rel

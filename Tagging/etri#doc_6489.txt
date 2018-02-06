@@ -1,0 +1,5 @@
+etri#doc_6489.txt 3 이해하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6489.txt 7 설명하다 ----- 3:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_6489.txt 10 예측하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6489.txt 13 모색하다 ----- 7:3-ARGM-DIS() 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_6489.txt 17 탐구하다 ----- 13:3-ARGM-PRP() 14:1-ARG0(AGT) 15:1-ARG1(THM) 16:1-ARGM-MNR(INS) 17:0-rel

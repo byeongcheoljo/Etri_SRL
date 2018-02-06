@@ -1,0 +1,1 @@
+etri#doc_5505.txt 12 관할하다 ----- 1:1-ARGM-TMP(LOC) 4:2-ARGM-MNR(COM) 8:4-ARG0(AGT) 10:2-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel

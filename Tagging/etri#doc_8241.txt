@@ -1,0 +1,4 @@
+etri#doc_8241.txt 6 개념화하다 ----- 1:1-ARG1(THM) 5:3-ARG2(FNS) 6:0-rel
+etri#doc_8241.txt 10 보다 ----- 7:1-ARG1(THM) 9:2-ARG1(FNS) 10:0-rel
+etri#doc_8241.txt 18 주장하다 ----- 10:3-ARGM-DIS() 17:3-ARG1() 18:0-rel
+etri#doc_8241.txt 20 하다 ----- 6:4-ARGM-CND() 19:5-ARG1(CNT) 20:0-rel

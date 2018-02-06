@@ -1,0 +1,2 @@
+etri#doc_11555.txt 9 ╬д╢ы ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11555.txt 14 го╢ы ----- 9:2-ARGM-DIS() 11:2-ARGM-MNR(INS) 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_12030.txt 4 집중되다 ----- 3:1-ARG2(GOL) 4:0-rel
+etri#doc_12030.txt 9 사용하다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel

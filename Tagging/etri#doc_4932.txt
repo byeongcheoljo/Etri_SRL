@@ -1,0 +1,6 @@
+etri#doc_4932.txt 7 하다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_4932.txt 9 해제되다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_4932.txt 11 타다 ----- 10:7-ARG1(THM) 11:0-rel
+etri#doc_4932.txt 13 뛰어들다 ----- 12:1-ARG3(GOL) 13:0-rel
+etri#doc_4932.txt 15 침해하다 ----- 11:8-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG2(THM) 15:0-rel
+etri#doc_4932.txt 17 늘어나다 ----- 16:3-ARG1(THM) 17:0-rel

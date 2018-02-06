@@ -1,0 +1,3 @@
+etri#doc_3712.txt 6 되다 ----- 5:2-ARG2(FNS) 6:0-rel
+etri#doc_3712.txt 8 되다 ----- 3:1-ARG1(THM) 6:3-ARGM-CND() 7:1-ARG2(FNS) 8:0-rel
+etri#doc_3712.txt 15 응답하다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 9:3-ARGM-LOC(THM) 14:5-ARG1(CNT) 15:0-rel

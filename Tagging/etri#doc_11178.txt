@@ -1,0 +1,4 @@
+etri#doc_11178.txt 7 좁히다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11178.txt 10 발맞추다 ----- 9:2-ARG2(CRT) 10:0-rel
+etri#doc_11178.txt 13 검토하다 ----- 7:3-ARGM-DIS() 11:4-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_11178.txt 16 맞다 ----- 1:1-ARGM-DIS() 2:1-ARG0(EXP) 3:1-ARGM-TMP() 15:4-ARG1(THM) 16:0-rel

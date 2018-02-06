@@ -1,0 +1,4 @@
+etri#doc_955.txt 11 현존하다 ----- 11:0-rel
+etri#doc_955.txt 14 모순되다 ----- 9:1-ARG0(AGT) 10:1-ARGM-MNR() 13:2-ARG2(COM) 14:0-rel
+etri#doc_955.txt 17 되다 ----- 16:2-ARG2() 17:0-rel
+etri#doc_955.txt 19 지니다 ----- 1:1-ARGM-DIS() 8:2-ARG0(AGT) 14:3-ARGM-CND() 18:4-ARG1(THM) 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_11235.txt 12 대응하다 ----- 11:5-ARG1(GOL) 12:0-rel
+etri#doc_11235.txt 15 제공하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 5:2-ARG0(AGT) 6:1-ARGM-INS(INS) 12:6-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel

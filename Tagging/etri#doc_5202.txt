@@ -1,0 +1,5 @@
+etri#doc_5202.txt 3 재발되다 ----- 3:0-rel
+etri#doc_5202.txt 7 완치되다 ----- 4:2-ARG1(THM) 6:2-ARGM-MNR(INS) 7:0-rel
+etri#doc_5202.txt 11 알다 ----- 9:2-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_5202.txt 14 하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5202.txt 15 보이다 ----- 2:2-ARG1(THM) 11:2-ARGM-CAU() 14:3-ARGM-MNR() 15:0-rel

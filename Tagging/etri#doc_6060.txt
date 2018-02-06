@@ -1,0 +1,6 @@
+etri#doc_6060.txt 4 먹다 ----- 2:1-ARGM-MNR() 3:1-ARG1(THM) 4:0-rel
+etri#doc_6060.txt 6 오다 ----- 1:1-ARGM-TMP(LOC) 4:2-ARGM-DIS() 5:1-ARG0(AGT) 6:0-rel
+etri#doc_6060.txt 8 놓다 ----- 7:1-ARG2(GOL) 8:0-rel
+etri#doc_6060.txt 10 쥐다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_6060.txt 12 받다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_6060.txt 14 부르다 ----- 6:2-ARGM-DIS() 10:4-ARGM-DIS() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

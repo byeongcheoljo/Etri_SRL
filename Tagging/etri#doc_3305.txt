@@ -1,0 +1,4 @@
+etri#doc_3305.txt 4 걱정하다 ----- 2:2-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_3305.txt 11 건설하다 ----- 7:1-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3305.txt 15 실천하다 ----- 13:1-ARG0(AGT) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_3305.txt 18 취하다 ----- 6:4-ARGM-CND() 11:4-ARGM-DIS() 12:1-ARGM-PRP(PUR) 17:4-ARG1(Npr) 18:0-rel

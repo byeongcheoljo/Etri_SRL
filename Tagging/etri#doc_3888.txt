@@ -1,0 +1,3 @@
+etri#doc_3888.txt 5 발동하다 ----- 3:1-ARGM-TMP(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_3888.txt 10 모이다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_3888.txt 13 가결시키다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 5:2-ARGM-DIS() 10:5-ARGM-DIS() 11:1-ARGM-MNR(INS) 12:1-ARG1(THM) 13:0-rel

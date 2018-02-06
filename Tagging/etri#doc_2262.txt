@@ -1,0 +1,2 @@
+etri#doc_2262.txt 9 규명하다 ----- 7:3-ARG1(THM) 8:1-ARGM-INS(INS) 9:0-rel
+etri#doc_2262.txt 16 살피다 ----- 15:2-ARG1(THM) 16:0-rel

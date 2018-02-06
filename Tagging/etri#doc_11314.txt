@@ -1,0 +1,4 @@
+etri#doc_11314.txt 5 만들다 ----- 3:2-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_11314.txt 11 경쟁하다 ----- 9:1-ARG1(COM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11314.txt 13 뒤처지다 ----- 8:2-ARG1(THM) 12:3-ARGM-MNR(CRT) 13:0-rel
+etri#doc_11314.txt 17 제공하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-TMP() 16:3-ARG1(THM) 17:0-rel

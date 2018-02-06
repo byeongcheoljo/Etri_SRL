@@ -1,0 +1,4 @@
+etri#doc_5352.txt 12 내면화되다 ----- 9:2-ARG1(THM) 11:2-ARG2(FNS) 12:0-rel
+etri#doc_5352.txt 14 행동하다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_5352.txt 18 용인되다 ----- 17:1-ARGM-MNR(INS) 18:0-rel
+etri#doc_5352.txt 21 충족시키다 ----- 1:1-ARG0(AGT) 12:3-ARGM-DIS() 15:3-ARG1(THM) 19:3-ARGM-MNR(INS) 20:1-ARG1(THM) 21:0-rel

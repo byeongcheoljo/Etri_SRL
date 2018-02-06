@@ -1,0 +1,7 @@
+etri#doc_6326.txt 4 받다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6326.txt 10 침해하다 ----- 9:2-ARG2(THM) 10:0-rel
+etri#doc_6326.txt 12 훼손하다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6326.txt 15 침해하다 ----- 14:1-ARG2(THM) 15:0-rel
+etri#doc_6326.txt 18 제작하다 ----- 18:0-rel
+etri#doc_6326.txt 19 배포하다 ----- 17:1-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel
+etri#doc_6326.txt 23 폭로하다 ----- 22:2-ARG1(THM) 23:0-rel

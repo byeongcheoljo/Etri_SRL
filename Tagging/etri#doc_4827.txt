@@ -1,0 +1,6 @@
+etri#doc_4827.txt 5 차다 ----- 3:1-ARG2(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4827.txt 6 찢어지다 ----- 6:0-rel
+etri#doc_4827.txt 8 입다 ----- 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_4827.txt 12 달려들다 ----- 1:1-ARGM-TMP() 2:1-ARG2(GOL) 11:3-ARG0(AGT) 12:0-rel
+etri#doc_4827.txt 15 흔들다 ----- 12:4-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_4827.txt 18 지르다 ----- 15:2-ARGM-DIS() 16:1-ARG1(CNT) 17:1-ARG1(THM) 18:0-rel

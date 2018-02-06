@@ -1,0 +1,6 @@
+etri#doc_4101.txt 3 상징하다 ----- 2:1-ARG2(THM) 3:0-rel
+etri#doc_4101.txt 6 먹다 ----- 1:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_4101.txt 8 빛나다 ----- 8:0-rel
+etri#doc_4101.txt 9 부활하다 ----- 7:1-ARG0() 8:1-ARGM-DIS() 9:0-rel
+etri#doc_4101.txt 12 나오다 ----- 10:1-ARG2(SRC) 11:1-ARG0(AGT) 12:0-rel
+etri#doc_4101.txt 15 나오다 ----- 12:2-ARGM-DIS() 13:1-ARG2(SRC) 14:1-ARG0(THM) 15:0-rel

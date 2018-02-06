@@ -1,0 +1,3 @@
+etri#doc_5190.txt 5 잘되다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5190.txt 7 모르다 ----- 6:1-ARGM-LOC() 7:0-rel
+etri#doc_5190.txt 12 가다 ----- 9:2-ARG0(THM) 11:2-ARGM-DIR(DIR) 12:0-rel

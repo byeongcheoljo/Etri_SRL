@@ -1,0 +1,4 @@
+etri#doc_5608.txt 3 철거하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5608.txt 5 하다 ----- 1:1-ARGM-TMP() 4:3-ARG1(THM) 5:0-rel
+etri#doc_5608.txt 10 전하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_5608.txt 12 전하다 ----- 6:5-ARG0(AGT) 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

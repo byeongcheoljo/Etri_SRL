@@ -1,0 +1,4 @@
+etri#doc_8924.txt 6 표현되다 ----- 3:3-ARG1(THM) 4:1-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_8924.txt 9 알다 ----- 7:1-ARG0(MAG) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8924.txt 16 실리다 ----- 15:2-ARG2(GOL) 16:0-rel
+etri#doc_8924.txt 19 날아가다 ----- 6:2-ARGM-DIS() 13:4-ARG0(THM) 16:3-ARGM-MNR) 18:2-ARG3(GOL) 19:0-rel

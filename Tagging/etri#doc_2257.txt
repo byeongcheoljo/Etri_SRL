@@ -1,0 +1,5 @@
+etri#doc_2257.txt 3 앉다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_2257.txt 5 매다 ----- 3:3-ARGM-DIS() 4:1-ARG1(THM) 5:0-rel
+etri#doc_2257.txt 11 삼다 ----- 8:1-ARGM-EXT() 9:1-ARG2(FNS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_2257.txt 18 하다 ----- 17:5-ARG1(THM) 18:0-rel
+etri#doc_2257.txt 21 지나다 ----- 18:6-ARGM-DIS() 20:2-ARG1(THM) 21:0-rel

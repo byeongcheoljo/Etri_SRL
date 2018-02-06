@@ -1,0 +1,5 @@
+etri#doc_8276.txt 3 지키다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8276.txt 7 걸다 ----- 5:2-ARG2(GOL) 6:1-ARG1(Npr) 7:0-rel
+etri#doc_8276.txt 11 다물다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8276.txt 13 들다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_8276.txt 17 지키다 ----- 7:2-ARGM-DIS() 8:1-ARG0(AGT) 11:2-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

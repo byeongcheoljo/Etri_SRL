@@ -1,0 +1,6 @@
+etri#doc_11581.txt 5 들어서다 ----- 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_11581.txt 8 훑어보다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_11581.txt 11 맞다 ----- 10:2-ARG2(CRT) 11:0-rel
+etri#doc_11581.txt 14 결정하다 ----- 8:5-ARGM-DIS() 12:4-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_11581.txt 16 서슴다 ----- 16:0-rel
+etri#doc_11581.txt 17 거절하다 ----- 3:1-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARGM-TMP(LOC) 16:1-ARGM-DIS() 17:0-rel

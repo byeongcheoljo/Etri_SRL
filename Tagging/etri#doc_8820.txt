@@ -1,0 +1,4 @@
+etri#doc_8820.txt 3 입력되다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_8820.txt 10 판단하다 ----- 8:2-ARGM-MNR(INS) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_8820.txt 13 하다 ----- 6:2-ARGM-TMP() 12:2-ARG1(THM) 13:0-rel
+etri#doc_8820.txt 14 추정되다 ----- 1:1-ARGM-DIS() 13:3-ARG1() 14:0-rel

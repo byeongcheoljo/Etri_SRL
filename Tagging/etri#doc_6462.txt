@@ -1,0 +1,2 @@
+etri#doc_6462.txt 8 부르다 ----- 1:1-ARG0(AGT) 3:2-ARG1(THM) 6:3-ARGM-DIS() 7:1-ARG1(CNT) 8:0-rel
+etri#doc_6462.txt 16 거치다 ----- 14:3-ARG1(THM) 15:1-ARG2(LOC) 16:0-rel

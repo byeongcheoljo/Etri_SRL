@@ -1,0 +1,4 @@
+etri#doc_11717.txt 5 지나다 ----- 2:1-ARG1(THM) 3:1-ARGM-EXT() 4:1-ARG2(CRT) 5:0-rel
+etri#doc_11717.txt 7 걸리다 ----- 6:1-ARGM-LOC(LOC) 7:0-rel
+etri#doc_11717.txt 12 달라지다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_11717.txt 14 머무르다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-TMP() 12:2-ARGM-MNR() 13:1-ARG2(LOC) 14:0-rel

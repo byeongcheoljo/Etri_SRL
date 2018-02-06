@@ -1,0 +1,2 @@
+etri#doc_796.txt 9 하다 ----- 5:4-ARG0(MAG) 6:1-ARG1(THM) 8:2-ARG1(Npr) 9:0-rel
+etri#doc_796.txt 17 담기다 ----- 9:3-ARGM-DIS() 14:2-ARG1(THM) 16:2-ARG2(LOC) 17:0-rel

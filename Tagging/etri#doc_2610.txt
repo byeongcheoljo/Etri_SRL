@@ -1,0 +1,3 @@
+etri#doc_2610.txt 12 받다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_2610.txt 14 당하다 ----- 8:1-ARGM-EXT() 9:1-ARG1(AGT) 10:1-ARGM-ADV(EFF) 12:2-ARGM-DIS() 13:1-ARG2(THM) 14:0-rel
+etri#doc_2610.txt 15 이해하다 ----- 6:3-ARGM-CND() 7:1-ARG0() 14:2-ARGM-DIS() 15:0-rel

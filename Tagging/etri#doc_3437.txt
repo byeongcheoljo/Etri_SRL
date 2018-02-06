@@ -1,0 +1,3 @@
+etri#doc_3437.txt 5 지원하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_3437.txt 8 되다 ----- 6:1-ARGM-TMP() 7:1-ARG2(INS) 8:0-rel
+etri#doc_3437.txt 11 포함하다 ----- 2:2-ARGM-DIS(EFF) 5:3-ARGM-PRP() 9:3-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel

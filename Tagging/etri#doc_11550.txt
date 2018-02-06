@@ -1,0 +1,5 @@
+etri#doc_11550.txt 3 생기다 ----- 1:1-ARG2(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_11550.txt 7 생기다 ----- 3:2-ARGM-CND() 6:3-ARG1(THM) 7:0-rel
+etri#doc_11550.txt 14 지니다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_11550.txt 19 생기다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_11550.txt 21 먹다 ----- 17:3-ARGM-DIS() 20:3-ARG1(THM) 21:0-rel

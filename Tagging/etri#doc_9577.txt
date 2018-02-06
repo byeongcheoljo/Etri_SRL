@@ -1,0 +1,4 @@
+etri#doc_9577.txt 6 뻗다 ----- 4:1-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_9577.txt 10 계속되다 ----- 3:3-ARGM-DIS() 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_9577.txt 16 둘러싸이다 ----- 13:2-ARGM-DIS() 15:2-ARGM-INS(INS) 16:0-rel
+etri#doc_9577.txt 19 자리잡다 ----- 17:4-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel

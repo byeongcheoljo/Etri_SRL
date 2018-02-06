@@ -1,0 +1,4 @@
+etri#doc_9375.txt 3 거두다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9375.txt 7 소개하다 ----- 5:1-ARG1(THM) 6:1-ARG2(GOL) 7:0-rel
+etri#doc_9375.txt 9 벌이다 ----- 3:3-ARGM-MNR() 4:1-ARGM-LOC(LOC) 7:2-ARGM-PRP() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9375.txt 16 받아들이다 ----- 10:3-ARG0(AGT) 11:1-ARGM-TMP(LOC) 14:3-ARGM-MNR(INS) 15:1-ARGM-DIS() 16:0-rel

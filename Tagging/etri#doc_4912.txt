@@ -1,0 +1,3 @@
+etri#doc_4912.txt 5 생각하다 ----- 3:1-ARGM-ADV(EFF) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4912.txt 7 받다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_4912.txt 14 대답하다 ----- 2:2-ARGM-TMP(LOC) 7:4-ARGM-DIS() 10:2-ARG0(AGT) 13:2-ARG1(CNT) 14:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11655.txt 4 일어나다 ----- 1:1-ARGM-DIS() 3:2-ARG1(THM) 4:0-rel
+etri#doc_11655.txt 9 좋아하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11655.txt 12 인정하다 ----- 9:2-ARGM-DIS() 10:1-ARG0(MAG) 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_11655.txt 15 방영하다 ----- 4:3-ARGM-MNR() 5:1-ARGM-TMP() 7:2-ARGM-LOC(LOC) 14:2-ARG1(THM) 15:0-rel
+etri#doc_11655.txt 16 상상하다 ----- 15:3-ARGM-DIS() 16:0-rel

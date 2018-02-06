@@ -1,0 +1,1 @@
+etri#doc_2523.txt 5 나타나다 ----- 2:1-ARGM-EXT() 3:1-ARGM-TMP(EFF) 4:1-ARGM-TMP(EFF) 5:0-rel

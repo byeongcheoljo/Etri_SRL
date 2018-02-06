@@ -1,0 +1,3 @@
+etri#doc_11224.txt 4 다루다 ----- 4:0-rel
+etri#doc_11224.txt 9 싸이다 ----- 8:1-ARG2(INS) 9:0-rel
+etri#doc_11224.txt 14 달리다 ----- 7:3-ARGM-ADV(EFF) 10:3-ARG3(DIR) 13:3-ARGM-MNR(INS) 14:0-rel

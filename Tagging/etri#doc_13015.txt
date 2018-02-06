@@ -1,0 +1,6 @@
+etri#doc_13015.txt 3 돕다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_13015.txt 4 위하다 ----- 3:3-ARG1() 4:0-rel
+etri#doc_13015.txt 5 구성하다 ----- 4:4-ARGM-PRP() 5:0-rel
+etri#doc_13015.txt 10 희생되다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_13015.txt 13 쓰다 ----- 12:4-ARG2(LOC) 13:0-rel
+etri#doc_13015.txt 16 기탁하다 ----- 7:7-ARG0(AGT) 8:1-ARGM-TMP() 13:5-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-LOC(GOL) 16:0-rel

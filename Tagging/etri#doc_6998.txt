@@ -1,0 +1,2 @@
+etri#doc_6998.txt 8 출판되다 ----- 2:2-ARGM-EXT() 3:1-ARGM-LOC(LOC) 4:1-ARGM-EXT() 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6998.txt 14 보이다 ----- 8:2-ARGM-DIS() 9:1-ARGM-EXT() 10:1-ARGM-EXT() 13:2-ARG1(THM) 14:0-rel

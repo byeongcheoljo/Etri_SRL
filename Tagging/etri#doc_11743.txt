@@ -1,0 +1,6 @@
+etri#doc_11743.txt 2 존재하다 ----- 2:0-rel
+etri#doc_11743.txt 5 대응되다 ----- 3:2-ARG1(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11743.txt 6 존재하다 ----- 6:0-rel
+etri#doc_11743.txt 10 대응하다 ----- 5:2-ARGM-DIS() 7:2-ARG1(GOL) 8:1-ARGM-MNR(INS) 9:1-ARG0(AGT) 10:0-rel
+etri#doc_11743.txt 14 대응하다 ----- 13:3-ARG1(GOL) 14:0-rel
+etri#doc_11743.txt 21 찾다 ----- 1:1-ARGM-DIS() 10:2-ARGM-CND() 14:4-ARGM-PRD() 20:2-ARG1(THM) 21:0-rel

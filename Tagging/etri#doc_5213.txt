@@ -1,0 +1,5 @@
+etri#doc_5213.txt 4 거절하다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5213.txt 6 수행하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_5213.txt 10 들이대다 ----- 8:1-ARG1(THM) 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_5213.txt 11 협박하다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_5213.txt 15 꿇다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 7:3-ARG0(AGT) 11:3-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

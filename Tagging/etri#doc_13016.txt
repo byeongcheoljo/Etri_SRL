@@ -1,0 +1,4 @@
+etri#doc_13016.txt 10 연결되다 ----- 5:1-ARGM-LOC(LOC) 8:3-ARG2(COM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_13016.txt 13 설치되다 ----- 2:1-ARG2(LOC) 4:2-ARGM-ADV(EFF) 12:2-ARG1(THM) 13:0-rel
+etri#doc_13016.txt 16 들다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_13016.txt 19 오가다 ----- 1:1-ARGM-DIS() 13:3-ARGM-DIS() 16:3-ARGM-DIS() 18:2-ARG2(LOC) 19:0-rel

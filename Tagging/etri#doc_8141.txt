@@ -1,0 +1,4 @@
+etri#doc_8141.txt 2 사냥하다 ----- 2:0-rel
+etri#doc_8141.txt 5 파악하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_8141.txt 14 유인하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_8141.txt 15 잡다 ----- 14:2-ARGM-DIS() 15:0-rel

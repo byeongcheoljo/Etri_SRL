@@ -1,0 +1,4 @@
+etri#doc_764.txt 5 밝히다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:1-ARG2(FNS) 5:0-rel
+etri#doc_764.txt 9 빌다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_764.txt 11 고취하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_764.txt 14 교화하다 ----- 9:4-ARGM-MNR() 11:2-ARGM-DIS() 12:1-ARGM-INS(INS) 13:1-ARG1(THM) 14:0-rel

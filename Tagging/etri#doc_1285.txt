@@ -1,0 +1,2 @@
+etri#doc_1285.txt 5 내장되다 ----- 4:2-ARG1(LOC) 5:0-rel
+etri#doc_1285.txt 15 다루다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 13:4-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

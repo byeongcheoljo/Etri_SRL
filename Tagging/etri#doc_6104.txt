@@ -1,0 +1,5 @@
+etri#doc_6104.txt 6 기대하다 ----- 4:2-ARGM-LOC(SRC) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_6104.txt 7 여기다 ----- 6:2-ARG1() 7:0-rel
+etri#doc_6104.txt 12 헤어지다 ----- 11:1-ARGM-MNR(COM) 12:0-rel
+etri#doc_6104.txt 13 저물다 ----- 13:0-rel
+etri#doc_6104.txt 15 떠나다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 8:4-ARG0(AGT) 10:2-ARGM-MNR(COM) 12:2-ARGM-DIS() 14:2-ARG1(LOC) 15:0-rel

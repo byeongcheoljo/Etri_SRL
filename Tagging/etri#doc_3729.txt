@@ -1,0 +1,5 @@
+etri#doc_3729.txt 5 정해지다 ----- 2:1-ARG1(THM) 4:2-ARGM-PRD(FNS) 5:0-rel
+etri#doc_3729.txt 8 책임지다 ----- 7:1-ARG2(THM) 8:0-rel
+etri#doc_3729.txt 10 내조하다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_3729.txt 12 낳다 ----- 10:4-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_3729.txt 20 받아들이다 ----- 1:1-ARGM-CAU() 6:4-ARG0(AGT) 17:3-ARG1(THM) 19:2-ARGM-PRD(FNS) 20:0-rel

@@ -1,0 +1,10 @@
+etri#doc_7222.txt 2 듣다 ----- 1:1-ARG0(MAG) 2:0-rel
+etri#doc_7222.txt 6 이르다 ----- 5:1-ARG3(FNS) 6:0-rel
+etri#doc_7222.txt 8 돌아오다 ----- 4:2-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG3(GOL) 8:0-rel
+etri#doc_7222.txt 10 다하다 ----- 9:1-ARG0(THM) 10:0-rel
+etri#doc_7222.txt 12 돌아오다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:1-ARG3(GOL) 12:0-rel
+etri#doc_7222.txt 13 쌓다 ----- 13:0-rel
+etri#doc_7222.txt 16 달하다 ----- 14:2-ARG1(AGT) 15:1-ARG2(GOL) 16:0-rel
+etri#doc_7222.txt 19 오다 ----- 12:2-ARGM-DIS() 16:2-ARGM-DIS() 18:2-ARG0(THM) 19:0-rel
+etri#doc_7222.txt 22 쌓다 ----- 21:1-ARG1(THM) 22:0-rel
+etri#doc_7222.txt 25 하다 ----- 2:2-ARGM-DIS() 24:4-ARGM-MNR(INS) 25:0-rel

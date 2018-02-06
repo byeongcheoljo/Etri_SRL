@@ -1,0 +1,4 @@
+etri#doc_9833.txt 4 풀다 ----- 2:2-ARGM-MNR(INS) 3:1-ARG1(THM) 4:0-rel
+etri#doc_9833.txt 6 잘못되다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_9833.txt 13 하다 ----- 10:1-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_9833.txt 19 반문하다 ----- 8:2-ARG1(THM) 9:1-ARG0(AGT) 18:2-ARGM-DIS() 19:0-rel

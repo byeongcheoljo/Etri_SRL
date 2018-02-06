@@ -1,0 +1,5 @@
+etri#doc_2743.txt 2 하다 ----- 1:1-ARGM-MNR(FNS) 2:0-rel
+etri#doc_2743.txt 5 나다 ----- 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_2743.txt 7 살다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR() 7:0-rel
+etri#doc_2743.txt 9 말하다 ----- 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_2743.txt 11 죽다 ----- 11:0-rel

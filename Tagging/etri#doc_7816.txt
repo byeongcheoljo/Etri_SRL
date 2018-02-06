@@ -1,0 +1,2 @@
+etri#doc_7816.txt 8 솟아나다 ----- 2:2-ARG1(THM) 5:3-ARGM-MNR() 7:2-ARGM-LOC(SRC) 8:0-rel
+etri#doc_7816.txt 18 있다 ----- 16:2-ARGM-MNR(INS) 17:1-ARG1() 18:0-rel

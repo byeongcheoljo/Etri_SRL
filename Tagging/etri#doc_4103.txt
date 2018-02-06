@@ -1,0 +1,4 @@
+etri#doc_4103.txt 13 얻다 ----- 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4103.txt 16 가다 ----- 13:2-ARGM-DIS() 14:1-ARGM-EXT() 15:1-ARG1(Npr) 16:0-rel
+etri#doc_4103.txt 17 죽다 ----- 17:0-rel
+etri#doc_4103.txt 19 하다 ----- 9:5-ARGM-DIS() 10:1-ARG0() 16:2-ARGM-DIS() 18:2-ARG1(THM) 19:0-rel

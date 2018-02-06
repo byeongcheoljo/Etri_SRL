@@ -1,0 +1,4 @@
+etri#doc_115.txt 3 총괄하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_115.txt 9 받다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_115.txt 13 부치다 ----- 11:1-ARG1(THM) 12:1-ARG2(LOC) 13:0-rel
+etri#doc_115.txt 15 거부하다 ----- 5:2-ARG0(AGT) 9:4-ARGM-DIS() 10:1-ARGM-TMP(COM) 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

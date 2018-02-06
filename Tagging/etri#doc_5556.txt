@@ -1,0 +1,6 @@
+etri#doc_5556.txt 3 싸우다 ----- 2:1-ARGM-MNR(INS) 3:0-rel
+etri#doc_5556.txt 5 얻다 ----- 3:2-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_5556.txt 8 싸우다 ----- 7:1-ARGM-MNR(COM) 8:0-rel
+etri#doc_5556.txt 9 이기다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_5556.txt 14 앞서다 ----- 12:1-ARGM-EXT(CRT) 13:1-ARGM-TMP() 14:0-rel
+etri#doc_5556.txt 17 말하다 ----- 1:1-ARG0(AGT) 5:2-ARGM-ADV(CNT) 16:4-ARG1(CNT) 17:0-rel

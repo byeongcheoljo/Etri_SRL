@@ -1,0 +1,2 @@
+etri#doc_1329.txt 5 되다 ----- 4:3-ARG2(GOL) 5:0-rel
+etri#doc_1329.txt 16 놓이다 ----- 8:3-ARG1(THM) 15:4-(LOC) 16:0-rel

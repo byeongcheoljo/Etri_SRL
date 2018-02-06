@@ -1,0 +1,6 @@
+etri#doc_6079.txt 5 지불하다 ----- 2:1-ARG0(AGT) 4:2-ARG1(THM) 5:0-rel
+etri#doc_6079.txt 8 되다 ----- 1:1-ARG1(THM) 5:3-ARGM-ADV() 6:1-ARGM-MNR() 7:1-ARG2(FNS) 8:0-rel
+etri#doc_6079.txt 10 연상시키다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_6079.txt 13 불타다 ----- 13:0-rel
+etri#doc_6079.txt 14 허물어지다 ----- 13:1-ARGM-DIS() 14:0-rel
+etri#doc_6079.txt 16 지나다 ----- 8:2-ARGM-DIS() 12:2-ARG1(THM) 15:3-ARG2(CRT) 16:0-rel

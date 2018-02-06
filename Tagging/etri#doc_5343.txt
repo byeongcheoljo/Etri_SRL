@@ -1,0 +1,4 @@
+etri#doc_5343.txt 5 발생하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5343.txt 13 힘입다 ----- 12:2-ARG2(EFF) 13:0-rel
+etri#doc_5343.txt 15 증가하다 ----- 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_5343.txt 18 축적하다 ----- 7:2-ARGM-TMP(LOC) 15:2-ARGM-DIS() 16:1-ARG0(AGT) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1277.txt 3 하다 ----- 2:2-ARGM-CND(FNS) 3:0-rel
+etri#doc_1277.txt 13 보다 ----- 12:2-ARGM-LOC(LOC) 13:0-rel

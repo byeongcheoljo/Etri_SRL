@@ -1,0 +1,7 @@
+etri#doc_1167.txt 4 죽다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_1167.txt 7 하다 ----- 4:2-ARGM-CND() 6:2-ARGM-DIS() 7:0-rel
+etri#doc_1167.txt 10 올라가다 ----- 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_1167.txt 12 입다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1167.txt 14 흔들다 ----- 10:2-ARGM-MNR() 13:3-ARG1(THM) 14:0-rel
+etri#doc_1167.txt 16 떠나가다 ----- 15:1-ARG2(THM) 16:0-rel
+etri#doc_1167.txt 18 불러들이다 ----- 8:4-ARG0(THM) 14:4-ARGM-MNR() 17:3-ARG1(THM) 18:0-rel

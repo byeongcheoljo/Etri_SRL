@@ -1,0 +1,5 @@
+etri#doc_1467.txt 2 가로지르다 ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_1467.txt 7 되다 ----- 2:2-ARGM-MNR() 6:4-ARG1() 7:0-rel
+etri#doc_1467.txt 13 살다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_1467.txt 15 갈라지다 ----- 15:0-rel
+etri#doc_1467.txt 20 바라다 ----- 8:6-ARG0(AGT) 11:2-ARGM-DIS() 14:3-ARGM-INS(COM) 19:5-ARG1(THM) 20:0-rel

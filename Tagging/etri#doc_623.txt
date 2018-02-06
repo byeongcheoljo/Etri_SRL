@@ -1,0 +1,3 @@
+etri#doc_623.txt 6 맞추다 ----- 5:3-ARG2(CRT) 6:0-rel
+etri#doc_623.txt 15 개발하다 ----- 13:3-ARG1(THM) 14:1-ARGM-TMP(CRT) 15:0-rel
+etri#doc_623.txt 17 택하다 ----- 1:1-ARGM-TMP() 6:4-ARGM-DIS() 10:3-ARGM-MNR(INS) 16:3-ARG1(THM) 17:0-rel

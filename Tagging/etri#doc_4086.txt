@@ -1,0 +1,6 @@
+etri#doc_4086.txt 6 입다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_4086.txt 10 하다 ----- 3:2-ARG0(THM) 8:5-ARGM-CAU() 9:1-ARG1(CNT) 10:0-rel
+etri#doc_4086.txt 12 가다 ----- 11:1-ARG3(GOL) 12:0-rel
+etri#doc_4086.txt 14 올리다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4086.txt 16 드리다 ----- 1:1-ARG0(AGT) 10:2-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_4086.txt 20 빌다 ----- 16:2-ARGM-DIS() 17:1-ARG0() 19:2-ARG1(THM) 20:0-rel

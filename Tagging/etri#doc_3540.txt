@@ -1,0 +1,5 @@
+etri#doc_3540.txt 6 발표하다 ----- 5:1-ARGM-DIS(CNT) 6:0-rel
+etri#doc_3540.txt 13 이룩하다 ----- 8:1-ARGM-TMP(GOL) 12:2-ARG1(THM) 13:0-rel
+etri#doc_3540.txt 14 비상하다 ----- 14:0-rel
+etri#doc_3540.txt 17 이끌다 ----- 13:3-ARGM-PRP() 15:2-ARG2(DIR) 16:1-ARG1(THM) 17:0-rel
+etri#doc_3540.txt 18 다짐하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-TMP() 7:3-ARGM-INS(INS) 17:2-ARG1() 18:0-rel

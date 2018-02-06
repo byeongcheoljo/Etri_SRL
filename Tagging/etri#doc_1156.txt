@@ -1,0 +1,4 @@
+etri#doc_1156.txt 8 보이다 ----- 2:2-ARGM-TMP(LOC) 5:3-ARG0(THM) 6:1-ARGM-LOC(LOC) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_1156.txt 11 빙자하다 ----- 9:1-ARGM-ADV() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1156.txt 16 시키다 ----- 14:5-ARGM-MNR(PUR) 15:1-ARG1(THM) 16:0-rel
+etri#doc_1156.txt 17 들통나다 ----- 16:2-ARGM-DIS() 17:0-rel

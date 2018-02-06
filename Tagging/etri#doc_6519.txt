@@ -1,0 +1,2 @@
+etri#doc_6519.txt 5 마감하다 ----- 4:1-ARG2(THM) 5:0-rel
+etri#doc_6519.txt 15 시작되다 ----- 2:2-ARGM-DIS() 3:1-ARGM-LOC(LOC) 13:5-ARG1(THM) 14:1-ARGM-TMP(LOC) 15:0-rel

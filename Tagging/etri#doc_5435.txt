@@ -1,0 +1,5 @@
+etri#doc_5435.txt 7 가지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5435.txt 9 생각하다 ----- 2:2-ARG0(MAG) 3:1-ARG1(THM) 8:4-ARG2(FNS) 9:0-rel
+etri#doc_5435.txt 14 과소평가하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5435.txt 19 가져다주다 ----- 15:1-ARG2(GOL) 18:3-ARG1(THM) 19:0-rel
+etri#doc_5435.txt 22 가로막다 ----- 9:5-ARGM-DIS() 11:2-ARG0(AGT) 14:3-ARGM-CAU() 21:6-ARG1(THM) 22:0-rel

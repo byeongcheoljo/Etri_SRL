@@ -1,0 +1,3 @@
+etri#doc_1106.txt 3 추구하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1106.txt 8 지원하다 ----- 4:4-ARGM-LOC(LOC) 7:2-ARG1(THM) 8:0-rel
+etri#doc_1106.txt 16 해명하다 ----- 15:2-ARGM-DIS() 16:0-rel

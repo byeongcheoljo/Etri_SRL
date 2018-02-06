@@ -1,0 +1,5 @@
+etri#doc_857.txt 3 키우다 ----- 2:1-ARG1() 3:0-rel
+etri#doc_857.txt 8 알리다 ----- 1:1-() 5:4-ARGM-CAU() 6:1-ARGM-MNR() 7:1-(GOL) 8:0-rel
+etri#doc_857.txt 12 잡다 ----- 12:0-rel
+etri#doc_857.txt 15 보이다 ----- 9:1-ARG0(AGT) 11:2-ARGM-CAU() 12:1-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel
+etri#doc_857.txt 16 어찌하다 ----- 8:2-ARGM-DIS() 15:3-ARGM-CAU() 16:0-rel

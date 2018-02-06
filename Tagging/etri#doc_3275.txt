@@ -1,0 +1,4 @@
+etri#doc_3275.txt 7 젖다 ----- 6:1-ARGM-CAU(EFF) 7:0-rel
+etri#doc_3275.txt 13 사용하다 ----- 11:1-ARG1(THM) 12:1-ARG2(LOC) 13:0-rel
+etri#doc_3275.txt 16 들어오다 ----- 14:1-ARGM-INS(INS) 15:1-ARG0(THM) 16:0-rel
+etri#doc_3275.txt 18 방지하다 ----- 10:5-ARGM-CAU() 13:2-ARGM-CND() 17:3-ARG1(THM) 18:0-rel

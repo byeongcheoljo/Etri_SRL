@@ -1,0 +1,1 @@
+etri#doc_11137.txt 10 석방되다 ----- 7:2-ARG0(AGT) 8:1-ARGM-TMP() 9:1-ARGM-MNR() 10:0-rel

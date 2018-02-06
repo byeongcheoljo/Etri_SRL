@@ -1,0 +1,2 @@
+etri#doc_4094.txt 6 ´À³¢´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT() 5:3-ARGM-ADV(FNS) 6:0-rel
+etri#doc_4094.txt 16 ÆîÃÄÁö´Ù ----- 10:1-ARG0(AGT) 13:3-ARGM-MNR(LOC) 14:1-ARGM-EXT() 15:1-ARGM-MNR(DIR) 16:0-rel

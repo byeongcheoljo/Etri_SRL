@@ -1,0 +1,4 @@
+etri#doc_11953.txt 4 되다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_11953.txt 11 알다 ----- 9:3-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_11953.txt 12 하다 ----- 11:2-ARG1(CNT) 12:0-rel
+etri#doc_11953.txt 16 짓다 ----- 5:3-ARG0(AGT) 6:1-ARGM-MNR() 12:3-ARGM-DIS() 15:3-ARG1(Npr) 16:0-rel

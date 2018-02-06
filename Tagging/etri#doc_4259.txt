@@ -1,0 +1,2 @@
+etri#doc_4259.txt 11 ∂Ï¥Ÿ ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4259.txt 23 »Â∏£¥Ÿ ----- 1:1-ARGM-DIS() 6:3-ARGM-LOC(LOC) 22:5-ARG1(THM) 23:0-rel

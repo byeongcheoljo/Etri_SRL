@@ -1,0 +1,3 @@
+etri#doc_1783.txt 4 달리다 ----- 3:2-ARG0(THM) 4:0-rel
+etri#doc_1783.txt 17 들어가다 ----- 16:1-ARGM-TMP() 17:0-rel
+etri#doc_1783.txt 20 이르다 ----- 9:2-ARGM-DIS() 15:3-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARG3(FNS) 20:0-rel

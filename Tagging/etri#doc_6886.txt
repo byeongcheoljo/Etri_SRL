@@ -1,0 +1,2 @@
+etri#doc_6886.txt 17 복종하다 ----- 16:1-ARG0(GOL) 17:0-rel
+etri#doc_6886.txt 21 위협하다 ----- 4:4-ARGM-TMP() 6:2-ARG0(AGT) 8:2-ARGM-DIS() 20:2-ARG1(CNT) 21:0-rel

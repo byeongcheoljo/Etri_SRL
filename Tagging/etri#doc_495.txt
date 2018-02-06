@@ -1,0 +1,5 @@
+etri#doc_495.txt 5 치솟다 ----- 5:0-rel
+etri#doc_495.txt 6 오르다 ----- 2:1-ARG1(THM) 3:1-ARGM-LOC(GOL) 4:1-ARGM-EXT(CRT) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_495.txt 9 퍼지다 ----- 9:0-rel
+etri#doc_495.txt 10 나오다 ----- 7:3-ARGM-DIS() 8:1-ARGM-LOC(GOL) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_495.txt 14 태우다 ----- 1:1-ARGM-DIS() 10:2-ARGM-CAU() 13:3-ARG1(THM) 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2832.txt 7 쓰다 ----- 3:2-ARGM-INS(INS) 4:1-ARGM-EXT() 5:1-ARGM-MNR() 6:1-ARG1(THM) 7:0-rel
+etri#doc_2832.txt 11 지도하다 ----- 8:1-ARG0(AGT) 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel

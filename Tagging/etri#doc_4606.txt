@@ -1,0 +1,5 @@
+etri#doc_4606.txt 3 나가다 ----- 1:1-ARG3(GOL) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_4606.txt 7 발생하다 ----- 5:1-ARGM-TMP() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4606.txt 11 물러나다 ----- 7:2-ARGM-DIS() 9:2-ARGM-INS(INS) 10:1-ARG1(SRC) 11:0-rel
+etri#doc_4606.txt 17 오르다 ----- 11:2-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG3(GOL) 16:3-ARG2(LOC) 17:0-rel
+etri#doc_4606.txt 19 전락하다 ----- 4:3-ARG1(THM) 18:5-ARG2(FNS) 19:0-rel

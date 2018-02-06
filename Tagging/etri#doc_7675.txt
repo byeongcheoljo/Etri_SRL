@@ -1,0 +1,4 @@
+etri#doc_7675.txt 5 굴복하다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7675.txt 11 정하다 ----- 9:1-ARGM-LOC(LOC) 10:1-ARG1(THM) 11:0-rel
+etri#doc_7675.txt 13 건설하다 ----- 8:2-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_7675.txt 19 동화되다 ----- 5:2-ARGM-DIS() 13:2-ARGM-DIS() 16:2-ARGM-MNR(INS) 18:2-ARG2(GOL) 19:0-rel

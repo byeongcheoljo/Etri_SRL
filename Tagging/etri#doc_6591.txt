@@ -1,0 +1,6 @@
+etri#doc_6591.txt 5 꼬이다 ----- 5:0-rel
+etri#doc_6591.txt 6 꼬이다 ----- 5:1-ARGM-DIS() 6:0-rel
+etri#doc_6591.txt 10 축소되다 ----- 10:0-rel
+etri#doc_6591.txt 11 확장되다 ----- 9:1-ARG3(LOC) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_6591.txt 14 찾다 ----- 8:2-ARGM-LOC(LOC) 13:2-ARGM-LOC(LOC) 14:0-rel
+etri#doc_6591.txt 19 되찾다 ----- 18:1-ARGM-TMP() 19:0-rel

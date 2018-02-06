@@ -1,0 +1,4 @@
+etri#doc_5182.txt 6 정리하다 ----- 3:2-ARG1(THM) 5:2-ARGM-MNR(FNS) 6:0-rel
+etri#doc_5182.txt 8 하다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_5182.txt 14 통제하다 ----- 10:2-ARG1(THM) 13:3-ARGM-MNR(INS) 14:0-rel
+etri#doc_5182.txt 15 확신하다 ----- 1:1-ARG0(MAG) 6:3-ARGM-DIS() 14:4-ARG1() 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1552.txt 7 분리되다 ----- 5:3-ARGM-CAU(EFF) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_1552.txt 8 충돌하다 ----- 8:0-rel
+etri#doc_1552.txt 11 튕기다 ----- 2:2-ARG0(THM) 7:2-ARGM-TMP() 9:2-ARGM-DIS() 10:1-ARGM-DIR(DIR) 11:0-rel
+etri#doc_1552.txt 16 끊어지다 ----- 15:1-ARG1(AGT) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_7619.txt 5 나다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7619.txt 6 짜다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_7619.txt 8 짓다 ----- 2:1-ARG1(THM) 7:4-ARGM-INS(INS) 8:0-rel
+etri#doc_7619.txt 14 돌다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel
+etri#doc_7619.txt 16 들다 ----- 14:2-ARGM-MNR() 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_7619.txt 18 지다 ----- 1:1-ARGM-DIS() 8:5-ARGM-DIS() 9:1-ARG1(THM) 17:3-ARGM-INS(INS) 18:0-rel

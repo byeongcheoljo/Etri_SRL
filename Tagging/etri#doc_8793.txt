@@ -1,0 +1,4 @@
+etri#doc_8793.txt 4 ³²´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8793.txt 6 ´ÚÄ¡´Ù ----- 5:1-ARG2(GOL) 6:0-rel
+etri#doc_8793.txt 9 ÅõÀïÇÏ´Ù ----- 8:2-ARG2(COM) 9:0-rel
+etri#doc_8793.txt 15 ²ª´Ù ----- 4:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARG0(AGT) 15:0-rel

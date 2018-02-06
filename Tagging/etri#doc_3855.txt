@@ -1,0 +1,3 @@
+etri#doc_3855.txt 2 굶다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_3855.txt 10 거르다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_3855.txt 20 드러나다 ----- 14:3-ARG1(THM) 19:4-ARGM-MNR(FNS) 20:0-rel

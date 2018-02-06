@@ -1,0 +1,4 @@
+etri#doc_5269.txt 3 발생하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5269.txt 9 두다 ----- 7:2-ARG2(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5269.txt 15 미치다 ----- 9:2-ARGM-DIS() 11:2-ARG2(GOL) 14:3-ARG1(THM) 15:0-rel
+etri#doc_5269.txt 16 평가되다 ----- 3:3-ARGM-CND() 5:2-ARG1(THM) 15:4-ARGM-DIS() 16:0-rel

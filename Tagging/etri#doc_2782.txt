@@ -1,0 +1,2 @@
+etri#doc_2782.txt 14 차지하다 ----- 10:2-ARG0(AGT) 11:1-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel
+etri#doc_2782.txt 16 잡다 ----- 7:3-ARGM-DIS() 8:1-ARGM-EXT() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1553.txt 7 보호하다 ----- 3:3-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_1553.txt 10 숨다 ----- 9:5-ARG2(LOC) 10:0-rel
+etri#doc_1553.txt 13 보존하다 ----- 10:6-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_1553.txt 17 발전하다 ----- 13:3-ARGM-MNR() 16:2-ARG0(THM) 17:0-rel

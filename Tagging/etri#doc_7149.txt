@@ -1,0 +1,4 @@
+etri#doc_7149.txt 7 얻다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7149.txt 8 결혼하다 ----- 2:2-ARG1(AGT) 4:2-ARGM-MNR(INS) 7:3-ARGM-MNR() 8:0-rel
+etri#doc_7149.txt 13 젖다 ----- 12:2-ARGM-MNR(EFF) 13:0-rel
+etri#doc_7149.txt 15 보내다 ----- 9:1-ARGM-DIS() 10:1-ARGM-LOC(LOC) 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel

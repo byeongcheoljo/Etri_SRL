@@ -1,0 +1,3 @@
+etri#doc_11338.txt 6 보이다 ----- 4:2-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11338.txt 11 발달되다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_11338.txt 17 논의되다 ----- 1:1-ARGM-DIS() 15:4-ARG1(THM) 16:1-ARGM-ADV() 17:0-rel

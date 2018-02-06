@@ -1,0 +1,4 @@
+etri#doc_8080.txt 5 ¿Ö°îµÇ´Ù ----- 3:2-ARG1(THM) 4:1-ARGM-CAU(EFF) 5:0-rel
+etri#doc_8080.txt 10 ÇØ¼®ÇÏ´Ù ----- 6:3-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_8080.txt 13 ¿Ö°îµÇ´Ù ----- 13:0-rel
+etri#doc_8080.txt 17 ³º´Ù ----- 1:1-ARGM-DIS() 11:3-ARG0(AGT) 12:1-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7641.txt 2 °Þ´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7641.txt 14 Æø·ÎÇÏ´Ù ----- 4:2-ARG0(AGT) 13:3-ARGM-DIS() 14:0-rel
+etri#doc_7641.txt 18 ÁüÀÛÇÏ´Ù ----- 15:5-ARGM-MNR(INS) 17:2-ARG1(THM) 18:0-rel

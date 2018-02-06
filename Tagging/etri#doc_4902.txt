@@ -1,0 +1,5 @@
+etri#doc_4902.txt 4 살다 ----- 4:0-rel
+etri#doc_4902.txt 7 주장하다 ----- 1:1-ARG0(AGT) 6:3-ARG1() 7:0-rel
+etri#doc_4902.txt 11 뒷받침하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_4902.txt 14 거부하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4902.txt 19 검토하다 ----- 8:5-ARGM-DIS() 18:3-ARG1() 19:0-rel

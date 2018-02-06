@@ -1,0 +1,8 @@
+etri#doc_13003.txt 3 발견되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_13003.txt 9 없어지다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_13003.txt 12 미루다 ----- 11:5-ARGM-MNR(FNS) 12:0-rel
+etri#doc_13003.txt 14 취하다 ----- 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_13003.txt 16 저항하다 ----- 14:2-ARGM-MNR() 15:1-ARG1(GOL) 16:0-rel
+etri#doc_13003.txt 17 살해되다 ----- 12:6-ARGM-DIS() 16:2-ARGM-DIS() 17:0-rel
+etri#doc_13003.txt 18 보다 ----- 17:3-ARGM-MNR() 18:0-rel
+etri#doc_13003.txt 20 의뢰하다 ----- 1:1-ARG0(AGT) 18:4-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel

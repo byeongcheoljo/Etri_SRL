@@ -1,0 +1,3 @@
+etri#doc_4467.txt 5 차지하다 ----- 2:1-ARG0(AGT) 4:2-ARGM-EXT(CRT) 5:0-rel
+etri#doc_4467.txt 11 이르다 ----- 10:1-ARG3(GOL) 11:0-rel
+etri#doc_4467.txt 16 발달하다 ----- 1:1-ARGM-CND() 8:3-ARGM-CAU(EFF) 9:1-ARG1(THM) 14:2-ARGM-EXT(EFF) 15:1-ARGM-EXT() 16:0-rel

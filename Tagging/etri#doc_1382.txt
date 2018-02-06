@@ -1,0 +1,4 @@
+etri#doc_1382.txt 7 오다 ----- 6:1-ARG2(SRC) 7:0-rel
+etri#doc_1382.txt 9 재충전하다 ----- 5:3-ARG1(THM) 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1382.txt 10 말하다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_1382.txt 13 살다 ----- 13:0-rel

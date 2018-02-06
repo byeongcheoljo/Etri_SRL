@@ -1,0 +1,5 @@
+etri#doc_11096.txt 5 먹다 ----- 3:3-ARG1(THM) 4:1-ARGM-NEG() 5:0-rel
+etri#doc_11096.txt 7 모르다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_11096.txt 10 화장하다 ----- 10:0-rel
+etri#doc_11096.txt 12 즐기다 ----- 7:2-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel
+etri#doc_11096.txt 15 못하다 ----- 12:3-ARGM-DIS() 13:1-ARG1() 14:1-ARGM-DIS() 15:0-rel

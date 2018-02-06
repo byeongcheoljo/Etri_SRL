@@ -1,0 +1,3 @@
+etri#doc_4611.txt 2 제시하다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_4611.txt 7 찾다 ----- 4:1-ARGM-TMP() 6:2-ARGM-LOC(LOC) 7:0-rel
+etri#doc_4611.txt 16 강조하다 ----- 15:3-ARG1(THM) 16:0-rel

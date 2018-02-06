@@ -1,0 +1,3 @@
+etri#doc_11613.txt 9 뛰다 ----- 7:4-ARGM-EXT(CRT) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_11613.txt 12 거래되다 ----- 10:3-ARGM-EXT(CRT) 11:1-ARGM-TMP() 12:0-rel
+etri#doc_11613.txt 14 밀리다 ----- 1:1-ARGM-LOC(LOC) 3:2-ARG1(THM) 12:2-ARGM-DIS() 13:1-ARG3(DIR) 14:0-rel

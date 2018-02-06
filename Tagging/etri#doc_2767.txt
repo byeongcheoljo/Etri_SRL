@@ -1,0 +1,4 @@
+etri#doc_2767.txt 5 만들다 ----- 2:1-ARG0(AGT) 3:1-ARGM-INS(INS) 4:1-ARG1(THM) 5:0-rel
+etri#doc_2767.txt 9 잡다 ----- 5:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_2767.txt 11 보다 ----- 10:4-ARG1(THM) 11:0-rel
+etri#doc_2767.txt 16 내다 ----- 1:1-ARG0(AGT) 11:5-ARGM-CAU() 12:1-ARG0(AGT) 13:1-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

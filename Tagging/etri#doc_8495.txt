@@ -1,0 +1,3 @@
+etri#doc_8495.txt 7 생각하다 ----- 2:1-ARG1(THM) 6:4-ARG1(CNT) 7:0-rel
+etri#doc_8495.txt 15 담기다 ----- 10:2-ARG2(LOC) 13:3-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_8495.txt 16 생각하다 ----- 1:1-ARG0(MAG) 7:5-ARGM-DIS() 8:1-ARGM-TMP() 15:2-ARG1() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5579.txt 4 두다 ----- 2:2-ARG1(THM) 3:1-ARG2(LOC) 4:0-rel
+etri#doc_5579.txt 7 발표하다 ----- 5:1-ARG0(AGT) 6:1-ARGM-TMP() 7:0-rel

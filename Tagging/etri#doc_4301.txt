@@ -1,0 +1,5 @@
+etri#doc_4301.txt 5 내리다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_4301.txt 8 보다 ----- 6:1-ARG1(THM) 7:1-ARG1(FNS) 8:0-rel
+etri#doc_4301.txt 13 일으키다 ----- 10:1-ARGM-ADV(EFF) 12:2-ARG1(THM) 13:0-rel
+etri#doc_4301.txt 17 가지다 ----- 8:2-ARGM-DIS() 9:1-ARG0(LOC) 16:3-ARG1(THM) 17:0-rel
+etri#doc_4301.txt 18 생각하다 ----- 1:1-ARG0(MAG) 5:2-ARGM-DIS() 17:4-ARG1() 18:0-rel

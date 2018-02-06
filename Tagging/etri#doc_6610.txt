@@ -1,0 +1,4 @@
+etri#doc_6610.txt 5 실리다 ----- 4:1-ARGM-LOC() 5:0-rel
+etri#doc_6610.txt 13 포함하다 ----- 11:2-ARG1() 12:1-ARGM-EXT() 13:0-rel
+etri#doc_6610.txt 15 드러나다 ----- 3:2-ARG0(AGT) 8:2-ARGM-LOC(LOC) 14:3-ARGM-LOC(LOC) 15:0-rel
+etri#doc_6610.txt 16 드러나다 ----- 16:0-rel

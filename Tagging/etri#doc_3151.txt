@@ -1,0 +1,2 @@
+etri#doc_3151.txt 7 실현하다 ----- 3:2-() 4:1-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_3151.txt 19 알다 ----- 1:1-ARGM-DIS() 12:8-ARGM-DIS() 18:4-ARG1(THM) 19:0-rel

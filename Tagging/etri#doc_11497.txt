@@ -1,0 +1,4 @@
+etri#doc_11497.txt 6 들다 ----- 2:2-ARG0(AGT) 5:3-ARGM-LOC(LOC) 6:0-rel
+etri#doc_11497.txt 9 일으키다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_11497.txt 12 차단하다 ----- 9:2-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_11497.txt 15 이루다 ----- 6:4-ARGM-DIS() 12:2-ARGM-MNR() 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

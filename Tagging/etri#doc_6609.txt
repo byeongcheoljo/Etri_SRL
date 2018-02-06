@@ -1,0 +1,5 @@
+etri#doc_6609.txt 2 모순되다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_6609.txt 4 갈라지다 ----- 4:0-rel
+etri#doc_6609.txt 5 갈라지다 ----- 3:3-ARGM-DIR(DIR) 4:1-ARGM-DIS() 5:0-rel
+etri#doc_6609.txt 19 자리잡다 ----- 18:5-ARG1(LOC) 19:0-rel
+etri#doc_6609.txt 22 움직이다 ----- 7:4-ARGM-DIS() 12:2-ARG0(AGT) 21:2-ARGM-LOC(LOC) 22:0-rel

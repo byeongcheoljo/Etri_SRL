@@ -1,0 +1,2 @@
+etri#doc_7831.txt 21 즐기다 ----- 21:0-rel
+etri#doc_7831.txt 22 찾아들다 ----- 1:1-ARGM-LOC(LOC) 20:2-ARG0(AGT) 21:1-ARGM-DIS() 22:0-rel

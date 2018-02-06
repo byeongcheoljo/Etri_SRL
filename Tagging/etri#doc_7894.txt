@@ -1,0 +1,4 @@
+etri#doc_7894.txt 8 내걸다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_7894.txt 12 하다 ----- 8:4-ARGM-DIS() 9:1-ARGM-TMP(LOC) 10:1-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_7894.txt 16 알다 ----- 13:1-ARG2(COM) 14:1-ARGM-TMP(LOC) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_7894.txt 19 들어오다 ----- 12:2-ARGM-DIS() 17:3-ARG0(AGT) 18:1-ARG3(GOL) 19:0-rel

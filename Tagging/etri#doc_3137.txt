@@ -1,0 +1,2 @@
+etri#doc_3137.txt 11 제거되다 ----- 10:9-ARG1(THM) 11:0-rel
+etri#doc_3137.txt 19 되다 ----- 12:11-ARG1(THM) 17:2-ARGM-EXT() 18:1-ARG2(FNS) 19:0-rel

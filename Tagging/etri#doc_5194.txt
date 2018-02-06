@@ -1,0 +1,4 @@
+etri#doc_5194.txt 2 설명하다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_5194.txt 3 하다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_5194.txt 8 괴롭히다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5194.txt 13 하다 ----- 10:4-ARGM-TMP() 11:1-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

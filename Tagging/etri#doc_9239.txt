@@ -1,0 +1,5 @@
+etri#doc_9239.txt 3 발달하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_9239.txt 6 나타나다 ----- 3:2-ARGM-MNR() 4:1-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_9239.txt 9 떨어지다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9239.txt 13 주다 ----- 9:2-ARGM-MNR() 10:1-ARG2(GOL) 12:2-ARG1(THM) 13:0-rel
+etri#doc_9239.txt 17 다치다 ----- 1:1-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-DIS() 16:2-ARG1(EXP) 17:0-rel

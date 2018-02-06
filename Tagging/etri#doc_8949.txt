@@ -1,0 +1,2 @@
+etri#doc_8949.txt 6 달리다 ----- 2:2-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_8949.txt 11 알다 ----- 6:4-ARGM-DIS() 8:2-ARG1(THM) 9:1-ARG0(MAG) 10:1-ARGM-TMP() 11:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4405.txt 4 하다 ----- 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_4405.txt 10 부리다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4405.txt 11 취재하다 ----- 5:1-ARGM-MNR() 7:2-ARG1(THM) 8:1-ARGM-MNR(INS) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_4405.txt 15 깨지다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

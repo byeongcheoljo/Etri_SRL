@@ -1,0 +1,3 @@
+etri#doc_8267.txt 6 오다 ----- 3:1-ARGM-TMP() 5:2-ARG3(LOC) 6:0-rel
+etri#doc_8267.txt 12 선택하다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_8267.txt 15 되다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 8:2-ARG1(THM) 14:2-ARG2(FNS) 15:0-rel

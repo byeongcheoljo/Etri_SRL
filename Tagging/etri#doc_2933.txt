@@ -1,0 +1,4 @@
+etri#doc_2933.txt 5 기술하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_2933.txt 8 되다 ----- 7:5-ARG1(THM) 8:0-rel
+etri#doc_2933.txt 13 일치하다 ----- 12:2-ARG2(CRT) 13:0-rel
+etri#doc_2933.txt 17 지정하다 ----- 9:7-ARG0(AGT) 16:2-ARG1(THM) 17:0-rel

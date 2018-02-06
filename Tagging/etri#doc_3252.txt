@@ -1,0 +1,5 @@
+etri#doc_3252.txt 9 갈라지다 ----- 9:0-rel
+etri#doc_3252.txt 10 쪼개지다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_3252.txt 13 벗겨지다 ----- 10:2-ARGM-DIS() 12:2-ARG2(FNS) 13:0-rel
+etri#doc_3252.txt 16 구부러지다 ----- 15:1-ARGM-EXT(EFF) 16:0-rel
+etri#doc_3252.txt 18 변하다 ----- 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

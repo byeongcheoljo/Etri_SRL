@@ -1,0 +1,5 @@
+etri#doc_11189.txt 4 분포되다 ----- 3:1-ARG2(LOC) 4:0-rel
+etri#doc_11189.txt 7 관찰하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11189.txt 10 방출되다 ----- 9:2-ARGM-LOC(SRC) 10:0-rel
+etri#doc_11189.txt 12 수집하다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_11189.txt 14 포함되다 ----- 13:1-ARG1(THM) 14:0-rel

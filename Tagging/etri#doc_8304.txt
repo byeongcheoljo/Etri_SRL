@@ -1,0 +1,5 @@
+etri#doc_8304.txt 5 들어가다 ----- 4:1-ARGM-EXT() 5:0-rel
+etri#doc_8304.txt 8 끼다 ----- 6:3-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_8304.txt 13 청소하다 ----- 11:1-ARGM-INS(INS) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_8304.txt 15 바르다 ----- 10:2-ARG1(THM) 13:2-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel
+etri#doc_8304.txt 18 없애다 ----- 8:2-ARGM-DIS() 15:2-ARGM-PRD() 16:1-ARG1(THM) 17:1-ARGM-TMP() 18:0-rel

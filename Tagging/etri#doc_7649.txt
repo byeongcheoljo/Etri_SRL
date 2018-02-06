@@ -1,0 +1,3 @@
+etri#doc_7649.txt 4 붙다 ----- 1:1-ARG1(GOL) 3:2-ARG0(THM) 4:0-rel
+etri#doc_7649.txt 6 주관하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_7649.txt 13 명명하다 ----- 4:3-ARGM-DIS() 7:3-ARG0(AGT) 9:2-ARGM-DIS() 10:1-ARGM-MNR(INS) 12:2-ARG1(THM) 13:0-rel

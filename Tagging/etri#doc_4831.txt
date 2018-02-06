@@ -1,0 +1,5 @@
+etri#doc_4831.txt 7 지르다 ----- 5:1-ARGM-CAU(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4831.txt 10 매달리다 ----- 2:2-ARG1(THM) 4:2-ARGM-TMP() 7:2-ARGM-DIS() 9:2-ARG2(GOL) 10:0-rel
+etri#doc_4831.txt 12 분노하다 ----- 11:1-ARGM-CAU(EFF) 12:0-rel
+etri#doc_4831.txt 16 잡다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_4831.txt 20 던지다 ----- 10:3-ARGM-DIS() 13:3-ARG0(AGT) 16:3-ARGM-DIS() 19:3-ARG2(GOL) 20:0-rel

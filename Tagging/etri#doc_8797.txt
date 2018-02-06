@@ -1,0 +1,4 @@
+etri#doc_8797.txt 4 못하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8797.txt 6 듣다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_8797.txt 12 만나다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8797.txt 16 해보다 ----- 9:3-ARG0(AGT) 10:1-ARGM-TMP() 12:2-ARGM-DIS() 13:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

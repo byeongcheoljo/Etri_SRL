@@ -1,0 +1,2 @@
+etri#doc_3317.txt 13 보호하다 ----- 11:1-ARG1(THM) 12:1-ARG2(LOC) 13:0-rel
+etri#doc_3317.txt 14 인식되다 ----- 5:2-ARG0(EFF) 7:2-ARG0(AGT) 10:3-ARGM-DIS() 13:2-ARG1(FNS) 14:0-rel

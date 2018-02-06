@@ -1,0 +1,6 @@
+etri#doc_11860.txt 2 끝마치다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11860.txt 8 머물다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_11860.txt 11 올라오다 ----- 11:0-rel
+etri#doc_11860.txt 13 검토하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_11860.txt 15 읽다 ----- 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11860.txt 17 보내다 ----- 2:2-ARGM-TMP() 5:3-ARGM-TMP(GOL) 6:1-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARGM-DIS() 10:1-ARGM-LOC(LOC) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

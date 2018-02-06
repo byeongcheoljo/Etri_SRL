@@ -1,0 +1,1 @@
+etri#doc_11971.txt 11 ¸ô´Ù ----- 1:1-ARGM-CND() 7:3-ARG0(AGT) 10:3-ARG1(THM) 11:0-rel

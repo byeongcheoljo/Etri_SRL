@@ -1,0 +1,6 @@
+etri#doc_2221.txt 5 살다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_2221.txt 7 만들다 ----- 7:0-rel
+etri#doc_2221.txt 8 정착시키다 ----- 6:4-() 7:1-() 8:0-rel
+etri#doc_2221.txt 15 자각하다 ----- 14:5-() 15:0-rel
+etri#doc_2221.txt 16 실천하다 ----- 9:3-ARG0(AGT) 15:6-ARGM-DIS() 16:0-rel
+etri#doc_2221.txt 18 사라지다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 16:7-ARGM-DIS() 17:1-ARG1(AGT) 18:0-rel

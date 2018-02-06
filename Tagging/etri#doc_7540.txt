@@ -1,0 +1,4 @@
+etri#doc_7540.txt 7 물어보다 ----- 1:1-ARG0(AGT) 6:3-ARGM-DIS() 7:0-rel
+etri#doc_7540.txt 13 넘기다 ----- 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:0-rel
+etri#doc_7540.txt 17 알다 ----- 15:1-ARG0(MAG) 16:1-ARG1(THM) 17:0-rel
+etri#doc_7540.txt 18 대답하다 ----- 7:4-ARGM-TMP() 9:2-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-DIS() 17:2-ARGM-DIS() 18:0-rel

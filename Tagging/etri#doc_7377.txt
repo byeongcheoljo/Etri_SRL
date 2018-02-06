@@ -1,0 +1,2 @@
+etri#doc_7377.txt 4 허물어지다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_7377.txt 9 알아보다 ----- 7:3-ARGM-ADV(LOC) 8:1-ARG1(THM) 9:0-rel

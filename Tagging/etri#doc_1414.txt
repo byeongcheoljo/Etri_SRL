@@ -1,0 +1,2 @@
+etri#doc_1414.txt 9 대다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_1414.txt 15 대다 ----- 11:4-ARGM-DIS() 13:2-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

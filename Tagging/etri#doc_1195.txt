@@ -1,0 +1,1 @@
+etri#doc_1195.txt 19 Ω√≈∞¥Ÿ ----- 14:3-ARGM-MNR() 17:2-ARG1(THM) 18:1-ARGM-DIS() 19:0-rel

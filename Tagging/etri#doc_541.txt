@@ -1,0 +1,2 @@
+etri#doc_541.txt 5 이루어지다 ----- 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_541.txt 17 용해되다 ----- 8:3-ARGM-DIS() 10:2-ARGM-LOC(LOC) 16:4-ARG1(THM) 17:0-rel

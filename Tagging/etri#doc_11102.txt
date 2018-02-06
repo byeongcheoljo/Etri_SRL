@@ -1,0 +1,4 @@
+etri#doc_11102.txt 1 믿다 ----- 1:0-rel
+etri#doc_11102.txt 5 보이다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_11102.txt 10 달하다 ----- 5:2-ARGM-DIS() 8:3-ARGM-DIS() 9:1-ARG2(GOL) 10:0-rel
+etri#doc_11102.txt 15 받다 ----- 2:2-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARG0(GOL) 14:1-ARGM-EXT() 15:0-rel

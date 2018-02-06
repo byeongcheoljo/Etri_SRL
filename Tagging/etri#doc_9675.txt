@@ -1,0 +1,5 @@
+etri#doc_9675.txt 3 불구하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_9675.txt 6 막다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_9675.txt 9 끝나다 ----- 7:4-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_9675.txt 13 빗나가다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_9675.txt 17 생각하다 ----- 3:3-ARGM-DIS() 14:3-ARGM-MNR(INS) 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_910.txt 5 떨어지다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_910.txt 12 증명하다 ----- 5:2-ARGM-CND() 10:4-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel

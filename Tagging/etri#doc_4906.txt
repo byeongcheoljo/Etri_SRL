@@ -1,0 +1,3 @@
+etri#doc_4906.txt 5 비롯되다 ----- 2:2-ARG1(THM) 3:1-ARGM-TMP() 4:1-ARGM-CAU(EFF) 5:0-rel
+etri#doc_4906.txt 12 소개하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4906.txt 16 사용하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-TMP() 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1192.txt 4 뒤지다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1192.txt 13 이루다 ----- 7:3-ARGM-LOC(LOC) 8:1-ARGM-EXT() 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_1192.txt 19 받다 ----- 1:1-ARG0(AGT) 4:3-ARGM-MNR() 17:3-ARGM-DIS(LOC) 18:1-ARG1(THM) 19:0-rel

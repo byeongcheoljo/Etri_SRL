@@ -1,0 +1,4 @@
+etri#doc_11363.txt 5 내지르다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11363.txt 7 터지다 ----- 6:1-ARGM-EXT(EFF) 7:0-rel
+etri#doc_11363.txt 9 듣다 ----- 2:2-ARGM-DIS() 5:3-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_11363.txt 15 그르치다 ----- 9:4-ARGM-DIS() 13:3-ARGM-CAU(EFF) 14:1-ARG1(THM) 15:0-rel

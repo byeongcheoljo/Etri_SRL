@@ -1,0 +1,2 @@
+etri#doc_2918.txt 13 갖추다 ----- 9:2-ARGM-EXT(CRT) 10:1-ARGM-ADV() 12:2-ARG1(THM) 13:0-rel
+etri#doc_2918.txt 15 쓰다 ----- 3:2-ARGM-DIS() 5:2-ARGM-TMP(LOC) 6:1-ARG0(AGT) 7:1-ARGM-EXT() 13:3-ARG2() 14:1-ARG1(THM) 15:0-rel

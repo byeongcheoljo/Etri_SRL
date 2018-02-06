@@ -1,0 +1,1 @@
+etri#doc_8449.txt 12 약화되다 ----- 7:5-ARG1(THM) 10:2-ARGM-CAU() 11:1-ARG1(THM) 12:0-rel

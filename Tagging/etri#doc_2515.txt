@@ -1,0 +1,6 @@
+etri#doc_2515.txt 2 찍다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2515.txt 5 입다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_2515.txt 7 하다 ----- 5:2-ARGM-DIS() 6:1-ARG1(THM) 7:0-rel
+etri#doc_2515.txt 8 멈추다 ----- 7:2-ARGM-DIS() 8:0-rel
+etri#doc_2515.txt 10 지나다 ----- 10:0-rel
+etri#doc_2515.txt 13 방해하다 ----- 3:3-ARGM-LOC(LOC) 9:4-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel

@@ -1,0 +1,5 @@
+etri#doc_139.txt 3 악화되다 ----- 1:1-ARGM-CAU(CNT) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_139.txt 8 회복하다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_139.txt 13 발붙이다 ----- 11:2-ARG0(THM) 12:1-ARGM-TMP() 13:0-rel
+etri#doc_139.txt 15 마련하다 ----- 14:3-ARG1(THM) 15:0-rel
+etri#doc_139.txt 18 강구되다 ----- 16:5-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

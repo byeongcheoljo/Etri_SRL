@@ -1,0 +1,4 @@
+etri#doc_11507.txt 4 이용하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_11507.txt 8 분해하다 ----- 2:2-ARG0(AGT) 4:2-ARGM-DIS() 6:2-ARGM-MNR(INS) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11507.txt 16 남기다 ----- 11:2-ARGM-INS(INS) 14:2-ARG0(AGT) 15:1-ARGM-LOC(LOC) 16:0-rel
+etri#doc_11507.txt 19 만들다 ----- 8:2-ARGM-MNR() 9:1-ARGM-MNR() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:1-ARGM-EXT(CRT) 19:0-rel

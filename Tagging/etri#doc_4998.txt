@@ -1,0 +1,3 @@
+etri#doc_4998.txt 5 지나다 ----- 3:1-ARGM-DIS() 4:1-ARGM-EXT(CRT) 5:0-rel
+etri#doc_4998.txt 9 열다 ----- 6:3-ARGM-LOC(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4998.txt 17 휩싸이다 ----- 14:2-ARG1(THM) 16:2-ARG2(EFF) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_6915.txt 4 갖다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_6915.txt 10 갖추다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_6915.txt 12 행사되다 ----- 7:2-ARG1(THM) 11:4-ARGM-CAU(EFF) 12:0-rel
+etri#doc_6915.txt 14 하다 ----- 13:6-ARGM-EXT() 14:0-rel
+etri#doc_6915.txt 16 남다 ----- 2:2-ARG1(THM) 4:2-ARGM-DIS() 5:1-ARGM-TMP() 15:8-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1168.txt 4 주어지다 ----- 2:2-ARG0(THM) 3:1-ARGM-CAU(EFF) 4:0-rel
+etri#doc_1168.txt 7 좌우하다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1168.txt 10 지니다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_1168.txt 15 하다 ----- 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_1168.txt 18 배치되다 ----- 11:4-ARGM-LOC(LOC) 15:2-ARGM-DIS() 16:1-ARG0(THM) 17:1-ARGM-LOC(CRT) 18:0-rel

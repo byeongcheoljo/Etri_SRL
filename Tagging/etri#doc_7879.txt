@@ -1,0 +1,3 @@
+etri#doc_7879.txt 7 일치하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-MNR(INS) 6:2-ARG2(COM) 7:0-rel
+etri#doc_7879.txt 9 가지다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_7879.txt 16 하다 ----- 1:1-ARG0(AGT) 14:5-ARGM-PRD(INS) 15:1-ARG1(THM) 16:0-rel

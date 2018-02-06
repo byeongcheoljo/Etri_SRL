@@ -1,0 +1,3 @@
+etri#doc_873.txt 3 하다 ----- 2:2-ARGM-TMP(CRT) 3:0-rel
+etri#doc_873.txt 15 수료하다 ----- 14:5-ARG1(THM) 15:0-rel
+etri#doc_873.txt 17 출항하다 ----- 16:1-ARGM-TMP() 17:0-rel

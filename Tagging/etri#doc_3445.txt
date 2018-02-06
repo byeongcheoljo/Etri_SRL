@@ -1,0 +1,4 @@
+etri#doc_3445.txt 3 입다 ----- 2:1-ARG2(Npr) 3:0-rel
+etri#doc_3445.txt 7 지원하다 ----- 5:1-ARG1(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_3445.txt 13 늘리다 ----- 7:2-ARGM-DIS() 9:2-ARG1(THM) 11:2-ARG2(SRC) 12:1-ARG3(FNS) 13:0-rel
+etri#doc_3445.txt 14 조치하다 ----- 1:1-ARGM-DIS() 4:3-ARGM-ADV(CNT) 13:2-ARGM-PRP() 14:0-rel

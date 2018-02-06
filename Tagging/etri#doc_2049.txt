@@ -1,0 +1,5 @@
+etri#doc_2049.txt 4 기피하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_2049.txt 10 표현하다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR(INS) 10:0-rel
+etri#doc_2049.txt 16 규정하다 ----- 14:1-ARG1(THM) 15:1-ARGM-PRD(FNS) 16:0-rel
+etri#doc_2049.txt 17 노력하다 ----- 16:2-ARG1() 17:0-rel
+etri#doc_2049.txt 22 닿다 ----- 5:5-ARG0() 13:5-ARG0() 20:2-ARG2(THM) 21:1-ARG0(THM) 22:0-rel

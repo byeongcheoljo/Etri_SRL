@@ -1,0 +1,4 @@
+etri#doc_2571.txt 4 보장되다 ----- 3:1-() 4:0-rel
+etri#doc_2571.txt 8 주다 ----- 2:2-ARG2(EFF) 7:5-ARG1(THM) 8:0-rel
+etri#doc_2571.txt 12 도와주다 ----- 10:1-() 11:1-() 12:0-rel
+etri#doc_2571.txt 15 하다 ----- 8:6-ARGM-DIS() 9:1-ARGM-EXT() 13:3-ARG0() 14:1-ARG1(THM) 15:0-rel

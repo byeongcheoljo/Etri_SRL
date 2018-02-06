@@ -1,0 +1,2 @@
+etri#doc_7823.txt 9 모시다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7823.txt 11 이끌다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

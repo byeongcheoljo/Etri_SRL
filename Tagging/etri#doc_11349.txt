@@ -1,0 +1,9 @@
+etri#doc_11349.txt 2 들리다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_11349.txt 5 깨다 ----- 3:3-ARGM-CAU(EFF) 4:1-ARG1(THM) 5:0-rel
+etri#doc_11349.txt 8 헤치다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11349.txt 10 기어나오다 ----- 6:3-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_11349.txt 12 묻다 ----- 11:1-ARG2(LOC) 12:0-rel
+etri#doc_11349.txt 14 노리다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_11349.txt 16 내리다 ----- 14:4-ARGM-DIS() 15:1-ARG3(GOL) 16:0-rel
+etri#doc_11349.txt 18 기어나오다 ----- 18:0-rel
+etri#doc_11349.txt 20 떠받다 ----- 10:2-ARGM-DIS() 17:3-ARG0(AGT) 19:2-ARG1(THM) 20:0-rel

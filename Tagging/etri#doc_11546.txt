@@ -1,0 +1,5 @@
+etri#doc_11546.txt 4 갈다 ----- 2:2-ARGM-LOC(GOL) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11546.txt 5 재배하다 ----- 4:2-ARGM-DIS() 5:0-rel
+etri#doc_11546.txt 9 전파하다 ----- 5:3-ARG1() 7:2-ARG0(AGT) 8:1-ARGM-LOC(GOL) 9:0-rel
+etri#doc_11546.txt 12 퍼지다 ----- 11:1-ARGM-MNR(INS) 12:0-rel
+etri#doc_11546.txt 14 되다 ----- 10:3-ARG1(THM) 13:3-ARG2(FNS) 14:0-rel

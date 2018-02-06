@@ -1,0 +1,2 @@
+etri#doc_6673.txt 6 남다 ----- 4:2-ARG0(AGT) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_6673.txt 14 치르다 ----- 13:1-ARG1(THM) 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_3416.txt 6 추진하다 ----- 4:2-() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3416.txt 10 두다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP(SRC) 6:2-ARGM-DIS() 7:1-ARG2(LOC) 9:2-ARG1(THM) 10:0-rel

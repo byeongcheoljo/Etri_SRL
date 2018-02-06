@@ -1,0 +1,3 @@
+etri#doc_11400.txt 8 투약하다 ----- 8:0-rel
+etri#doc_11400.txt 16 가다 ----- 14:2-ARGM-TMP(LOC) 15:1-ARG3(GOL) 16:0-rel
+etri#doc_11400.txt 19 알아보다 ----- 2:2-ARGM-TMP(LOC) 18:4-ARG1(THM) 19:0-rel

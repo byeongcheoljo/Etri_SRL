@@ -1,0 +1,5 @@
+etri#doc_5453.txt 2 화해하다 ----- 2:0-rel
+etri#doc_5453.txt 3 일치하다 ----- 1:1-ARG1(THM) 2:1-ARGM-DIS() 3:0-rel
+etri#doc_5453.txt 7 운운하다 ----- 3:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5453.txt 14 방관하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5453.txt 19 바치다 ----- 14:3-ARGM-DIS() 18:3-ARG1(Npr) 19:0-rel

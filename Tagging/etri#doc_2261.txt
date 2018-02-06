@@ -1,0 +1,2 @@
+etri#doc_2261.txt 14 나타나다 ----- 13:3-ARG0(AGT) 14:0-rel
+etri#doc_2261.txt 15 보다 ----- 3:2-ARG1(THM) 14:4-ARGM-DIS() 15:0-rel

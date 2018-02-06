@@ -1,0 +1,2 @@
+etri#doc_8518.txt 10 맺다 ----- 6:4-ARG0(AGT) 9:3-ARG1(THM) 10:0-rel
+etri#doc_8518.txt 14 구별하다 ----- 14:0-rel

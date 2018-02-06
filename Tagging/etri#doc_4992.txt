@@ -1,0 +1,5 @@
+etri#doc_4992.txt 3 따르다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4992.txt 6 다가서다 ----- 3:3-ARGM-EXT() 4:1-ARG1(AGT) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_4992.txt 9 움키다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_4992.txt 12 올리다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4992.txt 14 하다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-DIS() 10:1-ARGM-MNR() 12:2-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

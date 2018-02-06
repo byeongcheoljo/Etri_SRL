@@ -1,0 +1,4 @@
+etri#doc_7018.txt 4 읽다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_7018.txt 9 모르다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7018.txt 12 하다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_7018.txt 15 생각하다 ----- 14:4-ARG1() 15:0-rel

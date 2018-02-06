@@ -1,0 +1,4 @@
+etri#doc_703.txt 6 하다 ----- 4:4-ARG0(EFF) 5:1-ARG1(THM) 6:0-rel
+etri#doc_703.txt 11 익다 ----- 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_703.txt 15 하다 ----- 8:2-ARG0(AGT) 12:3-ARGM-TMP(CRT) 14:2-ARG1(THM) 15:0-rel
+etri#doc_703.txt 16 전하다 ----- 15:3-ARGM-ADV() 16:0-rel

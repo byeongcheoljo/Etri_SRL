@@ -1,0 +1,5 @@
+etri#doc_1370.txt 6 받다 ----- 2:1-ARGM-TMP(LOC) 3:1-ARGM-TMP(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_1370.txt 9 유배되다 ----- 6:3-ARGM-DIS() 7:1-ARGM-TMP(LOC) 8:1-ARGM-LOC(GOL) 9:0-rel
+etri#doc_1370.txt 11 석방되다 ----- 9:2-ARGM-DIS() 10:1-ARGM-TMP(LOC) 11:0-rel
+etri#doc_1370.txt 15 받다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_1370.txt 17 유배되다 ----- 1:1-ARG0(THM) 11:2-ARGM-DIS() 12:1-ARGM-TMP(LOC) 15:3-ARGM-DIS() 16:1-ARGM-DIS() 17:0-rel

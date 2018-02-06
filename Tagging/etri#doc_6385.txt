@@ -1,0 +1,5 @@
+etri#doc_6385.txt 6 밀어주다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 4:1-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_6385.txt 11 도와주다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARGM-LOC(LOC) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_6385.txt 18 치다 ----- 17:1-ARG1() 18:0-rel
+etri#doc_6385.txt 20 잡다 ----- 14:1-ARGM-DIS() 15:1-ARG0(AGT) 16:1-ARGM-LOC(LOC) 18:2-ARGM-DIS() 19:1-ARGM-MNR() 20:0-rel
+etri#doc_6385.txt 21 하다 ----- 11:2-ARGM-DIS() 13:2-ARGM-ADV(CNT) 20:2-ARG1(CNT) 21:0-rel

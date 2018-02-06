@@ -1,0 +1,3 @@
+etri#doc_3796.txt 3 제외하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3796.txt 10 어찌하다 ----- 10:0-rel
+etri#doc_3796.txt 12 등지다 ----- 9:3-ARGM-TMP(LOC) 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel

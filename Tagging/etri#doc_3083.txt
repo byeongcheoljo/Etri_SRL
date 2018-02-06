@@ -1,0 +1,2 @@
+etri#doc_3083.txt 14 해당되다 ----- 12:1-ARGM-TMP(GOL) 13:1-ARG2(CRT) 14:0-rel
+etri#doc_3083.txt 15 퇴임하다 ----- 2:2-ARG0(AGT) 6:2-ARGM-CAU() 11:2-ARG0(AGT) 14:2-ARGM-CAU() 15:0-rel

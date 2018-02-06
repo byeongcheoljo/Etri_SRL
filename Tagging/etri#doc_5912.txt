@@ -1,0 +1,5 @@
+etri#doc_5912.txt 6 생각하다 ----- 2:1-ARG0(MAG) 5:2-ARG1() 6:0-rel
+etri#doc_5912.txt 11 만들다 ----- 7:1-ARGM-LOC(LOC) 10:3-ARG1(THM) 11:0-rel
+etri#doc_5912.txt 13 보여주다 ----- 12:5-ARG1(THM) 13:0-rel
+etri#doc_5912.txt 15 뛰어들다 ----- 6:3-ARGM-DIS() 13:6-ARGM-PRP() 14:1-ARG3(GOL) 15:0-rel
+etri#doc_5912.txt 16 말하다 ----- 1:1-ARG0(AGT) 15:2-ARG1() 16:0-rel

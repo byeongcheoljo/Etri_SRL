@@ -1,0 +1,5 @@
+etri#doc_6270.txt 3 집어넣다 ----- 1:1-ARG1(THM) 2:1-ARG2(GOL) 3:0-rel
+etri#doc_6270.txt 7 기억되다 ----- 7:0-rel
+etri#doc_6270.txt 11 치다 ----- 3:2-ARGM-DIS() 9:3-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6270.txt 14 개발되다 ----- 12:3-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_6270.txt 17 두다 ----- 15:3-ARG1(THM) 16:1-ARG2(LOC) 17:0-rel

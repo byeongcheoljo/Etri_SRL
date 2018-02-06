@@ -1,0 +1,2 @@
+etri#doc_1383.txt 5 걸치다 ----- 2:1-ARG2(LOC) 4:2-ARGM-TMP(LOC) 5:0-rel
+etri#doc_1383.txt 16 넘다 ----- 15:1-ARG1(CRT) 16:0-rel

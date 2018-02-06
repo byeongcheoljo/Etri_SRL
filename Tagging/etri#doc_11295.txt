@@ -1,0 +1,2 @@
+etri#doc_11295.txt 9 비교하다 ----- 3:2-ARG1(THM) 4:1-ARGM-EXT(CRT) 8:4-ARG2(COM) 9:0-rel
+etri#doc_11295.txt 14 비교하다 ----- 13:1-ARG2(COM) 14:0-rel

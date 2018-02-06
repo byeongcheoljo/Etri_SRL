@@ -1,0 +1,5 @@
+etri#doc_5557.txt 5 물리치다 ----- 2:2-ARG1(THM) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_5557.txt 7 억압받다 ----- 7:0-rel
+etri#doc_5557.txt 14 억눌리다 ----- 14:0-rel
+etri#doc_5557.txt 16 억누르다 ----- 16:0-rel
+etri#doc_5557.txt 18 물리치다 ----- 15:2-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

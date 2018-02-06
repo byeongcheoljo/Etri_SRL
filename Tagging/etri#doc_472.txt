@@ -1,0 +1,8 @@
+etri#doc_472.txt 2 베다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_472.txt 3 눕다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_472.txt 7 듣다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_472.txt 8 자다 ----- 7:3-ARGM-DIS() 8:0-rel
+etri#doc_472.txt 10 생각하다 ----- 9:5-ARG1() 10:0-rel
+etri#doc_472.txt 11 재촉하다 ----- 11:0-rel
+etri#doc_472.txt 13 들다 ----- 13:0-rel
+etri#doc_472.txt 16 눕다 ----- 3:3-ARGM-DIS() 4:1-ARG0(AGT) 10:6-ARGM-DIS() 11:1-ARGM-CAU() 14:2-ARGM-DIS() 15:1-ARG1(LOC) 16:0-rel

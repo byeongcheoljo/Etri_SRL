@@ -1,0 +1,2 @@
+etri#doc_6703.txt 10 존재하다 ----- 9:3-ARG2(LOC) 10:0-rel
+etri#doc_6703.txt 16 줄다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 6:3-ARGM-DIS(EFF) 14:4-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

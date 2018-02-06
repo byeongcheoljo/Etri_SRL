@@ -1,0 +1,4 @@
+etri#doc_1159.txt 4 ¾ò´Ù ----- 1:1-ARGM-MNR() 3:2-ARG1(THM) 4:0-rel
+etri#doc_1159.txt 7 ¹Ï´Ù ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_1159.txt 12 ³Ö´Ù ----- 7:3-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARG2(LOC) 12:0-rel
+etri#doc_1159.txt 15 ºü¶ß¸®´Ù ----- 4:3-ARGM-DIS() 12:2-ARGM-MNR() 13:1-ARG1(THM) 14:1-ARG2(LOC) 15:0-rel

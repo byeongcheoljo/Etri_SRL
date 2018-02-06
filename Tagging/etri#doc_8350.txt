@@ -1,0 +1,5 @@
+etri#doc_8350.txt 2 상대하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8350.txt 5 쓰다 ----- 3:3-ARGM-LOC(GOL) 4:1-ARG1(THM) 5:0-rel
+etri#doc_8350.txt 8 알다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_8350.txt 11 잡다 ----- 5:2-ARGM-MNR() 10:5-ARG1(THM) 11:0-rel
+etri#doc_8350.txt 15 훔치다 ----- 14:3-ARG1(THM) 15:0-rel

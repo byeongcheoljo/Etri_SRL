@@ -1,0 +1,5 @@
+etri#doc_7084.txt 4 찌푸리다 ----- 4:0-rel
+etri#doc_7084.txt 7 머금다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_7084.txt 10 내려다보다 ----- 1:1-ARGM-TMP(LOC) 3:2-ARG0(MAG) 5:2-ARGM-MNR(INS) 8:3-ARGM-MNR(INS) 9:1-ARG1(THM) 10:0-rel
+etri#doc_7084.txt 18 뿌리다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_7084.txt 21 어루만지다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP(LOC) 15:3-ARG0(AGT) 18:3-ARGM-DIS() 19:1-ARG1(THM) 20:1-ARGM-MNR() 21:0-rel

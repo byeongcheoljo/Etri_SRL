@@ -1,0 +1,6 @@
+etri#doc_5942.txt 3 점하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5942.txt 7 갖다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5942.txt 9 가세하다 ----- 4:4-ARG1(GOL) 8:4-ARG0(AGT) 9:0-rel
+etri#doc_5942.txt 11 결정되다 ----- 9:5-ARGM-CAU() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5942.txt 13 차지하다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_5942.txt 16 반발하다 ----- 11:2-ARGM-DIS() 14:3-ARG0(EFF) 15:1-ARG1(GOL) 16:0-rel

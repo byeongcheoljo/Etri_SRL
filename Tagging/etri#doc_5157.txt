@@ -1,0 +1,7 @@
+etri#doc_5157.txt 2 잡다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5157.txt 5 가지다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5157.txt 6 투병하다 ----- 6:0-rel
+etri#doc_5157.txt 7 간병하다 ----- 5:3-ARGM-DIS() 6:1-ARGM-DIS() 7:0-rel
+etri#doc_5157.txt 12 하다 ----- 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_5157.txt 13 하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_5157.txt 18 하다 ----- 9:2-ARG2(GOL) 13:3-ARGM-DIS() 14:1-ARGM-MNR() 17:3-ARG1(THM) 18:0-rel

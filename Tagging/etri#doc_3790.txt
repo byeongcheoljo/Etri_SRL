@@ -1,0 +1,2 @@
+etri#doc_3790.txt 2 두다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_3790.txt 12 몰아붙이다 ----- 2:2-ARGM-DIS() 11:5-ARGM-DIS() 12:0-rel

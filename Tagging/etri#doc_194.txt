@@ -1,0 +1,2 @@
+etri#doc_194.txt 12 접속하다 ----- 9:2-ARGM-MNR(INS) 10:1-ARGM-MNR() 11:1-ARG2(GOL) 12:0-rel
+etri#doc_194.txt 15 읽다 ----- 1:1-ARGM-ADV() 6:3-ARGM-DIS() 13:3-ARG0(AGT) 14:1-ARGM-MNR() 15:0-rel

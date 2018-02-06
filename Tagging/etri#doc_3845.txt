@@ -1,0 +1,4 @@
+etri#doc_3845.txt 4 등장하다 ----- 2:1-ARG1(THM) 3:1-ARG2(LOC) 4:0-rel
+etri#doc_3845.txt 6 울리다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_3845.txt 8 되다 ----- 7:3-ARGM-TMP(LOC) 8:0-rel
+etri#doc_3845.txt 15 떠올리다 ----- 8:4-ARGM-DIS() 13:3-ARG1(THM) 14:1-ARGM-LOC(GOL) 15:0-rel

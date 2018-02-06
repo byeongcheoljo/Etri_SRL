@@ -1,0 +1,4 @@
+etri#doc_7496.txt 3 담당하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7496.txt 5 독립하다 ----- 5:0-rel
+etri#doc_7496.txt 7 행사하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-PRD(EFF) 5:1-ARGM-MNR() 6:1-ARG1(THM) 7:0-rel
+etri#doc_7496.txt 21 이루어지다 ----- 7:2-ARGM-MNR() 9:2-ARG1(THM) 20:2-ARGM-MNR(INS) 21:0-rel

@@ -1,0 +1,1 @@
+etri#doc_4607.txt 2 내세우다 ----- 1:1-ARG0(AGT) 2:0-rel

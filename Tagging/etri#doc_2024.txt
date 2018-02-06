@@ -1,0 +1,6 @@
+etri#doc_2024.txt 4 분석하다 ----- 2:2-ARG1(THM) 3:1-ARGM-ADV() 4:0-rel
+etri#doc_2024.txt 9 발생하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_2024.txt 12 지나치다 ----- 11:5-ARG1(AGT) 12:0-rel
+etri#doc_2024.txt 13 하다 ----- 12:6-ARGM-CAU(INS) 13:0-rel
+etri#doc_2024.txt 14 생기다 ----- 13:7-ARGM-CAU() 14:0-rel
+etri#doc_2024.txt 19 들다 ----- 4:2-ARGM-CND() 18:3-ARG0(THM) 19:0-rel

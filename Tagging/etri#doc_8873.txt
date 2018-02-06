@@ -1,0 +1,6 @@
+etri#doc_8873.txt 4 맞다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8873.txt 6 살다 ----- 5:1-ARG0(AGT) 6:0-rel
+etri#doc_8873.txt 7 계시다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_8873.txt 10 돌아가시다 ----- 9:1-ARGM-TMP() 10:0-rel
+etri#doc_8873.txt 12 보다 ----- 4:2-ARGM-DIS() 8:4-ARGM-CAU(EFF) 11:3-ARG0(AGT) 12:0-rel
+etri#doc_8873.txt 15 부르다 ----- 12:4-ARGM-DIS() 13:1-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel

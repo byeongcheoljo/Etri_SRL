@@ -1,0 +1,4 @@
+etri#doc_5144.txt 3 나서다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_5144.txt 10 생산하다 ----- 8:2-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_5144.txt 14 생산하다 ----- 6:2-ARGM-DIS() 10:2-ARGM-DIS() 12:2-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_5144.txt 16 강요하다 ----- 1:1-ARGM-TMP() 3:2-ARGM-MNR() 15:3-ARGM-MNR(INS) 16:0-rel

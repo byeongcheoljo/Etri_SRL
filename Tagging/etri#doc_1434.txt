@@ -1,0 +1,2 @@
+etri#doc_1434.txt 2 살다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_1434.txt 16 읽다 ----- 16:0-rel

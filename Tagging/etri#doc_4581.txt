@@ -1,0 +1,3 @@
+etri#doc_4581.txt 7 구상하다 ----- 4:2-ARGM-TMP() 6:2-ARG1(THM) 7:0-rel
+etri#doc_4581.txt 11 심사숙고하다 ----- 8:4-ARGM-LOC(LOC) 9:1-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_4581.txt 13 단행하다 ----- 2:1-ARG0(AGT) 11:2-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel

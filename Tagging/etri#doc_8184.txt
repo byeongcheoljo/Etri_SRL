@@ -1,0 +1,5 @@
+etri#doc_8184.txt 6 잡다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_8184.txt 8 시도하다 ----- 4:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8184.txt 11 예견하다 ----- 10:4-ARG0() 11:0-rel
+etri#doc_8184.txt 16 강화되다 ----- 12:6-ARGM-DIS(CNT) 13:1-ARGM-CND() 14:1-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel
+etri#doc_8184.txt 17 말하다 ----- 1:1-ARGM-ADV() 3:2-ARG0(AGT) 16:2-ARG1(CNT) 17:0-rel

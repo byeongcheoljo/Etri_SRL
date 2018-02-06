@@ -1,0 +1,2 @@
+etri#doc_8624.txt 16 추구하다 ----- 14:2-ARG1(THM) 15:1-ARGM-TMP() 16:0-rel
+etri#doc_8624.txt 20 말하다 ----- 20:0-rel

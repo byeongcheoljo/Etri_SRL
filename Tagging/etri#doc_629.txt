@@ -1,0 +1,5 @@
+etri#doc_629.txt 10 품다 ----- 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:1-ARG2(LOC) 10:0-rel
+etri#doc_629.txt 13 저지르다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_629.txt 16 받다 ----- 13:2-ARGM-CND() 14:1-ARGM-TMP() 15:1-ARG1() 16:0-rel
+etri#doc_629.txt 18 소유하다 ----- 17:3-ARG1(THM) 18:0-rel
+etri#doc_629.txt 20 뜻하다 ----- 6:4-ARG1(THM) 19:5-ARG2(FNS) 20:0-rel

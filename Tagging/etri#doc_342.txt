@@ -1,0 +1,4 @@
+etri#doc_342.txt 10 불리다 ----- 5:3-ARGM-TMP(LOC) 6:1-ARGM-TMP() 8:2-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_342.txt 14 안되다 ----- 12:4-ARGM-CND() 13:1-ARGM-EXT() 14:0-rel
+etri#doc_342.txt 17 짓다 ----- 16:2-ARG0(AGT) 17:0-rel
+etri#doc_342.txt 19 속하다 ----- 2:2-ARG1(THM) 14:2-ARGM-CND() 17:3-ARGM-TMP() 18:1-ARG2(LOC) 19:0-rel

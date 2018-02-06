@@ -1,0 +1,2 @@
+etri#doc_6185.txt 4 하다 ----- 2:1-ARGM-MNR(COM) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6185.txt 18 가져오다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 6:2-ARGM-MNR(INS) 7:1-ARG0(AGT) 10:3-ARG2(SRC) 17:2-ARG1(THM) 18:0-rel

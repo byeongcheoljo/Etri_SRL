@@ -1,0 +1,6 @@
+etri#doc_3957.txt 6 쓰다 ----- 3:2-ARG1() 4:1-ARGM-LOC(LOC) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_3957.txt 9 감사하다 ----- 8:1-ARGM-CAU() 9:0-rel
+etri#doc_3957.txt 10 쓰다 ----- 6:2-ARGM-DIS() 7:1-ARG0(AGT) 9:2-ARG1(CNT) 10:0-rel
+etri#doc_3957.txt 12 덧붙이다 ----- 12:0-rel
+etri#doc_3957.txt 16 알다 ----- 13:1-ARG0(MAG) 14:1-ARGM-DIS() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_3957.txt 17 덧붙이다 ----- 10:3-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARGM-DIS() 16:2-ARG1(CNT) 17:0-rel

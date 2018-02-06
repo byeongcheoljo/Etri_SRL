@@ -1,0 +1,4 @@
+etri#doc_4097.txt 5 알다 ----- 2:1-ARG1() 4:2-ARG1() 5:0-rel
+etri#doc_4097.txt 8 떨구다 ----- 1:1-ARG0(AGT) 5:3-ARGM-MNR() 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_4097.txt 15 아랑곳하다 ----- 15:0-rel
+etri#doc_4097.txt 17 하다 ----- 8:2-ARGM-DIS() 9:1-ARG0() 14:3-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

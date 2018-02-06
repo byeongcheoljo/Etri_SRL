@@ -1,0 +1,4 @@
+etri#doc_817.txt 3 밀어붙이다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_817.txt 4 달아나다 ----- 1:1-ARG0(AGT) 3:2-ARGM-DIS() 4:0-rel
+etri#doc_817.txt 8 찾다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_817.txt 10 집어넣다 ----- 4:3-ARGM-DIS() 6:2-ARG1(THM) 8:2-ARGM-DIS() 9:1-ARGM-MNR() 10:0-rel

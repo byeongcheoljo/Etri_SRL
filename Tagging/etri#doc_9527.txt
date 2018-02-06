@@ -1,0 +1,2 @@
+etri#doc_9527.txt 6 가지다 ----- 2:1-ARG0(LOC) 5:2-ARG1(THM) 6:0-rel
+etri#doc_9527.txt 18 수반하다 ----- 1:1-ARGM-DIS() 6:3-ARGM-DIS() 8:2-ARG1(LOC) 17:3-ARG2(THM) 18:0-rel

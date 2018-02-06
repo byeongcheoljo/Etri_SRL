@@ -1,0 +1,4 @@
+etri#doc_8156.txt 4 포기하다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_8156.txt 6 빼앗다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_8156.txt 9 하다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR(INS) 9:0-rel
+etri#doc_8156.txt 13 걸리다 ----- 4:2-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:1-ARG1(GOL) 13:0-rel

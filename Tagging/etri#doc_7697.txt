@@ -1,0 +1,4 @@
+etri#doc_7697.txt 5 이르다 ----- 3:1-ARG2(SRC) 4:1-ARG3(FNS) 5:0-rel
+etri#doc_7697.txt 10 함께하다 ----- 5:2-ARGM-DIS() 6:1-ARG0(AGT) 8:2-ARGM-MNR(INS) 9:1-ARG2(COM) 10:0-rel
+etri#doc_7697.txt 11 대하다 ----- 10:2-ARGM-DIS() 11:0-rel
+etri#doc_7697.txt 12 부정하다 ----- 11:3-ARGM-DIS() 12:0-rel

@@ -1,0 +1,1 @@
+etri#doc_3080.txt 14 ¿Ã¸®´Ù ----- 12:3-ARG0(AGT) 13:1-ARGM-MNR() 14:0-rel

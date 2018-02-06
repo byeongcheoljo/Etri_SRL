@@ -1,0 +1,4 @@
+etri#doc_7582.txt 4 입다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7582.txt 9 끌다 ----- 4:3-ARGM-DIS() 6:2-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_7582.txt 14 구사하다 ----- 12:3-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_7582.txt 18 나타내다 ----- 1:1-ARG0(AGT) 9:3-ARGM-DIS() 14:2-ARGM-MNR() 15:1-ARGM-LOC(LOC) 16:1-ARGM-MNR() 17:1-ARG1(GOL) 18:0-rel

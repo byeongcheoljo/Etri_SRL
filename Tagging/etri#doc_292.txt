@@ -1,0 +1,4 @@
+etri#doc_292.txt 6 보다 ----- 6:0-rel
+etri#doc_292.txt 9 갖다 ----- 4:3-ARGM-CAU(CNT) 7:2-ARG1(THM) 8:1-ARGM-TMP(GOL) 9:0-rel
+etri#doc_292.txt 12 놓치다 ----- 10:1-ARG1(THM) 11:1-ARGM-EXT() 12:0-rel
+etri#doc_292.txt 16 서다 ----- 1:1-ARG0(AGT) 9:2-ARGM-ADV(CNT) 12:2-ARGM-CND() 14:2-ARG1(LOC) 15:1-ARGM-MNR() 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_9780.txt 6 접근하다 ----- 2:1-ARG2(GOL) 5:3-ARGM-MNR() 6:0-rel
+etri#doc_9780.txt 11 해방되다 ----- 10:3-ARGM-LOC(SRC) 11:0-rel
+etri#doc_9780.txt 17 취하다 ----- 7:1-ARGM-DIS() 11:4-ARGM-DIS() 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

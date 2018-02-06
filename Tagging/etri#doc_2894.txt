@@ -1,0 +1,5 @@
+etri#doc_2894.txt 4 돌아서다 ----- 3:3-ARGM-CAU() 4:0-rel
+etri#doc_2894.txt 7 나타나다 ----- 6:2-ARGM-TMP(LOC) 7:0-rel
+etri#doc_2894.txt 11 담다 ----- 9:1-ARG1(THM) 10:1-ARG2(GOL) 11:0-rel
+etri#doc_2894.txt 14 붙들다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2894.txt 15 오르다 ----- 11:2-ARGM-DIS() 12:1-ARGM-MNR() 14:2-ARGM-DIS() 15:0-rel

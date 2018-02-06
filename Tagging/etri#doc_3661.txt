@@ -1,0 +1,2 @@
+etri#doc_3661.txt 9 선포하다 ----- 3:1-ARG0(AGT) 4:1-ARGM-TMP() 6:2-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:1-ARGM-PRD(CNT) 9:0-rel
+etri#doc_3661.txt 12 띠다 ----- 2:2-ARG0(LOC) 9:2-ARGM-DIS(EFF) 10:1-ARGM-EXT() 11:1-ARG1(THM) 12:0-rel

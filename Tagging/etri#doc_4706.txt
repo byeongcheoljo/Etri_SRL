@@ -1,0 +1,1 @@
+etri#doc_4706.txt 14 Áö³ª´Ù ----- 10:1-ARG1(THM) 13:3-ARG2(CRT) 14:0-rel

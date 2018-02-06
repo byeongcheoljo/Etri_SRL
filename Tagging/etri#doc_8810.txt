@@ -1,0 +1,4 @@
+etri#doc_8810.txt 5 비교하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_8810.txt 9 분류하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8810.txt 12 되다 ----- 6:5-ARG1(THM) 11:2-ARG2(FNS) 12:0-rel
+etri#doc_8810.txt 18 생각하다 ----- 1:1-ARGM-DIS() 12:3-ARGM-CND() 13:1-ARG0(MAG) 14:1-ARG1(THM) 17:3-ARGM-MNR(FNS) 18:0-rel

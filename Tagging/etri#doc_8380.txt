@@ -1,0 +1,3 @@
+etri#doc_8380.txt 6 도입되다 ----- 3:2-ARGM-MNR(COM) 5:2-ARG1(THM) 6:0-rel
+etri#doc_8380.txt 7 하다 ----- 6:3-ARG2() 7:0-rel
+etri#doc_8380.txt 13 초월하다 ----- 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

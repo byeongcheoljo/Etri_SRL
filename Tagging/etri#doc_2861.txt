@@ -1,0 +1,3 @@
+etri#doc_2861.txt 3 끌려가다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_2861.txt 6 하다 ----- 1:1-ARGM-LOC(LOC) 5:4-ARG1(CNT) 6:0-rel
+etri#doc_2861.txt 15 보다 ----- 7:6-ARG1(THM) 14:2-ARG2(FNS) 15:0-rel

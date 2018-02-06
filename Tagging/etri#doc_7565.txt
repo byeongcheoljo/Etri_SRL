@@ -1,0 +1,6 @@
+etri#doc_7565.txt 3 지불되다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_7565.txt 7 되다 ----- 1:1-ARGM-TMP() 4:3-ARG1(THM) 6:2-ARG2(CRT) 7:0-rel
+etri#doc_7565.txt 11 이르다 ----- 9:2-ARGM-DIS() 10:1-ARG3(FNS) 11:0-rel
+etri#doc_7565.txt 12 예측되다 ----- 11:2-ARGM-MNR() 12:0-rel
+etri#doc_7565.txt 16 유도하다 ----- 13:1-ARG0(AGT) 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_7565.txt 18 되풀이하다 ----- 7:3-ARGM-DIS() 12:3-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_6965.txt 18 °Þ´Ù ----- 10:6-ARGM-INS(INS) 14:3-ARG0(EXP) 17:3-ARG1(THM) 18:0-rel

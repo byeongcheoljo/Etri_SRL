@@ -1,0 +1,4 @@
+etri#doc_5178.txt 4 ´Û´Ù ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_5178.txt 6 ÇÏ´Ù ----- 1:1-ARGM-ADV(COM) 2:1-ARGM-MNR(INS) 5:3-ARG1(THM) 6:0-rel
+etri#doc_5178.txt 10 ±ú´Ý´Ù ----- 9:3-ARG2(THM) 10:0-rel
+etri#doc_5178.txt 18 °¡Áö´Ù ----- 6:4-ARGM-TMP() 10:4-ARGM-DIS() 12:2-ARGM-EXT() 17:3-ARG1(THM) 18:0-rel

@@ -1,0 +1,1 @@
+etri#doc_5695.txt 12 ¿«´Ù ----- 1:1-ARG0(AGT) 5:3-ARGM-TMP(LOC) 7:2-ARGM-TMP(GOL) 9:2-ARG1(THM) 11:2-ARGM-EXT(FNS) 12:0-rel

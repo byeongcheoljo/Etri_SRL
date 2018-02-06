@@ -1,0 +1,2 @@
+etri#doc_6762.txt 7 가지다 ----- 4:3-ARG0(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6762.txt 9 달라지다 ----- 7:3-ARGM-DIS() 8:1-ARGM-EXT() 9:0-rel

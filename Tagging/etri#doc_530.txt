@@ -1,0 +1,6 @@
+etri#doc_530.txt 2 모르다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_530.txt 4 알다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_530.txt 8 모르다 ----- 6:1-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_530.txt 10 알다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_530.txt 18 이해하다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_530.txt 19 노력하다 ----- 14:3-ARGM-CAU() 15:1-ARG0(AGT) 16:1-ARGM-TMP() 18:2-ARG1() 19:0-rel

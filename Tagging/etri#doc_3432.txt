@@ -1,0 +1,2 @@
+etri#doc_3432.txt 7 ´Ã¾î³ª´Ù ----- 5:2-ARGM-CAU() 6:1-ARG1(THM) 7:0-rel
+etri#doc_3432.txt 14 ¶³¾îÁö´Ù ----- 1:1-ARGM-LOC(LOC) 7:2-ARGM-CAU() 10:2-ARGM-CND(CNT) 11:1-ARG1(THM) 13:2-ARGM-EXT() 14:0-rel

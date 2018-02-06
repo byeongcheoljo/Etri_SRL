@@ -1,0 +1,3 @@
+etri#doc_7036.txt 7 가지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_7036.txt 10 먹다 ----- 8:1-ARG0(AGT) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_7036.txt 19 되다 ----- 4:4-ARG1(THM) 15:3-ARGM-DIS() 16:1-ARGM-DIS(EFF) 17:1-ARG1(THM) 18:1-ARG2(FNS) 19:0-rel

@@ -1,0 +1,1 @@
+etri#doc_7609.txt 12 나타내다 ----- 7:3-ARGM-INS(INS) 8:1-ARGM-MNR() 11:3-ARG1(THM) 12:0-rel

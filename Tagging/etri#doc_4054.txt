@@ -1,0 +1,6 @@
+etri#doc_4054.txt 2 낳다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_4054.txt 4 살다 ----- 2:2-ARGM-DIS() 3:1-ARG2(LOC) 4:0-rel
+etri#doc_4054.txt 6 오다 ----- 4:2-ARGM-DIS() 5:1-ARG3(LOC) 6:0-rel
+etri#doc_4054.txt 8 이사하다 ----- 6:2-ARGM-DIS() 7:1-ARG2(DIR) 8:0-rel
+etri#doc_4054.txt 10 보내다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_4054.txt 13 보내다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP() 12:1-ARG2() 13:0-rel

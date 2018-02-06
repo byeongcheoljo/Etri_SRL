@@ -1,0 +1,2 @@
+etri#doc_9517.txt 7 다루다 ----- 6:6-ARG1(THM) 7:0-rel
+etri#doc_9517.txt 15 다루다 ----- 14:6-ARG1(THM) 15:0-rel

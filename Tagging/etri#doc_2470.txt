@@ -1,0 +1,2 @@
+etri#doc_2470.txt 10 구축하다 ----- 8:3-ARG1(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_2470.txt 12 이용되다 ----- 11:3-() 12:0-rel

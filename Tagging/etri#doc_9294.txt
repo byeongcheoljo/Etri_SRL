@@ -1,0 +1,2 @@
+etri#doc_9294.txt 4 함축하다 ----- 2:2-ARG0(LOC) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_9294.txt 19 해결되다 ----- 7:2-ARG1(THM) 18:2-ARGM-CAU(EFF) 19:0-rel

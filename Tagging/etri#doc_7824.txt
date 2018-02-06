@@ -1,0 +1,4 @@
+etri#doc_7824.txt 5 이끌다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_7824.txt 12 모르다 ----- 11:1-ARGM-LOC() 12:0-rel
+etri#doc_7824.txt 13 휩쓸리다 ----- 12:2-ARGM-MNR() 13:0-rel
+etri#doc_7824.txt 19 만들다 ----- 15:2-ARG0(AGT) 16:1-ARG1(THM) 18:2-ARGM-MNR() 19:0-rel

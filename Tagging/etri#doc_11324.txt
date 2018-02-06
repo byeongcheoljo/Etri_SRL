@@ -1,0 +1,5 @@
+etri#doc_11324.txt 9 벌다 ----- 8:2-ARGM-INS(INS) 9:0-rel
+etri#doc_11324.txt 12 사다 ----- 5:3-ARGM-DIS() 6:1-ARG0(AGT) 10:4-ARGM-INS(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_11324.txt 15 이용하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_11324.txt 17 하다 ----- 12:2-ARGM-DIS() 15:3-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel
+etri#doc_11324.txt 19 되다 ----- 18:3-ARG2(FNS) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9065.txt 9 되다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR(INS) 8:2-ARG2(FNS) 9:0-rel
+etri#doc_9065.txt 11 말하다 ----- 2:2-ARG0(EFF) 10:4-ARG1(THM) 11:0-rel
+etri#doc_9065.txt 15 파생되다 ----- 12:1-ARGM-DIS() 14:2-ARG2(SRC) 15:0-rel
+etri#doc_9065.txt 17 보다 ----- 11:5-ARGM-DIS() 16:4-ARGM-MNR(INS) 17:0-rel

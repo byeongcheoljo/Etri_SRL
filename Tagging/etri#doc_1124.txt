@@ -1,0 +1,2 @@
+etri#doc_1124.txt 13 평가하다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1124.txt 17 추론하다 ----- 13:2-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

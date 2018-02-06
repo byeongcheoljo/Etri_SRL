@@ -1,0 +1,4 @@
+etri#doc_5847.txt 2 불리다 ----- 1:1-ARG3(FNS) 2:0-rel
+etri#doc_5847.txt 9 자행되다 ----- 8:2-ARGM-CAU(EFF) 9:0-rel
+etri#doc_5847.txt 10 밝혀지다 ----- 4:4-ARG1(THM) 6:2-ARGM-MNR(CNT) 9:3-ARG1() 10:0-rel
+etri#doc_5847.txt 12 일다 ----- 10:4-ARGM-CAU() 11:1-ARG1(THM) 12:0-rel

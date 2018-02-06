@@ -1,0 +1,1 @@
+etri#doc_9292.txt 14 аж╢ы ----- 6:2-ARGM-CAU() 8:2-ARG0(AGT) 9:1-ARGM-DIS() 10:1-ARG2(GOL) 13:3-ARG1(THM) 14:0-rel

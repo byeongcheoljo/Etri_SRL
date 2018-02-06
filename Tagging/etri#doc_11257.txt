@@ -1,0 +1,2 @@
+etri#doc_11257.txt 7 측량하다 ----- 7:0-rel
+etri#doc_11257.txt 13 꼽히다 ----- 10:2-ARGM-LOC(LOC) 11:1-ARGM-TMP() 12:1-ARG2(CRT) 13:0-rel

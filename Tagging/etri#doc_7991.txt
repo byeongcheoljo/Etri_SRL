@@ -1,0 +1,1 @@
+etri#doc_7991.txt 18 го╢ы ----- 13:2-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARG1(CNT) 18:0-rel

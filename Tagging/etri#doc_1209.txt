@@ -1,0 +1,4 @@
+etri#doc_1209.txt 7 돌리다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_1209.txt 8 쉬다 ----- 5:5-ARG0(AGT) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_1209.txt 14 일어나다 ----- 9:4-ARGM-TMP(LOC) 13:3-ARG1(THM) 14:0-rel
+etri#doc_1209.txt 19 들다 ----- 18:3-ARG1(THM) 19:0-rel

@@ -1,0 +1,8 @@
+etri#doc_4993.txt 2 합치다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4993.txt 4 되다 ----- 2:2-ARGM-DIS() 3:1-ARG2(CRT) 4:0-rel
+etri#doc_4993.txt 6 열다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_4993.txt 9 나르다 ----- 9:0-rel
+etri#doc_4993.txt 10 쌓다 ----- 6:4-ARGM-DIS() 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:1-ARGM-DIS() 10:0-rel
+etri#doc_4993.txt 13 붙들다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4993.txt 14 계속하다 ----- 14:0-rel
+etri#doc_4993.txt 16 씹다 ----- 10:2-ARGM-TMP() 11:1-ARG0(AGT) 13:2-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

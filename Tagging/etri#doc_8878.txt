@@ -1,0 +1,4 @@
+etri#doc_8878.txt 5 하다 ----- 5:0-rel
+etri#doc_8878.txt 6 가지다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_8878.txt 8 삼다 ----- 2:1-ARG0(AGT) 3:1-ARGM-LOC(LOC) 4:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_8878.txt 16 따르다 ----- 15:1-ARG1(THM) 16:0-rel

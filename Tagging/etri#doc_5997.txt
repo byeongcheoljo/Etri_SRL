@@ -1,0 +1,5 @@
+etri#doc_5997.txt 5 구분하다 ----- 2:2-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_5997.txt 8 보다 ----- 6:1-ARG1(THM) 7:1-ARGM-MNR(INS) 8:0-rel
+etri#doc_5997.txt 12 참여하다 ----- 10:2-ARGM-TMP() 11:1-ARG1(LOC) 12:0-rel
+etri#doc_5997.txt 15 보다 ----- 8:2-ARGM-DIS() 13:3-ARG1(THM) 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_5997.txt 19 묶다 ----- 5:3-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:1-ARG2(FNS) 19:0-rel

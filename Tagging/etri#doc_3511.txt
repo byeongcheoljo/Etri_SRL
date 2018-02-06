@@ -1,0 +1,2 @@
+etri#doc_3511.txt 14 보이다 ----- 5:3-ARGM-CND() 8:3-ARG0(AGT) 11:2-ARGM-ADV(CNT) 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_3511.txt 16 의심받다 ----- 14:2-ARGM-PRD() 15:1-ARG1(THM) 16:0-rel

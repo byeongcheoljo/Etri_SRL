@@ -1,0 +1,4 @@
+etri#doc_7436.txt 8 진출하다 ----- 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_7436.txt 15 맞서다 ----- 14:1-ARG1(GOL) 15:0-rel
+etri#doc_7436.txt 17 갖추다 ----- 16:3-ARG1(THM) 17:0-rel
+etri#doc_7436.txt 18 진력하다 ----- 1:1-ARGM-DIS() 12:3-ARGM-MNR(INS) 13:1-ARG0(AGT) 17:4-ARGM-MNR() 18:0-rel

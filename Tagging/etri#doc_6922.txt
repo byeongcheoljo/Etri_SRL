@@ -1,0 +1,1 @@
+etri#doc_6922.txt 14 ¸ðÀ¸´Ù ----- 1:1-ARG0(AGT) 9:2-ARGM-PRP() 11:2-ARG2(GOL) 13:2-ARG1(THM) 14:0-rel

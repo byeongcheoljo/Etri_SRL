@@ -1,0 +1,1 @@
+etri#doc_3575.txt 11 가공하다 ----- 1:1-ARG1(AGT) 8:3-ARGM-MNR() 10:2-ARGM-LOC(LOC) 11:0-rel

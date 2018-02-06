@@ -1,0 +1,4 @@
+etri#doc_8042.txt 9 움직이다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8042.txt 12 실리다 ----- 6:1-ARGM-LOC(LOC) 11:2-ARG1(THM) 12:0-rel
+etri#doc_8042.txt 13 듣다 ----- 13:0-rel
+etri#doc_8042.txt 16 떨리다 ----- 2:2-ARG0(THM) 5:2-ARGM-DIS() 12:3-ARGM-CAU() 15:3-ARG1(THM) 16:0-rel

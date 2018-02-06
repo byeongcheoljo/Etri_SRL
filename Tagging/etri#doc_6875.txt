@@ -1,0 +1,4 @@
+etri#doc_6875.txt 4 선출되다 ----- 3:3-ARG2(EFF) 4:0-rel
+etri#doc_6875.txt 6 보다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_6875.txt 14 첨부되다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6875.txt 17 수행하다 ----- 9:1-ARG0(AGT) 14:3-ARGM-CAU() 15:1-ARGM-MNR() 16:1-ARG1(THM) 17:0-rel

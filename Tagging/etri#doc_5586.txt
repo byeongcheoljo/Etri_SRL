@@ -1,0 +1,4 @@
+etri#doc_5586.txt 5 대응하다 ----- 4:2-ARG1(GOL) 5:0-rel
+etri#doc_5586.txt 13 맞다 ----- 12:2-ARG2(CRT) 13:0-rel
+etri#doc_5586.txt 15 바꾸다 ----- 10:1-ARGM-PRD(INS) 13:3-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_5586.txt 17 맞다 ----- 9:4-ARGM-CAU() 15:2-ARGM-CND() 16:1-ARG1(THM) 17:0-rel

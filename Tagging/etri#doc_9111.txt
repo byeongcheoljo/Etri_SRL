@@ -1,0 +1,5 @@
+etri#doc_9111.txt 7 대립되다 ----- 4:4-ARGM-LOC(LOC) 6:2-ARG0(THM) 7:0-rel
+etri#doc_9111.txt 12 변화하다 ----- 11:1-ARGM-MNR() 12:0-rel
+etri#doc_9111.txt 14 저항하다 ----- 12:2-ARGM-DIS() 13:1-ARG1(GOL) 14:0-rel
+etri#doc_9111.txt 16 추구하다 ----- 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_9111.txt 19 들다 ----- 7:3-ARGM-EXT() 10:3-ARGM-LOC(LOC) 18:2-ARG1(THM) 19:0-rel

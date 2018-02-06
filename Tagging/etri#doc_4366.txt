@@ -1,0 +1,4 @@
+etri#doc_4366.txt 2 배우다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_4366.txt 8 포함하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_4366.txt 13 되다 ----- 6:3-ARGM-ADV(EFF) 10:4-ARG1(THM) 12:2-ARGM-MNR() 13:0-rel
+etri#doc_4366.txt 15 알다 ----- 3:3-ARG0(MAG) 14:4-ARG1(THM) 15:0-rel

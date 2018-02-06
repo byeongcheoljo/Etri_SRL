@@ -1,0 +1,1 @@
+etri#doc_1709.txt 7 ¸»ÇÏ´Ù ----- 1:1-ARGM-MNR(DIR) 2:1-ARG0(AGT) 4:2-ARGM-DIS(LOC) 6:2-ARG1(THM) 7:0-rel

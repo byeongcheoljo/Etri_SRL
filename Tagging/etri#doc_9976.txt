@@ -1,0 +1,2 @@
+etri#doc_9976.txt 9 타다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:0-rel
+etri#doc_9976.txt 16 알다 ----- 2:2-ARG0() 3:1-ARGM-TMP() 4:1-ARGM-ADV() 5:1-ARGM-MNR(INS) 6:1-ARG0(MAG) 10:3-ARG1(THM) 11:1-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

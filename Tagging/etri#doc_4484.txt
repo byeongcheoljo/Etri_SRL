@@ -1,0 +1,2 @@
+etri#doc_4484.txt 11 말하다 ----- 1:1-ARGM-EXT() 2:1-ARG1(THM) 10:2-ARGM-DIS() 11:0-rel
+etri#doc_4484.txt 18 장악하다 ----- 11:3-ARGM-DIS() 12:1-ARGM-TMP(LOC) 13:1-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARG1(THM) 18:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5023.txt 9 띄다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_5023.txt 19 나타나다 ----- 2:2-ARG1(THM) 3:1-ARGM-DIS() 17:4-ARG2(LOC) 18:1-ARGM-EXT() 19:0-rel

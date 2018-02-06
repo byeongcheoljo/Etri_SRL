@@ -1,0 +1,5 @@
+etri#doc_3028.txt 5 유지하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_3028.txt 9 규정되다 ----- 2:2-ARG1(THM) 8:3-ARG1(FNS) 9:0-rel
+etri#doc_3028.txt 14 작용하다 ----- 13:2-ARGM-LOC(LOC) 14:0-rel
+etri#doc_3028.txt 19 귀속되다 ----- 19:0-rel
+etri#doc_3028.txt 20 재생하다 ----- 10:5-ARG1(THM) 11:1-ARG1(THM) 14:3-ARGM-DIS() 18:4-ARGM-LOC(GOL) 19:1-ARGM-DIS() 20:0-rel

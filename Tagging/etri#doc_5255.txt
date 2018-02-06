@@ -1,0 +1,2 @@
+etri#doc_5255.txt 9 하다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_5255.txt 12 달성하다 ----- 9:2-ARGM-DIS() 11:2-ARG1(THM) 12:0-rel

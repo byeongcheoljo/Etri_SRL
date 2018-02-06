@@ -1,0 +1,5 @@
+etri#doc_13004.txt 3 졸업하다 ----- 2:1-ARG1(SRC) 3:0-rel
+etri#doc_13004.txt 6 유학하다 ----- 4:3-ARGM-TMP() 5:1-ARG1(GOL) 6:0-rel
+etri#doc_13004.txt 10 받다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP() 8:1-ARGM-LOC(LOC) 9:1-ARG1(THM) 10:0-rel
+etri#doc_13004.txt 13 등록하다 ----- 10:2-ARGM-DIS() 11:1-ARGM-TMP(LOC) 12:1-ARG2(GOL) 13:0-rel
+etri#doc_13004.txt 14 알려지다 ----- 1:1-ARG0(THM) 13:2-ARGM-MNR() 14:0-rel

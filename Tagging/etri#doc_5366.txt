@@ -1,0 +1,5 @@
+etri#doc_5366.txt 5 찾다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5366.txt 8 이어지다 ----- 2:2-ARGM-PRD(EFF) 7:5-ARG1(THM) 8:0-rel
+etri#doc_5366.txt 10 들어오다 ----- 9:1-ARGM-TMP(LOC) 10:0-rel
+etri#doc_5366.txt 14 개정되다 ----- 11:1-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_5366.txt 16 보다 ----- 8:6-ARGM-DIS() 10:2-ARGM-TMP() 15:4-ARG1(THM) 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7753.txt 3 거부되다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7753.txt 9 주어지다 ----- 7:2-ARG2(GOL) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7753.txt 12 보다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 11:1-ARG0(AGT) 12:0-rel
+etri#doc_7753.txt 15 보다 ----- 13:3-ARGM-DIS() 14:1-ARGM-MNR(INS) 15:0-rel
+etri#doc_7753.txt 16 도외시하다 ----- 5:1-ARG0(MAG) 15:2-ARG1() 16:0-rel

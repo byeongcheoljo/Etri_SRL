@@ -1,0 +1,2 @@
+etri#doc_2437.txt 21 강구되다 ----- 13:3-() 19:2-() 20:1-() 21:0-rel
+etri#doc_2437.txt 22 보다 ----- 10:8-ARGM-ADV(EFF) 21:2-ARG1(THM) 22:0-rel

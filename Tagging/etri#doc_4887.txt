@@ -1,0 +1,4 @@
+etri#doc_4887.txt 5 갖다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4887.txt 11 주다 ----- 8:2-ARGM-MNR(INS) 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4887.txt 15 나타나다 ----- 6:4-ARGM-DIS() 11:2-ARGM-PRD() 12:1-ARG1(THM) 14:2-ARG2(LOC) 15:0-rel
+etri#doc_4887.txt 16 여기다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 15:3-ARG1() 16:0-rel

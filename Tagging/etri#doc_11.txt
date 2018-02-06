@@ -1,0 +1,5 @@
+etri#doc_11.txt 2 사다 ----- 1:1-ARGM-ADV(SRC) 2:0-rel
+etri#doc_11.txt 10 알아차리다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_11.txt 13 다가오다 ----- 12:1-ARG0(THM) 13:0-rel
+etri#doc_11.txt 15 만들다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_11.txt 16 조르다 ----- 11:6-ARG0(AGT) 13:2-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

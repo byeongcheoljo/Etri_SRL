@@ -1,0 +1,4 @@
+etri#doc_6368.txt 2 일어나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_6368.txt 8 열거하다 ----- 6:2-ARG0(AGT) 7:1-ARGM-INS(INS) 8:0-rel
+etri#doc_6368.txt 12 나열하다 ----- 11:2-ARGM-INS(INS) 12:0-rel
+etri#doc_6368.txt 15 이르다 ----- 4:4-ARGM-TMP() 9:3-ARG1(THM) 12:3-ARGM-DIS() 14:2-ARG3(FNS) 15:0-rel

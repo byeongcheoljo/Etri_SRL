@@ -1,0 +1,4 @@
+etri#doc_7444.txt 4 움직이다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7444.txt 8 성공하다 ----- 4:3-ARGM-MNR() 7:3-ARG1(LOC) 8:0-rel
+etri#doc_7444.txt 11 지양하다 ----- 9:1-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_7444.txt 19 보이다 ----- 11:2-ARGM-DIS() 16:3-ARG1(THM) 17:1-ARGM-MNR(INS) 18:1-ARG1(THM) 19:0-rel

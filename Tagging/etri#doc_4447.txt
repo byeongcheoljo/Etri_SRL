@@ -1,0 +1,4 @@
+etri#doc_4447.txt 5 보이다 ----- 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4447.txt 12 가다 ----- 8:1-ARGM-EXT() 10:2-ARG0(AGT) 11:1-ARG3(GOL) 12:0-rel
+etri#doc_4447.txt 13 하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_4447.txt 15 물어보다 ----- 1:1-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARG0(AGT) 7:1-ARG2(GOL) 14:4-ARG1(THM) 15:0-rel

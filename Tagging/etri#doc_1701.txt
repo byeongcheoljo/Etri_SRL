@@ -1,0 +1,4 @@
+etri#doc_1701.txt 7 살피다 ----- 6:3-ARG1(THM) 7:0-rel
+etri#doc_1701.txt 16 선행하다 ----- 16:0-rel
+etri#doc_1701.txt 22 밝히다 ----- 21:2-ARGM-DIS() 22:0-rel
+etri#doc_1701.txt 23 노력하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 7:4-ARGM-DIS() 15:5-ARGM-DIS() 17:2-ARGM-LOC(LOC) 22:3-ARGM-PRP() 23:0-rel

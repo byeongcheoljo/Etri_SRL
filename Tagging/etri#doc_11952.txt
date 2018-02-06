@@ -1,0 +1,5 @@
+etri#doc_11952.txt 5 만나다 ----- 4:1-ARG1(COM) 5:0-rel
+etri#doc_11952.txt 7 만족하다 ----- 6:1-ARG0(THM) 7:0-rel
+etri#doc_11952.txt 12 주어지다 ----- 10:2-ARGM-PRP(PUR) 11:1-ARG2(GOL) 12:0-rel
+etri#doc_11952.txt 15 앞서다 ----- 7:2-ARGM-DIS() 13:3-ARGM-CAU(EFF) 14:1-ARG1(THM) 15:0-rel
+etri#doc_11952.txt 16 말하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 5:2-ARGM-TMP() 15:2-ARG1(CNT) 16:0-rel

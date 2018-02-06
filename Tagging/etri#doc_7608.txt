@@ -1,0 +1,2 @@
+etri#doc_7608.txt 10 일치하다 ----- 9:1-ARGM-MNR() 10:0-rel
+etri#doc_7608.txt 14 모순되다 ----- 13:1-ARGM-NEG() 14:0-rel

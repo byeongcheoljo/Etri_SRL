@@ -1,0 +1,4 @@
+etri#doc_4593.txt 3 출범하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_4593.txt 7 계속되다 ----- 3:3-ARGM-TMP() 6:3-ARG1(THM) 7:0-rel
+etri#doc_4593.txt 15 완화하다 ----- 13:3-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_4593.txt 16 발표하다 ----- 7:4-ARGM-DIS() 8:1-ARGM-TMP() 9:1-ARG0(AGT) 15:2-ARG1() 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_543.txt 4 나아가다 ----- 3:3-ARG2(SRC) 4:0-rel
+etri#doc_543.txt 7 이르다 ----- 4:4-ARGM-CND() 6:2-ARG3(FNS) 7:0-rel
+etri#doc_543.txt 16 담다 ----- 13:3-ARG2(GOL) 15:2-ARG1(THM) 16:0-rel

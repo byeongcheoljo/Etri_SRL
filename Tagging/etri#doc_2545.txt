@@ -1,0 +1,3 @@
+etri#doc_2545.txt 4 갖다 ----- 2:2-ARGM-ADV(EFF) 3:1-ARG0(AGT) 4:0-rel
+etri#doc_2545.txt 15 만들다 ----- 14:4-ARGM-PRP(EFF) 15:0-rel
+etri#doc_2545.txt 17 낳다 ----- 9:2-ARG0() 10:1-ARGM-LOC(LOC) 16:6-ARG1(THM) 17:0-rel

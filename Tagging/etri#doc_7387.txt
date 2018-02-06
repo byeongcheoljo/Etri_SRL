@@ -1,0 +1,4 @@
+etri#doc_7387.txt 2 나타나다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_7387.txt 5 전후하다 ----- 3:3-ARG1(CRT) 4:1-ARG1(CRT) 5:0-rel
+etri#doc_7387.txt 13 일어나다 ----- 12:3-ARGM-TMP(LOC) 13:0-rel
+etri#doc_7387.txt 15 다루다 ----- 9:2-ARGM-DIS(CRT) 14:5-ARG1(THM) 15:0-rel

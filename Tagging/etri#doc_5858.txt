@@ -1,0 +1,2 @@
+etri#doc_5858.txt 7 전락하다 ----- 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_5858.txt 14 치닫다 ----- 12:3-ARG1(THM) 13:1-ARG2(DIR) 14:0-rel

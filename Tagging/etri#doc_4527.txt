@@ -1,0 +1,7 @@
+etri#doc_4527.txt 5 갖다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4527.txt 7 알다 ----- 7:0-rel
+etri#doc_4527.txt 9 강간하다 ----- 6:3-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_4527.txt 14 표출되다 ----- 13:1-ARGM-MNR() 14:0-rel
+etri#doc_4527.txt 17 적용되다 ----- 10:4-ARGM-CND(LOC) 12:2-ARG1(THM) 14:2-ARGM-DIS() 16:2-ARGM-MNR(INS) 17:0-rel
+etri#doc_4527.txt 19 처벌하다 ----- 18:1-ARG1(THM) 19:0-rel
+etri#doc_4527.txt 21 보호하다 ----- 17:3-ARGM-DIS() 19:2-ARGM-DIS() 20:1-ARG1(THM) 21:0-rel

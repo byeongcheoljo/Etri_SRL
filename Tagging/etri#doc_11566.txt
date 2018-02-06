@@ -1,0 +1,2 @@
+etri#doc_11566.txt 3 생성되다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_11566.txt 13 알려지다 ----- 1:1-ARGM-MNR(INS) 8:3-ARGM-TMP() 9:1-ARG1(THM) 12:3-ARGM-MNR() 13:0-rel

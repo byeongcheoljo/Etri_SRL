@@ -1,0 +1,2 @@
+etri#doc_6940.txt 8 행사하다 ----- 5:1-ARG0(AGT) 7:2-ARGM-LOC(LOC) 8:0-rel
+etri#doc_6940.txt 24 조응하다 ----- 4:3-ARG1(THM) 10:5-ARG2(GOL) 12:2-ARG1(THM) 23:4-ARG2(GOL) 24:0-rel

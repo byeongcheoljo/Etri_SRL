@@ -1,0 +1,5 @@
+etri#doc_8095.txt 4 끌어당기다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_8095.txt 10 만들다 ----- 8:1-ARGM-DIS() 9:1-ARG1(THM) 10:0-rel
+etri#doc_8095.txt 13 만들다 ----- 11:3-ARGM-INS(INS) 12:1-ARG1(THM) 13:0-rel
+etri#doc_8095.txt 17 착각하다 ----- 13:2-ARGM-DIS() 16:2-ARG1() 17:0-rel
+etri#doc_8095.txt 19 달리다 ----- 17:3-ARGM-DIS() 18:1-ARG1(LOC) 19:0-rel

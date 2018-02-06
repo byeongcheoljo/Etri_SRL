@@ -1,0 +1,2 @@
+etri#doc_3013.txt 4 구체화하다 ----- 2:2-ARGM-ADV() 3:1-ARG1(THM) 4:0-rel
+etri#doc_3013.txt 20 말하다 ----- 4:2-ARGM-PRP() 16:4-ARG1(THM) 19:3-ARG1() 20:0-rel

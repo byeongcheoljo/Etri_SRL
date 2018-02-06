@@ -1,0 +1,6 @@
+etri#doc_7783.txt 4 나서다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_7783.txt 7 부르짖다 ----- 4:3-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_7783.txt 9 지지하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_7783.txt 13 안주하다 ----- 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_7783.txt 15 저항하다 ----- 13:2-ARGM-DIS() 14:1-ARG1(GOL) 15:0-rel
+etri#doc_7783.txt 17 늘어나다 ----- 16:3-ARG1(THM) 17:0-rel

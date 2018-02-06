@@ -1,0 +1,4 @@
+etri#doc_6471.txt 4 하다 ----- 1:1-ARGM-TMP() 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_6471.txt 7 알아내다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6471.txt 10 날다 ----- 9:1-ARG1(LOC) 10:0-rel
+etri#doc_6471.txt 12 가르치다 ----- 5:3-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARG2(GOL) 11:3-ARG1(THM) 12:0-rel

@@ -1,0 +1,6 @@
+etri#doc_4190.txt 7 개악하다 ----- 5:3-ARG1(THM) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_4190.txt 10 저지하다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_4190.txt 13 주장하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_4190.txt 15 맞서다 ----- 14:4-ARG1(GOL) 15:0-rel
+etri#doc_4190.txt 17 이룩하다 ----- 10:5-ARGM-DIS() 15:5-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_4190.txt 19 결의하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(LOC) 18:3-ARG1(THM) 19:0-rel

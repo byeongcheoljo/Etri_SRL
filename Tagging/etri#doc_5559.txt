@@ -1,0 +1,4 @@
+etri#doc_5559.txt 4 도망치다 ----- 2:2-ARG0(AGT) 3:1-ARG3(DIR) 4:0-rel
+etri#doc_5559.txt 10 되다 ----- 9:4-ARG2(FNS) 10:0-rel
+etri#doc_5559.txt 13 지키다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_5559.txt 16 맡다 ----- 4:2-ARGM-DIS() 5:1-ARG0(AGT) 10:5-ARGM-DIS() 15:5-ARG1() 16:0-rel

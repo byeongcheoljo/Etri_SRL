@@ -1,0 +1,5 @@
+etri#doc_11744.txt 3 즐기다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_11744.txt 5 알다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11744.txt 6 하다 ----- 5:2-ARG1(CNT) 6:0-rel
+etri#doc_11744.txt 8 빌다 ----- 1:1-ARGM-DIS() 7:4-ARG1(THM) 8:0-rel
+etri#doc_11744.txt 11 알다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel

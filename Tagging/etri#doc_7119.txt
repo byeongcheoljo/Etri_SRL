@@ -1,0 +1,5 @@
+etri#doc_7119.txt 7 침윤되다 ----- 4:3-ARGM-LOC(GOL) 6:2-ARG1(THM) 7:0-rel
+etri#doc_7119.txt 10 믿다 ----- 9:1-ARG0(MAG) 10:0-rel
+etri#doc_7119.txt 12 되다 ----- 11:3-ARG2(FNS) 12:0-rel
+etri#doc_7119.txt 15 동원하다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_7119.txt 17 투쟁하다 ----- 8:4-ARGM-TMP() 12:4-ARGM-DIS() 15:3-ARGM-DIS() 16:1-ARGM-DIS() 17:0-rel

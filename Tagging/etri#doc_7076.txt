@@ -1,0 +1,7 @@
+etri#doc_7076.txt 5 적다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_7076.txt 6 띄우다 ----- 2:1-ARG2(GOL) 5:3-ARGM-MNR() 6:0-rel
+etri#doc_7076.txt 8 정치하다 ----- 8:0-rel
+etri#doc_7076.txt 13 생기다 ----- 11:2-ARG2(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_7076.txt 16 떠나다 ----- 13:2-ARGM-CND() 14:1-ARGM-TMP() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_7076.txt 17 생각하다 ----- 9:2-ARG0(MAG) 16:2-ARG1(THM) 17:0-rel
+etri#doc_7076.txt 18 충고하다 ----- 1:1-ARG0(AGT) 7:5-ARGM-LOC(LOC) 17:3-ARGM-DIS() 18:0-rel

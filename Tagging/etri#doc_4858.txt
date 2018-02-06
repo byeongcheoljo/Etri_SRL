@@ -1,0 +1,4 @@
+etri#doc_4858.txt 7 방지하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4858.txt 10 확대하다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_4858.txt 14 도모하다 ----- 10:3-ARGM-DIS() 13:3-ARG1(THM) 14:0-rel
+etri#doc_4858.txt 19 이루다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG0(AGT) 15:5-ARGM-DIS() 17:2-ARGM-LOC(LOC) 18:1-ARG1(THM) 19:0-rel

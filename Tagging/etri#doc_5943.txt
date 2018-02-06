@@ -1,0 +1,4 @@
+etri#doc_5943.txt 3 넘기다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5943.txt 11 통과시키다 ----- 6:3-ARGM-CAU(EFF) 7:1-ARG0(AGT) 10:3-ARG1(THM) 11:0-rel
+etri#doc_5943.txt 14 해결하다 ----- 12:1-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_5943.txt 15 믿다 ----- 14:2-ARG1() 15:0-rel

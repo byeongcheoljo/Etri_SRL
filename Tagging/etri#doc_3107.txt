@@ -1,0 +1,4 @@
+etri#doc_3107.txt 4 되다 ----- 3:1-ARG2(THM) 4:0-rel
+etri#doc_3107.txt 10 피하다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_3107.txt 14 되다 ----- 13:1-ARG2(THM) 14:0-rel
+etri#doc_3107.txt 21 택하다 ----- 20:4-ARG1(THM) 21:0-rel

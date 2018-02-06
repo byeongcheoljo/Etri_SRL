@@ -1,0 +1,6 @@
+etri#doc_11759.txt 5 직면하다 ----- 4:2-ARG1(LOC) 5:0-rel
+etri#doc_11759.txt 8 극복하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_11759.txt 9 계속하다 ----- 9:0-rel
+etri#doc_11759.txt 10 살다 ----- 6:4-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_11759.txt 12 개발하다 ----- 12:0-rel
+etri#doc_11759.txt 13 세분화시키다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 10:2-ARGM-PRP() 11:1-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel

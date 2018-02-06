@@ -1,0 +1,7 @@
+etri#doc_587.txt 3 살다 ----- 2:1-ARGM-ADV(EFF) 3:0-rel
+etri#doc_587.txt 5 살다 ----- 3:2-ARGM-DIS() 4:1-ARGM-ADV(EFF) 5:0-rel
+etri#doc_587.txt 7 살다 ----- 5:2-ARGM-DIS() 6:1-ARGM-ADV(EFF) 7:0-rel
+etri#doc_587.txt 8 다지다 ----- 7:2-ARG1() 8:0-rel
+etri#doc_587.txt 10 다지다 ----- 1:1-ARGM-TMP() 9:4-ARGM-DIS() 10:0-rel
+etri#doc_587.txt 14 못하다 ----- 11:1-ARGM-CAU() 12:1-ARGM-EXT(CRT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_587.txt 16 발견하다 ----- 15:3-ARG1(THM) 16:0-rel

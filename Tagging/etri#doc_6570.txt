@@ -1,0 +1,4 @@
+etri#doc_6570.txt 4 하다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_6570.txt 8 행사하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6570.txt 15 갖다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_6570.txt 17 선출하다 ----- 11:2-ARGM-CAU() 13:2-ARG0(AGT) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

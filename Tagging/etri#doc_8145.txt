@@ -1,0 +1,3 @@
+etri#doc_8145.txt 7 규정하다 ----- 3:1-ARGM-TMP(LOC) 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:1-ARG1(FNS) 7:0-rel
+etri#doc_8145.txt 10 계속되다 ----- 1:1-ARG1(THM) 2:1-ARGM-TMP() 7:2-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_8145.txt 12 적용되다 ----- 11:1-ARG2(LOC) 12:0-rel

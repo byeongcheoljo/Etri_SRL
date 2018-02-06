@@ -1,0 +1,3 @@
+etri#doc_3726.txt 5 거치다 ----- 2:2-ARGM-TMP(LOC) 4:2-ARG1(THM) 5:0-rel
+etri#doc_3726.txt 8 안정시키다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_3726.txt 15 강화시키다 ----- 5:3-ARGM-DIS() 8:3-ARGM-PRP() 10:2-ARGM-INS(INS) 14:3-ARG1(THM) 15:0-rel

@@ -1,0 +1,3 @@
+etri#doc_782.txt 3 가다 ----- 1:1-ARGM-CND() 2:1-ARGM-MNR() 3:0-rel
+etri#doc_782.txt 12 보다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_782.txt 14 터놓다 ----- 13:1-ARG1(THM) 14:0-rel

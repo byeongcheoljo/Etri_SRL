@@ -1,0 +1,2 @@
+etri#doc_169.txt 10 하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_169.txt 12 발표하다 ----- 7:3-ARG0(AGT) 8:1-ARGM-TMP() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

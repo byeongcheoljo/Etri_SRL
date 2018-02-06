@@ -1,0 +1,4 @@
+etri#doc_7473.txt 7 통고하다 ----- 4:2-ARGM-INS(INS) 5:1-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_7473.txt 11 표시하다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_7473.txt 18 찍다 ----- 9:2-ARGM-LOC(LOC) 13:4-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel
+etri#doc_7473.txt 19 보내다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP(LOC) 7:2-ARGM-DIS() 18:4-ARGM-MNR() 19:0-rel

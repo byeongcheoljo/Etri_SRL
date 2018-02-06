@@ -1,0 +1,4 @@
+etri#doc_7376.txt 4 내걸다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7376.txt 7 찾아오다 ----- 6:2-ARGM-LOC(DIR) 7:0-rel
+etri#doc_7376.txt 9 탈출시키다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_7376.txt 15 놓치다 ----- 14:2-ARG1(THM) 15:0-rel

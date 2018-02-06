@@ -1,0 +1,5 @@
+etri#doc_6851.txt 3 올리다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG1(THM) 3:0-rel
+etri#doc_6851.txt 5 먹다 ----- 5:0-rel
+etri#doc_6851.txt 6 사다 ----- 4:1-ARGM-TMP() 5:1-ARGM-DIS() 6:0-rel
+etri#doc_6851.txt 10 여기다 ----- 3:2-ARGM-EXT() 7:3-ARG1(THM) 9:2-ARGM-MNR() 10:0-rel
+etri#doc_6851.txt 15 살리다 ----- 12:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

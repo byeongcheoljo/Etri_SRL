@@ -1,0 +1,3 @@
+etri#doc_2445.txt 7 휩쓸다 ----- 2:2-ARGM-EXT() 3:1-ARGM-TMP() 6:2-ARG0(AGT) 7:0-rel
+etri#doc_2445.txt 13 넘기다 ----- 8:4-ARG0(AGT) 11:2-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_2445.txt 17 좌우되다 ----- 13:2-ARGM-DIS() 16:3-ARG0() 17:0-rel

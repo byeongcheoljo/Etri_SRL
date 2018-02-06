@@ -1,0 +1,3 @@
+etri#doc_2739.txt 4 작용하다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_2739.txt 11 되다 ----- 5:1-ARG1(THM) 10:3-ARG2(FNS) 11:0-rel
+etri#doc_2739.txt 16 모이다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 11:4-ARGM-DIS() 12:1-ARGM-MNR() 15:2-ARG1(THM) 16:0-rel

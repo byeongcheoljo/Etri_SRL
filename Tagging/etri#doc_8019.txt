@@ -1,0 +1,3 @@
+etri#doc_8019.txt 3 말하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_8019.txt 17 서다 ----- 10:1-ARG1(THM) 14:3-ARG1(THM) 16:2-ARG1(LOC) 17:0-rel
+etri#doc_8019.txt 19 하다 ----- 4:3-ARG0(AGT) 9:2-ARGM-DIS() 17:3-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

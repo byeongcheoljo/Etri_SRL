@@ -1,0 +1,2 @@
+etri#doc_7494.txt 14 분발하다 ----- 9:3-ARGM-MNR() 12:2-ARG0(MAG) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_7494.txt 15 촉구하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-LOC(LOC) 14:2-ARGM-MNR() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1744.txt 3 이르다 ----- 1:1-ARG2(LOC) 2:1-ARG3(GOL) 3:0-rel
+etri#doc_1744.txt 9 당선되다 ----- 6:2-ARG1(THM) 8:2-ARGM-ADV(EFF) 9:0-rel

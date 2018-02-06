@@ -1,0 +1,2 @@
+etri#doc_5959.txt 10 개최되다 ----- 7:2-ARGM-TMP(SRC) 8:1-ARGM-TMP(GOL) 9:1-ARGM-LOC(LOC) 10:0-rel
+etri#doc_5959.txt 13 주관하다 ----- 5:2-ARG0(AGT) 12:2-ARG1(THM) 13:0-rel

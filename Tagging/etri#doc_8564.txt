@@ -1,0 +1,3 @@
+etri#doc_8564.txt 9 되다 ----- 8:2-ARG2(FNS) 9:0-rel
+etri#doc_8564.txt 15 동일시되다 ----- 3:2-ARGM-LOC(LOC) 4:1-ARG1(THM) 9:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_8564.txt 20 부인하다 ----- 15:3-ARGM-CAU() 18:2-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel

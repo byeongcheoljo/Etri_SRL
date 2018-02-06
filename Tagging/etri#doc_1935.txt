@@ -1,0 +1,6 @@
+etri#doc_1935.txt 4 하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_1935.txt 6 걸다 ----- 4:4-ARG2(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1935.txt 9 이루어지다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_1935.txt 11 감퇴되다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1935.txt 13 공인되다 ----- 12:1-ARGM-TMP() 13:0-rel
+etri#doc_1935.txt 15 재확인하다 ----- 11:2-ARGM-DIS() 14:3-ARG1(THM) 15:0-rel

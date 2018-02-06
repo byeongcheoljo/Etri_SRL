@@ -1,0 +1,6 @@
+etri#doc_5057.txt 4 뿌리다 ----- 2:1-ARG1(THM) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_5057.txt 7 저항하다 ----- 6:1-ARGM-TMP(GOL) 7:0-rel
+etri#doc_5057.txt 10 지키다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_5057.txt 13 극복하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_5057.txt 15 변화하다 ----- 14:4-ARG3(GOL) 15:0-rel
+etri#doc_5057.txt 16 대응하다 ----- 1:1-ARGM-DIS() 4:2-ARGM-CND() 5:1-ARG0(AGT) 7:2-ARGM-MNR() 10:3-ARGM-PRP() 15:5-ARGM-MNR() 16:0-rel

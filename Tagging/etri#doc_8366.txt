@@ -1,0 +1,4 @@
+etri#doc_8366.txt 3 설립되다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_8366.txt 9 도착하다 ----- 7:1-ARGM-INS(INS) 8:1-ARG3(GOL) 9:0-rel
+etri#doc_8366.txt 11 입성하다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(GOL) 11:0-rel
+etri#doc_8366.txt 15 시찰하다 ----- 11:2-ARGM-DIS() 13:2-ARGM-EXT() 14:1-ARG1(LOC) 15:0-rel

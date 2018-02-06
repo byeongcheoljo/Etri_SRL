@@ -1,0 +1,4 @@
+etri#doc_3560.txt 8 가다 ----- 7:2-ARG3(GOL) 8:0-rel
+etri#doc_3560.txt 10 싣다 ----- 9:4-ARG1(THM) 10:0-rel
+etri#doc_3560.txt 12 떠나다 ----- 4:1-ARGM-TMP(LOC) 5:1-ARGM-EXT() 10:5-ARGM-DIS() 11:1-ARG1(LOC) 12:0-rel
+etri#doc_3560.txt 18 잡다 ----- 3:3-ARG0(AGT) 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:1-ARGM-TMP() 15:1-ARGM-MNR() 16:1-ARGM-TMP() 17:1-ARG1(THM) 18:0-rel

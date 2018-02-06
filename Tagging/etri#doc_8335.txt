@@ -1,0 +1,2 @@
+etri#doc_8335.txt 10 떠나다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_8335.txt 15 되다 ----- 10:4-ARGM-DIS() 11:1-ARGM-PRP(PUR) 12:1-ARGM-DIS() 14:2-ARG2(FNS) 15:0-rel

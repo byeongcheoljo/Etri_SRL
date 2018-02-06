@@ -1,0 +1,4 @@
+etri#doc_8692.txt 4 하다 ----- 2:2-ARG1(THM) 3:1-ARG2(FNS) 4:0-rel
+etri#doc_8692.txt 7 선정하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_8692.txt 11 살피다 ----- 4:2-ARGM-DIS() 7:3-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_8692.txt 16 알다 ----- 11:4-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

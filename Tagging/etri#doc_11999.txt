@@ -1,0 +1,5 @@
+etri#doc_11999.txt 3 지적하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11999.txt 6 부르다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_11999.txt 9 계속되다 ----- 3:3-ARGM-DIS() 6:3-ARGM-DIS() 7:1-ARGM-TMP(SRC) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_11999.txt 17 비상하다 ----- 17:0-rel
+etri#doc_11999.txt 19 불러일으키다 ----- 13:3-ARG0(EFF) 18:2-ARG1(THM) 19:0-rel

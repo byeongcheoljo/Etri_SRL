@@ -1,0 +1,3 @@
+etri#doc_3852.txt 5 자행되다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3852.txt 8 의존하다 ----- 3:2-ARGM-LOC(LOC) 5:2-ARGM-DIS() 7:2-ARG1(GOL) 8:0-rel
+etri#doc_3852.txt 13 바라다 ----- 1:1-ARGM-DIS() 8:3-ARGM-CND() 11:2-ARG1(THM) 12:1-ARGM-NEG() 13:0-rel

@@ -1,0 +1,2 @@
+etri#doc_4468.txt 4 방임하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4468.txt 13 방임하다 ----- 12:1-ARG1(THM) 13:0-rel

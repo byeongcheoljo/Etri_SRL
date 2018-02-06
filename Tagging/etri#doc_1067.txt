@@ -1,0 +1,4 @@
+etri#doc_1067.txt 6 이루다 ----- 4:2-ARGM-CAU() 5:1-ARG1(THM) 6:0-rel
+etri#doc_1067.txt 10 느끼다 ----- 6:2-ARGM-CAU() 7:1-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_1067.txt 12 열다 ----- 10:3-ARGM-CAU() 11:1-ARG1(THM) 12:0-rel
+etri#doc_1067.txt 16 마시다 ----- 12:2-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel

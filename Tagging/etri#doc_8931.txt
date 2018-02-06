@@ -1,0 +1,4 @@
+etri#doc_8931.txt 4 받다 ----- 2:2-ARG1(THM) 3:1-ARG1() 4:0-rel
+etri#doc_8931.txt 9 기초하다 ----- 6:4-ARG1(THM) 8:2-ARG2(LOC) 9:0-rel
+etri#doc_8931.txt 12 선정되다 ----- 9:3-ARGM-DIS() 10:1-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_8931.txt 19 승인되다 ----- 12:2-ARGM-CND() 15:2-ARG1(THM) 18:3-ARGM-PRD(INS) 19:0-rel

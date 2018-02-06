@@ -1,0 +1,2 @@
+etri#doc_1549.txt 10 떠나다 ----- 7:1-ARG0(AGT) 8:1-ARGM-DIS() 9:1-ARG1(LOC) 10:0-rel
+etri#doc_1549.txt 20 시사하다 ----- 4:3-ARG0(THM) 6:2-ARGM-DIS() 11:3-ARG1(THM) 14:3-ARGM-DIS(EFF) 19:2-ARG1(THM) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3495.txt 6 기록하다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARG1() 4:1-ARGM-TMP(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_3495.txt 8 보이다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3495.txt 11 떨어지다 ----- 9:3-ARG1(THM) 10:1-ARGM-EXT(FNS) 11:0-rel
+etri#doc_3495.txt 15 전망되다 ----- 6:2-ARGM-CAU() 11:2-ARGM-CAU() 14:3-ARG1(THM) 15:0-rel

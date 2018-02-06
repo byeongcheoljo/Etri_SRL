@@ -1,0 +1,4 @@
+etri#doc_7282.txt 5 손꼽히다 ----- 4:4-ARG2(FNS) 5:0-rel
+etri#doc_7282.txt 9 벌거벗다 ----- 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_7282.txt 11 응시하다 ----- 9:3-ARGM-MNR() 10:1-ARG1(THM) 11:0-rel
+etri#doc_7282.txt 17 만나다 ----- 6:6-ARGM-LOC(LOC) 16:3-ARG1(THM) 17:0-rel

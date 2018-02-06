@@ -1,0 +1,4 @@
+etri#doc_244.txt 3 하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_244.txt 5 받다 ----- 3:3-ARGM-CND() 4:1-ARG1(THM) 5:0-rel
+etri#doc_244.txt 8 하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_244.txt 10 받다 ----- 5:2-ARGM-DIS() 8:3-ARGM-CND() 9:1-ARG1(THM) 10:0-rel

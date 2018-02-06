@@ -1,0 +1,5 @@
+etri#doc_2997.txt 7 출발하다 ----- 6:4-ARGM-DIR(DIR) 7:0-rel
+etri#doc_2997.txt 10 고려하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_2997.txt 11 고려하다 ----- 10:3-ARGM-DIS() 11:0-rel
+etri#doc_2997.txt 17 이르다 ----- 16:3-ARG3(FNS) 17:0-rel
+etri#doc_2997.txt 20 하다 ----- 2:2-ARG1(THM) 7:5-ARGM-DIS() 11:4-ARGM-DIS() 12:1-ARGM-DIS() 13:1-ARGM-MNR() 18:5-ARGM-PRP(PUR) 19:1-ARGM-PRP(PUR) 20:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9736.txt 2 ´Þ´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9736.txt 9 Ç³±â´Ù ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_9736.txt 13 ÇÏ´Ù ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_9736.txt 14 ´¯´Ù ----- 3:3-ARG0(AGT) 6:2-ARGM-DIS() 11:5-ARGM-LOC(LOC) 13:2-ARGM-DIS() 14:0-rel

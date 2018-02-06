@@ -1,0 +1,5 @@
+etri#doc_11471.txt 2 간호하다 ----- 2:0-rel
+etri#doc_11471.txt 6 이해하다 ----- 4:1-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_11471.txt 9 닿다 ----- 3:2-ARG0(MAG) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARG2(GOL) 9:0-rel
+etri#doc_11471.txt 16 가지다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_11471.txt 17 따르다 ----- 9:2-ARGM-DIS() 11:2-ARGM-LOC(LOC) 16:3-ARGM-DIS() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_9302.txt 8 드날리다 ----- 6:1-ARGM-MNR() 7:1-ARGM-LOC(LOC) 8:0-rel
+etri#doc_9302.txt 12 다투다 ----- 3:1-ARGM-TMP() 5:2-ARG0(AGT) 8:2-ARGM-MNR() 10:2-ARG2(COM) 11:1-ARG1(THM) 12:0-rel
+etri#doc_9302.txt 14 외치다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_9302.txt 17 진동시키다 ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP(LOC) 12:2-ARGM-DIS() 15:3-ARG0(EFF) 16:1-ARG1(THM) 17:0-rel

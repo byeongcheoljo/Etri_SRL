@@ -1,0 +1,4 @@
+etri#doc_9777.txt 5 말미암다 ----- 4:2-ARGM-ADV(EFF) 5:0-rel
+etri#doc_9777.txt 11 은폐되다 ----- 11:0-rel
+etri#doc_9777.txt 14 취급되다 ----- 5:3-ARGM-DIS() 10:3-ARG1(THM) 11:1-ARGM-DIS() 12:1-ARGM-ADV(EFF) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_9777.txt 16 지적하다 ----- 2:2-ARG0(AGT) 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,3 @@
+etri#doc_187.txt 6 모으다 ----- 2:1-ARGM-TMP() 3:1-ARGM-CAU(PUR) 4:1-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_187.txt 10 얻다 ----- 8:2-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel
+etri#doc_187.txt 13 바치다 ----- 1:1-ARG0(EXP) 6:2-ARGM-MNR() 10:2-ARGM-CAU() 12:2-ARG1(THM) 13:0-rel

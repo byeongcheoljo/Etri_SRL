@@ -1,0 +1,5 @@
+etri#doc_5159.txt 2 들이쉬다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5159.txt 5 집중하다 ----- 3:1-ARG1(THM) 4:1-ARG2(GOL) 5:0-rel
+etri#doc_5159.txt 12 들어오다 ----- 6:1-ARG0(THM) 7:1-ARGM-EXT(EFF) 10:3-ARG3(DIR) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_5159.txt 15 상상하다 ----- 12:2-ARG1() 13:1-ARGM-MNR(GOL) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_5159.txt 20 외우다 ----- 2:2-ARGM-TMP() 5:2-ARGM-DIS() 15:2-ARGM-DIS() 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:1-ARGM-EXT() 20:0-rel

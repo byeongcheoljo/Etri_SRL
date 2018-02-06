@@ -1,0 +1,6 @@
+etri#doc_11108.txt 5 지니다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11108.txt 8 쓰다 ----- 6:4-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11108.txt 11 가공하다 ----- 10:1-ARGM-EXT(EFF) 11:0-rel
+etri#doc_11108.txt 13 쓰다 ----- 8:2-ARGM-DIS() 9:1-ARGM-DIS() 12:3-ARGM-MNR(INS) 13:0-rel
+etri#doc_11108.txt 15 처방하다 ----- 14:1-ARG0(AGT) 15:0-rel
+etri#doc_11108.txt 17 조제하다 ----- 15:2-ARGM-DIS() 16:1-ARG0(AGT) 17:0-rel

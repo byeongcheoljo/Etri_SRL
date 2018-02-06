@@ -1,0 +1,4 @@
+etri#doc_2600.txt 9 발전시키다 ----- 8:1-() 9:0-rel
+etri#doc_2600.txt 11 보존하다 ----- 7:2-() 9:2-() 10:1-() 11:0-rel
+etri#doc_2600.txt 14 생산하다 ----- 5:2-ARGM-LOC(LOC) 13:2-ARG1(THM) 14:0-rel
+etri#doc_2600.txt 18 하다 ----- 16:2-ARG1(THM) 17:1-ARGM-ADV(EFF) 18:0-rel

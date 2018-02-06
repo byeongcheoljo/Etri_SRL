@@ -1,0 +1,2 @@
+etri#doc_5521.txt 6 이해하다 ----- 4:3-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5521.txt 14 확정하다 ----- 1:1-ARGM-DIS() 6:2-ARGM-CND() 7:1-ARG0(AGT) 9:2-ARG1(THM) 10:1-ARGM-TMP() 13:3-ARG2(FNS) 14:0-rel

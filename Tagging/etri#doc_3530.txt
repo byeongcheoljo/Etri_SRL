@@ -1,0 +1,4 @@
+etri#doc_3530.txt 7 나오다 ----- 4:3-ARGM-MNR() 5:1-ARGM-LOC(LOC) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_3530.txt 11 결정되다 ----- 9:1-ARGM-DIS() 10:1-ARGM-TMP() 11:0-rel
+etri#doc_3530.txt 13 대서특필되다 ----- 8:3-ARGM-DIS() 11:2-ARGM-EXT() 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_3530.txt 16 이해하다 ----- 1:1-ARGM-DIS() 13:2-ARG1() 14:1-ARG0(MAG) 15:1-ARGM-MNR() 16:0-rel

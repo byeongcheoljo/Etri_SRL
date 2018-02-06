@@ -1,0 +1,6 @@
+etri#doc_2836.txt 5 대하다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2836.txt 8 보이다 ----- 2:1-ARGM-TMP() 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_2836.txt 12 굴다 ----- 10:1-ARG0(AGT) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_2836.txt 15 하다 ----- 9:1-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_2836.txt 18 짓다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_2836.txt 20 다루다 ----- 1:1-ARG0(AGT) 8:3-ARGM-DIS() 15:3-ARGM-CND() 18:3-ARGM-INS() 19:1-ARGM-MNR() 20:0-rel

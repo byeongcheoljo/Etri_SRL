@@ -1,0 +1,4 @@
+etri#doc_6627.txt 3 알려지다 ----- 3:0-rel
+etri#doc_6627.txt 7 파괴하다 ----- 4:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_6627.txt 11 종식시키다 ----- 8:1-ARGM-DIS() 9:1-ARGM-EXT() 10:1-ARG1(THM) 11:0-rel
+etri#doc_6627.txt 13 만들다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-DIS() 12:3-ARG1(THM) 13:0-rel

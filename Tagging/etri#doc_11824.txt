@@ -1,0 +1,4 @@
+etri#doc_11824.txt 2 제시하다 ----- 1:1-ARG0(AGT) 2:0-rel
+etri#doc_11824.txt 5 인정되다 ----- 4:1-ARGM-PRD(EFF) 5:0-rel
+etri#doc_11824.txt 8 출발하다 ----- 7:2-ARGM-LOC(SRC) 8:0-rel
+etri#doc_11824.txt 17 증명하다 ----- 3:3-ARG0(AGT) 8:3-ARGM-DIS() 15:3-ARG1(THM) 16:1-ARGM-PRD(EFF) 17:0-rel

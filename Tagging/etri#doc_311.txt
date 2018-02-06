@@ -1,0 +1,4 @@
+etri#doc_311.txt 2 ÈÖ¸ô¾ÆÄ¡´Ù ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_311.txt 8 ÅÂ¿ì´Ù ----- 6:2-ARG0(THM) 7:1-ARG1(LOC) 8:0-rel
+etri#doc_311.txt 11 ¸ô´Ù ----- 4:2-ARG2(DIR) 8:2-ARGM-DIS() 9:1-ARGM-MNR(INS) 10:1-ARG1(THM) 11:0-rel
+etri#doc_311.txt 19 º¸´Ù ----- 18:3-ARG1(THM) 19:0-rel

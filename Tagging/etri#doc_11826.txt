@@ -1,0 +1,3 @@
+etri#doc_11826.txt 5 승인하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11826.txt 11 설명하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11826.txt 18 받다 ----- 1:1-ARG0(GOL) 5:3-ARGM-DIS() 16:2-ARGM-CND(EFF) 17:1-ARG1(THM) 18:0-rel

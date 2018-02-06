@@ -1,0 +1,4 @@
+etri#doc_5849.txt 3 펼쳐지다 ----- 1:1-ARG1(THM) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5849.txt 9 참가하다 ----- 8:1-ARG1(LOC) 9:0-rel
+etri#doc_5849.txt 14 갖다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_5849.txt 16 다짐하다 ----- 7:4-ARGM-TMP() 11:2-ARG0(AGT) 12:1-ARGM-LOC(LOC) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

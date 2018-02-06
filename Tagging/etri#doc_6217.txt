@@ -1,0 +1,2 @@
+etri#doc_6217.txt 10 투입되다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARGM-MNR(INS) 4:1-ARGM-MNR(INS) 5:1-ARGM-MNR(INS) 6:1-ARGM-MNR(INS) 8:2-() 9:1-ARG2(GOL) 10:0-rel
+etri#doc_6217.txt 17 머무르다 ----- 11:3-ARG1(THM) 15:4-ARGM-EXT() 16:1-ARG2(LOC) 17:0-rel

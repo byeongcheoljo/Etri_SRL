@@ -1,0 +1,6 @@
+etri#doc_6469.txt 6 꺾다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6469.txt 8 그리다 ----- 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_6469.txt 11 바꾸다 ----- 3:3-ARGM-LOC(LOC) 4:1-ARG0(AGT) 8:2-ARGM-DIS() 9:1-ARGM-DIR(DIR) 10:1-ARG1(THM) 11:0-rel
+etri#doc_6469.txt 16 비행하다 ----- 13:1-ARGM-DIS() 15:2-ARG1(LOC) 16:0-rel
+etri#doc_6469.txt 20 타다 ----- 19:1-ARG1(THM) 20:0-rel
+etri#doc_6469.txt 21 날다 ----- 12:3-ARGM-DIS() 16:3-ARGM-EXT() 17:1-ARGM-EXT() 18:1-ARG0(AGT) 20:2-ARGM-DIS() 21:0-rel

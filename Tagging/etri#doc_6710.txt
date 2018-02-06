@@ -1,0 +1,4 @@
+etri#doc_6710.txt 6 꽂히다 ----- 1:1-ARGM-CAU() 3:2-ARG1(THM) 5:2-ARGM-LOC(LOC) 6:0-rel
+etri#doc_6710.txt 7 모르다 ----- 6:3-ARGM-DIS() 7:0-rel
+etri#doc_6710.txt 10 나아가다 ----- 10:0-rel
+etri#doc_6710.txt 12 가르치다 ----- 11:2-ARG1(THM) 12:0-rel

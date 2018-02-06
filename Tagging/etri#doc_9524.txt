@@ -1,0 +1,2 @@
+etri#doc_9524.txt 16 변경시키다 ----- 13:2-ARG1(THM) 15:2-ARGM-EXT() 16:0-rel
+etri#doc_9524.txt 19 가지다 ----- 11:2-ARG0(LOC) 18:2-ARG1(THM) 19:0-rel

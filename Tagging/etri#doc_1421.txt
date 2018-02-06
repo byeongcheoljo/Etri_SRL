@@ -1,0 +1,7 @@
+etri#doc_1421.txt 3 흘러오다 ----- 1:1-ARG0(THM) 2:1-ARGM-DIR(DIR) 3:0-rel
+etri#doc_1421.txt 6 흘러오다 ----- 3:2-ARGM-DIS() 4:1-ARG1(THM) 5:1-ARGM-DIR(DIR) 6:0-rel
+etri#doc_1421.txt 8 합치다 ----- 6:2-ARGM-DIS() 7:1-ARGM-DIR(DIR) 8:0-rel
+etri#doc_1421.txt 10 돌다 ----- 8:2-ARGM-DIS() 9:1-ARG1(LOC) 10:0-rel
+etri#doc_1421.txt 12 되다 ----- 10:2-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_1421.txt 15 모이다 ----- 13:1-ARG2(GOL) 14:1-ARGM-LOC(LOC) 15:0-rel
+etri#doc_1421.txt 17 되다 ----- 12:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(FNS) 17:0-rel

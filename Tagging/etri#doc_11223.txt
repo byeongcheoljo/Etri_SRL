@@ -1,0 +1,3 @@
+etri#doc_11223.txt 9 변화되다 ----- 3:1-ARGM-TMP(SRC) 5:2-ARGM-ADV(EFF) 6:1-ARG2(SRC) 8:2-ARG3(FNS) 9:0-rel
+etri#doc_11223.txt 12 개입하다 ----- 11:2-ARG1(LOC) 12:0-rel
+etri#doc_11223.txt 15 변형시키다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 12:3-ARGM-CAU() 14:2-ARG1(THM) 15:0-rel

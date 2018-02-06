@@ -1,0 +1,4 @@
+etri#doc_6131.txt 4 Â¡¹úÇÏ´Ù ----- 2:2-ARGM-ADV(EFF) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_6131.txt 8 ÀúÁö¸£´Ù ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6131.txt 11 °ñÅÁ¸ÔÀÌ´Ù ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_6131.txt 13 ¼­½¿´Ù ----- 4:2-ARGM-DIS() 5:1-ARGM-EXT() 12:4-ARG1(THM) 13:0-rel

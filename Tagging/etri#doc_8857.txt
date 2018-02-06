@@ -1,0 +1,4 @@
+etri#doc_8857.txt 4 규제되다 ----- 3:2-ARGM-CAU(EFF) 4:0-rel
+etri#doc_8857.txt 10 되다 ----- 4:3-ARGM-CND() 7:2-ARG1(THM) 9:2-ARG2(FNS) 10:0-rel
+etri#doc_8857.txt 14 인정받다 ----- 11:1-ARG1(GOL) 12:1-ARGM-TMP() 13:1-ARG1(FNS) 14:0-rel
+etri#doc_8857.txt 16 현실화되다 ----- 10:3-ARGM-CAU() 15:3-ARG1(THM) 16:0-rel

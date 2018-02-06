@@ -1,0 +1,5 @@
+etri#doc_11273.txt 3 추리하다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_11273.txt 9 하다 ----- 5:2-ARG0(AGT) 6:1-ARGM-TMP() 7:1-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_11273.txt 12 잡다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_11273.txt 14 쓰다 ----- 9:2-ARGM-DIS() 10:1-ARGM-LOC(LOC) 12:2-ARGM-PRP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_11273.txt 15 오해하다 ----- 14:2-ARGM-MNR() 15:0-rel

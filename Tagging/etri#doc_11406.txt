@@ -1,0 +1,2 @@
+etri#doc_11406.txt 8 먹다 ----- 6:1-ARG0(AGT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_11406.txt 17 드러나다 ----- 1:1-ARGM-DIS() 5:2-ARGM-LOC(LOC) 13:4-ARG1(THM) 16:2-ARG1(INS) 17:0-rel

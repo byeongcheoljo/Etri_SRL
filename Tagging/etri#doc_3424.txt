@@ -1,0 +1,4 @@
+etri#doc_3424.txt 4 주도하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_3424.txt 8 구속되다 ----- 5:3-ARG2(CNT) 6:1-ARG1(THM) 7:1-ARG0(AGT) 8:0-rel
+etri#doc_3424.txt 14 반복되다 ----- 12:2-ARG1(THM) 13:1-ARGM-EXT(THM) 14:0-rel
+etri#doc_3424.txt 17 빚다 ----- 2:2-ARGM-TMP(LOC) 8:2-ARGM-CAU() 15:3-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

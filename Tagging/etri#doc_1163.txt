@@ -1,0 +1,2 @@
+etri#doc_1163.txt 4 Á×´Ù ----- 3:2-ARGM-LOC(LOC) 4:0-rel
+etri#doc_1163.txt 6 ¹¯È÷´Ù ----- 4:3-ARGM-CND() 5:1-ARGM-LOC(LOC) 6:0-rel

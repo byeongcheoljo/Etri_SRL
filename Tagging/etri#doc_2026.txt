@@ -1,0 +1,3 @@
+etri#doc_2026.txt 2 억눌리다 ----- 2:0-rel
+etri#doc_2026.txt 6 변하다 ----- 5:2-ARG3(FNS) 6:0-rel
+etri#doc_2026.txt 11 하다 ----- 10:4-ARGM-INS() 11:0-rel

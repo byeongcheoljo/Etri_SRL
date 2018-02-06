@@ -1,0 +1,2 @@
+etri#doc_1403.txt 14 다루다 ----- 4:2-ARGM-DIS() 6:2-ARG0(THM) 13:7-ARGM-DIS(LOC) 14:0-rel
+etri#doc_1403.txt 20 제공하다 ----- 2:2-ARG1(THM) 14:8-ARGM-CAU() 15:1-ARGM-DIS(LOC) 19:3-ARG1(THM) 20:0-rel

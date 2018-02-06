@@ -1,0 +1,5 @@
+etri#doc_6112.txt 6 짓다 ----- 3:1-ARGM-DIS() 5:2-ARG1(Npr) 6:0-rel
+etri#doc_6112.txt 8 말하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_6112.txt 11 비우다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6112.txt 14 심문하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_6112.txt 15 묻다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 11:2-ARGM-TMP() 12:1-ARGM-DIS() 14:2-ARGM-MNR() 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_2288.txt 2 죽다 ----- 2:0-rel
+etri#doc_2288.txt 4 하다 ----- 1:1-ARGM-EXT() 3:2-ARG1(AGT) 4:0-rel
+etri#doc_2288.txt 7 들다 ----- 5:1-ARG1(AGT) 6:1-ARG2(THM) 7:0-rel
+etri#doc_2288.txt 10 찌르다 ----- 8:1-ARGM-EXT() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2288.txt 13 바라보다 ----- 12:1-() 13:0-rel
+etri#doc_2288.txt 15 알아채다 ----- 4:3-() 7:2-() 10:2-() 11:1-() 13:2-() 14:1-() 15:0-rel

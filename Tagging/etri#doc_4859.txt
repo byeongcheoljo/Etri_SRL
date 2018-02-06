@@ -1,0 +1,2 @@
+etri#doc_4859.txt 4 지적되다 ----- 3:3-ARGM-LOC(LOC) 4:0-rel
+etri#doc_4859.txt 11 하다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel

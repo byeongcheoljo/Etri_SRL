@@ -1,0 +1,5 @@
+etri#doc_7038.txt 9 투여하다 ----- 6:2-ARGM-CAU() 7:1-ARGM-EXT() 8:1-ARG1(THM) 9:0-rel
+etri#doc_7038.txt 11 담기다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_7038.txt 14 나오다 ----- 1:1-ARGM-INS(INS) 3:2-ARG3(GOL) 13:2-ARG0(THM) 14:0-rel
+etri#doc_7038.txt 16 집도하다 ----- 15:1-ARG1(THM) 16:0-rel
+etri#doc_7038.txt 20 동조하다 ----- 14:3-ARGM-DIS() 17:3-ARG0(MAG) 19:2-ARG1(LOC) 20:0-rel

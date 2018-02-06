@@ -1,0 +1,5 @@
+etri#doc_1749.txt 3 나르다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_1749.txt 5 붙잡다 ----- 1:1-ARG0(AGT) 4:3-ARG1(THM) 5:0-rel
+etri#doc_1749.txt 9 내다 ----- 5:4-ARGM-TMP() 6:1-ARG2(GOL) 7:1-ARGM-MNR() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1749.txt 11 당황하다 ----- 11:0-rel
+etri#doc_1749.txt 17 돌아가다 ----- 9:2-ARGM-DIS() 13:3-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARGM-ADV(EFF) 16:1-ARG3(GOL) 17:0-rel

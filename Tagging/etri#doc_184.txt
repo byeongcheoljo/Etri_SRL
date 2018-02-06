@@ -1,0 +1,2 @@
+etri#doc_184.txt 10 ¿Ã¸®´Ù ----- 6:3-ARGM-DIS() 7:1-ARGM-TMP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_184.txt 16 ¸ô´Ù ----- 1:1-ARG0(AGT) 12:2-ARG1(THM) 13:1-ARGM-ADV() 15:2-ARGM-LOC(GOL) 16:0-rel

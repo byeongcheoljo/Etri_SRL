@@ -1,0 +1,6 @@
+etri#doc_46.txt 4 다가오다 ----- 3:2-ARG3(GOL) 4:0-rel
+etri#doc_46.txt 6 포용하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_46.txt 11 포용하다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_46.txt 14 알다 ----- 13:5-ARG1(THM) 14:0-rel
+etri#doc_46.txt 16 찾아오다 ----- 15:1-ARG2(GOL) 16:0-rel
+etri#doc_46.txt 19 낙심하다 ----- 1:1-ARGM-DIS() 14:6-ARGM-DIS() 17:3-ARGM-TMP(FNS) 18:1-ARGM-ADV() 19:0-rel

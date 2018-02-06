@@ -1,0 +1,6 @@
+etri#doc_3702.txt 6 가다 ----- 3:1-ARGM-TMP() 4:1-ARGM-TMP() 5:1-ARG3(GOL) 6:0-rel
+etri#doc_3702.txt 8 하다 ----- 2:1-ARG0(AGT) 6:2-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3702.txt 11 하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3702.txt 13 보다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_3702.txt 16 들다 ----- 13:4-ARGM-DIS() 14:1-ARGM-EXT() 15:1-ARG1(THM) 16:0-rel
+etri#doc_3702.txt 18 돕다 ----- 1:1-ARGM-TMP() 16:2-ARGM-CAU() 17:1-ARGM-TMP() 18:0-rel

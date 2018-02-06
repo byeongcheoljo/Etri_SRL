@@ -1,0 +1,3 @@
+etri#doc_5987.txt 3 지불하다 ----- 2:1-ARG2(GOL) 3:0-rel
+etri#doc_5987.txt 16 지불하다 ----- 11:4-ARG0(AGT) 12:1-ARG2(GOL) 15:3-ARG1(THM) 16:0-rel
+etri#doc_5987.txt 18 되다 ----- 6:5-ARGM-DIS() 17:5-ARG2(FNS) 18:0-rel

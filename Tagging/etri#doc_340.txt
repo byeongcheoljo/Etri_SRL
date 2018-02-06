@@ -1,0 +1,4 @@
+etri#doc_340.txt 3 ÂîÇª¸®´Ù ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_340.txt 10 ³»·Á¿À´Ù ----- 8:1-ARG0(AGT) 9:1-ARG3(GOL) 10:0-rel
+etri#doc_340.txt 13 ÄôÄô°Å¸®´Ù ----- 10:2-ARGM-EXT() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_340.txt 14 °È´Ù ----- 7:2-ARGM-CND() 13:2-ARGM-DIS() 14:0-rel

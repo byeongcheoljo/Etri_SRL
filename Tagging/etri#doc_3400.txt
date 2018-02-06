@@ -1,0 +1,6 @@
+etri#doc_3400.txt 8 지내다 ----- 6:2-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_3400.txt 11 흘리다 ----- 8:2-ARGM-TMP() 9:1-ARGM-CAU(CNT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_3400.txt 14 나오다 ----- 13:1-ARG3(GOL) 14:0-rel
+etri#doc_3400.txt 15 약속하다 ----- 12:1-ARG0(AGT) 14:2-ARGM-MNR() 15:0-rel
+etri#doc_3400.txt 17 성사되다 ----- 15:3-ARGM-CAU() 16:1-ARGM-MNR() 17:0-rel
+etri#doc_3400.txt 19 되묻다 ----- 4:3-ARG0(AGT) 11:2-ARGM-DIS() 17:2-ARG1(CNT) 18:1-ARG2(GOL) 19:0-rel

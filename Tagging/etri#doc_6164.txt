@@ -1,0 +1,4 @@
+etri#doc_6164.txt 4 도달하다 ----- 2:2-ARG1(AGT) 3:1-ARG2(GOL) 4:0-rel
+etri#doc_6164.txt 9 하다 ----- 4:2-ARGM-CND() 5:1-ARG0(AGT) 7:2-ARG1(THM) 8:1-ARGM-LOC(INS) 9:0-rel
+etri#doc_6164.txt 14 자극하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_6164.txt 16 발생시키다 ----- 9:2-ARGM-DIS() 11:2-ARG0(EFF) 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

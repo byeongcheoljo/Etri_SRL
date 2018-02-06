@@ -1,0 +1,5 @@
+etri#doc_1166.txt 3 정하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIR() 3:0-rel
+etri#doc_1166.txt 7 인정하다 ----- 3:2-ARGM-DIS() 5:2-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1166.txt 9 지나다 ----- 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_1166.txt 14 인정하다 ----- 13:1-ARG1(DIR) 14:0-rel
+etri#doc_1166.txt 16 올리다 ----- 7:2-ARGM-DIS() 12:2-ARGM-LOC(LOC) 15:3-ARG1(THM) 16:0-rel

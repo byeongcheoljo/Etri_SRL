@@ -1,0 +1,6 @@
+etri#doc_4914.txt 3 제작하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4914.txt 9 수행하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_4914.txt 13 관여하다 ----- 10:4-ARGM-DIS() 12:2-ARG0(AGT) 13:0-rel
+etri#doc_4914.txt 14 믿다 ----- 13:3-ARG1() 14:0-rel
+etri#doc_4914.txt 17 하다 ----- 15:1-ARGM-MNR(COM) 16:1-ARG1() 17:0-rel
+etri#doc_4914.txt 18 기대하다 ----- 1:1-ARG0(AGT) 14:4-ARGM-DIS() 17:2-ARG1() 18:0-rel

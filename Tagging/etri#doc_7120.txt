@@ -1,0 +1,4 @@
+etri#doc_7120.txt 4 이야기하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7120.txt 10 밝히다 ----- 1:1-ARGM-TMP() 4:3-ARGM-DIS() 9:2-ARGM-DIS() 10:0-rel
+etri#doc_7120.txt 12 파생되다 ----- 11:1-ARG2(SRC) 12:0-rel
+etri#doc_7120.txt 18 추려내다 ----- 10:3-ARGM-DIS() 17:4-ARG1(THM) 18:0-rel

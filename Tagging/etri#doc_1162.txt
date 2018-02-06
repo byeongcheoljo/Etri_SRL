@@ -1,0 +1,4 @@
+etri#doc_1162.txt 2 ´çÇÏ´Ù ----- 1:1-ARG2(Npr) 2:0-rel
+etri#doc_1162.txt 6 Á×´Ù ----- 5:1-ARGM-TMP() 6:0-rel
+etri#doc_1162.txt 9 »ì´Ù ----- 6:2-ARGM-TMP() 7:1-ARG1(LOC) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_1162.txt 11 Á×´Ù ----- 4:2-ARG0(THM) 9:2-ARGM-DIS() 10:1-ARGM-DIS() 11:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11799.txt 4 올리다 ----- 2:1-ARG0(AGT) 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_11799.txt 11 끼다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_11799.txt 14 후비다 ----- 9:3-ARGM-CAU(EFF) 12:3-ARG1(THM) 13:1-ARGM-INS(INS) 14:0-rel
+etri#doc_11799.txt 15 말다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_11799.txt 18 다가앉다 ----- 1:1-ARGM-TMP() 15:3-ARGM-DIS() 16:1-ARG0(AGT) 17:1-ARGM-DIR(DIR) 18:0-rel

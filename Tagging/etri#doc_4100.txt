@@ -1,0 +1,3 @@
+etri#doc_4100.txt 8 일구다 ----- 3:2-ARG0(AGT) 5:2-ARGM-DIS() 6:1-ARGM-EXT(FNS) 7:1-ARG1(THM) 8:0-rel
+etri#doc_4100.txt 16 들어오다 ----- 8:2-ARGM-EXT() 11:3-ARG3(GOL) 13:2-ARG0(AGT) 14:1-ARGM-ADV() 15:1-ARGM-MNR() 16:0-rel
+etri#doc_4100.txt 18 보다 ----- 18:0-rel

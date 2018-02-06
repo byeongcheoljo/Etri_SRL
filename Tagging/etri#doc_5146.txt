@@ -1,0 +1,2 @@
+etri#doc_5146.txt 4 키우다 ----- 2:2-ARG1(THM) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_5146.txt 8 모색되다 ----- 6:2-ARG1(THM) 7:1-ARGM-TMP() 8:0-rel

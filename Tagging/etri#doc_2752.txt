@@ -1,0 +1,4 @@
+etri#doc_2752.txt 2 존재하다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_2752.txt 11 변화하다 ----- 10:3-ARG3(GOL) 11:0-rel
+etri#doc_2752.txt 14 보이다 ----- 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_2752.txt 22 나타내다 ----- 5:3-ARGM-EXT(CRT) 6:1-ARGM-EXT() 7:1-ARG0(AGT) 11:4-ARGM-DIS() 21:2-ARG1(THM) 22:0-rel

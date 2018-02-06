@@ -1,0 +1,3 @@
+etri#doc_364.txt 5 È¥³»´Ù ----- 2:1-ARGM-TMP() 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_364.txt 7 ½×ÀÌ´Ù ----- 7:0-rel
+etri#doc_364.txt 8 ½×ÀÌ´Ù ----- 7:1-ARGM-DIS() 8:0-rel

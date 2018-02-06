@@ -1,0 +1,6 @@
+etri#doc_11246.txt 2 성장하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_11246.txt 3 먹다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_11246.txt 5 마주치다 ----- 4:1-ARG1(COM) 5:0-rel
+etri#doc_11246.txt 9 못하다 ----- 7:1-ARGM-MNR() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11246.txt 12 얽매다 ----- 9:2-ARGM-MNR() 11:2-ARGM-LOC(LOC) 12:0-rel
+etri#doc_11246.txt 13 지내다 ----- 3:3-ARGM-DIS() 5:2-ARGM-DIS() 6:1-ARGM-TMP() 12:3-ARGM-MNR() 13:0-rel

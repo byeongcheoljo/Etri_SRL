@@ -1,0 +1,4 @@
+etri#doc_4955.txt 4 벌이다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4955.txt 7 지켜보다 ----- 4:4-ARGM-DIS() 5:1-ARGM-MNR() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4955.txt 11 존재하다 ----- 9:1-ARG2(LOC) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_4955.txt 15 담다 ----- 13:2-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel

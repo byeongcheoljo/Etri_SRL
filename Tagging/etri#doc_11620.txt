@@ -1,0 +1,3 @@
+etri#doc_11620.txt 5 세우다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_11620.txt 6 실행하다 ----- 3:2-ARGM-LOC(LOC) 5:2-ARGM-DIS() 6:0-rel
+etri#doc_11620.txt 11 하다 ----- 1:1-ARGM-DIS() 6:3-ARG0() 10:4-ARGM-INS(INS) 11:0-rel

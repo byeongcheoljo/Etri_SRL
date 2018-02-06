@@ -1,0 +1,2 @@
+etri#doc_2407.txt 6 바꾸다 ----- 4:3-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_2407.txt 15 일구다 ----- 13:4-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel

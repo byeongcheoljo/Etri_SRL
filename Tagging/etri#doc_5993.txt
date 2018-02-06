@@ -1,0 +1,3 @@
+etri#doc_5993.txt 7 떨어지다 ----- 6:1-ARG2(SRC) 7:0-rel
+etri#doc_5993.txt 11 살아가다 ----- 5:1-ARG0(AGT) 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_5993.txt 14 증가하다 ----- 4:2-ARGM-MNR(COM) 12:5-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

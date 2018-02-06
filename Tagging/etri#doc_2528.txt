@@ -1,0 +1,3 @@
+etri#doc_2528.txt 5 상륙하다 ----- 2:2-ARGM-EXT() 3:1-ARG1(THM) 4:1-ARGM-INS(INS) 5:0-rel
+etri#doc_2528.txt 14 장악시키다 ----- 10:4-() 13:3-() 14:0-rel
+etri#doc_2528.txt 16 석권하다 ----- 6:3-() 14:4-() 15:1-() 16:0-rel

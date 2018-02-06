@@ -1,0 +1,5 @@
+etri#doc_6718.txt 4 잡다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_6718.txt 8 찾아오다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_6718.txt 13 돌보다 ----- 13:0-rel
+etri#doc_6718.txt 16 헐다 ----- 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:0-rel
+etri#doc_6718.txt 18 만들다 ----- 12:8-ARGM-DIS() 16:2-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

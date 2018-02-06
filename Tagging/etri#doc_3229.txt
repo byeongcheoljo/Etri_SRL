@@ -1,0 +1,3 @@
+etri#doc_3229.txt 5 개선하다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_3229.txt 7 마련되다 ----- 1:1-ARGM-CAU(EFF) 6:3-ARG1(THM) 7:0-rel
+etri#doc_3229.txt 14 남다 ----- 8:1-ARGM-TMP() 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel

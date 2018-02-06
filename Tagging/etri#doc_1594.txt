@@ -1,0 +1,1 @@
+etri#doc_1594.txt 11 ÀÌ²ø´Ù ----- 9:2-ARG1(THM) 10:1-ARG2(DIR) 11:0-rel

@@ -1,0 +1,2 @@
+etri#doc_1395.txt 6 잇다 ----- 3:3-ARGM-DIS() 5:2-ARG2(THM) 6:0-rel
+etri#doc_1395.txt 19 자리하다 ----- 10:4-ARG0(THM) 15:4-ARGM-DIS() 18:2-ARGM-LOC(LOC) 19:0-rel

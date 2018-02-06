@@ -1,0 +1,7 @@
+etri#doc_6764.txt 2 들어서다 ----- 1:1-ARG2(GOL) 2:0-rel
+etri#doc_6764.txt 5 가다 ----- 2:2-ARGM-DIS() 3:1-ARGM-EXT() 4:1-ARGM-NEG() 5:0-rel
+etri#doc_6764.txt 8 타다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_6764.txt 9 들어오다 ----- 6:1-ARG0(THM) 8:2-ARGM-DIS() 9:0-rel
+etri#doc_6764.txt 12 막히다 ----- 10:1-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_6764.txt 17 들리다 ----- 16:1-ARGM-MNR(INS) 17:0-rel
+etri#doc_6764.txt 20 곤두서다 ----- 5:2-ARGM-DIS() 15:2-ARGM-DIS() 18:3-ARG0(AGT) 19:1-ARG1(THM) 20:0-rel

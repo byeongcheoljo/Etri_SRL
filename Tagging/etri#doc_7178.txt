@@ -1,0 +1,6 @@
+etri#doc_7178.txt 3 만들다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7178.txt 5 새기다 ----- 3:2-ARGM-MNR() 4:1-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7178.txt 11 새기다 ----- 8:1-ARG0(AGT) 10:2-ARGM-LOC(LOC) 11:0-rel
+etri#doc_7178.txt 13 지나다 ----- 12:1-ARGM-TMP(LOC) 13:0-rel
+etri#doc_7178.txt 15 손상되다 ----- 11:3-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARGM-EXT() 15:0-rel
+etri#doc_7178.txt 17 발견되다 ----- 7:4-ARGM-DIS() 16:3-ARGM-PRD(INS) 17:0-rel

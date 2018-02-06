@@ -1,0 +1,3 @@
+etri#doc_11962.txt 3 되다 ----- 1:1-ARG1(THM) 2:1-ARGM-EXT(CRT) 3:0-rel
+etri#doc_11962.txt 10 배당하다 ----- 4:3-ARG0(AGT) 8:4-ARGM-ADV(EFF) 9:1-ARG1(THM) 10:0-rel
+etri#doc_11962.txt 14 떨어지다 ----- 10:2-ARGM-CAU() 11:1-ARG1(THM) 12:1-ARGM-EXT(CRT) 13:1-ARGM-EXT() 14:0-rel

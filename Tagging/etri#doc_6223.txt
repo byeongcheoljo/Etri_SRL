@@ -1,0 +1,6 @@
+etri#doc_6223.txt 5 저장되다 ----- 3:1-ARG2(LOC) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_6223.txt 7 하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_6223.txt 9 하다 ----- 5:2-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_6223.txt 11 지나다 ----- 10:1-ARG1(CRT) 11:0-rel
+etri#doc_6223.txt 12 사라지다 ----- 2:1-ARG1(THM) 9:2-ARGM-CND() 11:2-ARGM-DIS() 12:0-rel
+etri#doc_6223.txt 13 의미하다 ----- 1:1-ARG1(EFF) 12:3-ARG2() 13:0-rel

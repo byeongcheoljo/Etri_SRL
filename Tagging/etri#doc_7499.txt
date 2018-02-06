@@ -1,0 +1,6 @@
+etri#doc_7499.txt 6 하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_7499.txt 8 해제되다 ----- 3:2-ARGM-TMP(SRC) 7:4-ARG1(THM) 8:0-rel
+etri#doc_7499.txt 10 타다 ----- 9:6-ARG1(THM) 10:0-rel
+etri#doc_7499.txt 12 뛰어들다 ----- 11:1-ARGM-LOC(GOL) 12:0-rel
+etri#doc_7499.txt 14 침해하다 ----- 12:2-ARGM-MNR() 13:1-ARG2(THM) 14:0-rel
+etri#doc_7499.txt 16 늘어나다 ----- 10:7-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

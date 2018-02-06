@@ -1,0 +1,2 @@
+etri#doc_7465.txt 4 선택하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_7465.txt 13 차지하다 ----- 7:2-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel

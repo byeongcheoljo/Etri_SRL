@@ -1,0 +1,6 @@
+etri#doc_5500.txt 1 오다 ----- 1:0-rel
+etri#doc_5500.txt 8 나다 ----- 5:2-ARGM-CAU() 6:1-ARG2(LOC) 7:1-ARG1(Npr) 8:0-rel
+etri#doc_5500.txt 10 다치다 ----- 1:1-ARGM-DIS() 8:2-ARGM-CAU() 9:1-ARG1(EXP) 10:0-rel
+etri#doc_5500.txt 12 듣다 ----- 11:3-ARG1(THM) 12:0-rel
+etri#doc_5500.txt 15 놀라다 ----- 14:1-ARGM-MNR() 15:0-rel
+etri#doc_5500.txt 18 하다 ----- 12:4-ARGM-DIS() 13:1-ARG0() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

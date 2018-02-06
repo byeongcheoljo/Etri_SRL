@@ -1,0 +1,3 @@
+etri#doc_3205.txt 9 하다 ----- 1:1-ARG0(AGT) 5:3-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_3205.txt 13 향상시키다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3205.txt 20 나타나다 ----- 10:5-ARG1(THM) 19:5-ARG2(LOC) 20:0-rel

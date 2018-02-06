@@ -1,0 +1,2 @@
+etri#doc_2805.txt 3 비교하다 ----- 2:2-ARG2(COM) 3:0-rel
+etri#doc_2805.txt 14 추구하다 ----- 13:3-ARG1(THM) 14:0-rel

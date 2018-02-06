@@ -1,0 +1,1 @@
+etri#doc_7435.txt 8 го╢ы ----- 6:5-ARGM-MNR(INS) 7:1-ARG1(THM) 8:0-rel

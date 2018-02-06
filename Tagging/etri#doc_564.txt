@@ -1,0 +1,5 @@
+etri#doc_564.txt 2 부르다 ----- 1:1-ARG1() 2:0-rel
+etri#doc_564.txt 5 일하다 ----- 5:0-rel
+etri#doc_564.txt 8 맞추다 ----- 4:2-ARGM-INS(INS) 7:2-ARG1() 8:0-rel
+etri#doc_564.txt 12 합하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_564.txt 19 되다 ----- 10:2-ARGM-DIS() 12:2-ARGM-CAU() 15:3-ARGM-LOC(LOC) 17:2-ARGM-LOC(LOC) 18:1-ARG2(FNS) 19:0-rel

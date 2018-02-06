@@ -1,0 +1,5 @@
+etri#doc_5136.txt 2 보다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5136.txt 5 무너지다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_5136.txt 7 보이다 ----- 2:2-ARG0(EXP) 3:1-ARG1(THM) 6:3-ARGM-EXT(EFF) 7:0-rel
+etri#doc_5136.txt 12 이룩하다 ----- 8:1-ARGM-TMP() 11:3-ARG1(THM) 12:0-rel
+etri#doc_5136.txt 14 놀라다 ----- 12:4-ARGM-DIS() 13:1-ARG1(THM) 14:0-rel

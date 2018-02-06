@@ -1,0 +1,2 @@
+etri#doc_4481.txt 13 결탁하다 ----- 9:1-ARGM-TMP(LOC) 10:1-ARG0(AGT) 12:2-ARGM-MNR(COM) 13:0-rel
+etri#doc_4481.txt 16 증오하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(MAG) 3:1-ARGM-MNR(INS) 5:2-ARGM-PRD(EFF) 8:2-ARGM-DIS() 14:4-ARG1(THM) 15:1-ARGM-EXT() 16:0-rel

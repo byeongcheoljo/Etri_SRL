@@ -1,0 +1,3 @@
+etri#doc_549.txt 6 지니다 ----- 5:2-ARG0() 6:0-rel
+etri#doc_549.txt 8 밝히다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_549.txt 18 제시하다 ----- 3:3-ARG0(AGT) 8:5-ARGM-DIS() 17:3-ARG1(THM) 18:0-rel

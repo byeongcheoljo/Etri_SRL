@@ -1,0 +1,5 @@
+etri#doc_9972.txt 2 섞이다 ----- 1:1-ARG2(COM) 2:0-rel
+etri#doc_9972.txt 4 따라가다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_9972.txt 8 배우다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_9972.txt 11 마치다 ----- 9:1-ARG1(THM) 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_9972.txt 14 가지다 ----- 4:2-ARGM-CND() 8:4-ARGM-DIS() 11:2-ARGM-CND() 13:2-ARG1(THM) 14:0-rel

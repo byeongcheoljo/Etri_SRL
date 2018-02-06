@@ -1,0 +1,5 @@
+etri#doc_6158.txt 5 하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_6158.txt 8 적응하다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR(INS) 7:1-ARG2(LOC) 8:0-rel
+etri#doc_6158.txt 9 계속되다 ----- 9:0-rel
+etri#doc_6158.txt 11 경험하다 ----- 8:2-ARGM-DIS() 10:2-ARG2(THM) 11:0-rel
+etri#doc_6158.txt 15 유지하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 11:3-ARGM-TMP() 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

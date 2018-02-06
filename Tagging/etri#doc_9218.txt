@@ -1,0 +1,4 @@
+etri#doc_9218.txt 2 시작하다 ----- 1:1-ARGM-TMP(SRC) 2:0-rel
+etri#doc_9218.txt 7 잡다 ----- 5:2-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_9218.txt 10 보다 ----- 9:1-ARGM-TMP(LOC) 10:0-rel
+etri#doc_9218.txt 15 몰아닥치다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP(GOL) 8:3-ARGM-LOC(LOC) 13:3-ARG0(EFF) 14:1-ARGM-EXT() 15:0-rel

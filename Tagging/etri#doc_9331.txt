@@ -1,0 +1,2 @@
+etri#doc_9331.txt 5 여기다 ----- 3:1-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_9331.txt 13 보이다 ----- 2:2-ARG0(AGT) 8:3-ARGM-MNR(INS) 12:3-ARG1(THM) 13:0-rel

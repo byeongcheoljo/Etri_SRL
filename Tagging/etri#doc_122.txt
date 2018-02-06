@@ -1,0 +1,8 @@
+etri#doc_122.txt 2 얻다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_122.txt 7 다니다 ----- 7:0-rel
+etri#doc_122.txt 9 당하다 ----- 6:2-ARG3(CNT) 7:1-ARGM-DIS() 8:1-ARG2(THM) 9:0-rel
+etri#doc_122.txt 12 하다 ----- 4:4-ARGM-DIS() 9:2-ARGM-CND() 10:1-ARG0(AGT) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_122.txt 13 울먹이다 ----- 13:0-rel
+etri#doc_122.txt 14 하소연하다 ----- 12:2-ARG1(THM) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_122.txt 17 되다 ----- 16:1-ARG1() 17:0-rel
+etri#doc_122.txt 21 굶다 ----- 15:3-ARG1(AGT) 17:2-ARGM-DIS() 18:1-ARGM-TMP(SRC) 19:1-ARGM-TMP(GOL) 20:1-ARGM-TMP() 21:0-rel

@@ -1,0 +1,5 @@
+etri#doc_1390.txt 5 멸망되다 ----- 2:2-ARG0(THM) 3:1-ARGM-MNR() 4:1-ARGM-TMP(LOC) 5:0-rel
+etri#doc_1390.txt 8 버리다 ----- 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_1390.txt 10 거두다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1390.txt 11 돌아가다 ----- 8:2-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_1390.txt 17 들어오다 ----- 5:2-ARGM-DIS() 11:3-ARGM-DIS() 14:3-ARG0(LOC) 15:1-ARGM-EXT() 16:1-ARGM-LOC(LOC) 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_4246.txt 4 잇따르다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4246.txt 11 보다 ----- 10:4-ARGM-DIS() 11:0-rel
+etri#doc_4246.txt 14 작성하다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_4246.txt 20 건의하다 ----- 4:4-ARGM-DIS() 5:1-ARG0(AGT) 11:5-ARGM-DIS() 12:1-ARGM-TMP() 14:2-ARGM-DIS() 18:3-ARG1(THM) 19:1-ARG2(GOL) 20:0-rel

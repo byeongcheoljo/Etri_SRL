@@ -1,0 +1,2 @@
+etri#doc_9717.txt 5 하다 ----- 5:0-rel
+etri#doc_9717.txt 13 풀리다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel

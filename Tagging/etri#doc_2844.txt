@@ -1,0 +1,2 @@
+etri#doc_2844.txt 4 되다 ----- 4:0-rel
+etri#doc_2844.txt 13 되다 ----- 10:3-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel

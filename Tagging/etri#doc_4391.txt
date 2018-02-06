@@ -1,0 +1,4 @@
+etri#doc_4391.txt 3 맡다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_4391.txt 5 나타나다 ----- 1:1-ARG2(LOC) 4:3-ARG1(THM) 5:0-rel
+etri#doc_4391.txt 7 위탁하다 ----- 5:4-ARGM-CND() 6:1-ARG1(THM) 7:0-rel
+etri#doc_4391.txt 12 데리다 ----- 11:2-ARG1(THM) 12:0-rel

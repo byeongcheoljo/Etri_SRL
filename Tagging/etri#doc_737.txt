@@ -1,0 +1,2 @@
+etri#doc_737.txt 11 잃다 ----- 11:0-rel
+etri#doc_737.txt 12 전하다 ----- 8:1-ARGM-LOC(LOC) 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:1-ARGM-DIS() 12:0-rel

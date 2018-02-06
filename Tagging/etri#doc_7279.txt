@@ -1,0 +1,2 @@
+etri#doc_7279.txt 5 가다 ----- 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_7279.txt 20 지나치다 ----- 18:2-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

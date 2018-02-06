@@ -1,0 +1,2 @@
+etri#doc_350.txt 2 들다 ----- 1:1-ARGM-LOC(SRC) 2:0-rel
+etri#doc_350.txt 13 바치다 ----- 8:4-ARGM-LOC(LOC) 9:1-ARG0(AGT) 10:1-ARGM-EXT(COM) 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

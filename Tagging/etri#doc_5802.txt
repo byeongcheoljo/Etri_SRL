@@ -1,0 +1,4 @@
+etri#doc_5802.txt 4 넘기다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_5802.txt 6 남다 ----- 4:4-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5802.txt 10 깨지다 ----- 7:1-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5802.txt 16 바뀌다 ----- 6:2-ARGM-DIS() 12:2-ARG1(THM) 13:1-ARGM-DIS() 15:2-ARG2(FNS) 16:0-rel

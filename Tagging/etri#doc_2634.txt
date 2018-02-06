@@ -1,0 +1,4 @@
+etri#doc_2634.txt 4 미치다 ----- 3:2-ARG0(AGT) 4:0-rel
+etri#doc_2634.txt 10 작용하다 ----- 9:2-ARG0(AGT) 10:0-rel
+etri#doc_2634.txt 14 주다 ----- 13:1-ARG1(THM) 14:0-rel
+etri#doc_2634.txt 16 하다 ----- 12:2-ARGM-ADV(EFF) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

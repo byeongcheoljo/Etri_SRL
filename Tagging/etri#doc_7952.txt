@@ -1,0 +1,2 @@
+etri#doc_7952.txt 9 비교하다 ----- 8:3-ARG2(COM) 9:0-rel
+etri#doc_7952.txt 15 이루어지다 ----- 9:4-ARGM-TMP() 11:2-ARG1(THM) 14:2-ARGM-MNR() 15:0-rel

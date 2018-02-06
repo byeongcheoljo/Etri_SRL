@@ -1,0 +1,5 @@
+etri#doc_2019.txt 5 제기하다 ----- 3:1-ARG0(AGT) 4:1-ARG1(THM) 5:0-rel
+etri#doc_2019.txt 8 처리하다 ----- 2:1-ARG2(LOC) 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_2019.txt 12 거절하다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_2019.txt 13 받아들이다 ----- 12:3-ARG2() 13:0-rel
+etri#doc_2019.txt 17 생각하다 ----- 1:1-ARGM-DIS() 9:4-ARG0(AGT) 16:3-ARGM-DIS() 17:0-rel

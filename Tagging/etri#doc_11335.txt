@@ -1,0 +1,4 @@
+etri#doc_11335.txt 4 말미암다 ----- 3:1-ARGM-MNR(EFF) 4:0-rel
+etri#doc_11335.txt 7 대별되다 ----- 2:1-ARGM-DIS() 4:2-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_11335.txt 9 속하다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_11335.txt 14 갖다 ----- 12:2-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel

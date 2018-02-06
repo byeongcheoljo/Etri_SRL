@@ -1,0 +1,5 @@
+etri#doc_5766.txt 3 선발되다 ----- 1:1-ARGM-TMP() 2:1-ARGM-MNR() 3:0-rel
+etri#doc_5766.txt 7 제출하다 ----- 5:1-ARGM-TMP(GOL) 6:1-ARG1(THM) 7:0-rel
+etri#doc_5766.txt 9 개최되다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_5766.txt 12 참석하다 ----- 10:3-ARG1(LOC) 11:1-ARGM-DIS() 12:0-rel
+etri#doc_5766.txt 15 이수하다 ----- 4:3-ARG0(AGT) 7:2-ARGM-DIS() 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

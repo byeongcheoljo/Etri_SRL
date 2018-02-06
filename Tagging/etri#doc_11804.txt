@@ -1,0 +1,6 @@
+etri#doc_11804.txt 4 보이다 ----- 2:2-ARG1(THM) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11804.txt 6 자다 ----- 6:0-rel
+etri#doc_11804.txt 7 깨다 ----- 5:1-ARG0(AGT) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_11804.txt 8 알다 ----- 4:2-ARGM-CAU() 7:2-ARG1() 8:0-rel
+etri#doc_11804.txt 11 끼치다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_11804.txt 15 사로잡히다 ----- 8:3-ARGM-DIS() 9:1-ARG0(THM) 11:2-ARGM-EXT() 14:2-ARG1(EFF) 15:0-rel

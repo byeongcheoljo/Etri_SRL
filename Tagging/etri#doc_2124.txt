@@ -1,0 +1,4 @@
+etri#doc_2124.txt 6 추진되다 ----- 4:1-ARGM-TMP() 5:1-() 6:0-rel
+etri#doc_2124.txt 10 의식하다 ----- 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_2124.txt 13 나아가다 ----- 7:3-ARG0(AGT) 12:2-ARG3(DIR) 13:0-rel
+etri#doc_2124.txt 14 우려하다 ----- 1:1-ARG0() 3:2-ARGM-LOC(LOC) 13:3-ARGM-DIS() 14:0-rel

@@ -1,0 +1,6 @@
+etri#doc_2581.txt 5 삼키다 ----- 4:1-() 5:0-rel
+etri#doc_2581.txt 6 앉다 ----- 5:2-ARGM-DIS() 6:0-rel
+etri#doc_2581.txt 8 떨어지다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_2581.txt 11 당하다 ----- 6:3-ARGM-DIS() 8:2-ARGM-CND() 10:2-ARG2(THM) 11:0-rel
+etri#doc_2581.txt 16 내다 ----- 15:3-ARG1(THM) 16:0-rel
+etri#doc_2581.txt 18 받다 ----- 3:2-ARG0(AGT) 11:3-ARGM-DIS() 16:4-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel

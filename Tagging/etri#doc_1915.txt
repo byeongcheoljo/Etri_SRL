@@ -1,0 +1,7 @@
+etri#doc_1915.txt 3 생활하다 ----- 2:2-ARG2(LOC) 3:0-rel
+etri#doc_1915.txt 6 줄이다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1915.txt 8 요구하다 ----- 7:3-ARG1(THM) 8:0-rel
+etri#doc_1915.txt 10 건설하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_1915.txt 11 애쓰다 ----- 8:4-ARGM-DIS() 10:2-ARGM-PRP() 11:0-rel
+etri#doc_1915.txt 14 해결하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_1915.txt 15 투쟁하다 ----- 3:3-ARGM-CAU() 4:1-ARG0(AGT) 11:3-ARGM-DIS() 14:3-ARGM-PRP() 15:0-rel

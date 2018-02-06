@@ -1,0 +1,2 @@
+etri#doc_8906.txt 5 갖추다 ----- 3:2-ARG1(THM) 4:1-ARGM-MNR() 5:0-rel
+etri#doc_8906.txt 10 들다 ----- 6:3-ARG0(AGT) 7:1-ARGM-DIS() 9:2-ARGM-LOC(LOC) 10:0-rel

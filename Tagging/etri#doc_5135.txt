@@ -1,0 +1,3 @@
+etri#doc_5135.txt 2 되다 ----- 1:1-ARG2(FNS) 2:0-rel
+etri#doc_5135.txt 8 확인하다 ----- 4:4-ARG1(THM) 6:2-ARG0(AGT) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_5135.txt 11 심다 ----- 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:0-rel

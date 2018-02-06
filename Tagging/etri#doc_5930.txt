@@ -1,0 +1,4 @@
+etri#doc_5930.txt 12 대답하다 ----- 11:2-ARG1() 12:0-rel
+etri#doc_5930.txt 17 듣다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_5930.txt 19 되다 ----- 18:1-ARG2(FNS) 19:0-rel
+etri#doc_5930.txt 21 후회하다 ----- 17:3-ARGM-DIS() 19:2-ARG1() 20:1-ARGM-TMP(LOC) 21:0-rel

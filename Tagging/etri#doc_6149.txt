@@ -1,0 +1,4 @@
+etri#doc_6149.txt 9 판단하다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6149.txt 14 받다 ----- 12:2-ARG2(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_6149.txt 18 받다 ----- 7:3-ARG0(AGT) 15:3-ARGM-DIS() 16:1-ARGM-LOC(GOL) 17:1-ARG1(THM) 18:0-rel
+etri#doc_6149.txt 19 예측하다 ----- 1:1-ARGM-LOC() 18:2-ARG1() 19:0-rel

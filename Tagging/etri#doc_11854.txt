@@ -1,0 +1,5 @@
+etri#doc_11854.txt 6 쓰다 ----- 1:1-ARG0(AGT) 2:1-ARGM-LOC(LOC) 5:3-ARG1(THM) 6:0-rel
+etri#doc_11854.txt 9 보다 ----- 8:2-ARG0(AGT) 9:0-rel
+etri#doc_11854.txt 11 대하다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_11854.txt 16 내다 ----- 6:4-ARGM-DIS() 13:4-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_11854.txt 19 하다 ----- 16:3-ARGM-DIS() 17:1-ARG0(AGT) 18:1-ARG1(THM) 19:0-rel

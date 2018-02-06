@@ -1,0 +1,6 @@
+etri#doc_5223.txt 3 얽히다 ----- 2:1-ARGM-CAU(EFF) 3:0-rel
+etri#doc_5223.txt 6 받다 ----- 3:2-ARGM-DIS() 4:1-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_5223.txt 8 하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_5223.txt 9 나오다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_5223.txt 11 나오다 ----- 6:2-ARGM-DIS() 9:3-ARGM-DIS() 10:1-ARGM-MNR(INS) 11:0-rel
+etri#doc_5223.txt 15 우기다 ----- 1:1-ARG0(AGT) 13:4-ARGM-CAU() 14:1-ARGM-DIS() 15:0-rel

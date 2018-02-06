@@ -1,0 +1,5 @@
+etri#doc_8152.txt 3 보다 ----- 2:2-ARG1(FNS) 3:0-rel
+etri#doc_8152.txt 9 살다 ----- 5:2-ARG2(LOC) 6:1-ARGM-EXT() 8:2-ARG0(AGT) 9:0-rel
+etri#doc_8152.txt 10 짐작되다 ----- 3:3-ARGM-DIS() 9:3-ARG1() 10:0-rel
+etri#doc_8152.txt 17 등장하다 ----- 16:2-ARG1(THM) 17:0-rel
+etri#doc_8152.txt 18 보여주다 ----- 10:4-ARGM-DIS() 11:1-ARG0(EFF) 17:3-ARG1(THM) 18:0-rel

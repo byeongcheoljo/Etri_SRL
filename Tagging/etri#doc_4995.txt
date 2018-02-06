@@ -1,0 +1,4 @@
+etri#doc_4995.txt 4 생각하다 ----- 2:1-ARGM-MNR(INS) 3:1-ARGM-MNR() 4:0-rel
+etri#doc_4995.txt 8 부르다 ----- 1:1-ARG0(AGT) 4:2-ARGM-DIS() 6:2-ARGM-LOC(LOC) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4995.txt 14 밝히다 ----- 12:1-ARGM-MNR(INS) 13:1-ARG1(THM) 14:0-rel
+etri#doc_4995.txt 17 통일하다 ----- 11:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-DIS() 16:1-ARGM-MNR(INS) 17:0-rel

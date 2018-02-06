@@ -1,0 +1,4 @@
+etri#doc_5363.txt 3 기웃거리다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5363.txt 6 금하다 ----- 4:3-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_5363.txt 15 도전하다 ----- 14:2-ARGM-LOC(GOL) 15:0-rel
+etri#doc_5363.txt 18 나타나다 ----- 11:2-ARGM-DIS() 12:1-ARGM-TMP(LOC) 16:4-ARG1(THM) 17:1-ARG2(LOC) 18:0-rel

@@ -1,0 +1,3 @@
+etri#doc_7179.txt 5 파견하다 ----- 5:0-rel
+etri#doc_7179.txt 13 하다 ----- 12:1-ARG1(FNS) 13:0-rel
+etri#doc_7179.txt 15 다스리다 ----- 9:3-ARGM-DIS() 11:2-ARG1(THM) 14:3-ARG0(AGT) 15:0-rel

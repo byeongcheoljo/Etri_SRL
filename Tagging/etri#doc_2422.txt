@@ -1,0 +1,4 @@
+etri#doc_2422.txt 2 기입하다 ----- 2:0-rel
+etri#doc_2422.txt 5 상응하다 ----- 4:1-ARG2(LOC) 5:0-rel
+etri#doc_2422.txt 13 지급하다 ----- 12:2-ARGM-DIS() 13:0-rel
+etri#doc_2422.txt 16 종료되다 ----- 10:4-() 13:3-() 15:2-() 16:0-rel

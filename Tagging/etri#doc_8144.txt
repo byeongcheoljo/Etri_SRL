@@ -1,0 +1,1 @@
+etri#doc_8144.txt 18 Å¸´Ù ----- 7:4-ARGM-DIS() 13:2-ARGM-DIS() 14:1-ARG1(THM) 16:2-ARGM-CAU(EFF) 17:1-ARG2(EFF) 18:0-rel

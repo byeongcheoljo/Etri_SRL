@@ -1,0 +1,4 @@
+etri#doc_6067.txt 2 어울리다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_6067.txt 8 하다 ----- 8:0-rel
+etri#doc_6067.txt 10 깨닫다 ----- 9:2-ARG2(THM) 10:0-rel
+etri#doc_6067.txt 12 내세우다 ----- 10:3-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2056.txt 10 설명하다 ----- 8:2-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_2056.txt 16 인식하다 ----- 1:1-ARGM-DIS() 4:2-ARGM-DIS() 12:4-ARGM-ADV(EFF) 15:3-ARG1(THM) 16:0-rel

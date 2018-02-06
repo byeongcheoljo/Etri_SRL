@@ -1,0 +1,4 @@
+etri#doc_4823.txt 8 흔들다 ----- 6:2-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_4823.txt 13 가하다 ----- 8:2-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARGM-MNR() 11:1-ARG2(GOL) 12:1-ARG1(THM) 13:0-rel
+etri#doc_4823.txt 18 데리다 ----- 17:4-ARG1(THM) 18:0-rel
+etri#doc_4823.txt 19 도망치다 ----- 1:1-ARGM-DIS() 3:2-ARGM-LOC(LOC) 4:1-ARGM-TMP() 13:2-ARGM-DIS() 18:5-ARGM-DIS() 19:0-rel

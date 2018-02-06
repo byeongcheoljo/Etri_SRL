@@ -1,0 +1,6 @@
+etri#doc_5904.txt 3 어기다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5904.txt 7 사용하다 ----- 3:2-ARGM-DIS() 4:1-ARGM-MNR() 6:2-ARG1(THM) 7:0-rel
+etri#doc_5904.txt 14 흔들다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_5904.txt 16 실추시키다 ----- 11:2-ARGM-CAU() 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel
+etri#doc_5904.txt 19 묻다 ----- 18:4-ARG1(THM) 19:0-rel
+etri#doc_5904.txt 20 생각하다 ----- 1:1-ARG0(MAG) 19:5-ARG1() 20:0-rel

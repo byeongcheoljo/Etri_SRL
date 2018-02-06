@@ -1,0 +1,3 @@
+etri#doc_47.txt 6 청산하다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_47.txt 12 열다 ----- 6:6-ARGM-DIS() 10:4-ARG1(THM) 11:1-ARGM-REC(THM) 12:0-rel
+etri#doc_47.txt 17 열다 ----- 16:2-ARG1(THM) 17:0-rel

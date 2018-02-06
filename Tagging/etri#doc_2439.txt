@@ -1,0 +1,1 @@
+etri#doc_2439.txt 5 го╢ы ----- 1:1-ARG0(AGT) 2:1-ARGM-EXT() 4:2-ARG1(THM) 5:0-rel

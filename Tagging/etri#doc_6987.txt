@@ -1,0 +1,4 @@
+etri#doc_6987.txt 3 지나치다 ----- 2:2-ARG1(AGT) 3:0-rel
+etri#doc_6987.txt 9 초래하다 ----- 3:3-ARGM-CND() 8:5-ARG1(THM) 9:0-rel
+etri#doc_6987.txt 12 가다 ----- 10:1-ARGM-MNR() 11:1-ARG1(THM) 12:0-rel
+etri#doc_6987.txt 16 받다 ----- 14:1-ARG2(GOL) 15:1-ARG1(THM) 16:0-rel

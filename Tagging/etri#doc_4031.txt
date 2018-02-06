@@ -1,0 +1,2 @@
+etri#doc_4031.txt 5 연결시키다 ----- 1:1-ARG0(AGT) 4:3-ARG1(THM) 5:0-rel
+etri#doc_4031.txt 13 하다 ----- 5:4-ARGM-ADV() 6:1-ARG0(AGT) 9:3-ARG1(THM) 10:1-ARGM-MNR() 11:1-ARGM-TMP(LOC) 12:1-ARG1(THM) 13:0-rel

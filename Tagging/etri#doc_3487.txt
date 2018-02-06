@@ -1,0 +1,4 @@
+etri#doc_3487.txt 6 무너지다 ----- 2:2-ARGM-TMP() 3:1-ARG0(EFF) 4:1-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_3487.txt 8 흐르다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_3487.txt 10 커지다 ----- 6:2-ARGM-DIS() 8:2-ARGM-TMP() 9:1-ARG1(THM) 10:0-rel
+etri#doc_3487.txt 14 줄어들다 ----- 10:2-ARGM-DIS() 12:2-ARGM-CAU(CNT) 13:1-ARG1(THM) 14:0-rel

@@ -1,0 +1,6 @@
+etri#doc_5179.txt 6 되다 ----- 4:2-ARG1(THM) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_5179.txt 9 사랑하다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_5179.txt 11 베풀다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_5179.txt 12 말하다 ----- 6:2-ARGM-CND() 11:2-ARG1() 12:0-rel
+etri#doc_5179.txt 13 듣다 ----- 12:3-ARG1() 13:0-rel
+etri#doc_5179.txt 17 말하다 ----- 13:4-ARGM-CND() 16:3-ARG1(CNT) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11043.txt 2 내리다 ----- 1:1-ARGM-TMP() 2:0-rel
+etri#doc_11043.txt 13 내리다 ----- 4:4-ARG0(THM) 11:3-ARGM-TMP(LOC) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_11043.txt 15 이루다 ----- 13:2-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel
+etri#doc_11043.txt 19 흘러가다 ----- 18:1-ARGM-DIR(DIR) 19:0-rel
+etri#doc_11043.txt 22 없어지다 ----- 15:2-ARGM-DIS() 17:2-ARG1(THM) 19:2-ARGM-DIS() 21:2-ARGM-MNR(INS) 22:0-rel

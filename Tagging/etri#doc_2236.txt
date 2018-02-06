@@ -1,0 +1,6 @@
+etri#doc_2236.txt 1 도망가다 ----- 1:0-rel
+etri#doc_2236.txt 2 도망가다 ----- 2:0-rel
+etri#doc_2236.txt 4 머물다 ----- 1:1-ARGM-DIS() 2:1-ARGM-DIS() 3:1-ARGM-LOC(LOC) 4:0-rel
+etri#doc_2236.txt 8 머물다 ----- 5:1-() 7:2-() 8:0-rel
+etri#doc_2236.txt 12 표현하다 ----- 11:1-ARGM-PRD(EFF) 12:0-rel
+etri#doc_2236.txt 14 주다 ----- 9:4-ARG0() 10:1-ARGM-EXT() 13:3-ARG1(THM) 14:0-rel

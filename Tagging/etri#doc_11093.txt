@@ -1,0 +1,2 @@
+etri#doc_11093.txt 4 알리다 ----- 2:1-ARGM-TMP() 3:1-ARG1(CNT) 4:0-rel
+etri#doc_11093.txt 7 변모하다 ----- 4:2-ARGM-EXT() 6:2-ARG3(FNS) 7:0-rel

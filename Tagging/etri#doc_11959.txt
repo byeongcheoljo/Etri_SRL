@@ -1,0 +1,1 @@
+etri#doc_11959.txt 13 직결되다 ----- 3:3-ARGM-DIS() 4:1-ARGM-CAU() 7:3-ARG1(THM) 12:4-ARG2(COM) 13:0-rel

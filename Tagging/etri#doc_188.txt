@@ -1,0 +1,2 @@
+etri#doc_188.txt 10 보호하다 ----- 7:1-ARG0(AGT) 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_188.txt 19 차다 ----- 6:3-ARGM-TMP() 13:2-ARGM-CND() 15:2-ARG1(EXP) 16:1-ARGM-DIS() 17:1-ARG2(INS) 18:1-ARGM-EXT() 19:0-rel

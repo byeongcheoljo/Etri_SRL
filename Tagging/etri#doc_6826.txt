@@ -1,0 +1,5 @@
+etri#doc_6826.txt 3 나타내다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6826.txt 11 변화시키다 ----- 4:4-ARG0(EFF) 6:2-ARG2(SRC) 8:2-ARG3(GOL) 10:2-ARG1(THM) 11:0-rel
+etri#doc_6826.txt 12 행하다 ----- 12:0-rel
+etri#doc_6826.txt 14 대응시키다 ----- 11:3-ARGM-DIS() 13:2-ARGM-MNR(COM) 14:0-rel
+etri#doc_6826.txt 17 이해하다 ----- 14:3-ARGM-DIS() 16:2-ARG1(THM) 17:0-rel

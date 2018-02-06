@@ -1,0 +1,7 @@
+etri#doc_9983.txt 1 넘치다 ----- 1:0-rel
+etri#doc_9983.txt 9 바꾸다 ----- 8:5-ARG1(THM) 9:0-rel
+etri#doc_9983.txt 11 하다 ----- 9:6-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_9983.txt 13 모자라다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_9983.txt 15 치다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_9983.txt 17 맞추다 ----- 16:1-ARG2(THM) 17:0-rel
+etri#doc_9983.txt 19 흔들다 ----- 11:2-ARGM-DIS() 13:2-ARGM-DIS() 15:2-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

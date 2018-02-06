@@ -1,0 +1,4 @@
+etri#doc_11935.txt 5 확립하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11935.txt 9 등장하다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_11935.txt 13 되다 ----- 2:2-ARG1(THM) 5:3-ARGM-PRP() 7:2-ARGM-LOC(LOC) 12:3-ARG2(FNS) 13:0-rel
+etri#doc_11935.txt 15 분석하다 ----- 13:4-ARGM-MNR() 14:1-ARG0(AGT) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7021.txt 6 나다 ----- 4:2-ARGM-DIS() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7021.txt 9 고치다 ----- 6:2-ARGM-CND() 7:1-ARGM-EXT() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_7021.txt 14 작성하다 ----- 12:1-ARGM-LOC(LOC) 13:1-ARG1(THM) 14:0-rel
+etri#doc_7021.txt 17 고치다 ----- 1:1-ARGM-DIS() 10:3-ARGM-MNR(INS) 11:1-ARG0(AGT) 14:2-ARGM-CAU() 15:1-ARGM-EXT() 16:1-ARGM-MNR() 17:0-rel

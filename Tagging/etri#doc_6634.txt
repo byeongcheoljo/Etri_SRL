@@ -1,0 +1,2 @@
+etri#doc_6634.txt 7 인식하다 ----- 5:3-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_6634.txt 15 할애하다 ----- 1:1-ARGM-DIS() 8:3-ARG0(AGT) 10:2-ARG1(THM) 11:1-ARGM-EXT() 14:3-ARG2(LOC) 15:0-rel

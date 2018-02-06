@@ -1,0 +1,5 @@
+etri#doc_660.txt 3 체험하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_660.txt 5 하다 ----- 4:4-ARG1(FNS) 5:0-rel
+etri#doc_660.txt 10 알다 ----- 8:3-ARG1(THM) 9:1-ARGM-TMP() 10:0-rel
+etri#doc_660.txt 13 보이다 ----- 5:5-ARGM-CND() 10:2-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel
+etri#doc_660.txt 20 해석하다 ----- 13:3-ARGM-DIS() 15:2-ARG0(AGT) 17:2-ARG1(THM) 18:1-ARGM-EXT() 19:1-ARGM-MNR() 20:0-rel

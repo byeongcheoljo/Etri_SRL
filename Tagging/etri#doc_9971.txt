@@ -1,0 +1,4 @@
+etri#doc_9971.txt 6 가다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_9971.txt 10 듣다 ----- 9:2-ARGM-MNR() 10:0-rel
+etri#doc_9971.txt 13 두드리다 ----- 11:1-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_9971.txt 14 두드리다 ----- 14:0-rel

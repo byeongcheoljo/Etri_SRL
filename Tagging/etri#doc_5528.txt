@@ -1,0 +1,3 @@
+etri#doc_5528.txt 10 국한하다 ----- 3:3-ARG1(THM) 9:4-ARG2(LOC) 10:0-rel
+etri#doc_5528.txt 20 과대평가하다 ----- 17:3-ARGM-LOC(LOC) 19:2-ARG1(THM) 20:0-rel
+etri#doc_5528.txt 21 포함하다 ----- 11:6-ARG2(LOC) 12:1-ARGM-EXT() 20:3-ARG1() 21:0-rel

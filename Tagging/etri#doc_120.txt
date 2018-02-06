@@ -1,0 +1,2 @@
+etri#doc_120.txt 9 승리하다 ----- 6:2-ARG0(AGT) 8:2-ARGM-LOC(LOC) 9:0-rel
+etri#doc_120.txt 11 상고하다 ----- 9:3-ARGM-CAU() 10:1-ARGM-EXT() 11:0-rel

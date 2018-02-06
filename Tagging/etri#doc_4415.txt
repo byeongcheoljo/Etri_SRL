@@ -1,0 +1,3 @@
+etri#doc_4415.txt 8 짜다 ----- 7:3-ARG2(CRT) 8:0-rel
+etri#doc_4415.txt 10 벗다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_4415.txt 16 보이다 ----- 8:4-ARGM-DIS() 11:3-ARGM-TMP(LOC) 12:1-ARG0(AGT) 14:2-ARG0(AGT) 15:1-ARGM-MNR() 16:0-rel

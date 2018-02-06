@@ -1,0 +1,5 @@
+etri#doc_2499.txt 2 뛰다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_2499.txt 6 빠지다 ----- 5:1-ARG1(EFF) 6:0-rel
+etri#doc_2499.txt 10 저지르다 ----- 6:2-ARGM-DIS() 7:1-ARGM-EXT() 9:2-ARG1(THM) 10:0-rel
+etri#doc_2499.txt 12 보이다 ----- 3:3-() 4:1-() 11:4-() 12:0-rel
+etri#doc_2499.txt 17 걷다 ----- 12:5-ARGM-DIS() 13:1-ARGM-EXT() 15:2-ARGM-MNR(EFF) 16:1-ARGM-EXT() 17:0-rel

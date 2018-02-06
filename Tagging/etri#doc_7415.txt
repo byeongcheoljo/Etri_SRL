@@ -1,0 +1,6 @@
+etri#doc_7415.txt 3 들다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_7415.txt 5 보이다 ----- 4:1-ARG0(AGT) 5:0-rel
+etri#doc_7415.txt 10 걷다 ----- 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel
+etri#doc_7415.txt 13 타다 ----- 10:2-ARGM-DIS() 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel
+etri#doc_7415.txt 16 돌아오다 ----- 13:2-ARGM-DIS() 14:1-ARGM-MNR() 15:1-ARG3(GOL) 16:0-rel
+etri#doc_7415.txt 17 알다 ----- 3:3-ARGM-DIS() 6:3-ARGM-TMP() 7:1-ARG0(MAG) 16:2-ARGM-DIS() 17:0-rel

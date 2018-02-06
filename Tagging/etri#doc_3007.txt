@@ -1,0 +1,1 @@
+etri#doc_3007.txt 11 변화하다 ----- 7:2-ARGM-CAU(COM) 10:2-ARG1(THM) 11:0-rel

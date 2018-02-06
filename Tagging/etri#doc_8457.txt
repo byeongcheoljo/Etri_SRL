@@ -1,0 +1,5 @@
+etri#doc_8457.txt 5 발간하다 ----- 4:1-ARGM-TMP() 5:0-rel
+etri#doc_8457.txt 7 제출하다 ----- 3:1-ARG0(AGT) 5:2-ARGM-DIS() 6:1-ARG2(GOL) 7:0-rel
+etri#doc_8457.txt 10 분석하다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_8457.txt 12 나타나다 ----- 10:3-ARGM-DIS() 11:1-ARGM-EXT(EFF) 12:0-rel
+etri#doc_8457.txt 13 밝히다 ----- 1:1-ARGM-TMP() 2:1-ARG0(AGT) 12:2-ARG1() 13:0-rel

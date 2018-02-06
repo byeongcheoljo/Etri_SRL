@@ -1,0 +1,2 @@
+etri#doc_3447.txt 11 전제하다 ----- 10:2-ARG1() 11:0-rel
+etri#doc_3447.txt 20 주장하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-DIS(CNT) 11:3-ARGM-DIS() 19:4-ARG1() 20:0-rel

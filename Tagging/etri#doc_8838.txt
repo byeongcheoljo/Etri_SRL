@@ -1,0 +1,4 @@
+etri#doc_8838.txt 6 보다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARG0(AGT) 4:1-ARG1(THM) 5:1-ARGM-TMP() 6:0-rel
+etri#doc_8838.txt 9 벌어들이다 ----- 8:1-ARG0(AGT) 9:0-rel
+etri#doc_8838.txt 14 분배하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP() 10:3-ARG1(THM) 11:1-ARGM-TMP() 12:1-ARG2(GOL) 13:1-ARGM-MNR() 14:0-rel
+etri#doc_8838.txt 19 놀라다 ----- 14:2-ARGM-PRD() 15:1-ARG0(EFF) 17:2-ARG1(EXP) 18:1-ARGM-EXT() 19:0-rel

@@ -1,0 +1,6 @@
+etri#doc_2688.txt 4 벌다 ----- 3:1-ARGM-EXT() 4:0-rel
+etri#doc_2688.txt 9 얻다 ----- 9:0-rel
+etri#doc_2688.txt 10 마시다 ----- 8:2-ARGM-ADV() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_2688.txt 11 돌아오다 ----- 6:4-ARGM-DIS() 10:2-ARGM-DIS() 11:0-rel
+etri#doc_2688.txt 16 떨구다 ----- 1:1-() 2:1-() 11:3-() 12:1-() 14:2-() 15:1-() 16:0-rel
+etri#doc_2688.txt 18 생각하다 ----- 16:2-ARGM-DIS() 17:1-ARG0() 18:0-rel

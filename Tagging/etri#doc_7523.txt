@@ -1,0 +1,5 @@
+etri#doc_7523.txt 3 선정하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_7523.txt 7 논의하다 ----- 7:0-rel
+etri#doc_7523.txt 10 구상되다 ----- 4:3-ARGM-TMP(LOC) 6:2-ARGM-ADV(EFF) 8:2-ARG0(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_7523.txt 11 다루다 ----- 11:0-rel
+etri#doc_7523.txt 16 띠다 ----- 1:1-ARGM-DIS() 10:2-ARGM-DIS() 13:2-ARG0(AGT) 15:2-ARG1(THM) 16:0-rel

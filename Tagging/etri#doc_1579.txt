@@ -1,0 +1,4 @@
+etri#doc_1579.txt 4 막다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1579.txt 8 설치하다 ----- 1:1-ARG0(AGT) 5:4-ARGM-INS(INS) 7:2-ARG1(THM) 8:0-rel
+etri#doc_1579.txt 12 주도하다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1579.txt 14 되다 ----- 8:3-ARGM-DIS() 10:2-ARG1(THM) 13:3-ARG2(FNS) 14:0-rel

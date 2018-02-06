@@ -1,0 +1,4 @@
+etri#doc_11352.txt 4 이르다 ----- 3:3-ARG0(AGT) 4:0-rel
+etri#doc_11352.txt 9 들어서다 ----- 4:4-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_11352.txt 14 문지르다 ----- 11:1-ARGM-MNR(INS) 12:1-ARG1(THM) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_11352.txt 20 치다 ----- 10:5-ARG0(AGT) 14:2-ARGM-DIS() 16:2-ARGM-MNR(INS) 18:2-ARG1(THM) 19:1-ARGM-MNR() 20:0-rel

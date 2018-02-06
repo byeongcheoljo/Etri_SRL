@@ -1,0 +1,3 @@
+etri#doc_7321.txt 8 ¶¼´Ù ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_7321.txt 12 ¶¼´Ù ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7321.txt 16 °¡´Ù ----- 15:1-ARGM-LOC(GOL) 16:0-rel

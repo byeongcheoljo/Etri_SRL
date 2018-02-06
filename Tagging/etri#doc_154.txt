@@ -1,0 +1,1 @@
+etri#doc_154.txt 18 선전하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 4:2-ARGM-MNR(INS) 14:4-ARG1(THM) 17:3-ARGM-DIS() 18:0-rel

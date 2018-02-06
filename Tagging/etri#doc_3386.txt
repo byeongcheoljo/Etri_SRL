@@ -1,0 +1,2 @@
+etri#doc_3386.txt 13 달성하다 ----- 3:1-ARGM-TMP() 6:3-ARGM-TMP(LOC) 7:1-ARG0(AGT) 8:1-ARGM-PRD(FNS) 11:3-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_3386.txt 15 집계되다 ----- 2:2-ARGM-DIS(EFF) 13:2-ARG1() 14:1-ARGM-TMP() 15:0-rel

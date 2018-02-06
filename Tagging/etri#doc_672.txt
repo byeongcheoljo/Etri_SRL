@@ -1,0 +1,2 @@
+etri#doc_672.txt 13 판정하다 ----- 10:4-ARGM-DIR(DIR) 12:2-ARG1(THM) 13:0-rel
+etri#doc_672.txt 18 뒤지다 ----- 1:1-ARGM-DIS() 13:3-ARGM-CND() 14:1-ARG1(THM) 16:2-() 17:1-ARG2(CRT) 18:0-rel

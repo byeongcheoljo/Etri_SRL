@@ -1,0 +1,5 @@
+etri#doc_1739.txt 2 말하다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_1739.txt 6 생각하다 ----- 5:2-ARG0(MAG) 6:0-rel
+etri#doc_1739.txt 12 흔들다 ----- 11:1-ARGM-DIS() 12:0-rel
+etri#doc_1739.txt 14 꺼내다 ----- 13:1-ARGM-MNR(DIR) 14:0-rel
+etri#doc_1739.txt 15 집다 ----- 10:2-ARGM-MNR(DIR) 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel

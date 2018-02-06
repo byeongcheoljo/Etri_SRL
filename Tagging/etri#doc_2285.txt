@@ -1,0 +1,9 @@
+etri#doc_2285.txt 3 달성하다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_2285.txt 5 부인하다 ----- 4:3-ARG1(THM) 5:0-rel
+etri#doc_2285.txt 6 약하다 ----- 5:4-ARGM-DIS() 6:0-rel
+etri#doc_2285.txt 9 압도당하다 ----- 6:5-() 8:2-() 9:0-rel
+etri#doc_2285.txt 10 다가오다 ----- 10:0-rel
+etri#doc_2285.txt 12 예언하다 ----- 11:2-() 12:0-rel
+etri#doc_2285.txt 15 하다 ----- 12:3-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARG2() 15:0-rel
+etri#doc_2285.txt 16 수수방관하다 ----- 9:3-() 15:2-() 16:0-rel
+etri#doc_2285.txt 19 진정하다 ----- 19:0-rel

@@ -1,0 +1,1 @@
+etri#doc_8163.txt 13 ³ª´©´Ù ----- 1:1-ARG1(THM) 2:1-ARGM-EXT() 12:3-ARG2(FNS) 13:0-rel

@@ -1,0 +1,6 @@
+etri#doc_8528.txt 2 끝나다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_8528.txt 8 나오다 ----- 2:2-ARGM-DIS() 4:2-ARGM-MNR(COM) 6:2-ARG0(AGT) 7:1-ARG3(LOC) 8:0-rel
+etri#doc_8528.txt 12 끝나다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8528.txt 13 기다리다 ----- 12:2-ARG1() 13:0-rel
+etri#doc_8528.txt 15 챙기다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_8528.txt 17 일어나다 ----- 8:2-ARGM-CND() 10:2-ARG0(AGT) 13:3-ARGM-MNR() 15:2-ARGM-MNR() 16:1-ARG2(LOC) 17:0-rel

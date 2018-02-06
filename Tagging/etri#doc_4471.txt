@@ -1,0 +1,4 @@
+etri#doc_4471.txt 1 의심하다 ----- 1:0-rel
+etri#doc_4471.txt 3 묵인하다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_4471.txt 8 끊이다 ----- 8:0-rel
+etri#doc_4471.txt 15 비웃다 ----- 10:2-ARGM-DIS() 11:1-ARG0(AGT) 13:2-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5963.txt 3 제창하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5963.txt 18 기인하다 ----- 11:5-ARGM-CND() 12:1-ARG1(THM) 17:3-ARG2(SRC) 18:0-rel

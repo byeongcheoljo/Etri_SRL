@@ -1,0 +1,4 @@
+etri#doc_49.txt 6 대다 ----- 2:2-ARGM-DIS() 4:2-ARG1() 5:1-ARGM-ADV(THM) 6:0-rel
+etri#doc_49.txt 9 죽다 ----- 9:0-rel
+etri#doc_49.txt 10 사다 ----- 6:2-ARGM-ADV() 8:2-ARG4() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_49.txt 16 만들다 ----- 10:2-ARGM-DIS() 12:2-ARG0(THM) 13:1-ARG0(THM) 14:1-ARG1(THM) 15:1-ARGM-ADV() 16:0-rel

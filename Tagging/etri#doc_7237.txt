@@ -1,0 +1,4 @@
+etri#doc_7237.txt 2 들다 ----- 1:1-ARGM-LOC(GOL) 2:0-rel
+etri#doc_7237.txt 7 합류하다 ----- 5:1-ARG0(AGT) 6:1-ARGM-LOC(GOL) 7:0-rel
+etri#doc_7237.txt 8 하다 ----- 7:2-ARGM-TMP() 8:0-rel
+etri#doc_7237.txt 16 들리다 ----- 4:2-ARGM-DIS() 8:3-ARGM-DIS() 9:1-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

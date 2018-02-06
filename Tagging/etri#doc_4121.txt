@@ -1,0 +1,5 @@
+etri#doc_4121.txt 3 나오다 ----- 2:2-ARGM-MNR() 3:0-rel
+etri#doc_4121.txt 9 기울이다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4121.txt 11 배다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_4121.txt 16 하다 ----- 6:3-ARGM-DIS() 7:1-ARGM-MNR() 12:3-ARG1(THM) 15:3-ARG1(CNT) 16:0-rel
+etri#doc_4121.txt 19 쓰다 ----- 16:4-ARGM-TMP() 17:1-ARGM-MNR() 18:1-ARG2(LOC) 19:0-rel

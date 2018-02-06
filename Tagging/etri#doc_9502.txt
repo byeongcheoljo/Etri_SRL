@@ -1,0 +1,4 @@
+etri#doc_9502.txt 3 빚다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG1(THM) 3:0-rel
+etri#doc_9502.txt 5 지나다 ----- 5:0-rel
+etri#doc_9502.txt 9 강행하다 ----- 4:3-ARG0(AGT) 6:2-ARGM-TMP() 8:2-ARG1(THM) 9:0-rel
+etri#doc_9502.txt 11 확산되다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel

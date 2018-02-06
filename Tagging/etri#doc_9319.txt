@@ -1,0 +1,3 @@
+etri#doc_9319.txt 6 끌다 ----- 3:2-ARG0(AGT) 5:2-ARG1(THM) 6:0-rel
+etri#doc_9319.txt 12 제시하다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARG1(THM) 11:2-ARGM-MNR(INS) 12:0-rel
+etri#doc_9319.txt 18 되살아나다 ----- 7:4-ARG1(THM) 13:4-ARGM-MNR(INS) 16:2-ARG1(THM) 17:1-ARGM-EXT() 18:0-rel

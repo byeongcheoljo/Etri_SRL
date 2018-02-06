@@ -1,0 +1,5 @@
+etri#doc_1989.txt 5 제치다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1989.txt 8 떠오르다 ----- 2:1-ARG0(AGT) 5:3-ARGM-DIS() 7:2-ARG2(FNS) 8:0-rel
+etri#doc_1989.txt 15 강화되다 ----- 1:1-ARGM-DIS() 8:3-ARGM-TMP() 13:2-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_1989.txt 19 두다 ----- 18:2-ARG1(THM) 19:0-rel
+etri#doc_1989.txt 22 굴하다 ----- 15:2-ARGM-DIS() 16:1-ARG0(AGT) 19:3-ARGM-DIS() 20:1-ARGM-TMP() 21:1-ARG1(EFF) 22:0-rel

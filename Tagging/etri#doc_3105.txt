@@ -1,0 +1,3 @@
+etri#doc_3105.txt 9 파악하다 ----- 8:2-ARGM-DIS() 9:0-rel
+etri#doc_3105.txt 11 곤두세우다 ----- 9:3-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_3105.txt 17 태우다 ----- 15:3-ARGM-CAU() 16:1-ARG1(THM) 17:0-rel

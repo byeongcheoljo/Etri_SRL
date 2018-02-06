@@ -1,0 +1,4 @@
+etri#doc_7552.txt 7 하다 ----- 5:4-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7552.txt 11 지배하다 ----- 7:2-ARGM-DIS() 8:1-ARG1(THM) 10:2-ARG0(AGT) 11:0-rel
+etri#doc_7552.txt 12 변화시키다 ----- 11:3-ARGM-MNR() 12:0-rel
+etri#doc_7552.txt 16 출현하다 ----- 1:1-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

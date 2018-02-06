@@ -1,0 +1,2 @@
+etri#doc_6341.txt 13 하다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR(INS) 13:0-rel
+etri#doc_6341.txt 22 포함되다 ----- 1:1-ARGM-DIS() 17:4-ARGM-DIS() 19:2-ARGM-LOC(LOC) 21:2-ARG1(THM) 22:0-rel

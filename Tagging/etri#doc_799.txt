@@ -1,0 +1,5 @@
+etri#doc_799.txt 2 섭취하다 ----- 1:1-ARGM-INS(INS) 2:0-rel
+etri#doc_799.txt 9 가지다 ----- 6:2-ARG0(AGT) 8:2-ARG1(THM) 9:0-rel
+etri#doc_799.txt 15 만들다 ----- 11:1-ARG0(AGT) 13:2-ARGM-INS(INS) 14:1-ARG1(THM) 15:0-rel
+etri#doc_799.txt 17 미루다 ----- 16:3-ARGM-INS(INS) 17:0-rel
+etri#doc_799.txt 18 의심하다 ----- 10:4-ARG1(THM) 17:4-ARGM-CAU() 18:0-rel

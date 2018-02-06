@@ -1,0 +1,5 @@
+etri#doc_11724.txt 5 찍다 ----- 3:1-ARGM-INS(INS) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_11724.txt 7 넘어가다 ----- 2:1-ARG1(THM) 5:2-ARGM-DIS() 6:1-ARGM-TMP() 7:0-rel
+etri#doc_11724.txt 10 지니다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_11724.txt 15 하다 ----- 12:1-ARG1(THM) 13:1-ARGM-EXT(CRT) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_11724.txt 17 넘어가다 ----- 1:1-ARGM-DIS() 7:2-ARGM-DIS() 11:4-ARG1(THM) 15:2-ARGM-DIS() 16:1-ARGM-EXT() 17:0-rel

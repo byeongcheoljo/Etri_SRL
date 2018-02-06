@@ -1,0 +1,3 @@
+etri#doc_3847.txt 3 전력투구하다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_3847.txt 8 하다 ----- 6:1-ARG0(AGT) 7:1-ARGM-PRP(PUR) 8:0-rel
+etri#doc_3847.txt 11 되다 ----- 4:4-ARG1(THM) 5:1-ARGM-MNR() 10:2-ARG2(FNS) 11:0-rel

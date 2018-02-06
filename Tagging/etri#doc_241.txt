@@ -1,0 +1,5 @@
+etri#doc_241.txt 3 누설하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_241.txt 5 보다 ----- 3:2-ARGM-CAU() 4:1-ARG1() 5:0-rel
+etri#doc_241.txt 12 하다 ----- 9:2-ARGM-CND() 10:1-ARGM-LOC(LOC) 11:1-ARGM-NEG() 12:0-rel
+etri#doc_241.txt 14 하다 ----- 13:3-ARG1(THM) 14:0-rel
+etri#doc_241.txt 15 일어나다 ----- 14:4-ARGM-CAU() 15:0-rel

@@ -1,0 +1,2 @@
+etri#doc_5752.txt 5 대하다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_5752.txt 16 기도하다 ----- 13:1-ARGM-EXT(CRT) 15:2-ARGM-MNR() 16:0-rel

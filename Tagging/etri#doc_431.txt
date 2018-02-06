@@ -1,0 +1,4 @@
+etri#doc_431.txt 4 하다 ----- 3:3-ARG2(CNT) 4:0-rel
+etri#doc_431.txt 5 말하다 ----- 5:0-rel
+etri#doc_431.txt 11 생기다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_431.txt 17 갖다 ----- 9:4-ARGM-DIS() 12:3-ARGM-CAU(EFF) 13:1-ARGM-DIS() 14:1-ARGM-LOC(LOC) 15:1-ARG0(AGT) 16:1-ARG1(THM) 17:0-rel

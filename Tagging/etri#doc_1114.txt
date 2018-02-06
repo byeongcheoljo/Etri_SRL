@@ -1,0 +1,2 @@
+etri#doc_1114.txt 9 발견하다 ----- 3:2-ARGM-LOC(LOC) 8:2-ARG1(THM) 9:0-rel
+etri#doc_1114.txt 18 알다 ----- 9:3-ARGM-DIS() 11:2-ARGM-LOC(LOC) 17:5-ARG1(THM) 18:0-rel

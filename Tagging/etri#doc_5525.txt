@@ -1,0 +1,4 @@
+etri#doc_5525.txt 6 설정하다 ----- 6:0-rel
+etri#doc_5525.txt 7 해결하다 ----- 2:2-ARG1(THM) 5:2-ARGM-LOC(LOC) 6:1-ARGM-DIS() 7:0-rel
+etri#doc_5525.txt 9 행하다 ----- 8:3-ARG1(THM) 9:0-rel
+etri#doc_5525.txt 16 발생하다 ----- 9:4-ARGM-CND() 14:2-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

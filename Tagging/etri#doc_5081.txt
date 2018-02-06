@@ -1,0 +1,5 @@
+etri#doc_5081.txt 2 말씀드리다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_5081.txt 7 살다 ----- 4:1-ARG0(THM) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_5081.txt 10 보다 ----- 9:2-ARG0(AGT) 10:0-rel
+etri#doc_5081.txt 15 행세하다 ----- 7:3-ARGM-DIS() 11:4-ARGM-LOC(LOC) 14:2-ARGM-EXT(EFF) 15:0-rel
+etri#doc_5081.txt 23 생각하다 ----- 2:2-ARGM-DIS() 22:6-ARG1() 23:0-rel

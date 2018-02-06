@@ -1,0 +1,2 @@
+etri#doc_8175.txt 13 연결되다 ----- 2:2-ARG1(THM) 8:4-ARGM-DIS() 9:1-ARG1(THM) 12:2-ARG2(LOC) 13:0-rel
+etri#doc_8175.txt 14 두말하다 ----- 13:3-ARG1() 14:0-rel

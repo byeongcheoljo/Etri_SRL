@@ -1,0 +1,2 @@
+etri#doc_4938.txt 10 품다 ----- 9:1-ARG0(AGT) 10:0-rel
+etri#doc_4938.txt 17 하다 ----- 8:2-ARG0(AGT) 13:2-ARGM-ADV(EFF) 14:1-ARGM-EXT() 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_2036.txt 9 ¥¿≥¢¥Ÿ ----- 3:1-ARG0(EXP) 4:1-ARGM-LOC(LOC) 7:3-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_2036.txt 13 ¡¶»ﬁ«œ¥Ÿ ----- 9:2-ARGM-MNR() 11:2-ARGM-MNR(INS) 12:1-ARG2(LOC) 13:0-rel
+etri#doc_2036.txt 15 ∂Ê«œ¥Ÿ ----- 2:2-ARG1(THM) 14:3-ARGM-MNR(FNS) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8399.txt 4 인정하다 ----- 2:1-ARGM-LOC(LOC) 3:1-ARGM-MNR(INS) 4:0-rel
+etri#doc_8399.txt 6 보다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_8399.txt 13 앞지르다 ----- 11:4-ARG1(THM) 12:1-ARGM-DIS() 13:0-rel
+etri#doc_8399.txt 18 공부하다 ----- 17:4-ARG0(AGT) 18:0-rel

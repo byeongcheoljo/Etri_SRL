@@ -1,0 +1,5 @@
+etri#doc_2831.txt 2 만발하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2831.txt 5 가꾸다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2831.txt 10 자랑하다 ----- 2:2-ARGM-DIS() 3:1-ARGM-LOC(LOC) 6:3-ARG0(AGT) 7:1-() 9:2-ARG1(THM) 10:0-rel
+etri#doc_2831.txt 13 안되다 ----- 12:1-ARG2(CRT) 13:0-rel
+etri#doc_2831.txt 16 도착하다 ----- 10:3-ARGM-TMP() 11:1-ARG1(AGT) 14:3-ARGM-MNR(COM) 15:1-ARG3(GOL) 16:0-rel

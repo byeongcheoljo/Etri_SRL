@@ -1,0 +1,4 @@
+etri#doc_4849.txt 6 보상하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_4849.txt 8 강구하다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_4849.txt 12 하다 ----- 8:5-ARGM-DIS() 9:1-ARG0(AGT) 10:1-ARGM-MNR(COM) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4849.txt 15 보다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:3-ARGM-ADV(EFF) 14:1-ARG1(THM) 15:0-rel

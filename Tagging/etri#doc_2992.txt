@@ -1,0 +1,9 @@
+etri#doc_2992.txt 3 하다 ----- 1:1-ARGM-EXT(CNT) 2:1-ARG1() 3:0-rel
+etri#doc_2992.txt 5 생각하다 ----- 4:1-ARGM-MNR() 5:0-rel
+etri#doc_2992.txt 7 말다 ----- 7:0-rel
+etri#doc_2992.txt 8 서다 ----- 6:1-ARGM-DIS() 7:1-ARGM-DIS() 8:0-rel
+etri#doc_2992.txt 10 늙다 ----- 10:0-rel
+etri#doc_2992.txt 12 하다 ----- 12:0-rel
+etri#doc_2992.txt 14 눈여겨보다 ----- 8:2-ARGM-DIS() 9:1-ARGM-MNR() 13:2-ARG1(THM) 14:0-rel
+etri#doc_2992.txt 16 듣다 ----- 15:4-ARG0(AGT) 16:0-rel
+etri#doc_2992.txt 17 하다 ----- 16:5-ARGM-DIS() 17:0-rel

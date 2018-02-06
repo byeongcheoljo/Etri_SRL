@@ -1,0 +1,6 @@
+etri#doc_4449.txt 3 재현하다 ----- 2:2-ARG1(AGT) 3:0-rel
+etri#doc_4449.txt 6 둘러메다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_4449.txt 9 내리다 ----- 8:1-ARG2(LOC) 9:0-rel
+etri#doc_4449.txt 12 내리다 ----- 10:1-ARGM-TMP() 11:1-ARG0(THM) 12:0-rel
+etri#doc_4449.txt 15 지나다 ----- 14:4-ARG1(LOC) 15:0-rel
+etri#doc_4449.txt 17 건너다 ----- 7:3-ARG0(AGT) 9:2-ARGM-DIS() 15:5-ARGM-DIS() 16:1-ARG1(LOC) 17:0-rel

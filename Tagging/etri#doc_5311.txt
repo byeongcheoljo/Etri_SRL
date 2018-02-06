@@ -1,0 +1,4 @@
+etri#doc_5311.txt 4 상승하다 ----- 2:2-ARGM-CAU(EFF) 3:1-ARGM-EXT() 4:0-rel
+etri#doc_5311.txt 9 진정되다 ----- 7:1-ARG1(THM) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_5311.txt 11 나타내다 ----- 5:3-ARG0(EFF) 6:1-ARGM-TMP(SRC) 10:3-ARG1(THM) 11:0-rel
+etri#doc_5311.txt 17 지속하다 ----- 11:4-ARGM-DIS() 12:1-ARG0(AGT) 13:1-ARGM-TMP() 16:3-ARG1(THM) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_3082.txt 2 시작되다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_3082.txt 6 포함하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_3082.txt 8 기소하다 ----- 3:3-ARGM-LOC(LOC) 7:4-ARG1(THM) 8:0-rel
+etri#doc_3082.txt 13 주도하다 ----- 10:2-ARGM-TMP() 11:1-ARGM-TMP() 12:1-ARG1(THM) 13:0-rel
+etri#doc_3082.txt 18 발휘하다 ----- 8:5-ARGM-DIS() 14:3-ARGM-LOC(LOC) 16:2-ARG1(THM) 17:1-ARGM-MNR(INS) 18:0-rel

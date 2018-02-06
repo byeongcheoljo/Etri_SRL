@@ -1,0 +1,4 @@
+etri#doc_9930.txt 4 걸다 ----- 2:1-ARG2(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_9930.txt 9 쏟다 ----- 4:2-ARGM-CAU() 6:2-ARG2(GOL) 8:2-ARG1(THM) 9:0-rel
+etri#doc_9930.txt 12 누리다 ----- 9:3-ARGM-MNR() 11:2-ARG1(THM) 12:0-rel
+etri#doc_9930.txt 13 살다 ----- 13:0-rel

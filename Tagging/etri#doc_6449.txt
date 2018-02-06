@@ -1,0 +1,3 @@
+etri#doc_6449.txt 3 하다 ----- 3:0-rel
+etri#doc_6449.txt 8 듣다 ----- 7:1-ARG0(MAG) 8:0-rel
+etri#doc_6449.txt 17 하다 ----- 14:5-ARG1(THM) 15:1-ARG0(AGT) 16:1-ARGM-TMP() 17:0-rel

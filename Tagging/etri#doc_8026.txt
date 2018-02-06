@@ -1,0 +1,2 @@
+etri#doc_8026.txt 2 나타나다 ----- 1:1-ARGM-DIS(CNT) 2:0-rel
+etri#doc_8026.txt 9 밝히다 ----- 3:3-ARG1(THM) 5:2-ARGM-TMP() 8:3-ARGM-LOC(LOC) 9:0-rel

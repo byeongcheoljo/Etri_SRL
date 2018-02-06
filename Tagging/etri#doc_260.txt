@@ -1,0 +1,2 @@
+etri#doc_260.txt 19 동화시키다 ----- 19:0-rel
+etri#doc_260.txt 20 통합하다 ----- 9:2-ARGM-DIS() 12:2-ARGM-LOC(LOC) 13:1-ARGM-EXT() 18:3-ARG1(THM) 19:1-ARGM-DIS() 20:0-rel

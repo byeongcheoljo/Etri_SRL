@@ -1,0 +1,5 @@
+etri#doc_11134.txt 1 목욕하다 ----- 1:0-rel
+etri#doc_11134.txt 2 좋아하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11134.txt 6 갈다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP() 5:2-ARG1(THM) 6:0-rel
+etri#doc_11134.txt 15 계속되다 ----- 13:1-ARGM-TMP() 14:1-ARGM-MNR() 15:0-rel
+etri#doc_11134.txt 17 여기다 ----- 10:3-ARG0(MAG) 12:2-ARG0(MAG) 16:3-ARGM-MNR(INS) 17:0-rel

@@ -1,0 +1,1 @@
+etri#doc_7730.txt 12 Ä¡´Ù ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR(INS) 9:2-ARG0(AGT) 10:1-ARGM-EXT() 11:1-ARG1(THM) 12:0-rel

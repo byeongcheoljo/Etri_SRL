@@ -1,0 +1,4 @@
+etri#doc_4455.txt 7 ³î¶ó´Ù ----- 4:1-ARG0(EXP) 6:2-ARGM-MNR() 7:0-rel
+etri#doc_4455.txt 10 ÇÏ´Ù ----- 7:3-ARGM-CAU() 8:1-ARG1(THM) 9:1-ARGM-MNR() 10:0-rel
+etri#doc_4455.txt 16 Áþ´Ù ----- 12:4-ARGM-DIS() 15:3-ARG1(Npr) 16:0-rel
+etri#doc_4455.txt 17 ¸»ÇÏ´Ù ----- 1:1-ARGM-DIS() 2:1-ARGM-TMP() 3:1-ARG0(AGT) 16:4-ARGM-DIS() 17:0-rel

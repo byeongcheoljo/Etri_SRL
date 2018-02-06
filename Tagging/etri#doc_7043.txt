@@ -1,0 +1,3 @@
+etri#doc_7043.txt 6 저해하다 ----- 3:3-ARG1(EFF) 5:2-ARG2(THM) 6:0-rel
+etri#doc_7043.txt 13 개발되다 ----- 12:1-ARGM-CAU(EFF) 13:0-rel
+etri#doc_7043.txt 18 보여주다 ----- 16:5-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel

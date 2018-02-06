@@ -1,0 +1,4 @@
+etri#doc_4576.txt 4 유지하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4576.txt 11 약속하다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_4576.txt 15 반복하다 ----- 4:3-ARGM-PRP() 8:4-ARGM-CND() 9:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-EXT(EFF) 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_4576.txt 17 피력하다 ----- 1:1-ARG0(AGT) 16:3-ARG1(THM) 17:0-rel

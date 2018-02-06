@@ -1,0 +1,5 @@
+etri#doc_9872.txt 2 두다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9872.txt 6 자라다 ----- 4:1-ARG0(AGT) 5:1-ARGM-EXT() 6:0-rel
+etri#doc_9872.txt 10 피다 ----- 6:2-ARGM-DIS() 7:1-ARGM-TMP() 8:1-ARGM-TMP() 9:1-ARG1(THM) 10:0-rel
+etri#doc_9872.txt 14 받다 ----- 11:3-ARG2(GOL) 12:1-ARGM-TMP() 13:1-ARGM-NEG() 14:0-rel
+etri#doc_9872.txt 16 지다 ----- 3:3-ARG0(AGT) 14:2-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

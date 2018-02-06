@@ -1,0 +1,3 @@
+etri#doc_616.txt 6 내놓다 ----- 4:1-ARG1(THM) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_616.txt 11 받들다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_616.txt 14 호소하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 8:4-ARGM-CAU() 9:1-ARGM-MNR() 12:3-ARGM-INS(INS) 13:1-ARG2(GOL) 14:0-rel

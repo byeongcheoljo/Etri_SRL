@@ -1,0 +1,3 @@
+etri#doc_5516.txt 6 지적하다 ----- 5:2-ARG0(AGT) 6:0-rel
+etri#doc_5516.txt 14 발생하다 ----- 14:0-rel
+etri#doc_5516.txt 17 갖다 ----- 2:2-ARG0(AGT) 3:1-ARGM-DIS() 6:3-ARGM-DIS() 13:3-ARGM-LOC(LOC) 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

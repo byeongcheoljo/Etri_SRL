@@ -1,0 +1,1 @@
+etri#doc_2705.txt 10 연구하다 ----- 8:3-ARG1(THM) 9:1-ARGM-MNR(INS) 10:0-rel

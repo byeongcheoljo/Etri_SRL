@@ -1,0 +1,2 @@
+etri#doc_7113.txt 9 상실하다 ----- 3:3-ARG0(EXP) 4:1-ARGM-INS(INS) 5:1-ARGM-MNR() 8:2-ARG1(THM) 9:0-rel
+etri#doc_7113.txt 18 되다 ----- 9:3-ARGM-DIS() 14:5-ARG1(THM) 17:2-ARG2(FNS) 18:0-rel

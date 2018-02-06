@@ -1,0 +1,4 @@
+etri#doc_919.txt 8 싣다 ----- 6:2-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_919.txt 10 타다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_919.txt 14 지나다 ----- 13:3-ARGM-DIR(THM) 14:0-rel
+etri#doc_919.txt 21 차다 ----- 18:4-ARG2(THM) 19:1-ARG1() 20:1-ARGM-EXT() 21:0-rel

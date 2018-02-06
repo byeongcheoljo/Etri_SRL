@@ -1,0 +1,3 @@
+etri#doc_11895.txt 2 대표하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11895.txt 11 넘기다 ----- 10:1-ARG3(GOL) 11:0-rel
+etri#doc_11895.txt 14 남기다 ----- 5:2-ARGM-CAU() 7:2-ARG0(AGT) 9:2-ARG1(THM) 11:2-ARGM-DIS() 12:1-ARGM-MNR(INS) 13:1-ARG2(LOC) 14:0-rel

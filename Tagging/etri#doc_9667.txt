@@ -1,0 +1,5 @@
+etri#doc_9667.txt 4 후퇴하다 ----- 3:1-ARGM-DIS() 4:0-rel
+etri#doc_9667.txt 9 악화시키다 ----- 7:2-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_9667.txt 11 지키다 ----- 5:3-ARGM-LOC(LOC) 9:2-ARGM-EXT(CRT) 10:1-ARG1(THM) 11:0-rel
+etri#doc_9667.txt 16 모색하다 ----- 11:2-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel
+etri#doc_9667.txt 19 취하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 18:2-ARG1(THM) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_3532.txt 4 동행하다 ----- 2:2-ARGM-LOC(GOL) 3:1-ARG0(AGT) 4:0-rel
+etri#doc_3532.txt 10 돌아보다 ----- 9:4-ARG1(LOC) 10:0-rel
+etri#doc_3532.txt 11 오다 ----- 11:0-rel
+etri#doc_3532.txt 13 귀국하다 ----- 4:2-ARGM-DIS() 10:5-ARGM-DIS() 12:2-ARGM-TMP() 13:0-rel

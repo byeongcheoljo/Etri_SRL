@@ -1,0 +1,2 @@
+etri#doc_3940.txt 3 기여하다 ----- 2:2-ARG1(GOL) 3:0-rel
+etri#doc_3940.txt 6 헤아리다 ----- 4:4-ARG0() 5:1-ARG1(THM) 6:0-rel

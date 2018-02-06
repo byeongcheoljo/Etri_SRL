@@ -1,0 +1,2 @@
+etri#doc_157.txt 8 차다 ----- 7:1-ARG0(AGT) 8:0-rel
+etri#doc_157.txt 11 일다 ----- 6:3-ARGM-DIS() 9:3-ARGM-CAU(GOL) 10:1-ARG1(AGT) 11:0-rel

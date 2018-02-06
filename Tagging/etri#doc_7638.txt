@@ -1,0 +1,1 @@
+etri#doc_7638.txt 5 ¼­´Ù ----- 1:1-ARG0(AGT) 4:3-ARGM-LOC(LOC) 5:0-rel

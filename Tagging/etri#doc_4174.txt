@@ -1,0 +1,3 @@
+etri#doc_4174.txt 9 짓다 ----- 7:1-ARG1(THM) 8:1-ARGM-DIR(DIR) 9:0-rel
+etri#doc_4174.txt 11 좁혀지다 ----- 9:2-ARGM-TMP() 10:1-ARGM-EXT(FNS) 11:0-rel
+etri#doc_4174.txt 16 적용되다 ----- 6:4-ARG1(THM) 11:2-ARGM-DIS() 13:2-ARGM-CND() 15:2-ARG1(THM) 16:0-rel

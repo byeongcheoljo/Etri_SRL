@@ -1,0 +1,3 @@
+etri#doc_7977.txt 8 대항하다 ----- 7:1-ARG1(GOL) 8:0-rel
+etri#doc_7977.txt 13 되찾다 ----- 8:2-ARGM-MNR() 10:2-ARGM-LOC(LOC) 12:2-ARG1(THM) 13:0-rel
+etri#doc_7977.txt 17 생겨나다 ----- 6:3-ARG1(THM) 16:2-ARGM-LOC(SRC) 17:0-rel

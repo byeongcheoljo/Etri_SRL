@@ -1,0 +1,3 @@
+etri#doc_3652.txt 3 들어서다 ----- 2:1-ARGM-TMP() 3:0-rel
+etri#doc_3652.txt 11 생기다 ----- 1:1-ARG1(THM) 3:2-ARGM-TMP() 9:6-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_3652.txt 17 늘어나다 ----- 11:2-ARGM-DIS() 16:5-ARG1(THM) 17:0-rel

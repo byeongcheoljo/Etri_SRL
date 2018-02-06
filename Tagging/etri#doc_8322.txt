@@ -1,0 +1,4 @@
+etri#doc_8322.txt 3 지속되다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_8322.txt 8 물들이다 ----- 7:1-ARGM-MNR() 8:0-rel
+etri#doc_8322.txt 11 탈색하다 ----- 9:3-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8322.txt 17 확산되다 ----- 15:2-ARGM-CAU() 16:1-ARGM-LOC(GOL) 17:0-rel

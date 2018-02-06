@@ -1,0 +1,4 @@
+etri#doc_7654.txt 1 돌이키다 ----- 1:0-rel
+etri#doc_7654.txt 4 얼룩지다 ----- 2:1-ARG1(THM) 3:1-ARG2(INS) 4:0-rel
+etri#doc_7654.txt 7 멍들다 ----- 4:2-ARGM-DIS() 5:1-ARG0(EXP) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7654.txt 13 끝나다 ----- 1:1-ARGM-DIS() 7:2-ARGM-DIS() 9:2-ARG1(THM) 10:1-ARGM-MNR(INS) 11:1-ARGM-MNR() 12:1-ARG2(FNS) 13:0-rel

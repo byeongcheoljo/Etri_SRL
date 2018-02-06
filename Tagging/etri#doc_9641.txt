@@ -1,0 +1,4 @@
+etri#doc_9641.txt 3 쫓기다 ----- 2:1-ARG1(AGT) 3:0-rel
+etri#doc_9641.txt 5 기웃거리다 ----- 1:1-ARGM-TMP() 4:3-ARG0(AGT) 5:0-rel
+etri#doc_9641.txt 14 재편성하다 ----- 11:2-ARG1(THM) 13:2-ARG3(FNS) 14:0-rel
+etri#doc_9641.txt 16 착수하다 ----- 7:2-ARGM-LOC(LOC) 8:1-ARG0(AGT) 15:4-ARG1(LOC) 16:0-rel

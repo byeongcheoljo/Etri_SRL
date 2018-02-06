@@ -1,0 +1,5 @@
+etri#doc_2560.txt 6 보이다 ----- 3:2-() 4:1-() 5:1-() 6:0-rel
+etri#doc_2560.txt 9 만들다 ----- 6:2-ARGM-DIS() 8:2-ARG1(THM) 9:0-rel
+etri#doc_2560.txt 13 만들다 ----- 10:1-ARGM-TMP(EFF) 11:1-ARG0(AGT) 12:1-ARGM-PRP(EFF) 13:0-rel
+etri#doc_2560.txt 18 만들다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_2560.txt 20 되다 ----- 9:3-ARGM-DIS() 15:2-ARG1() 19:3-ARG1(AGT) 20:0-rel

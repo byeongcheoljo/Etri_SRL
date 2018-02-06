@@ -1,0 +1,5 @@
+etri#doc_8471.txt 6 강화하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8471.txt 7 요청하다 ----- 2:1-ARG0(AGT) 3:1-ARG2(GOL) 6:3-ARG1() 7:0-rel
+etri#doc_8471.txt 8 알려지다 ----- 7:4-ARG1() 8:0-rel
+etri#doc_8471.txt 11 둘러싸다 ----- 10:1-ARG1(LOC) 11:0-rel
+etri#doc_8471.txt 14 계속되다 ----- 1:1-ARGM-DIS() 8:5-ARGM-DIS() 9:1-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel

@@ -1,0 +1,5 @@
+etri#doc_2971.txt 2 들여다보다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2971.txt 9 물어보다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP() 4:1-ARG2(GOL) 7:2-ARG1() 8:1-ARGM-MNR() 9:0-rel
+etri#doc_2971.txt 11 만나다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_2971.txt 15 알아차리다 ----- 9:2-ARGM-DIS() 13:2-ARG1(THM) 14:1-ARGM-TMP() 15:0-rel
+etri#doc_2971.txt 16 쩔쩔매다 ----- 15:2-ARGM-CAU() 16:0-rel

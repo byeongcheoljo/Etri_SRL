@@ -1,0 +1,2 @@
+etri#doc_987.txt 10 소유하다 ----- 9:3-ARG0(AGT) 10:0-rel
+etri#doc_987.txt 14 도외시하다 ----- 6:2-ARGM-LOC(LOC) 13:3-ARG1(THM) 14:0-rel

@@ -1,0 +1,3 @@
+etri#doc_1948.txt 4 이용하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_1948.txt 8 꾀하다 ----- 4:2-ARGM-DIS() 7:3-ARG1(THM) 8:0-rel
+etri#doc_1948.txt 16 이루어지다 ----- 15:2-ARG1(THM) 16:0-rel

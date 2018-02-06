@@ -1,0 +1,2 @@
+etri#doc_8422.txt 22 불허하다 ----- 21:3-ARG1(THM) 22:0-rel
+etri#doc_8422.txt 27 일치하다 ----- 13:4-ARGM-DIS() 14:1-ARG1(THM) 15:1-ARGM-MNR() 26:4-ARGM-LOC() 27:0-rel

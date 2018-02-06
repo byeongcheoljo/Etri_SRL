@@ -1,0 +1,2 @@
+etri#doc_1311.txt 11 형성되다 ----- 8:2-ARGM-CAU(EFF) 10:2-ARG1(THM) 11:0-rel
+etri#doc_1311.txt 17 보다 ----- 15:4-ARGM-DIS() 16:1-ARG0(AGT) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_293.txt 2 먹다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_293.txt 6 가지다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_293.txt 13 좋아하다 ----- 12:1-ARGM-EXT() 13:0-rel
+etri#doc_293.txt 15 먹다 ----- 14:1-ARGM-EXT() 15:0-rel
+etri#doc_293.txt 17 얻다 ----- 10:3-ARG1(THM) 11:1-ARG0(AGT) 13:2-ARGM-CAU() 15:2-ARGM-DIS() 16:1-ARGM-LOC(GOL) 17:0-rel

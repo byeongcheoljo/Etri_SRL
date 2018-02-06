@@ -1,0 +1,4 @@
+etri#doc_1727.txt 3 ¶ì´Ù ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_1727.txt 7 µ¤´Ù ----- 5:1-ARG2(THM) 6:1-ARGM-EXT() 7:0-rel
+etri#doc_1727.txt 9 °¨½Î´Ù ----- 4:4-ARG0(THM) 7:2-ARGM-DIS() 8:1-ARG1(THM) 9:0-rel
+etri#doc_1727.txt 13 ¶ì´Ù ----- 12:2-ARG1(THM) 13:0-rel

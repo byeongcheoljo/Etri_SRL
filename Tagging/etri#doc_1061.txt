@@ -1,0 +1,2 @@
+etri#doc_1061.txt 4 되다 ----- 2:1-ARGM-TMP() 3:1-ARG2(THM) 4:0-rel
+etri#doc_1061.txt 6 걱정하다 ----- 5:3-ARG1(THM) 6:0-rel

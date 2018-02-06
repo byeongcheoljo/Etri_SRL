@@ -1,0 +1,4 @@
+etri#doc_2148.txt 3 들어가다 ----- 2:1-ARG0(THM) 3:0-rel
+etri#doc_2148.txt 8 끓이다 ----- 6:1-() 7:1-() 8:0-rel
+etri#doc_2148.txt 11 날아가다 ----- 8:2-ARGM-CND() 9:1-ARG0() 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2148.txt 18 배다 ----- 5:4-() 11:2-() 16:2-() 17:1-() 18:0-rel

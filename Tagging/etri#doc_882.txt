@@ -1,0 +1,6 @@
+etri#doc_882.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_882.txt 10 떠나다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_882.txt 12 얻다 ----- 8:3-ARGM-TMP() 10:2-ARGM-TMP() 11:1-ARG2(SRC) 12:0-rel
+etri#doc_882.txt 15 생각하다 ----- 5:1-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_882.txt 18 차다 ----- 16:1-ARG1(THM) 17:1-ARGM-MNR() 18:0-rel
+etri#doc_882.txt 20 중얼거리다 ----- 3:3-ARGM-DIS() 4:1-ARG0(AGT) 15:3-ARGM-DIS() 18:2-ARGM-DIS() 19:1-ARGM-INS(INS) 20:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4514.txt 9 굽다 ----- 7:1-ARG0(AGT) 8:1-ARGM-LOC(LOC) 9:0-rel
+etri#doc_4514.txt 12 자원하다 ----- 10:1-ARG0(AGT) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4514.txt 14 대하다 ----- 13:3-ARGM-DIS() 14:0-rel
+etri#doc_4514.txt 18 부르다 ----- 16:1-ARGM-LOC(LOC) 17:1-ARG1(THM) 18:0-rel
+etri#doc_4514.txt 19 고마워하다 ----- 6:3-ARGM-DIS() 9:2-ARGM-DIS() 14:4-ARGM-ADV() 15:1-ARG0(MAG) 18:2-ARGM-DIS() 19:0-rel

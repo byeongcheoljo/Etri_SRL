@@ -1,0 +1,2 @@
+etri#doc_7058.txt 6 붙이다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_7058.txt 18 살피다 ----- 6:5-ARGM-DIS() 14:3-ARGM-MNR(INS) 15:1-ARGM-TMP(SRC) 16:1-ARGM-TMP(GOL) 17:1-ARG1(THM) 18:0-rel

@@ -1,0 +1,4 @@
+etri#doc_7122.txt 10 가지다 ----- 7:5-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_7122.txt 12 단결하다 ----- 11:1-ARGM-EXT() 12:0-rel
+etri#doc_7122.txt 15 물리치다 ----- 12:2-ARGM-MNR() 14:2-ARG1(THM) 15:0-rel
+etri#doc_7122.txt 17 가지다 ----- 1:1-ARGM-DIS() 10:3-ARGM-DIS() 16:4-ARG1(THM) 17:0-rel

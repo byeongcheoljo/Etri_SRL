@@ -1,0 +1,2 @@
+etri#doc_2726.txt 7 갖다 ----- 1:1-ARG0(THM) 3:2-ARG2(FNS) 4:1-ARG0(AGT) 6:2-ARG1(THM) 7:0-rel
+etri#doc_2726.txt 10 말하다 ----- 9:1-ARG0(AGT) 10:0-rel

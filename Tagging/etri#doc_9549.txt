@@ -1,0 +1,2 @@
+etri#doc_9549.txt 4 장악하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_9549.txt 13 의존하다 ----- 2:2-ARG0(THM) 4:2-ARGM-TMP() 5:1-ARGM-MNR(INS) 11:3-ARGM-PRP(PUR) 12:1-ARG1(GOL) 13:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6908.txt 3 보다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6908.txt 6 더하다 ----- 4:1-ARG1(SRC) 5:1-ARG2(GOL) 6:0-rel
+etri#doc_6908.txt 10 풀다 ----- 8:2-ARG1() 9:1-ARGM-MNR() 10:0-rel
+etri#doc_6908.txt 13 알다 ----- 3:3-ARGM-DIS() 12:4-ARG1(THM) 13:0-rel
+etri#doc_6908.txt 19 풀다 ----- 16:3-ARG1(THM) 18:2-ARGM-DIS() 19:0-rel
+etri#doc_6908.txt 22 나다 ----- 21:5-ARG1(Npr) 22:0-rel

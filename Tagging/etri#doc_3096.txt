@@ -1,0 +1,5 @@
+etri#doc_3096.txt 5 모으다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_3096.txt 8 불리다 ----- 5:2-ARGM-DIS() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_3096.txt 11 등장하다 ----- 3:3-ARGM-LOC(LOC) 10:2-ARG1(AGT) 11:0-rel
+etri#doc_3096.txt 18 벗어나다 ----- 17:2-ARGM-LOC(SRC) 18:0-rel
+etri#doc_3096.txt 19 도망하다 ----- 11:3-ARGM-DIS() 15:4-ARG0(AGT) 18:3-ARGM-CAU() 19:0-rel

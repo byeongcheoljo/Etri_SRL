@@ -1,0 +1,6 @@
+etri#doc_5685.txt 5 멈추다 ----- 4:1-ARGM-EXT() 5:0-rel
+etri#doc_5685.txt 9 두리번거리다 ----- 7:4-ARGM-MNR(INS) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5685.txt 11 달려오다 ----- 10:1-ARG2(SRC) 11:0-rel
+etri#doc_5685.txt 13 멈칫거리다 ----- 13:0-rel
+etri#doc_5685.txt 15 넘어서다 ----- 14:1-ARG2(LOC) 15:0-rel
+etri#doc_5685.txt 16 서다 ----- 9:2-ARGM-TMP() 12:3-ARG0(THM) 13:1-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

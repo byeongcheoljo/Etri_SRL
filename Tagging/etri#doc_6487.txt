@@ -1,0 +1,3 @@
+etri#doc_6487.txt 8 이룩하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_6487.txt 13 나타나다 ----- 12:2-ARGM-CAU(EFF) 13:0-rel
+etri#doc_6487.txt 17 해결하다 ----- 16:2-ARG1(THM) 17:0-rel

@@ -1,0 +1,3 @@
+etri#doc_6696.txt 7 벌이다 ----- 5:2-ARG1(COM) 6:1-ARG1(THM) 7:0-rel
+etri#doc_6696.txt 13 사로잡다 ----- 11:1-ARGM-LOC(LOC) 12:1-ARG1(THM) 13:0-rel
+etri#doc_6696.txt 15 올리다 ----- 1:1-ARGM-DIS() 9:2-ARGM-DIS() 10:1-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

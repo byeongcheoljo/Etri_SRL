@@ -1,0 +1,2 @@
+etri#doc_9232.txt 13 드러내다 ----- 10:2-ARGM-EXT(CRT) 11:1-ARGM-EXT(CRT) 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_9232.txt 14 떠다니다 ----- 1:1-ARG1(THM) 8:2-ARGM-PRD(EFF) 13:2-ARGM-DIS() 14:0-rel

@@ -1,0 +1,2 @@
+etri#doc_7756.txt 6 서술하다 ----- 1:1-ARGM-MNR() 2:1-ARGM-DIS() 4:2-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_7756.txt 13 보이다 ----- 12:4-ARG1() 13:0-rel

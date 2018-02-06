@@ -1,0 +1,2 @@
+etri#doc_3133.txt 9 가득차다 ----- 8:2-ARG2(INS) 9:0-rel
+etri#doc_3133.txt 17 언급되다 ----- 3:3-ARGM-LOC(LOC) 9:3-ARGM-DIS() 15:2-ARG1(THM) 16:1-ARGM-NEG() 17:0-rel

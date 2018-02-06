@@ -1,0 +1,6 @@
+etri#doc_4117.txt 5 묻다 ----- 4:4-ARG1(THM) 5:0-rel
+etri#doc_4117.txt 7 맞다 ----- 7:0-rel
+etri#doc_4117.txt 8 그리다 ----- 5:5-ARGM-DIS() 6:1-ARGM-MNR() 7:1-ARGM-MNR() 8:0-rel
+etri#doc_4117.txt 9 틀리다 ----- 9:0-rel
+etri#doc_4117.txt 15 대하다 ----- 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:1-ARGM-MNR() 15:0-rel
+etri#doc_4117.txt 16 알다 ----- 11:3-ARGM-DIS() 15:2-ARGM-DIS() 16:0-rel

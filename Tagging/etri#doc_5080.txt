@@ -1,0 +1,5 @@
+etri#doc_5080.txt 3 굽히다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_5080.txt 4 성공하다 ----- 3:2-ARGM-CND() 4:0-rel
+etri#doc_5080.txt 7 강조하다 ----- 5:4-ARG1(THM) 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_5080.txt 14 받아들이다 ----- 7:2-ARGM-CND() 8:1-ARGM-MNR() 9:1-ARG0(AGT) 11:2-ARG1(THM) 13:2-ARGM-MNR() 14:0-rel
+etri#doc_5080.txt 16 들다 ----- 15:4-ARG1(THM) 16:0-rel

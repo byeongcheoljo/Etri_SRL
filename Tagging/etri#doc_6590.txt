@@ -1,0 +1,2 @@
+etri#doc_6590.txt 9 나오다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_6590.txt 18 알리다 ----- 17:5-ARG1(THM) 18:0-rel

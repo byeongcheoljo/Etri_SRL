@@ -1,0 +1,3 @@
+etri#doc_4737.txt 5 하다 ----- 2:2-ARGM-ADV(EFF) 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_4737.txt 14 설명하다 ----- 12:3-ARG1(THM) 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_4737.txt 18 붙이다 ----- 5:3-ARGM-DIS() 6:1-ARGM-DIS() 14:2-ARGM-DIS() 16:2-ARG2(GOL) 17:1-ARG1(THM) 18:0-rel

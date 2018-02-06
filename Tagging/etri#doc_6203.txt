@@ -1,0 +1,2 @@
+etri#doc_6203.txt 9 대립되다 ----- 3:1-ARGM-ADV(CNT) 8:2-ARG0(THM) 9:0-rel
+etri#doc_6203.txt 11 하다 ----- 2:2-ARG1(THM) 10:4-ARG1(CNT) 11:0-rel

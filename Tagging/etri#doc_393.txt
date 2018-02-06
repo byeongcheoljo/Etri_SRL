@@ -1,0 +1,2 @@
+etri#doc_393.txt 5 기거하다 ----- 5:0-rel
+etri#doc_393.txt 20 보이다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 19:5-ARG1(FNS) 20:0-rel

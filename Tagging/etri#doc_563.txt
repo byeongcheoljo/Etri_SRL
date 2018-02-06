@@ -1,0 +1,6 @@
+etri#doc_563.txt 3 하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_563.txt 7 운반하다 ----- 5:2-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_563.txt 9 하다 ----- 3:2-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel
+etri#doc_563.txt 12 모이다 ----- 11:1-ARG0(THM) 12:0-rel
+etri#doc_563.txt 16 벌이다 ----- 10:5-ARGM-DIS() 12:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel
+etri#doc_563.txt 20 부르다 ----- 1:1-ARG0(AGT) 16:3-ARGM-TMP() 19:3-ARG1(THM) 20:0-rel

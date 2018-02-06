@@ -1,0 +1,4 @@
+etri#doc_2807.txt 6 지키다 ----- 2:1-ARGM-LOC(LOC) 4:2-ARG1(THM) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_2807.txt 10 받아들이다 ----- 8:1-ARG0(AGT) 9:1-ARG3(FNS) 10:0-rel
+etri#doc_2807.txt 13 제시하다 ----- 7:3-ARGM-ADV(CNT) 12:2-ARG1(THM) 13:0-rel
+etri#doc_2807.txt 14 보다 ----- 1:1-ARG1(THM) 13:3-ARG1() 14:0-rel

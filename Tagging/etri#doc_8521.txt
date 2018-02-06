@@ -1,0 +1,3 @@
+etri#doc_8521.txt 8 좋아하다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8521.txt 11 하다 ----- 10:5-ARGM-DIS() 11:0-rel
+etri#doc_8521.txt 14 좋아하다 ----- 11:6-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel

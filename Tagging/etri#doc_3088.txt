@@ -1,0 +1,5 @@
+etri#doc_3088.txt 5 받다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_3088.txt 9 날아오다 ----- 5:2-ARGM-DIS() 6:1-ARGM-MNR(INS) 7:1-ARGM-MNR() 8:1-ARGM-DIR(DIR) 9:0-rel
+etri#doc_3088.txt 13 부르다 ----- 10:1-ARG0(AGT) 12:2-ARGM-DIS() 13:0-rel
+etri#doc_3088.txt 15 만나다 ----- 9:2-ARGM-DIS() 14:4-ARG1(THM) 15:0-rel
+etri#doc_3088.txt 16 돌아가다 ----- 15:5-ARGM-DIS() 16:0-rel

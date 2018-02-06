@@ -1,0 +1,3 @@
+etri#doc_1974.txt 4 상하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_1974.txt 10 벗어나다 ----- 9:3-ARG1(SRC) 10:0-rel
+etri#doc_1974.txt 16 따르다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 13:3-ARGM-CAU() 15:2-ARG1(THM) 16:0-rel

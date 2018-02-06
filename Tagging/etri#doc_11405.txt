@@ -1,0 +1,4 @@
+etri#doc_11405.txt 4 먹다 ----- 2:1-ARG0(AGT) 3:1-ARG1(THM) 4:0-rel
+etri#doc_11405.txt 6 내놓다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_11405.txt 11 밝히다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11405.txt 20 제기하다 ----- 1:1-ARGM-DIS() 6:4-ARGM-TMP() 11:3-ARGM-CND() 19:2-ARG1(THM) 20:0-rel

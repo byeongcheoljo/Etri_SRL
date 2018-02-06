@@ -1,0 +1,6 @@
+etri#doc_4427.txt 4 조절하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_4427.txt 7 고르다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4427.txt 11 외출하다 ----- 7:3-ARGM-DIS() 10:3-ARG3(GOL) 11:0-rel
+etri#doc_4427.txt 19 하다 ----- 14:2-ARGM-DIS() 17:3-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel
+etri#doc_4427.txt 21 발산하다 ----- 19:2-ARGM-DIS() 20:1-ARGM-MNR() 21:0-rel
+etri#doc_4427.txt 23 이르다 ----- 2:2-ARG0(AGT) 22:3-ARG1(THM) 23:0-rel

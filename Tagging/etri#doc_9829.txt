@@ -1,0 +1,6 @@
+etri#doc_9829.txt 2 서두르다 ----- 1:1-ARGM-EXT() 2:0-rel
+etri#doc_9829.txt 6 내다 ----- 5:1-ARG1(Npr) 6:0-rel
+etri#doc_9829.txt 7 흥분하다 ----- 2:2-ARGM-CAU() 4:2-ARG0(EXP) 6:2-ARGM-DIS() 7:0-rel
+etri#doc_9829.txt 10 빼다 ----- 8:1-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_9829.txt 13 흥분하다 ----- 13:0-rel
+etri#doc_9829.txt 17 행동하다 ----- 7:3-ARGM-DIS() 10:2-ARGM-TMP() 16:2-ARGM-MNR() 17:0-rel

@@ -1,0 +1,4 @@
+etri#doc_6724.txt 3 ¡„¥Ÿ ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6724.txt 7 ∫∏¥Ÿ ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_6724.txt 12 ∫∏¥Ÿ ----- 8:1-ARG0(AGT) 10:2-ARGM-MNR(INS) 11:1-ARG1(THM) 12:0-rel
+etri#doc_6724.txt 13 ∞°¥∆«œ¥Ÿ ----- 7:3-ARGM-DIS() 12:2-ARG1() 13:0-rel

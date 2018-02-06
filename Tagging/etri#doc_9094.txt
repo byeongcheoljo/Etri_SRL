@@ -1,0 +1,6 @@
+etri#doc_9094.txt 3 체험하다 ----- 2:1-ARG0(EXP) 3:0-rel
+etri#doc_9094.txt 8 체험하다 ----- 8:0-rel
+etri#doc_9094.txt 9 인식하다 ----- 8:1-ARGM-DIS() 9:0-rel
+etri#doc_9094.txt 10 극복하다 ----- 5:2-ARG1(THM) 7:2-ARGM-LOC(LOC) 9:2-ARGM-DIS() 10:0-rel
+etri#doc_9094.txt 14 이루다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_9094.txt 16 벗어나다 ----- 15:4-ARG1(THM) 16:0-rel

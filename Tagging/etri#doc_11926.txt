@@ -1,0 +1,5 @@
+etri#doc_11926.txt 2 열다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_11926.txt 6 걱정하다 ----- 2:2-ARGM-CND() 3:1-ARGM-MNR() 5:2-ARG1(THM) 6:0-rel
+etri#doc_11926.txt 10 놓다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11926.txt 12 맞대다 ----- 8:1-ARGM-TMP() 10:2-ARGM-DIS() 11:1-ARG1(THM) 12:0-rel
+etri#doc_11926.txt 18 매달리다 ----- 7:4-ARG0(AGT) 12:2-ARGM-TMP() 13:1-ARGM-MNR(INS) 17:4-ARG2(LOC) 18:0-rel

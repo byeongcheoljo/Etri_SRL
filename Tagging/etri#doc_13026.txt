@@ -1,0 +1,4 @@
+etri#doc_13026.txt 2 구하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13026.txt 4 알려지다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_13026.txt 8 밝히다 ----- 4:4-ARGM-TMP() 6:2-ARGM-EXT(CRT) 7:1-ARG1(THM) 8:0-rel
+etri#doc_13026.txt 16 걸려오다 ----- 11:2-ARGM-DIS() 13:2-ARGM-LOC(LOC) 14:1-ARG1(THM) 15:1-ARGM-EXT(CRT) 16:0-rel

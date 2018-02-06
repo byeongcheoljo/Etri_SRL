@@ -1,0 +1,3 @@
+etri#doc_1031.txt 7 틀다 ----- 6:1-ARGM-TMP(THM) 7:0-rel
+etri#doc_1031.txt 10 나다 ----- 7:2-ARGM-MNR() 8:1-ARGM-TMP(THM) 9:1-ARG1(THM) 10:0-rel
+etri#doc_1031.txt 16 나다 ----- 13:1-ARG0() 14:1-ARG1() 15:1-ARGM-MNR() 16:0-rel

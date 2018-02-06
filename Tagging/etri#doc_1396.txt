@@ -1,0 +1,6 @@
+etri#doc_1396.txt 3 통일하다 ----- 1:1-ARG0(THM) 2:1-ARG1(THM) 3:0-rel
+etri#doc_1396.txt 7 부르다 ----- 4:3-ARGM-TMP(LOC) 5:1-ARG1(THM) 6:1-ARG2(FNS) 7:0-rel
+etri#doc_1396.txt 14 고치다 ----- 14:0-rel
+etri#doc_1396.txt 15 부르다 ----- 7:2-ARGM-DIS() 8:1-ARGM-TMP(LOC) 13:5-ARG2(FNS) 14:1-ARGM-DIS() 15:0-rel
+etri#doc_1396.txt 20 설치되다 ----- 18:3-ARGM-TMP(LOC) 19:1-ARG1(THM) 20:0-rel
+etri#doc_1396.txt 24 얻다 ----- 15:2-ARGM-DIS() 20:2-ARGM-DIS() 23:3-ARG1(THM) 24:0-rel

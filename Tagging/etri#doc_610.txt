@@ -1,0 +1,4 @@
+etri#doc_610.txt 4 개선하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_610.txt 10 끌어들이다 ----- 9:2-ARG1(THM) 10:0-rel
+etri#doc_610.txt 13 내리다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_610.txt 15 갈다 ----- 4:3-ARGM-PRP() 5:1-ARG0(AGT) 10:3-ARGM-INS() 13:3-ARGM-DIS() 14:1-ARG2(FNS) 15:0-rel

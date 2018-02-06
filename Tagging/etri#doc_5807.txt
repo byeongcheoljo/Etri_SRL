@@ -1,0 +1,5 @@
+etri#doc_5807.txt 7 보여주다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_5807.txt 10 들여오다 ----- 7:3-ARGM-PRP() 9:2-ARG1(THM) 10:0-rel
+etri#doc_5807.txt 12 듣다 ----- 11:4-ARG1(THM) 12:0-rel
+etri#doc_5807.txt 15 되다 ----- 12:5-ARGM-DIS() 13:1-ARG1(THM) 14:1-ARG2(FNS) 15:0-rel
+etri#doc_5807.txt 16 말하다 ----- 1:1-ARG0(AGT) 15:2-ARG1(CNT) 16:0-rel

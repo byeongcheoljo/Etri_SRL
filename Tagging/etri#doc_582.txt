@@ -1,0 +1,6 @@
+etri#doc_582.txt 10 마련하다 ----- 9:9-ARG1(THM) 10:0-rel
+etri#doc_582.txt 13 계속하다 ----- 10:10-ARGM-DIS() 11:1-ARG0(AGT) 12:1-ARG1(THM) 13:0-rel
+etri#doc_582.txt 15 쓰다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_582.txt 17 하다 ----- 13:2-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel
+etri#doc_582.txt 20 얻다 ----- 17:2-ARGM-DIS() 19:2-ARG1(THM) 20:0-rel
+etri#doc_582.txt 22 내다 ----- 20:3-ARGM-DIS() 21:1-ARG1(THM) 22:0-rel

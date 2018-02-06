@@ -1,0 +1,4 @@
+etri#doc_13078.txt 2 둘러싸다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13078.txt 11 제정되다 ----- 11:0-rel
+etri#doc_13078.txt 14 전수되다 ----- 13:1-ARGM-MNR(INS) 14:0-rel
+etri#doc_13078.txt 20 존재하다 ----- 3:3-ARG2(LOC) 19:3-ARG1(THM) 20:0-rel

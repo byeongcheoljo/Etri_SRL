@@ -1,0 +1,6 @@
+etri#doc_8714.txt 2 갖다 ----- 2:0-rel
+etri#doc_8714.txt 3 묻다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-MNR() 3:0-rel
+etri#doc_8714.txt 6 끌어안다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_8714.txt 9 물리다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_8714.txt 10 애쓰다 ----- 6:3-ARGM-DIS() 9:3-ARG1() 10:0-rel
+etri#doc_8714.txt 15 하다 ----- 13:2-ARG1(THM) 14:1-ARG1(THM) 15:0-rel

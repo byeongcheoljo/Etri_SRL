@@ -1,0 +1,4 @@
+etri#doc_8120.txt 4 가져가다 ----- 2:1-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_8120.txt 6 잠기다 ----- 1:1-ARGM-TMP(LOC) 5:3-ARGM-LOC(LOC) 6:0-rel
+etri#doc_8120.txt 9 가다 ----- 8:1-ARGM-LOC() 9:0-rel
+etri#doc_8120.txt 10 호소하다 ----- 9:2-ARGM-DIS() 10:0-rel

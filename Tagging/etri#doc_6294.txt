@@ -1,0 +1,4 @@
+etri#doc_6294.txt 2 흘러내리다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_6294.txt 12 받다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6294.txt 17 미치다 ----- 15:2-ARG0(AGT) 16:1-ARG2(GOL) 17:0-rel
+etri#doc_6294.txt 18 의미하다 ----- 9:3-ARG1(THM) 13:4-ARGM-INS(INS) 17:2-ARG2() 18:0-rel

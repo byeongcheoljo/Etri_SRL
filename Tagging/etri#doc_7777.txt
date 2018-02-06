@@ -1,0 +1,6 @@
+etri#doc_7777.txt 4 달리다 ----- 2:1-ARGM-EXT(EFF) 3:1-ARG1(THM) 4:0-rel
+etri#doc_7777.txt 7 날다 ----- 4:2-ARGM-DIS() 5:1-ARGM-EXT(EFF) 6:1-ARG1(THM) 7:0-rel
+etri#doc_7777.txt 8 다가오다 ----- 8:0-rel
+etri#doc_7777.txt 10 내다 ----- 10:0-rel
+etri#doc_7777.txt 11 보다 ----- 7:2-ARGM-MNR() 9:2-ARG1(THM) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_7777.txt 17 맞다 ----- 16:1-ARG1(THM) 17:0-rel

@@ -1,0 +1,5 @@
+etri#doc_11047.txt 11 피하다 ----- 9:1-ARGM-EXT(EFF) 10:1-ARG1(THM) 11:0-rel
+etri#doc_11047.txt 13 생각하다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_11047.txt 14 걷다 ----- 13:4-ARGM-DIS() 14:0-rel
+etri#doc_11047.txt 17 마르다 ----- 16:1-ARG1(THM) 17:0-rel
+etri#doc_11047.txt 19 오르다 ----- 8:5-ARGM-DIS() 15:6-ARG1(THM) 17:2-ARGM-DIS() 18:1-ARG1(THM) 19:0-rel

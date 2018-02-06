@@ -1,0 +1,5 @@
+etri#doc_4747.txt 2 성공하다 ----- 1:1-ARG1(GOL) 2:0-rel
+etri#doc_4747.txt 3 말다 ----- 2:2-ARGM-DIS() 3:0-rel
+etri#doc_4747.txt 13 찾다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_4747.txt 18 수행하다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_4747.txt 21 좌우되다 ----- 3:3-ARGM-DIS() 20:4-ARG0(EFF) 21:0-rel

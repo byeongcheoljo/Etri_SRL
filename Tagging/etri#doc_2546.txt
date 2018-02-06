@@ -1,0 +1,2 @@
+etri#doc_2546.txt 9 교류하다 ----- 5:2-ARG0(AGT) 8:2-ARGM-ADV(EFF) 9:0-rel
+etri#doc_2546.txt 15 가득차다 ----- 14:2-ARG2(EFF) 15:0-rel

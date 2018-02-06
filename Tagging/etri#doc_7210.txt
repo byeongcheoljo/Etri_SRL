@@ -1,0 +1,7 @@
+etri#doc_7210.txt 5 젖히다 ----- 3:1-ARG1(THM) 4:1-ARGM-DIR(DIR) 5:0-rel
+etri#doc_7210.txt 6 날아들다 ----- 6:0-rel
+etri#doc_7210.txt 8 피하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-MNR() 5:2-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_7210.txt 11 깔다 ----- 10:1-ARGM-MNR() 11:0-rel
+etri#doc_7210.txt 13 움직이다 ----- 8:3-ARGM-DIS() 9:1-ARG0(AGT) 12:3-ARG1(THM) 13:0-rel
+etri#doc_7210.txt 16 달아나다 ----- 14:1-ARG0(AGT) 15:1-ARGM-MNR() 16:0-rel
+etri#doc_7210.txt 21 매달리다 ----- 13:4-ARGM-DIS() 17:3-ARGM-MNR(INS) 18:1-ARG0(AGT) 20:2-ARG2(GOL) 21:0-rel

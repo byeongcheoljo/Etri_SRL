@@ -1,0 +1,4 @@
+etri#doc_6169.txt 6 결정하다 ----- 5:3-ARG1(THM) 6:0-rel
+etri#doc_6169.txt 11 알리다 ----- 8:6-ARG1(THM) 9:1-ARGM-LOC(GOL) 10:1-ARGM-TMP() 11:0-rel
+etri#doc_6169.txt 16 허용하다 ----- 13:2-ARG1(THM) 15:2-ARGM-TMP(LOC) 16:0-rel
+etri#doc_6169.txt 17 주지시키다 ----- 11:2-ARGM-DIS() 16:3-ARG1() 17:0-rel

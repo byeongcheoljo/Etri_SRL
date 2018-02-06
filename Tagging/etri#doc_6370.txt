@@ -1,0 +1,5 @@
+etri#doc_6370.txt 5 사용되다 ----- 2:1-ARGM-TMP() 4:2-ARGM-LOC(LOC) 5:0-rel
+etri#doc_6370.txt 7 살펴보다 ----- 6:4-ARG1(THM) 7:0-rel
+etri#doc_6370.txt 10 잘못되다 ----- 10:0-rel
+etri#doc_6370.txt 12 바로잡다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_6370.txt 15 찾다 ----- 1:1-ARGM-DIS() 7:5-ARGM-DIS() 8:1-ARGM-LOC(LOC) 9:1-ARGM-DIS() 13:4-ARGM-ADV(EFF) 14:1-ARG1(THM) 15:0-rel

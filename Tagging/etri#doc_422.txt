@@ -1,0 +1,3 @@
+etri#doc_422.txt 6 엿보다 ----- 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_422.txt 14 놓다 ----- 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_422.txt 16 되다 ----- 3:2-ARGM-CAU() 8:4-ARGM-ADV(COM) 15:3-ARG1(THM) 16:0-rel

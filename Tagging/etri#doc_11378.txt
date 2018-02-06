@@ -1,0 +1,4 @@
+etri#doc_11378.txt 5 채집되다 ----- 1:1-ARGM-EXT(CRT) 3:2-ARG1(THM) 4:1-ARGM-EXT() 5:0-rel
+etri#doc_11378.txt 10 변형되다 ----- 7:2-ARG1(THM) 9:2-ARGM-CAU(EFF) 10:0-rel
+etri#doc_11378.txt 13 보이다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_11378.txt 18 보이다 ----- 5:2-ARGM-DIS() 10:3-ARGM-DIS() 17:3-ARG0(AGT) 18:0-rel

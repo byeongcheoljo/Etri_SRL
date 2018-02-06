@@ -1,0 +1,4 @@
+etri#doc_11303.txt 7 따지다 ----- 6:2-ARGM-MNR(INS) 7:0-rel
+etri#doc_11303.txt 9 생각하다 ----- 9:0-rel
+etri#doc_11303.txt 10 보다 ----- 2:1-ARG1(THM) 7:3-ARGM-DIS() 8:1-ARGM-MNR() 9:1-ARGM-DIS() 10:0-rel
+etri#doc_11303.txt 14 밝히다 ----- 13:2-ARG1(THM) 14:0-rel

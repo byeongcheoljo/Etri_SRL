@@ -1,0 +1,6 @@
+etri#doc_2472.txt 4 이루다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_2472.txt 7 받다 ----- 6:2-ARG2(EFF) 7:0-rel
+etri#doc_2472.txt 9 달래다 ----- 8:4-ARG1(THM) 9:0-rel
+etri#doc_2472.txt 13 날뛰다 ----- 11:2-() 12:1-() 13:0-rel
+etri#doc_2472.txt 16 막다 ----- 4:2-ARGM-DIS() 9:5-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel
+etri#doc_2472.txt 19 되다 ----- 1:1-ARGM-DIS() 2:1-ARG1() 18:2-ARG2(AGT) 19:0-rel

@@ -1,0 +1,5 @@
+etri#doc_5384.txt 13 맡다 ----- 11:9-ARGM-CAU() 12:1-ARG0(AGT) 13:0-rel
+etri#doc_5384.txt 17 낳다 ----- 17:0-rel
+etri#doc_5384.txt 18 기르다 ----- 16:1-ARG1(THM) 17:1-ARGM-DIS() 18:0-rel
+etri#doc_5384.txt 20 돌보다 ----- 14:1-ARG0(AGT) 15:1-ARGM-LOC(LOC) 18:2-ARGM-DIS() 19:1-ARG1(THM) 20:0-rel
+etri#doc_5384.txt 23 말하다 ----- 1:1-ARGM-DIS() 22:4-ARG1() 23:0-rel

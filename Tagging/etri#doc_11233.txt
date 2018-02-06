@@ -1,0 +1,5 @@
+etri#doc_11233.txt 3 덮이다 ----- 1:1-ARGM-MNR() 2:1-ARG2(THM) 3:0-rel
+etri#doc_11233.txt 7 추락하다 ----- 5:2-ARG3(GOL) 6:1-ARGM-EXT(CRT) 7:0-rel
+etri#doc_11233.txt 11 부러지다 ----- 9:1-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_11233.txt 14 입다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_11233.txt 16 구르다 ----- 8:3-ARG0(AGT) 14:3-ARGM-MNR() 15:1-ARGM-LOC(LOC) 16:0-rel

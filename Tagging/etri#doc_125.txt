@@ -1,0 +1,6 @@
+etri#doc_125.txt 2 오다 ----- 1:1-ARG1(LOC) 2:0-rel
+etri#doc_125.txt 4 상기되다 ----- 4:0-rel
+etri#doc_125.txt 8 하다 ----- 5:2-ARGM-CND(CNT) 6:1-ARGM-LOC(LOC) 7:1-ARG1(THM) 8:0-rel
+etri#doc_125.txt 10 나가다 ----- 8:2-ARGM-DIS() 9:1-ARG3(GOL) 10:0-rel
+etri#doc_125.txt 13 피우다 ----- 10:2-ARGM-DIS() 11:1-ARGM-ADV() 12:1-ARG1(THM) 13:0-rel
+etri#doc_125.txt 16 감추다 ----- 3:3-ARG0(AGT) 13:2-ARGM-DIS() 15:2-ARG1(THM) 16:0-rel

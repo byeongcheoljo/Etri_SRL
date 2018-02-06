@@ -1,0 +1,4 @@
+etri#doc_5816.txt 3 나다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5816.txt 5 맡다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_5816.txt 11 분석하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_5816.txt 17 살피다 ----- 3:3-ARGM-CND() 6:3-ARG0(AGT) 11:4-ARGM-DIS() 16:3-ARG1() 17:0-rel

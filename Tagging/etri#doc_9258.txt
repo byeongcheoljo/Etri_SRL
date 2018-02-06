@@ -1,0 +1,1 @@
+etri#doc_9258.txt 10 ют╢ы ----- 5:2-ARGM-CAU() 6:1-ARGM-CND() 7:1-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-EXT() 10:0-rel

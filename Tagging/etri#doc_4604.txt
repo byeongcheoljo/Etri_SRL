@@ -1,0 +1,2 @@
+etri#doc_4604.txt 6 당선되다 ----- 5:1-ARG2(LOC) 6:0-rel
+etri#doc_4604.txt 10 보다 ----- 9:1-ARG2(FNS) 10:0-rel

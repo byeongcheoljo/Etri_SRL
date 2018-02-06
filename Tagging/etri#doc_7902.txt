@@ -1,0 +1,5 @@
+etri#doc_7902.txt 7 포착되다 ----- 3:1-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_7902.txt 9 나오다 ----- 2:2-ARGM-DIS() 8:4-ARG0(AGT) 9:0-rel
+etri#doc_7902.txt 14 발견하다 ----- 13:2-ARG1(THM) 14:0-rel
+etri#doc_7902.txt 15 부인하다 ----- 14:3-ARGM-DIS() 15:0-rel
+etri#doc_7902.txt 17 내다 ----- 9:5-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-TMP() 16:5-ARG1(THM) 17:0-rel

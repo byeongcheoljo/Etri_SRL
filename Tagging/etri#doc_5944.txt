@@ -1,0 +1,2 @@
+etri#doc_5944.txt 7 하다 ----- 5:2-ARG1(THM) 6:1-ARGM-PRP(PUR) 7:0-rel
+etri#doc_5944.txt 11 허용하다 ----- 10:3-ARG1(THM) 11:0-rel

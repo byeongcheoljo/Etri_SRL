@@ -1,0 +1,5 @@
+etri#doc_3056.txt 3 구성하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3056.txt 7 대표하다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_3056.txt 11 선출되다 ----- 10:1-ARGM-LOC(LOC) 11:0-rel
+etri#doc_3056.txt 14 끼다 ----- 9:4-ARGM-DIS() 12:3-ARG0(AGT) 13:1-ARGM-EXT() 14:0-rel
+etri#doc_3056.txt 21 차지하다 ----- 1:1-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-EXT() 18:3-ARG0(AGT) 19:1-ARGM-LOC(LOC) 20:1-ARG1(THM) 21:0-rel

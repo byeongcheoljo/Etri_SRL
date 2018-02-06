@@ -1,0 +1,2 @@
+etri#doc_7943.txt 6 들다 ----- 4:3-ARGM-EXT() 5:1-ARG1(THM) 6:0-rel
+etri#doc_7943.txt 15 구입하다 ----- 9:3-ARG1(THM) 11:2-ARGM-MNR(INS) 14:3-ARG2(SRC) 15:0-rel

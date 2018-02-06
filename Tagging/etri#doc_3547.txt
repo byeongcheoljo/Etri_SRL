@@ -1,0 +1,6 @@
+etri#doc_3547.txt 4 ¼ûµ¹¸®´Ù ----- 4:0-rel
+etri#doc_3547.txt 8 Áþ´Ù ----- 7:1-ARGM-EXT() 8:0-rel
+etri#doc_3547.txt 9 ¸ô·Áµé´Ù ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 5:2-ARGM-MNR() 6:1-ARGM-EXT() 8:2-ARGM-MNR() 9:0-rel
+etri#doc_3547.txt 13 ¼ÓÀÌ´Ù ----- 12:1-ARG1(CNT) 13:0-rel
+etri#doc_3547.txt 15 Áã´Ù ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_3547.txt 16 º¸³»´Ù ----- 9:3-ARGM-DIS() 10:1-ARG0(AGT) 11:1-ARGM-TMP(LOC) 13:2-ARGM-DIS() 15:2-ARGM-MNR() 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_5933.txt 3 제외하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5933.txt 8 배치되다 ----- 1:1-ARGM-TMP() 4:3-ARGM-CND(LOC) 5:1-ARGM-EXT() 7:2-ARG1(THM) 8:0-rel
+etri#doc_5933.txt 15 몰리다 ----- 10:1-ARGM-EXT() 12:2-ARG2(GOL) 13:1-ARG1(THM) 14:1-ARGM-EXT() 15:0-rel
+etri#doc_5933.txt 16 알다 ----- 9:4-ARGM-EXT(CRT) 15:2-ARG1() 16:0-rel

@@ -1,0 +1,5 @@
+etri#doc_7807.txt 2 자동화되다 ----- 2:0-rel
+etri#doc_7807.txt 5 낮추다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7807.txt 7 하다 ----- 5:2-ARGM-PRD() 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_7807.txt 14 가지다 ----- 12:3-ARGM-CAU() 13:1-ARG1(THM) 14:0-rel
+etri#doc_7807.txt 17 종식시키다 ----- 3:2-ARG0(AGT) 8:3-ARGM-INS(INS) 16:2-ARG1(THM) 17:0-rel

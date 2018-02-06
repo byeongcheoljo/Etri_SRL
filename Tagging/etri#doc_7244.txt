@@ -1,0 +1,1 @@
+etri#doc_7244.txt 10 성공하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG0(AGT) 8:4-ARGM-DIS(GOL) 9:1-ARGM-DIS() 10:0-rel

@@ -1,0 +1,5 @@
+etri#doc_4002.txt 7 먹다 ----- 3:3-ARGM-CND() 4:1-ARGM-TMP(LOC) 5:1-ARG1(THM) 6:1-ARGM-MNR() 7:0-rel
+etri#doc_4002.txt 9 보다 ----- 8:1-ARGM-TMP() 9:0-rel
+etri#doc_4002.txt 13 상대하다 ----- 11:2-ARGM-TMP() 12:1-ARG1() 13:0-rel
+etri#doc_4002.txt 15 주다 ----- 15:0-rel
+etri#doc_4002.txt 17 당하다 ----- 7:2-ARGM-DIS() 9:2-ARGM-DIS() 14:3-ARG3(EFF) 15:1-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

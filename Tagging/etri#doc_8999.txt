@@ -1,0 +1,5 @@
+etri#doc_8999.txt 3 갖다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_8999.txt 8 그치다 ----- 7:3-ARG2(FNS) 8:0-rel
+etri#doc_8999.txt 10 판명되다 ----- 9:1-ARG1(FNS) 10:0-rel
+etri#doc_8999.txt 12 갖추다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_8999.txt 17 지적되다 ----- 1:1-ARGM-DIS() 4:3-ARGM-ADV(CNT) 16:6-ARG1(THM) 17:0-rel

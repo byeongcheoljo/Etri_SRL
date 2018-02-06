@@ -1,0 +1,1 @@
+etri#doc_4256.txt 18 시작하다 ----- 1:1-ARGM-DIS() 11:4-ARGM-CAU(EFF) 12:1-ARG0(AGT) 15:2-ARG1(THM) 16:1-ARGM-MNR() 17:1-ARG2(SRC) 18:0-rel

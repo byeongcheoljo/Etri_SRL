@@ -1,0 +1,5 @@
+etri#doc_1525.txt 8 확대하다 ----- 1:1-ARGM-DIS() 7:2-ARG1(THM) 8:0-rel
+etri#doc_1525.txt 11 상실하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_1525.txt 17 포함시키다 ----- 8:3-ARGM-DIS() 16:4-ARGM-LOC(GOL) 17:0-rel
+etri#doc_1525.txt 21 변경하다 ----- 17:5-ARGM-DIS() 19:2-ARG1(THM) 20:1-ARGM-MNR(INS) 21:0-rel
+etri#doc_1525.txt 23 되다 ----- 22:3-ARGM-MNR(THM) 23:0-rel

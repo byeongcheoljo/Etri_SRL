@@ -1,0 +1,1 @@
+etri#doc_5787.txt 20 ¸ðÀ¸´Ù ----- 2:2-ARGM-CAU(EFF) 3:1-ARG0(AGT) 4:1-ARGM-TMP() 5:1-ARGM-ADV(EFF) 18:4-ARG2() 19:1-ARG1(THM) 20:0-rel

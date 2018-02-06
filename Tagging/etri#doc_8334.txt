@@ -1,0 +1,4 @@
+etri#doc_8334.txt 6 공부하다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_8334.txt 9 하다 ----- 6:5-ARGM-DIS() 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_8334.txt 14 지적하다 ----- 11:4-ARGM-DIS() 12:1-ARG2(LOC) 13:1-ARG1() 14:0-rel
+etri#doc_8334.txt 22 속단하다 ----- 16:4-ARGM-DIS() 21:3-ARG1() 22:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9354.txt 7 당선되다 ----- 1:1-ARGM-TMP() 4:3-ARGM-LOC(LOC) 6:2-ARG1(THM) 7:0-rel
+etri#doc_9354.txt 14 힘입다 ----- 7:3-ARGM-DIS() 8:1-ARG1(THM) 9:1-ARGM-TMP() 13:2-ARG2(EFF) 14:0-rel

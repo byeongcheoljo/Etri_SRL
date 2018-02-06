@@ -1,0 +1,5 @@
+etri#doc_1491.txt 6 일관하다 ----- 5:2-ARG2(INS) 6:0-rel
+etri#doc_1491.txt 8 번쩍이다 ----- 8:0-rel
+etri#doc_1491.txt 11 맞다 ----- 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_1491.txt 14 밀려나다 ----- 11:2-ARGM-DIS() 12:1-ARGM-DIS() 13:1-ARGM-DIR() 14:0-rel
+etri#doc_1491.txt 16 겪다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 6:3-ARGM-CND() 15:3-ARG1(THM) 16:0-rel

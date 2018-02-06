@@ -1,0 +1,5 @@
+etri#doc_7139.txt 2 겪다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7139.txt 6 표현하다 ----- 5:2-ARG1(THM) 6:0-rel
+etri#doc_7139.txt 10 순화되다 ----- 9:1-ARGM-DIS() 10:0-rel
+etri#doc_7139.txt 15 만들다 ----- 15:0-rel
+etri#doc_7139.txt 16 쓰다 ----- 3:3-ARG0(AGT) 8:5-ARGM-DIS() 12:2-ARGM-MNR() 14:2-ARG1(THM) 15:1-ARGM-DIS() 16:0-rel

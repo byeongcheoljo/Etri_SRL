@@ -1,0 +1,4 @@
+etri#doc_4327.txt 4 머무르다 ----- 3:2-ARG2(LOC) 4:0-rel
+etri#doc_4327.txt 7 의식하다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_4327.txt 10 시도하다 ----- 4:3-ARGM-DIS() 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_4327.txt 15 도전하다 ----- 12:5-ARGM-ADV(EFF) 14:2-ARG0(AGT) 15:0-rel

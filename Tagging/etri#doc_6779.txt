@@ -1,0 +1,6 @@
+etri#doc_6779.txt 3 보다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_6779.txt 9 구별하다 ----- 6:1-ARG0(THM) 8:2-ARG2(COM) 9:0-rel
+etri#doc_6779.txt 12 되다 ----- 5:2-ARG1(THM) 11:2-ARG2(FNS) 12:0-rel
+etri#doc_6779.txt 16 나타나다 ----- 15:2-ARGM-MNR(FNS) 16:0-rel
+etri#doc_6779.txt 18 감별하다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_6779.txt 20 되다 ----- 3:3-ARGM-TMP() 12:3-ARGM-DIS() 13:1-ARG1(THM) 16:3-ARGM-CAU() 19:3-ARG2(FNS) 20:0-rel

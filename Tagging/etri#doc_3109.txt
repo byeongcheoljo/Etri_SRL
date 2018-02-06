@@ -1,0 +1,5 @@
+etri#doc_3109.txt 3 세다 ----- 2:1-ARG0(AGT) 3:0-rel
+etri#doc_3109.txt 11 조심하다 ----- 10:4-ARGM-CAU() 11:0-rel
+etri#doc_3109.txt 15 맞서다 ----- 13:1-ARGM-TMP() 14:1-ARG1(THM) 15:0-rel
+etri#doc_3109.txt 17 하다 ----- 12:1-() 15:2-ARGM-CAU() 16:1-ARG1(THM) 17:0-rel
+etri#doc_3109.txt 21 보다 ----- 11:5-ARGM-DIS() 17:2-ARGM-DIS() 18:1-ARGM-MNR(INS) 20:2-ARG1(THM) 21:0-rel

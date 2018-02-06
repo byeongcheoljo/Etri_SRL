@@ -1,0 +1,5 @@
+etri#doc_4540.txt 7 알려지다 ----- 5:1-ARGM-TMP(LOC) 6:1-ARG0(MAG) 7:0-rel
+etri#doc_4540.txt 11 보급하다 ----- 9:1-ARG2(GOL) 10:1-ARG1(THM) 11:0-rel
+etri#doc_4540.txt 13 알려지다 ----- 7:2-ARGM-DIS() 8:1-ARGM-TMP() 12:3-ARG2(FNS) 13:0-rel
+etri#doc_4540.txt 17 받들다 ----- 13:4-ARGM-DIS() 15:2-ARGM-LOC(LOC) 16:1-ARGM-EXT(EFF) 17:0-rel
+etri#doc_4540.txt 19 작고하다 ----- 2:2-ARG1(EXP) 4:2-ARG2(FNS) 17:2-ARGM-DIS() 18:1-ARGM-TMP() 19:0-rel

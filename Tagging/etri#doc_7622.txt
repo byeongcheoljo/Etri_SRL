@@ -1,0 +1,4 @@
+etri#doc_7622.txt 3 µÎ´Ù ----- 1:1-ARG2(LOC) 2:1-ARG1(THM) 3:0-rel
+etri#doc_7622.txt 5 ³Ö´Ù ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_7622.txt 8 °¨½Î´Ù ----- 5:2-ARGM-DIS() 6:1-ARG2(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_7622.txt 16 ³î´Ù ----- 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

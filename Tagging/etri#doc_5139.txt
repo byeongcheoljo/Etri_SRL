@@ -1,0 +1,2 @@
+etri#doc_5139.txt 6 앓다 ----- 4:1-ARGM-TMP() 5:1-ARG1(THM) 6:0-rel
+etri#doc_5139.txt 19 엇갈리다 ----- 14:3-ARGM-ADV() 17:3-ARG1(THM) 18:1-ARGM-MNR() 19:0-rel

@@ -1,0 +1,2 @@
+etri#doc_834.txt 9 ÀÔ´Ù ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 6:3-ARGM-CAU(EFF) 8:2-ARG1(THM) 9:0-rel
+etri#doc_834.txt 10 ³ó»çÁþ´Ù ----- 10:0-rel

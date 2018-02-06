@@ -1,0 +1,4 @@
+etri#doc_8216.txt 3 옮겨다니다 ----- 3:0-rel
+etri#doc_8216.txt 4 생활하다 ----- 3:1-ARGM-MNR() 4:0-rel
+etri#doc_8216.txt 11 잡다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8216.txt 13 하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel

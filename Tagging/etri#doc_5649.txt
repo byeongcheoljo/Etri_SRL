@@ -1,0 +1,4 @@
+etri#doc_5649.txt 2 낙후되다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_5649.txt 9 보유하다 ----- 7:4-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_5649.txt 13 하다 ----- 11:2-ARG1(THM) 12:1-ARG1() 13:0-rel
+etri#doc_5649.txt 15 뒤지다 ----- 3:3-ARG1(THM) 9:2-ARGM-DIS() 13:2-ARGM-LOC() 14:1-ARGM-EXT() 15:0-rel

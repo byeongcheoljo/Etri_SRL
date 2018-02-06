@@ -1,0 +1,8 @@
+etri#doc_1941.txt 2 오르다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_1941.txt 4 떨어지다 ----- 2:2-ARGM-DIS() 3:1-ARG1(THM) 4:0-rel
+etri#doc_1941.txt 6 처지다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_1941.txt 9 돌아서다 ----- 4:2-ARGM-DIS() 6:2-ARGM-CAU() 7:1-ARG0(AGT) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_1941.txt 11 오르다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 11:0-rel
+etri#doc_1941.txt 13 폭락하다 ----- 11:2-ARGM-DIS() 12:1-ARG1(THM) 13:0-rel
+etri#doc_1941.txt 15 일다 ----- 13:2-ARGM-DIS() 14:1-ARG1(THM) 15:0-rel
+etri#doc_1941.txt 17 잇따르다 ----- 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

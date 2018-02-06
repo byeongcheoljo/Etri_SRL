@@ -1,0 +1,2 @@
+etri#doc_2550.txt 10 전달하다 ----- 9:2-ARGM-INS(INS) 10:0-rel
+etri#doc_2550.txt 15 추상화되다 ----- 15:0-rel

@@ -1,0 +1,6 @@
+etri#doc_6832.txt 1 부려먹다 ----- 1:0-rel
+etri#doc_6832.txt 4 부려먹다 ----- 2:2-ARG1() 3:1-ARGM-EXT() 4:0-rel
+etri#doc_6832.txt 12 예약하다 ----- 11:1-ARG1() 12:0-rel
+etri#doc_6832.txt 13 기다리다 ----- 10:3-ARGM-DIS() 12:2-ARGM-DIS() 13:0-rel
+etri#doc_6832.txt 15 채우다 ----- 14:1-ARG1() 15:0-rel
+etri#doc_6832.txt 17 들다 ----- 5:3-ARGM-LOC(LOC) 13:3-ARGM-DIS() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

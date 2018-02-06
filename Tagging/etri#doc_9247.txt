@@ -1,0 +1,4 @@
+etri#doc_9247.txt 2 보다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_9247.txt 5 이르다 ----- 4:2-ARGM-EXT(CRT) 5:0-rel
+etri#doc_9247.txt 10 파손되다 ----- 5:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_9247.txt 13 부서지다 ----- 10:3-ARGM-DIS() 12:2-ARG1(THM) 13:0-rel

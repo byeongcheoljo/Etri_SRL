@@ -1,0 +1,3 @@
+etri#doc_7259.txt 9 다스리다 ----- 8:4-ARGM-MNR(INS) 9:0-rel
+etri#doc_7259.txt 13 잡아넣다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_7259.txt 16 개선되다 ----- 4:3-ARGM-DIS() 15:4-ARG1(THM) 16:0-rel

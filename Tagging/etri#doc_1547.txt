@@ -1,0 +1,3 @@
+etri#doc_1547.txt 9 말하다 ----- 8:8-ARGM-ADV(EXP) 9:0-rel
+etri#doc_1547.txt 14 취급하다 ----- 11:1-ARG1(THM) 13:2-ARGM-ADV(EFF) 14:0-rel
+etri#doc_1547.txt 18 의심하다 ----- 9:9-ARGM-CND() 10:1-ARG0(MAG) 15:4-ARG1(THM) 17:2-ARGM-TMP(LOC) 18:0-rel

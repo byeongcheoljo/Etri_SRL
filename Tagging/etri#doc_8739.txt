@@ -1,0 +1,6 @@
+etri#doc_8739.txt 3 뒤지다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_8739.txt 4 공부하다 ----- 3:3-ARGM-DIS() 4:0-rel
+etri#doc_8739.txt 7 모으다 ----- 6:1-ARG1(THM) 7:0-rel
+etri#doc_8739.txt 11 해보다 ----- 7:2-ARGM-DIS() 10:3-ARG1(THM) 11:0-rel
+etri#doc_8739.txt 15 수집하다 ----- 12:5-ARGM-MNR(INS) 13:1-ARGM-TMP(LOC) 14:1-ARG1(THM) 15:0-rel
+etri#doc_8739.txt 19 누비다 ----- 5:5-ARG0(AGT) 15:2-ARGM-DIS() 16:1-ARGM-TMP(LOC) 17:1-ARG1(LOC) 18:1-ARGM-EXT() 19:0-rel

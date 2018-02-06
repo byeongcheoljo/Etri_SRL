@@ -1,0 +1,5 @@
+etri#doc_3035.txt 6 허덕이다 ----- 2:2-ARGM-TMP() 4:2-ARGM-CAU(CNT) 5:1-ARG0(EFF) 6:0-rel
+etri#doc_3035.txt 10 이르다 ----- 8:1-ARGM-TMP(LOC) 9:1-ARGM-TMP(LOC) 10:0-rel
+etri#doc_3035.txt 13 남용하다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_3035.txt 16 끌어들이다 ----- 14:1-ARGM-LOC(SRC) 15:1-ARG1(THM) 16:0-rel
+etri#doc_3035.txt 19 대응하다 ----- 7:3-ARG0(AGT) 10:2-ARGM-TMP() 13:3-ARGM-DIS() 16:2-ARGM-DIS() 18:2-ARG1(GOL) 19:0-rel

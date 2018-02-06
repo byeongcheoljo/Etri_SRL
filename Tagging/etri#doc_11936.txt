@@ -1,0 +1,2 @@
+etri#doc_11936.txt 10 임명하다 ----- 4:1-ARGM-TMP() 5:1-ARG1(FNS) 9:3-ARG2(FNS) 10:0-rel
+etri#doc_11936.txt 11 발표하다 ----- 2:2-ARGM-TMP() 3:1-ARG0(AGT) 10:4-ARG1() 11:0-rel

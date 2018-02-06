@@ -1,0 +1,5 @@
+etri#doc_8338.txt 4 공부하다 ----- 2:2-ARGM-LOC(LOC) 3:1-ARG1(THM) 4:0-rel
+etri#doc_8338.txt 10 갖다 ----- 5:3-ARG0(AGT) 7:2-ARGM-ADV(CNT) 9:2-ARG1(THM) 10:0-rel
+etri#doc_8338.txt 11 이야기하다 ----- 10:3-ARG1() 11:0-rel
+etri#doc_8338.txt 18 걸어오다 ----- 14:2-ARGM-EXT() 15:1-ARGM-MNR() 17:2-ARG1(THM) 18:0-rel
+etri#doc_8338.txt 19 되돌아보다 ----- 11:4-ARGM-TMP() 12:1-ARGM-TMP() 18:3-ARG1() 19:0-rel

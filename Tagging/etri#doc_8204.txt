@@ -1,0 +1,4 @@
+etri#doc_8204.txt 2 굶다 ----- 2:0-rel
+etri#doc_8204.txt 5 나타나다 ----- 1:1-ARGM-EXT() 3:2-ARG1(THM) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_8204.txt 16 충족시키다 ----- 15:4-ARG1(THM) 16:0-rel
+etri#doc_8204.txt 19 표현하다 ----- 9:6-ARGM-LOC(LOC) 10:1-ARG0(AGT) 17:6-ARG1(THM) 18:1-ARGM-MNR(FNS) 19:0-rel

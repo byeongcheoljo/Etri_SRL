@@ -1,0 +1,4 @@
+etri#doc_246.txt 11 해석하다 ----- 9:5-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_246.txt 14 하다 ----- 12:1-ARGM-MNR() 13:1-ARG1(THM) 14:0-rel
+etri#doc_246.txt 15 생각하다 ----- 11:2-ARGM-MNR() 14:2-ARGM-CND() 15:0-rel
+etri#doc_246.txt 17 지나치다 ----- 17:0-rel

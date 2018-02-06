@@ -1,0 +1,2 @@
+etri#doc_517.txt 7 대답하다 ----- 5:2-ARGM-ADV(CNT) 6:1-ARGM-TMP() 7:0-rel
+etri#doc_517.txt 15 제기하다 ----- 14:2-ARG1(THM) 15:0-rel

@@ -1,0 +1,4 @@
+etri#doc_1838.txt 5 주다 ----- 4:2-ARG1() 5:0-rel
+etri#doc_1838.txt 7 먹다 ----- 6:1-ARG1() 7:0-rel
+etri#doc_1838.txt 10 보다 ----- 7:2-ARGM-DIS(CNT) 8:1-ARGM-TMP(LOC) 9:1-() 10:0-rel
+etri#doc_1838.txt 12 되다 ----- 1:1-ARG0() 5:3-ARGM-DIS(CNT) 10:2-ARGM-CND(DIR) 11:1-ARG0(AGT) 12:0-rel

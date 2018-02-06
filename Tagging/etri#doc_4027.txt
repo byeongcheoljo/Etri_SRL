@@ -1,0 +1,5 @@
+etri#doc_4027.txt 4 서다 ----- 3:1-ARG1() 4:0-rel
+etri#doc_4027.txt 8 당하다 ----- 2:2-ARG1(AGT) 4:2-ARGM-DIS() 7:2-ARG2(THM) 8:0-rel
+etri#doc_4027.txt 9 모르다 ----- 8:3-ARGM-DIS() 9:0-rel
+etri#doc_4027.txt 13 입다 ----- 11:1-ARGM-TMP() 12:1-ARG2() 13:0-rel
+etri#doc_4027.txt 16 하다 ----- 9:4-ARGM-DIS() 10:1-ARG0(AGT) 14:3-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

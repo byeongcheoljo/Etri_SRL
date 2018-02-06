@@ -1,0 +1,3 @@
+etri#doc_4381.txt 5 장식되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_4381.txt 7 박히다 ----- 6:4-ARG2(LOC) 7:0-rel
+etri#doc_4381.txt 17 새기다 ----- 16:3-ARG2(LOC) 17:0-rel

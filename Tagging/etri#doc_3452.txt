@@ -1,0 +1,4 @@
+etri#doc_3452.txt 3 제외되다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_3452.txt 9 갚다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_3452.txt 11 넘다 ----- 10:3-ARG1(CRT) 11:0-rel
+etri#doc_3452.txt 13 접근하다 ----- 11:4-ARGM-DIS() 12:1-ARG2(GOL) 13:0-rel

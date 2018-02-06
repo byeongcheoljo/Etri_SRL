@@ -1,0 +1,2 @@
+etri#doc_5659.txt 6 내리다 ----- 5:1-ARGM-TMP(LOC) 6:0-rel
+etri#doc_5659.txt 12 접수되다 ----- 2:2-ARGM-TMP() 4:2-ARGM-LOC(LOC) 7:3-ARGM-CAU(EFF) 11:3-ARG1(THM) 12:0-rel

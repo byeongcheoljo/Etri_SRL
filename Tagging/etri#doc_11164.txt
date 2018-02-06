@@ -1,0 +1,4 @@
+etri#doc_11164.txt 3 저지르다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11164.txt 8 알다 ----- 6:2-ARG1(THM) 7:1-ARGM-MNR() 8:0-rel
+etri#doc_11164.txt 11 집행하다 ----- 9:3-ARG0(AGT) 10:1-ARGM-DIS() 11:0-rel
+etri#doc_11164.txt 12 생각하다 ----- 11:2-ARGM-DIS() 12:0-rel

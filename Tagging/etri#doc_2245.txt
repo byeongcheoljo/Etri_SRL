@@ -1,0 +1,4 @@
+etri#doc_2245.txt 6 받다 ----- 5:5-ARG1(THM) 6:0-rel
+etri#doc_2245.txt 9 가다 ----- 7:1-ARG0(AGT) 8:1-ARGM-EXT() 9:0-rel
+etri#doc_2245.txt 11 탐색하다 ----- 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2245.txt 14 탐험하다 ----- 6:6-() 9:2-() 13:2-() 14:0-rel

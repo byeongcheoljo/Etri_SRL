@@ -1,0 +1,4 @@
+etri#doc_11252.txt 6 되다 ----- 5:2-ARG2(FNS) 6:0-rel
+etri#doc_11252.txt 8 눕다 ----- 3:2-ARG0(THM) 6:3-ARGM-DIS() 7:1-ARG1(LOC) 8:0-rel
+etri#doc_11252.txt 13 보다 ----- 11:1-ARG0(AGT) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_11252.txt 14 생각하다 ----- 8:2-ARGM-CND() 9:1-ARG0(MAG) 10:1-ARGM-EXT(CRT) 13:2-ARGM-MNR() 14:0-rel

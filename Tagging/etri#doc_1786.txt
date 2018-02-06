@@ -1,0 +1,3 @@
+etri#doc_1786.txt 9 터지다 ----- 8:2-ARG1(THM) 9:0-rel
+etri#doc_1786.txt 14 조각내다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_1786.txt 17 물들다 ----- 6:2-ARGM-DIS() 11:5-ARG0(THM) 14:3-ARGM-DIS() 16:2-ARG3(EFF) 17:0-rel

@@ -1,0 +1,2 @@
+etri#doc_2119.txt 10 하다 ----- 6:1-ARGM-EXT() 9:3-ARG1(THM) 10:0-rel
+etri#doc_2119.txt 15 드러나다 ----- 12:2-ARGM-DIS() 13:1-ARGM-ADV(EFF) 14:1-ARGM-TMP() 15:0-rel

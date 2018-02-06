@@ -1,0 +1,5 @@
+etri#doc_8174.txt 4 쏟아지다 ----- 2:2-ARGM-MNR() 3:1-ARG1(THM) 4:0-rel
+etri#doc_8174.txt 9 뒤바뀌다 ----- 4:2-ARGM-DIS() 5:1-ARGM-TMP() 7:2-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_8174.txt 13 가공하다 ----- 13:0-rel
+etri#doc_8174.txt 15 보다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_8174.txt 17 나다 ----- 15:3-ARGM-DIS() 16:1-ARG1(Npr) 17:0-rel

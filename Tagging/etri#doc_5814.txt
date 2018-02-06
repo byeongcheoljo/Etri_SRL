@@ -1,0 +1,2 @@
+etri#doc_5814.txt 9 무사통과하다 ----- 8:2-ARG0(EXP) 9:0-rel
+etri#doc_5814.txt 13 부여하다 ----- 1:1-ARGM-DIS() 2:1-ARGM-CND(CNT) 5:2-ARG2(GOL) 10:4-ARG1(THM) 12:2-ARG0(AGT) 13:0-rel

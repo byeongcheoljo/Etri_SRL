@@ -1,0 +1,3 @@
+etri#doc_8601.txt 9 선정하다 ----- 4:1-ARG1(THM) 6:2-ARGM-LOC(LOC) 8:2-ARG2(FNS) 9:0-rel
+etri#doc_8601.txt 11 이루어지다 ----- 10:4-ARGM-CAU(EFF) 11:0-rel
+etri#doc_8601.txt 14 넘어서다 ----- 13:2-ARG2(THM) 14:0-rel

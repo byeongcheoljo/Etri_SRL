@@ -1,0 +1,3 @@
+etri#doc_2768.txt 2 사용하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_2768.txt 10 걸리다 ----- 2:2-ARGM-DIS() 4:2-ARG1(THM) 9:4-ARGM-LOC(LOC) 10:0-rel
+etri#doc_2768.txt 17 찌르다 ----- 10:5-ARGM-DIS() 15:4-ARG3(GOL) 16:1-ARG1(THM) 17:0-rel

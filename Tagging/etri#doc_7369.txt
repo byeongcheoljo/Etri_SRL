@@ -1,0 +1,3 @@
+etri#doc_7369.txt 2 동반하다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_7369.txt 4 위하다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_7369.txt 16 무너지다 ----- 14:3-ARG1(THM) 15:1-ARGM-MNR(INS) 16:0-rel

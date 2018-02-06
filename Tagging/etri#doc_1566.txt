@@ -1,0 +1,4 @@
+etri#doc_1566.txt 3 넘어서다 ----- 1:1-ARG0(THM) 2:1-ARG1(THM) 3:0-rel
+etri#doc_1566.txt 6 사다 ----- 4:1-ARGM-INS(INS) 5:1-ARG1(THM) 6:0-rel
+etri#doc_1566.txt 9 하다 ----- 6:2-ARGM-DIS() 7:1-ARGM-LOC(LOC) 8:1-ARG1(THM) 9:0-rel
+etri#doc_1566.txt 13 확인하다 ----- 9:2-ARGM-TMP() 10:1-ARG0(AGT) 11:1-ARGM-MNR() 12:1-ARG1(THM) 13:0-rel

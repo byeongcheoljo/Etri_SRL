@@ -1,0 +1,3 @@
+etri#doc_5074.txt 3 µÈ¥Ÿ ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_5074.txt 7 ∏¡º≥¿Ã¥Ÿ ----- 3:3-ARGM-DIS() 6:3-ARGM-LOC(LOC) 7:0-rel
+etri#doc_5074.txt 16 »Í∑Ø∞°¥Ÿ ----- 12:4-ARGM-CND() 13:1-ARGM-TMP() 15:2-ARG1(THM) 16:0-rel

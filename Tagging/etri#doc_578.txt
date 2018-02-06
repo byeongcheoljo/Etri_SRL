@@ -1,0 +1,5 @@
+etri#doc_578.txt 4 설명하다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_578.txt 6 보다 ----- 5:4-ARG1(THM) 6:0-rel
+etri#doc_578.txt 8 중요시하다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_578.txt 10 넘어서다 ----- 9:3-ARG1(THM) 10:0-rel
+etri#doc_578.txt 15 다루다 ----- 10:4-ARGM-DIS() 12:2-ARG1(THM) 14:2-ARGM-MNR() 15:0-rel

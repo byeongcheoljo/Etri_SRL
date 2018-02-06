@@ -1,0 +1,5 @@
+etri#doc_3525.txt 10 남다 ----- 9:1-ARGM-EXT() 10:0-rel
+etri#doc_3525.txt 13 반영되다 ----- 11:3-ARG2(LOC) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_3525.txt 14 나아가다 ----- 13:2-ARGM-DIS() 14:0-rel
+etri#doc_3525.txt 18 되다 ----- 8:3-ARG1(THM) 14:3-ARGM-DIS() 17:3-ARG2(FNS) 18:0-rel
+etri#doc_3525.txt 19 기대하다 ----- 18:4-ARG1(THM) 19:0-rel

@@ -1,0 +1,4 @@
+etri#doc_8132.txt 5 맞붙다 ----- 3:1-ARG0(AGT) 4:1-ARG1(COM) 5:0-rel
+etri#doc_8132.txt 8 부러지다 ----- 2:1-ARGM-TMP(LOC) 5:2-ARGM-CAU() 7:2-ARG1(THM) 8:0-rel
+etri#doc_8132.txt 11 떠오르다 ----- 9:4-ARG1(THM) 10:1-ARGM-MNR() 11:0-rel
+etri#doc_8132.txt 21 닥치다 ----- 1:1-ARGM-DIS() 11:2-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-TMP(LOC) 16:1-ARGM-DIS() 19:3-ARG2(GOL) 20:1-ARGM-MNR() 21:0-rel

@@ -1,0 +1,6 @@
+etri#doc_3517.txt 4 실행하다 ----- 1:1-ARGM-TMP(LOC) 2:1-ARGM-TMP() 3:1-ARG1(THM) 4:0-rel
+etri#doc_3517.txt 6 생기다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_3517.txt 9 만들다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_3517.txt 11 남발하다 ----- 4:2-ARGM-DIS() 6:2-ARGM-TMP() 10:3-ARG1(THM) 11:0-rel
+etri#doc_3517.txt 14 얻다 ----- 12:5-ARG0(AGT) 13:1-ARG1(THM) 14:0-rel
+etri#doc_3517.txt 16 지적하다 ----- 15:3-ARG1(THM) 16:0-rel

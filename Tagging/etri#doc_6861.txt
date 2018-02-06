@@ -1,0 +1,3 @@
+etri#doc_6861.txt 8 나가다 ----- 5:1-ARG0(AGT) 6:1-ARGM-TMP() 7:1-ARGM-EXT() 8:0-rel
+etri#doc_6861.txt 11 막다 ----- 9:3-ARGM-CAU() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_6861.txt 13 알다 ----- 11:2-ARG1() 12:1-ARGM-MNR() 13:0-rel

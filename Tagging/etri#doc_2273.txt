@@ -1,0 +1,3 @@
+etri#doc_2273.txt 4 닦다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_2273.txt 7 수정하다 ----- 6:2-ARG2(THM) 7:0-rel
+etri#doc_2273.txt 17 내놓다 ----- 1:1-ARG0(AGT) 4:3-ARGM-PRP(PUR) 7:3-ARGM-DIS() 16:6-ARG1(THM) 17:0-rel

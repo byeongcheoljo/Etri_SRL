@@ -1,0 +1,5 @@
+etri#doc_9962.txt 3 열리다 ----- 2:1-ARGM-LOC(LOC) 3:0-rel
+etri#doc_9962.txt 7 참여하다 ----- 1:1-ARGM-TMP(LOC) 6:3-ARG1(LOC) 7:0-rel
+etri#doc_9962.txt 11 듣다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_9962.txt 19 헷갈리다 ----- 18:2-ARGM-DIS() 19:0-rel
+etri#doc_9962.txt 20 말하다 ----- 7:4-ARGM-DIS() 8:1-ARGM-TMP() 12:4-ARG0(MAG) 19:3-ARGM-DIS() 20:0-rel

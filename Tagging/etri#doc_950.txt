@@ -1,0 +1,1 @@
+etri#doc_950.txt 12 토론하다 ----- 10:1-ARGM-ADV(EFF) 11:1-ARGM-MNR() 12:0-rel

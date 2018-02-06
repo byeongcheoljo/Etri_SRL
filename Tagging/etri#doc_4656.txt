@@ -1,0 +1,4 @@
+etri#doc_4656.txt 4 정상화되다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_4656.txt 8 설정되다 ----- 6:2-ARG1(THM) 7:1-ARGM-TMP() 8:0-rel
+etri#doc_4656.txt 12 작동하다 ----- 8:2-ARGM-DIS() 9:1-ARG1(THM) 10:1-ARGM-TMP() 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4656.txt 16 유지시키다 ----- 1:1-ARGM-DIS() 4:3-ARGM-CND() 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:1-ARGM-MNR() 16:0-rel

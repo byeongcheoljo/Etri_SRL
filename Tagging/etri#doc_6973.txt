@@ -1,0 +1,4 @@
+etri#doc_6973.txt 7 형성하다 ----- 6:2-ARG1(FNS) 7:0-rel
+etri#doc_6973.txt 10 전개하다 ----- 7:3-ARGM-DIS() 9:2-ARG1(THM) 10:0-rel
+etri#doc_6973.txt 16 아끼다 ----- 15:2-ARG1(THM) 16:0-rel
+etri#doc_6973.txt 17 싸우다 ----- 13:1-ARGM-PRP(PUR) 16:3-ARGM-DIS() 17:0-rel

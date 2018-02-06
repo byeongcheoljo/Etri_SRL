@@ -1,0 +1,6 @@
+etri#doc_4470.txt 8 알다 ----- 3:1-ARGM-TMP() 7:3-ARG1(THM) 8:0-rel
+etri#doc_4470.txt 11 떨어지다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_4470.txt 14 사용하다 ----- 12:3-ARG1(THM) 13:1-ARG2(LOC) 14:0-rel
+etri#doc_4470.txt 15 강요하다 ----- 14:2-ARGM-DIS() 15:0-rel
+etri#doc_4470.txt 17 실패하다 ----- 16:4-ARG1(THM) 17:0-rel
+etri#doc_4470.txt 19 알다 ----- 1:1-ARGM-MNR(INS) 2:1-ARG0(MAG) 9:5-ARGM-DIS() 18:6-ARG1(THM) 19:0-rel

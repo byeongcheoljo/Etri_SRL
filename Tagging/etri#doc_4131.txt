@@ -1,0 +1,4 @@
+etri#doc_4131.txt 7 걸다 ----- 5:2-ARG2(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4131.txt 8 붙들다 ----- 3:1-ARGM-TMP() 7:2-ARGM-DIS() 8:0-rel
+etri#doc_4131.txt 13 건지다 ----- 10:1-ARGM-TMP() 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel
+etri#doc_4131.txt 15 정리하다 ----- 2:2-ARG0() 9:4-ARG1(THM) 14:3-ARGM-MNR(INS) 15:0-rel

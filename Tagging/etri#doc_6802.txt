@@ -1,0 +1,4 @@
+etri#doc_6802.txt 3 다짐하다 ----- 1:1-ARG0(AGT) 2:1-ARG1(THM) 3:0-rel
+etri#doc_6802.txt 6 손상시키다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_6802.txt 8 하다 ----- 3:2-ARGM-DIS() 4:1-ARG0(AGT) 7:3-ARG1(CNT) 8:0-rel
+etri#doc_6802.txt 13 하다 ----- 8:4-ARGM-EXT() 9:1-ARG0(AGT) 10:1-ARGM-LOC(GOL) 11:1-ARG1(THM) 12:1-ARGM-EXT() 13:0-rel

@@ -1,0 +1,4 @@
+etri#doc_11042.txt 4 사용하다 ----- 4:0-rel
+etri#doc_11042.txt 7 감소되다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11042.txt 8 없어지다 ----- 3:2-ARG1(THM) 4:1-ARGM-CAU() 7:3-ARGM-DIS() 8:0-rel
+etri#doc_11042.txt 16 얻다 ----- 12:3-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

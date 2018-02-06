@@ -1,0 +1,1 @@
+etri#doc_9279.txt 5 특기하다 ----- 4:3-ARGM-LOC(LOC) 5:0-rel

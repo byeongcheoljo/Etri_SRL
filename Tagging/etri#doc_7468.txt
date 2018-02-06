@@ -1,0 +1,2 @@
+etri#doc_7468.txt 16 야기되다 ----- 14:1-ARGM-DIS() 15:1-ARGM-MNR(INS) 16:0-rel
+etri#doc_7468.txt 21 명시되다 ----- 1:1-ARGM-DIS() 6:4-ARGM-LOC(LOC) 7:1-ARGM-EXT() 20:3-ARG1() 21:0-rel

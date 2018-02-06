@@ -1,0 +1,4 @@
+etri#doc_9264.txt 6 나다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARG1(THM) 6:0-rel
+etri#doc_9264.txt 11 받다 ----- 6:2-ARGM-CND() 8:2-ARG0(THM) 10:2-ARG1(THM) 11:0-rel
+etri#doc_9264.txt 15 보호하다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_9264.txt 20 방출하다 ----- 1:1-ARGM-MNR(INS) 11:3-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG0(EFF) 15:2-ARGM-PRP() 19:4-ARG1(THM) 20:0-rel

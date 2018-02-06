@@ -1,0 +1,4 @@
+etri#doc_6612.txt 6 이바지하다 ----- 1:1-ARG0(AGT) 2:1-ARGM-ADV(EFF) 5:2-ARG2(LOC) 6:0-rel
+etri#doc_6612.txt 11 편입되다 ----- 10:1-ARGM-LOC(GOL) 11:0-rel
+etri#doc_6612.txt 15 갖다 ----- 14:2-ARG1(THM) 15:0-rel
+etri#doc_6612.txt 17 정착시키다 ----- 6:3-ARGM-DIS() 8:2-ARGM-PRD(EFF) 9:1-() 11:2-ARGM-DIS() 12:1-ARG1(THM) 16:4-ARG2(LOC) 17:0-rel

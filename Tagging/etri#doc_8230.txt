@@ -1,0 +1,3 @@
+etri#doc_8230.txt 4 들다 ----- 3:2-ARG1(THM) 4:0-rel
+etri#doc_8230.txt 18 확신하다 ----- 18:0-rel
+etri#doc_8230.txt 19 강조하다 ----- 1:1-ARG0(AGT) 4:3-ARGM-DIS() 17:3-ARG1() 18:1-ARGM-MNR() 19:0-rel

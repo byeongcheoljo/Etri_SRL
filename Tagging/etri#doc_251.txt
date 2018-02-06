@@ -1,0 +1,2 @@
+etri#doc_251.txt 9 살펴보다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_251.txt 16 지적하다 ----- 3:3-ARG0(AGT) 7:4-ARGM-DIS() 9:2-ARGM-DIS() 15:3-ARG1(THM) 16:0-rel

@@ -1,0 +1,6 @@
+etri#doc_11653.txt 6 하다 ----- 5:1-ARG1(THM) 6:0-rel
+etri#doc_11653.txt 7 모르다 ----- 6:2-ARGM-DIS() 7:0-rel
+etri#doc_11653.txt 9 하다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_11653.txt 11 지내다 ----- 4:2-ARGM-ADV() 7:3-ARGM-MNR() 9:2-ARGM-DIS() 10:1-ARGM-MNR() 11:0-rel
+etri#doc_11653.txt 14 켜다 ----- 2:1-ARG0(AGT) 11:2-ARGM-DIS() 12:1-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_11653.txt 15 걱정하다 ----- 1:1-ARGM-DIS() 14:2-ARGM-DIS() 15:0-rel

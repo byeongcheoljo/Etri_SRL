@@ -1,0 +1,2 @@
+etri#doc_1460.txt 7 심다 ----- 5:1-ARG2(GOL) 6:1-ARG1(THM) 7:0-rel
+etri#doc_1460.txt 10 거두다 ----- 4:2-ARGM-DIS() 7:2-ARGM-DIS() 8:1-ARGM-MNR() 9:1-ARG1(THM) 10:0-rel

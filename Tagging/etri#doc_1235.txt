@@ -1,0 +1,2 @@
+etri#doc_1235.txt 6 제시하다 ----- 4:2-ARG2(LOC) 5:1-ARG0(AGT) 6:0-rel
+etri#doc_1235.txt 13 믿다 ----- 10:2-ARG1(THM) 12:2-ARGM-DIS(THM) 13:0-rel

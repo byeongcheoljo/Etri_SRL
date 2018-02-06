@@ -1,0 +1,4 @@
+etri#doc_13104.txt 2 사다 ----- 1:1-ARG1(THM) 2:0-rel
+etri#doc_13104.txt 8 이르다 ----- 7:3-ARG3(FNS) 8:0-rel
+etri#doc_13104.txt 13 활동하다 ----- 3:3-ARG0(AGT) 4:1-ARGM-TMP() 10:6-ARGM-MNR(INS) 12:2-ARGM-LOC(LOC) 13:0-rel
+etri#doc_13104.txt 16 분리되다 ----- 15:2-ARG2(COM) 16:0-rel

@@ -1,0 +1,4 @@
+etri#doc_913.txt 7 판단하다 ----- 4:3-ARGM-DIS() 6:2-ARG1(THM) 7:0-rel
+etri#doc_913.txt 10 대하다 ----- 8:4-ARG0(AGT) 9:1-ARG1(THM) 10:0-rel
+etri#doc_913.txt 13 갖다 ----- 12:1-ARG1(THM) 13:0-rel
+etri#doc_913.txt 16 대하다 ----- 1:1-ARGM-DIS() 11:3-ARG0(AGT) 14:3-ARG0(AGT) 15:1-ARG1(THM) 16:0-rel

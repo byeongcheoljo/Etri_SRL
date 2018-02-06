@@ -1,0 +1,5 @@
+etri#doc_4163.txt 7 시행하다 ----- 5:2-ARGM-LOC(LOC) 6:1-ARG1(THM) 7:0-rel
+etri#doc_4163.txt 9 마치다 ----- 8:1-ARG1(THM) 9:0-rel
+etri#doc_4163.txt 12 강행하다 ----- 3:1-ARG0(AGT) 7:2-ARGM-DIS() 10:3-ARGM-LOC(LOC) 11:1-ARG1(THM) 12:0-rel
+etri#doc_4163.txt 15 박다 ----- 13:3-ARG2(GOL) 14:1-ARG1(THM) 15:0-rel
+etri#doc_4163.txt 16 주목되다 ----- 2:2-ARG1(THM) 15:2-ARGM-DIS() 16:0-rel

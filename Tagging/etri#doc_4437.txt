@@ -1,0 +1,6 @@
+etri#doc_4437.txt 2 부어오르다 ----- 1:1-ARGM-TMP(LOC) 2:0-rel
+etri#doc_4437.txt 5 토하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_4437.txt 6 죽다 ----- 2:2-ARGM-DIS() 3:1-ARGM-TMP(LOC) 5:2-ARGM-DIS() 6:0-rel
+etri#doc_4437.txt 8 알다 ----- 7:4-ARG1(THM) 8:0-rel
+etri#doc_4437.txt 12 짚다 ----- 11:2-ARG1(THM) 12:0-rel
+etri#doc_4437.txt 15 확인하다 ----- 12:3-ARGM-TMP() 14:2-ARG1(THM) 15:0-rel

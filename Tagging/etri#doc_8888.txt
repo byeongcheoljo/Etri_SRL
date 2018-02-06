@@ -1,0 +1,4 @@
+etri#doc_8888.txt 5 무장하다 ----- 4:1-ARG2(INS) 5:0-rel
+etri#doc_8888.txt 11 소유하다 ----- 10:1-ARG1(THM) 11:0-rel
+etri#doc_8888.txt 13 남다 ----- 12:3-ARGM-MNR(FNS) 13:0-rel
+etri#doc_8888.txt 16 극복하다 ----- 1:1-ARGM-DIS() 3:2-ARG0(AGT) 9:4-ARGM-LOC(LOC) 15:2-ARG1(THM) 16:0-rel

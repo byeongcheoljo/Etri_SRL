@@ -1,0 +1,4 @@
+etri#doc_4229.txt 5 무리하다 ----- 5:0-rel
+etri#doc_4229.txt 14 발생하다 ----- 4:1-ARG1(THM) 7:3-ARGM-DIS(FNS) 13:3-ARGM-CAU(CNT) 14:0-rel
+etri#doc_4229.txt 18 구속하다 ----- 16:6-ARGM-DIS() 17:1-ARG1(THM) 18:0-rel
+etri#doc_4229.txt 21 주장하다 ----- 2:2-ARG0(AGT) 3:1-ARGM-LOC(LOC) 20:4-ARG1(CNT) 21:0-rel

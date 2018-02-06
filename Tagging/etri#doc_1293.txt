@@ -1,0 +1,1 @@
+etri#doc_1293.txt 15 ºñ·ÔµÇ´Ù ----- 2:2-ARG1(THM) 14:4-ARG2(SRC) 15:0-rel

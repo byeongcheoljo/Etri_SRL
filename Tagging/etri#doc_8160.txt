@@ -1,0 +1,4 @@
+etri#doc_8160.txt 4 직면하다 ----- 2:1-ARG0(THM) 3:1-ARG0(THM) 4:0-rel
+etri#doc_8160.txt 7 다루다 ----- 7:0-rel
+etri#doc_8160.txt 13 강화시키다 ----- 12:3-ARG1(THM) 13:0-rel
+etri#doc_8160.txt 16 포함되다 ----- 1:1-ARGM-DIS() 5:3-ARG2(GOL) 15:2-ARG1(THM) 16:0-rel

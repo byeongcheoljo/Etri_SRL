@@ -1,0 +1,3 @@
+etri#doc_3881.txt 2 고립되다 ----- 1:1-ARGM-MNR() 2:0-rel
+etri#doc_3881.txt 5 탄압하다 ----- 2:2-ARGM-DIS() 4:2-ARGM-MNR(INS) 5:0-rel
+etri#doc_3881.txt 9 고수하다 ----- 5:3-ARGM-DIS() 8:3-ARG1(THM) 9:0-rel

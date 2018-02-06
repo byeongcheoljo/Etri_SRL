@@ -1,0 +1,2 @@
+etri#doc_4328.txt 9 의뢰하다 ----- 3:3-ARGM-MNR(CRT) 8:3-ARG2(GOL) 9:0-rel
+etri#doc_4328.txt 17 되다 ----- 11:6-ARG1(THM) 13:2-ARGM-MNR(COM) 16:3-ARG2(FNS) 17:0-rel

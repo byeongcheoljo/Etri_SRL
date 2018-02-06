@@ -1,0 +1,3 @@
+etri#doc_9226.txt 8 떨어지다 ----- 2:2-ARGM-LOC() 4:2-ARGM-TMP(LOC) 5:1-ARGM-MNR() 7:2-ARG1(THM) 8:0-rel
+etri#doc_9226.txt 14 주다 ----- 8:3-ARGM-MNR() 12:4-ARG2(GOL) 13:1-ARG1(THM) 14:0-rel
+etri#doc_9226.txt 18 다치다 ----- 14:2-ARGM-DIS() 15:1-ARGM-CND() 17:2-ARG1(EXP) 18:0-rel

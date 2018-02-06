@@ -1,0 +1,2 @@
+etri#doc_7133.txt 9 앉다 ----- 8:2-ARG1(GOL) 9:0-rel
+etri#doc_7133.txt 13 가지다 ----- 10:4-ARG0(LOC) 12:2-ARG1(THM) 13:0-rel

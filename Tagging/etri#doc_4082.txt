@@ -1,0 +1,6 @@
+etri#doc_4082.txt 5 하다 ----- 3:1-ARGM-LOC(LOC) 4:1-ARG1(THM) 5:0-rel
+etri#doc_4082.txt 7 다가가다 ----- 6:3-ARG3(GOL) 7:0-rel
+etri#doc_4082.txt 11 나오다 ----- 10:2-ARG0(AGT) 11:0-rel
+etri#doc_4082.txt 13 튀어나오다 ----- 12:1-ARG0(AGT) 13:0-rel
+etri#doc_4082.txt 15 부풀리다 ----- 14:1-ARG1(THM) 15:0-rel
+etri#doc_4082.txt 17 불다 ----- 2:2-ARG0() 7:4-ARGM-CAU() 8:1-ARGM-LOC(LOC) 11:3-ARGM-TMP() 13:2-ARGM-MNR() 15:2-ARGM-DIS() 16:1-ARG1(THM) 17:0-rel

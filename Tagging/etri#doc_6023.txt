@@ -1,0 +1,5 @@
+etri#doc_6023.txt 3 사다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_6023.txt 12 올리다 ----- 7:1-ARG1(THM) 9:2-ARG0(AGT) 10:1-ARG2(SRC) 11:1-ARG3(GOL) 12:0-rel
+etri#doc_6023.txt 13 그리되다 ----- 13:0-rel
+etri#doc_6023.txt 15 사다 ----- 13:1-ARGM-CND() 14:1-ARG1(THM) 15:0-rel
+etri#doc_6023.txt 16 거절하다 ----- 5:5-ARGM-DIS() 6:1-ARGM-TMP(LOC) 12:2-ARG1() 15:2-ARG1() 16:0-rel

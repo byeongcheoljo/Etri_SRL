@@ -1,0 +1,5 @@
+etri#doc_8206.txt 2 녹다 ----- 2:0-rel
+etri#doc_8206.txt 4 생기다 ----- 3:1-ARG1(THM) 4:0-rel
+etri#doc_8206.txt 8 들다 ----- 7:1-ARG2(LOC) 8:0-rel
+etri#doc_8206.txt 10 얼다 ----- 10:0-rel
+etri#doc_8206.txt 15 쓰다 ----- 5:3-ARGM-EXT() 6:1-ARG0(AGT) 11:2-ARGM-CAU() 13:2-ARGM-DIS() 14:1-ARGM-MNR(INS) 15:0-rel

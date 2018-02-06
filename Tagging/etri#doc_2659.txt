@@ -1,0 +1,3 @@
+etri#doc_2659.txt 9 발맞추다 ----- 8:2-() 9:0-rel
+etri#doc_2659.txt 12 부상하다 ----- 11:2-ARGM-INS() 12:0-rel
+etri#doc_2659.txt 17 떠맡다 ----- 4:2-ARG0(AGT) 12:3-ARGM-DIS() 16:3-ARG1(THM) 17:0-rel

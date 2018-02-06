@@ -1,0 +1,2 @@
+etri#doc_3848.txt 11 받다 ----- 3:3-ARGM-LOC(LOC) 5:2-ARGM-MNR(COM) 6:1-ARGM-DIS() 7:1-ARGM-EXT() 10:2-ARG1(Npr) 11:0-rel
+etri#doc_3848.txt 14 관련되다 ----- 13:1-ARG2(LOC) 14:0-rel

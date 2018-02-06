@@ -1,0 +1,3 @@
+etri#doc_1024.txt 3 설정하다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_1024.txt 6 보호하다 ----- 3:2-ARGM-DIS() 5:2-ARG1(THM) 6:0-rel
+etri#doc_1024.txt 9 거치다 ----- 8:2-ARG1(THM) 9:0-rel

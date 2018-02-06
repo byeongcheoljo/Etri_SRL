@@ -1,0 +1,2 @@
+etri#doc_8082.txt 13 °üÃ¶ÇÏ´Ù ----- 12:6-ARG1(THM) 13:0-rel
+etri#doc_8082.txt 15 ¼û±â´Ù ----- 14:8-ARG1(THM) 15:0-rel

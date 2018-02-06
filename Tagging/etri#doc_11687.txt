@@ -1,0 +1,3 @@
+etri#doc_11687.txt 3 하다 ----- 2:1-ARG1(CNT) 3:0-rel
+etri#doc_11687.txt 7 가지다 ----- 6:2-ARG1(THM) 7:0-rel
+etri#doc_11687.txt 13 차지하다 ----- 12:2-ARGM-LOC(LOC) 13:0-rel

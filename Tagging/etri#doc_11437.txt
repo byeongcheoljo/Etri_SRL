@@ -1,0 +1,2 @@
+etri#doc_11437.txt 5 되다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_11437.txt 18 해결되다 ----- 12:2-ARG1(THM) 13:1-ARG1(THM) 17:4-ARGM-ADV(EFF) 18:0-rel

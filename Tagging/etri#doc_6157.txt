@@ -1,0 +1,5 @@
+etri#doc_6157.txt 2 생존하다 ----- 1:1-ARG0(THM) 2:0-rel
+etri#doc_6157.txt 4 충족되다 ----- 2:2-ARGM-DIS() 3:1-ARGM-DIS() 4:0-rel
+etri#doc_6157.txt 7 공유되다 ----- 6:2-ARGM-MNR(COM) 7:0-rel
+etri#doc_6157.txt 18 구분하다 ----- 11:1-ARGM-PRD(EFF) 17:2-ARG2(FNS) 18:0-rel
+etri#doc_6157.txt 19 살펴보다 ----- 9:5-ARGM-DIS() 10:1-ARGM-LOC(LOC) 18:3-ARGM-DIS() 19:0-rel

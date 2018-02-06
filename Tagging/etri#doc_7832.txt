@@ -1,0 +1,3 @@
+etri#doc_7832.txt 8 묻다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:1-ARGM-MNR() 7:2-ARG1(CNT) 8:0-rel
+etri#doc_7832.txt 13 보내다 ----- 11:1-ARGM-TMP(LOC) 12:1-ARGM-LOC(LOC) 13:0-rel
+etri#doc_7832.txt 15 쓰다 ----- 8:3-ARGM-DIS() 10:2-ARG0(AGT) 14:3-ARG1(THM) 15:0-rel

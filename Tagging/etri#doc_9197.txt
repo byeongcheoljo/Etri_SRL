@@ -1,0 +1,4 @@
+etri#doc_9197.txt 4 여겨지다 ----- 3:1-ARG2(FNS) 4:0-rel
+etri#doc_9197.txt 9 여기다 ----- 7:1-ARG1(THM) 8:1-ARG2(FNS) 9:0-rel
+etri#doc_9197.txt 18 하다 ----- 17:2-ARG2(GOL) 18:0-rel
+etri#doc_9197.txt 21 상하다 ----- 15:4-ARGM-DIS() 18:3-ARGM-DIS() 19:1-ARGM-EXT() 20:1-ARG1(THM) 21:0-rel

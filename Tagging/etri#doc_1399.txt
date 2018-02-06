@@ -1,0 +1,4 @@
+etri#doc_1399.txt 6 말미암다 ----- 5:2-ARGM-CAU(EFF) 6:0-rel
+etri#doc_1399.txt 8 통제되다 ----- 6:3-ARGM-DIS() 7:1-ARG1(THM) 8:0-rel
+etri#doc_1399.txt 15 개방되다 ----- 8:2-ARGM-DIS() 9:1-ARGM-TMP() 12:3-ARGM-TMP() 14:2-ARGM-TMP(LOC) 15:0-rel
+etri#doc_1399.txt 19 되다 ----- 1:1-ARGM-DIS() 2:1-ARG1(THM) 15:3-ARGM-MNR() 16:1-ARGM-TMP() 18:2-ARG1(THM) 19:0-rel

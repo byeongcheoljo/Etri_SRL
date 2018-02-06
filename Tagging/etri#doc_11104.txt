@@ -1,0 +1,6 @@
+etri#doc_11104.txt 3 치료하다 ----- 2:2-ARG1(THM) 3:0-rel
+etri#doc_11104.txt 6 들다 ----- 3:3-ARGM-TMP() 4:1-ARG0(AGT) 5:1-ARG1(THM) 6:0-rel
+etri#doc_11104.txt 8 깨어나다 ----- 6:2-ARGM-DIS() 7:1-ARG2(SRC) 8:0-rel
+etri#doc_11104.txt 10 가다 ----- 10:0-rel
+etri#doc_11104.txt 15 놓이다 ----- 12:3-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel
+etri#doc_11104.txt 17 나다 ----- 8:2-ARGM-DIS() 16:4-ARG1(Npr) 17:0-rel

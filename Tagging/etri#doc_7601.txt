@@ -1,0 +1,5 @@
+etri#doc_7601.txt 3 부여하다 ----- 1:1-ARG0(AGT) 2:1-ARG2(GOL) 3:0-rel
+etri#doc_7601.txt 7 지도하다 ----- 6:1-ARGM-MNR() 7:0-rel
+etri#doc_7601.txt 8 일으키다 ----- 5:1-ARG1(THM) 7:2-ARGM-MNR() 8:0-rel
+etri#doc_7601.txt 12 처하다 ----- 10:1-ARG1(THM) 11:1-ARG2(LOC) 12:0-rel
+etri#doc_7601.txt 15 요구되다 ----- 12:2-ARGM-DIS() 14:2-ARG1(THM) 15:0-rel

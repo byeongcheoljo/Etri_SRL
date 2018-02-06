@@ -1,0 +1,4 @@
+etri#doc_4779.txt 4 제공하다 ----- 3:3-ARG1(THM) 4:0-rel
+etri#doc_4779.txt 8 팔다 ----- 6:1-ARGM-TMP() 7:1-ARG1(THM) 8:0-rel
+etri#doc_4779.txt 13 알다 ----- 10:2-ARGM-ADV(EFF) 11:1-ARGM-EXT(CRT) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_4779.txt 14 자부하다 ----- 5:5-ARG0(AGT) 8:2-ARGM-DIS() 13:2-ARG1() 14:0-rel

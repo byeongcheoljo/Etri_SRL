@@ -1,0 +1,2 @@
+etri#doc_1057.txt 13 인정하다 ----- 11:2-ARG1(THM) 12:1-ARGM-MNR() 13:0-rel
+etri#doc_1057.txt 16 하다 ----- 13:2-ARGM-INS() 14:1-ARGM-MNR(EFF) 15:1-ARG1(THM) 16:0-rel

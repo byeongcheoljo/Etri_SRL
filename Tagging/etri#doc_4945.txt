@@ -1,0 +1,5 @@
+etri#doc_4945.txt 5 배우다 ----- 2:1-ARGM-TMP() 3:1-ARG0(AGT) 4:1-ARG2(SRC) 5:0-rel
+etri#doc_4945.txt 10 관계하다 ----- 9:2-ARG2(LOC) 10:0-rel
+etri#doc_4945.txt 11 거부하다 ----- 10:3-ARG1(THM) 11:0-rel
+etri#doc_4945.txt 12 그러다 ----- 12:0-rel
+etri#doc_4945.txt 16 표명하다 ----- 12:1-ARGM-PRD() 15:2-ARG1(THM) 16:0-rel

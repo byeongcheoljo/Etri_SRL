@@ -1,0 +1,5 @@
+etri#doc_11283.txt 3 설명되다 ----- 2:2-ARGM-LOC(LOC) 3:0-rel
+etri#doc_11283.txt 11 따르다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_11283.txt 14 하다 ----- 11:3-ARGM-CND() 13:2-ARG1(THM) 14:0-rel
+etri#doc_11283.txt 15 생각되다 ----- 4:4-ARG0(EXP) 8:2-ARGM-DIS() 14:3-ARGM-DIS() 15:0-rel
+etri#doc_11283.txt 21 결정하다 ----- 15:4-ARGM-DIS() 19:2-ARG0(AGT) 20:1-ARG1(THM) 21:0-rel

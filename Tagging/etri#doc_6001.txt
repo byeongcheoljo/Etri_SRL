@@ -1,0 +1,1 @@
+etri#doc_6001.txt 8 구체화되다 ----- 7:3-ARGM-CAU(EFF) 8:0-rel

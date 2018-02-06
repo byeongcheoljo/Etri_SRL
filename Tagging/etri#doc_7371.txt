@@ -1,0 +1,4 @@
+etri#doc_7371.txt 4 양분되다 ----- 3:3-ARGM-MNR(INS) 4:0-rel
+etri#doc_7371.txt 9 들여놓다 ----- 7:1-ARGM-LOC(GOL) 8:1-ARG1(THM) 9:0-rel
+etri#doc_7371.txt 14 찾다 ----- 11:1-ARGM-TMP() 13:2-ARG1(THM) 14:0-rel
+etri#doc_7371.txt 15 방황하다 ----- 5:5-ARG1(LOC) 6:1-ARG0(AGT) 10:3-ARGM-TMP(LOC) 14:3-ARGM-DIS() 15:0-rel

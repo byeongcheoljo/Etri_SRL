@@ -1,0 +1,5 @@
+etri#doc_11261.txt 5 만들다 ----- 4:2-ARGM-INS(INS) 5:0-rel
+etri#doc_11261.txt 7 번쩍거리다 ----- 2:1-ARG1(THM) 5:3-ARGM-DIS() 6:1-ARGM-MNR(INS) 7:0-rel
+etri#doc_11261.txt 10 날아오다 ----- 9:2-ARGM-DIS() 10:0-rel
+etri#doc_11261.txt 15 뒤엉키다 ----- 14:1-ARGM-ADV() 15:0-rel
+etri#doc_11261.txt 16 새기다 ----- 1:1-ARG0(AGT) 7:2-ARGM-DIS() 13:3-ARG1(THM) 15:2-ARGM-MNR() 16:0-rel

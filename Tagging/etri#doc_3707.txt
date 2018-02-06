@@ -1,0 +1,2 @@
+etri#doc_3707.txt 3 가르다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_3707.txt 17 갈라놓다 ----- 8:2-ARGM-CAU() 14:2-ARGM-DIS() 15:1-ARGM-MNR() 16:1-ARGM-DIS() 17:0-rel

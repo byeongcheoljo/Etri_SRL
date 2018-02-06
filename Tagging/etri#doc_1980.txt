@@ -1,0 +1,6 @@
+etri#doc_1980.txt 5 잠들다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_1980.txt 9 깨우다 ----- 7:1-ARG1(THM) 8:1-ARGM-MNR() 9:0-rel
+etri#doc_1980.txt 12 타다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_1980.txt 14 빠지다 ----- 13:1-ARGM-LOC(SRC) 14:0-rel
+etri#doc_1980.txt 18 뚫다 ----- 17:1-ARG1(THM) 18:0-rel
+etri#doc_1980.txt 19 달리다 ----- 2:2-ARGM-DIS() 6:4-ARGM-TMP(LOC) 10:3-ARG0(AGT) 12:2-ARGM-DIS() 14:2-ARGM-DIS() 15:1-ARGM-DIR() 16:1-ARGM-DIR() 18:2-ARGM-DIS() 19:0-rel

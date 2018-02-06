@@ -1,0 +1,4 @@
+etri#doc_8217.txt 2 일컫다 ----- 1:1-ARGM-LOC(LOC) 2:0-rel
+etri#doc_8217.txt 5 다스리다 ----- 4:2-ARG1(THM) 5:0-rel
+etri#doc_8217.txt 13 업신여기다 ----- 11:1-ARG1(THM) 12:1-ARG0(MAG) 13:0-rel
+etri#doc_8217.txt 14 가리키다 ----- 13:2-ARGM-MNR() 14:0-rel

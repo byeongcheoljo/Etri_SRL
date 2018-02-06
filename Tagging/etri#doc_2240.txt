@@ -1,0 +1,4 @@
+etri#doc_2240.txt 5 저술하다 ----- 4:1-ARG1(THM) 5:0-rel
+etri#doc_2240.txt 8 선임하다 ----- 3:1-ARG2(LOC) 7:2-ARG2(THM) 8:0-rel
+etri#doc_2240.txt 13 하다 ----- 10:2-ARG0(AGT) 11:1-ARGM-DIR(DIR) 12:1-ARG1(THM) 13:0-rel
+etri#doc_2240.txt 15 보이다 ----- 2:2-() 8:3-() 13:2-() 14:1-() 15:0-rel

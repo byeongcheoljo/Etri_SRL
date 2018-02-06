@@ -1,0 +1,4 @@
+etri#doc_9990.txt 5 접어들다 ----- 2:2-ARGM-TMP(LOC) 3:1-ARGM-EXT() 4:1-ARG2(GOL) 5:0-rel
+etri#doc_9990.txt 10 차관하다 ----- 9:1-ARGM-LOC(SRC) 10:0-rel
+etri#doc_9990.txt 13 빼돌리다 ----- 8:2-ARGM-MNR(INS) 11:3-ARG1(THM) 12:1-ARGM-LOC(GOL) 13:0-rel
+etri#doc_9990.txt 14 썩다 ----- 14:0-rel

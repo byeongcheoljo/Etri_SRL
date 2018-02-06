@@ -1,0 +1,3 @@
+etri#doc_2609.txt 3 살다 ----- 2:1-ARG2(LOC) 3:0-rel
+etri#doc_2609.txt 11 나누다 ----- 7:3-ARGM-ADV(EFF) 9:2-ARG1(THM) 10:1-ARGM-EXT() 11:0-rel
+etri#doc_2609.txt 14 참여하다 ----- 1:1-() 4:3-ARG0() 11:2-ARGM-DIS() 13:2-ARG1(EFF) 14:0-rel

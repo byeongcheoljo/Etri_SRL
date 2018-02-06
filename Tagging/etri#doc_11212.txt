@@ -1,0 +1,5 @@
+etri#doc_11212.txt 2 갖다 ----- 2:0-rel
+etri#doc_11212.txt 5 넘다 ----- 4:2-ARGM-EXT(CRT) 5:0-rel
+etri#doc_11212.txt 10 이루어지다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_11212.txt 11 계속하다 ----- 11:0-rel
+etri#doc_11212.txt 12 시도하다 ----- 8:3-ARGM-DIS() 10:2-ARGM-TMP() 11:1-ARGM-TMP() 12:0-rel

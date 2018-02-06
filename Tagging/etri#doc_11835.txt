@@ -1,0 +1,5 @@
+etri#doc_11835.txt 5 용납하다 ----- 2:1-ARG0(AGT) 3:1-ARGM-MNR() 4:1-ARG1(THM) 5:0-rel
+etri#doc_11835.txt 7 알다 ----- 1:1-ARG0(MAG) 6:3-ARG1(THM) 7:0-rel
+etri#doc_11835.txt 9 밀다 ----- 8:1-ARGM-MNR() 9:0-rel
+etri#doc_11835.txt 12 타협하다 ----- 9:2-ARGM-EXT() 11:2-ARGM-LOC(LOC) 12:0-rel
+etri#doc_11835.txt 14 가지다 ----- 7:4-ARGM-EXT() 13:4-ARG1(THM) 14:0-rel

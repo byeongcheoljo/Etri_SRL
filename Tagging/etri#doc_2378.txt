@@ -1,0 +1,4 @@
+etri#doc_2378.txt 10 귀결되다 ----- 5:2-() 6:1-() 9:2-() 10:0-rel
+etri#doc_2378.txt 13 앞두다 ----- 12:2-ARG1(THM) 13:0-rel
+etri#doc_2378.txt 17 보다 ----- 16:2-ARGM-INS(INS) 17:0-rel
+etri#doc_2378.txt 18 경계하다 ----- 10:3-ARGM-CAU() 17:3-ARGM-DIS() 18:0-rel

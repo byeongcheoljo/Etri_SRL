@@ -1,0 +1,5 @@
+etri#doc_8424.txt 4 생략하다 ----- 1:1-ARGM-TMP() 3:2-ARG1(THM) 4:0-rel
+etri#doc_8424.txt 8 비치다 ----- 7:2-ARG1(THM) 8:0-rel
+etri#doc_8424.txt 11 변질시키다 ----- 10:2-ARG1(THM) 11:0-rel
+etri#doc_8424.txt 14 하다 ----- 8:3-ARGM-DIS() 11:3-ARGM-DIS() 13:2-ARG1(THM) 14:0-rel
+etri#doc_8424.txt 16 적응시키다 ----- 4:3-ARGM-DIS() 5:1-ARGM-TMP() 14:3-ARGM-DIS() 15:1-ARG2(LOC) 16:0-rel

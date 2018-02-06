@@ -1,0 +1,6 @@
+etri#doc_7156.txt 5 되다 ----- 3:1-ARGM-TMP() 4:1-ARG2(FNS) 5:0-rel
+etri#doc_7156.txt 8 뛰어들다 ----- 7:1-ARG3(GOL) 8:0-rel
+etri#doc_7156.txt 10 쟁취하다 ----- 9:1-ARG1(THM) 10:0-rel
+etri#doc_7156.txt 12 무릅쓰다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_7156.txt 13 싸우다 ----- 6:3-ARGM-MNR(INS) 8:2-ARGM-MNR() 10:2-ARGM-DIS() 12:2-ARGM-MNR() 13:0-rel
+etri#doc_7156.txt 16 초월하다 ----- 1:1-ARGM-DIS() 2:1-ARG0(AGT) 13:3-ARGM-DIS() 14:1-ARGM-DIS() 15:1-ARG1(THM) 16:0-rel

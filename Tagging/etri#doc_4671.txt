@@ -1,0 +1,5 @@
+etri#doc_4671.txt 6 인정하다 ----- 5:3-ARG1() 6:0-rel
+etri#doc_4671.txt 12 끝나다 ----- 11:1-ARG1(THM) 12:0-rel
+etri#doc_4671.txt 16 가지다 ----- 7:1-ARG0(LOC) 15:2-ARG1(THM) 16:0-rel
+etri#doc_4671.txt 18 받아들이다 ----- 17:4-ARG1(THM) 18:0-rel
+etri#doc_4671.txt 20 되다 ----- 6:4-ARGM-CND() 19:6-ARG2(FNS) 20:0-rel

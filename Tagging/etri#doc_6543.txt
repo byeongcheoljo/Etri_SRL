@@ -1,0 +1,6 @@
+etri#doc_6543.txt 3 해체되다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_6543.txt 5 변신하다 ----- 3:2-ARGM-DIS() 4:1-ARG3(SRC) 5:0-rel
+etri#doc_6543.txt 7 주장하다 ----- 6:3-ARG1(CNT) 7:0-rel
+etri#doc_6543.txt 11 체결되다 ----- 10:1-ARGM-TMP() 11:0-rel
+etri#doc_6543.txt 15 제의하다 ----- 8:1-ARG0(AGT) 9:1-ARGM-LOC(LOC) 14:3-ARG1(THM) 15:0-rel
+etri#doc_6543.txt 16 밝히다 ----- 1:1-ARG0(AGT) 7:4-ARGM-DIS() 15:4-ARG1() 16:0-rel

@@ -1,0 +1,2 @@
+etri#doc_9387.txt 6 하다 ----- 4:3-ARGM-LOC(LOC) 5:1-ARGM-MNR() 6:0-rel
+etri#doc_9387.txt 13 존재하다 ----- 1:1-ARGM-DIS() 6:2-ARGM-EXT() 7:1-ARGM-LOC(LOC) 10:2-ARGM-ADV(LOC) 12:2-ARG1(THM) 13:0-rel

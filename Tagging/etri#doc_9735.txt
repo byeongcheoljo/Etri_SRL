@@ -1,0 +1,5 @@
+etri#doc_9735.txt 3 가다 ----- 1:1-ARG0(AGT) 2:1-ARGM-TMP() 3:0-rel
+etri#doc_9735.txt 8 차단되다 ----- 7:1-ARG1(THM) 8:0-rel
+etri#doc_9735.txt 10 교전하다 ----- 9:3-ARG1(COM) 10:0-rel
+etri#doc_9735.txt 12 당하다 ----- 6:2-ARGM-TMP() 10:4-ARGM-DIS() 11:1-ARG2() 12:0-rel
+etri#doc_9735.txt 15 보충하다 ----- 12:2-ARGM-DIS() 13:1-ARGM-MNR() 14:1-ARG1(THM) 15:0-rel

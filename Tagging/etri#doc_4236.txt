@@ -1,0 +1,5 @@
+etri#doc_4236.txt 5 추진되다 ----- 2:1-ARGM-TMP() 3:1-ARGM-PRP(PUR) 4:1-ARGM-MNR(INS) 5:0-rel
+etri#doc_4236.txt 8 백지화하다 ----- 6:3-ARG1(THM) 7:1-ARGM-EXT() 8:0-rel
+etri#doc_4236.txt 12 파악하다 ----- 8:2-ARGM-DIS() 10:2-ARG1(THM) 11:1-ARGM-MNR() 12:0-rel
+etri#doc_4236.txt 14 세우다 ----- 12:2-ARGM-TMP() 13:1-ARG1(THM) 14:0-rel
+etri#doc_4236.txt 15 주장하다 ----- 1:1-ARG0(AGT) 14:2-ARG1(CNT) 15:0-rel

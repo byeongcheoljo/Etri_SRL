@@ -1,0 +1,2 @@
+etri#doc_1650.txt 19 잃다 ----- 8:1-ARGM-MNR() 18:4-ARG1(THM) 19:0-rel
+etri#doc_1650.txt 20 행동하다 ----- 6:3-ARGM-DIS() 7:1-ARG0(AGT) 19:5-ARGM-DIS() 20:0-rel

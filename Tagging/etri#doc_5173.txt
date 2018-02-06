@@ -1,0 +1,4 @@
+etri#doc_5173.txt 3 낫다 ----- 2:1-ARG1(THM) 3:0-rel
+etri#doc_5173.txt 5 들어가다 ----- 1:1-ARG3(GOL) 4:3-ARG1(THM) 5:0-rel
+etri#doc_5173.txt 16 차다 ----- 12:2-ARGM-LOC(LOC) 14:2-ARGM-MNR() 15:1-ARGM-EXT() 16:0-rel
+etri#doc_5173.txt 17 넘치다 ----- 9:2-ARGM-DIS() 10:1-ARG1(THM) 16:2-ARGM-DIS() 17:0-rel

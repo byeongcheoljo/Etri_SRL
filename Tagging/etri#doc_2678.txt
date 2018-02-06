@@ -1,0 +1,2 @@
+etri#doc_2678.txt 8 덧붙이다 ----- 5:2-() 7:2-() 8:0-rel
+etri#doc_2678.txt 15 그리다 ----- 13:1-ARG0(AGT) 14:1-ARG1(EFF) 15:0-rel

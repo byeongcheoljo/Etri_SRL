@@ -1,0 +1,4 @@
+etri#doc_7430.txt 3 문제화되다 ----- 1:1-ARGM-LOC(LOC) 2:1-ARGM-EXT() 3:0-rel
+etri#doc_7430.txt 15 생기다 ----- 6:2-ARG1(THM) 7:1-ARGM-CAU() 8:1-ARGM-DIS() 12:4-ARGM-LOC(LOC) 14:2-ARGM-EXT() 15:0-rel
+etri#doc_7430.txt 18 살펴보다 ----- 17:2-ARG1(THM) 18:0-rel
+etri#doc_7430.txt 19 이해하다 ----- 15:3-ARGM-DIS() 18:3-ARGM-DIS() 19:0-rel
